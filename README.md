@@ -27,20 +27,6 @@ An in-app guide (the **?** button on the home screen) walks through all of this 
 
 ![FINN architecture](docs/architecture.jpg)
 
-```
-screener.in (filings, EOD price+volume, financials, transcript links)
-        │  1 req/s, on-disk cache
-        ▼
-pipeline/finn            rules + code, ₹0        → brief.json, tickers.json, dossier/*.json
-pipeline/finn_research   map: Flash-Lite (extract guidance/claims per transcript, quotes verified verbatim)
-                         reduce: Flash (promises vs delivered, once per company-quarter, cached)
-                                                  → research/*.json, research/*.chunks.json
-        ▼
-web/  Vite + React + TS static app (GitHub Pages) — triage, Watch rules and Ask run on-device
-        ▲
-GitHub Actions: deploy on push; end-of-day pipeline cron on weekdays after market close
-```
-
 **Model routing.** Classification, tiering and every financial number are deterministic code: free, reproducible, explainable. A cheap model does bulk extraction over transcript chunks; a stronger model is called once per company per quarter for the one step that needs reasoning (reconciling promises with delivery). All LLM responses are cached by prompt hash, so reruns cost nothing. Ask is retrieval-only. The deployed app makes zero LLM calls.
 
 **Primary sources only on the pull side.** Research is built from concall transcripts and results numbers; quotes are checked to be verbatim substrings of the source; the prompt forbids outside knowledge.
