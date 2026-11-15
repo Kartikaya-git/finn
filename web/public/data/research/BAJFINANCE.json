@@ -1,0 +1,143 @@
+{
+  "symbol": "BAJFINANCE",
+  "model": "gemini-3.5-flash-lite (extract) → gemini-3.8-flash (reconcile)",
+  "generated_at": "2026-11-15T17:27:59+00:00",
+  "business": {
+    "summary": "Bajaj Finance is a diversified financial services company with AUM crossing INR 5,84,624 crores as of Q2 FY27. The company operates across multiple lending verticals including gold loans, captive 2-wheeler and 3-wheeler financing, urban and rural consumer finance, MSME, LAS, CV and Tractor financing, and housing finance through BHFL.",
+    "segments": [
+      {
+        "name": "Gold loan",
+        "share_pct": 4.0
+      },
+      {
+        "name": "Captive 2-wheeler and 3-wheeler business",
+        "share_pct": 1.0
+      },
+      {
+        "name": "Urban consumer finance",
+        "share_pct": null
+      },
+      {
+        "name": "Rural consumer finance",
+        "share_pct": null
+      },
+      {
+        "name": "MSME",
+        "share_pct": null
+      },
+      {
+        "name": "MFI",
+        "share_pct": null
+      },
+      {
+        "name": "CV and Tractor",
+        "share_pct": null
+      },
+      {
+        "name": "LAS",
+        "share_pct": null
+      }
+    ]
+  },
+  "promises": [
+    {
+      "quarter": "Q4 FY26",
+      "promise": "Adding 15 to 17 million new customers in FY27",
+      "source": "Q4 FY26 concall",
+      "delivered": "In Q2 FY27 concall, management revised their target upward, stating they are clear about adding between 18 MM to 20 MM customers to the franchise in FY27; full-year FY27 delivery remains pending.",
+      "verdict": "pending"
+    },
+    {
+      "quarter": "Q4 FY26",
+      "promise": "20% to 24% AUM growth in FY27",
+      "source": "Q4 FY26 concall",
+      "delivered": "In Q2 FY27 concall, management indicated AUM grew by 26.5% to INR 5,84,624 crores and revised full-year growth expectations to between 26% and 27%; full FY27 delivery remains pending.",
+      "verdict": "pending"
+    },
+    {
+      "quarter": "Q4 FY26",
+      "promise": "Improvement of 25 to 40 basis points in opex to NTI from current levels in FY27",
+      "source": "Q4 FY26 concall",
+      "delivered": "Management reaffirmed being confident and in a comfortable place to deliver 25 to 40 bps improvement in opex to NTI in both Q1 FY27 and Q2 FY27 concalls; full-year results are pending.",
+      "verdict": "pending"
+    },
+    {
+      "quarter": "Q4 FY26",
+      "promise": "Return on Assets (ROA) of 4.4% to 4.6% in FY27",
+      "source": "Q4 FY26 concall",
+      "delivered": "ROA was reported at 4.6% as of Q4 FY26; full-year FY27 performance is pending completion of the fiscal year.",
+      "verdict": "pending"
+    },
+    {
+      "quarter": "Q1 FY27",
+      "promise": "By year-end foresee 2,700 to 2,800 branches (maybe 3,000 branches) and AUM of between INR 29,000 crores and INR 31,000 crores, all organic",
+      "source": "Q1 FY27 concall",
+      "delivered": "In Q2 FY27 concall, management reiterated being on track to end the year with close to 2,800 standalone gold branches; full-year delivery remains pending.",
+      "verdict": "pending"
+    }
+  ],
+  "narrative_vs_numbers": [
+    {
+      "claim": "PBT grew by 29% to INR 8,537 crores in Q2 FY27",
+      "numbers": "Profit before tax in Sep 2026 was Rs 8,537 crore compared to Rs 6,608 crore in Sep 2025, which is a growth of 29.19%.",
+      "agrees": true
+    },
+    {
+      "claim": "In Q4 FY26, PAT grew by 26.7%",
+      "numbers": "Net Profit in Mar 2026 was Rs 5,553 crore compared to Rs 4,546 crore in Mar 2025, representing a growth of 22.15%, not 26.7%.",
+      "agrees": false
+    },
+    {
+      "claim": "Stage 2 and Stage 3 assets sequentially reduced by INR 430-odd crores in Q4 FY26",
+      "numbers": "In Mar 2026, Gross NPA % fell sequentially to 1.01% from 1.21% in Dec 2025, and Net NPA % decreased to 0.41% from 0.47% in Dec 2025.",
+      "agrees": true
+    },
+    {
+      "claim": "Q4 FY26 was a strong quarter across key metrics including volume, profit growth, and margins",
+      "numbers": "In Mar 2026, Revenue grew to Rs 21,606 crore from Rs 21,013 crore in Dec 2025, Financing Margin expanded to 35% from 28% in Dec 2025, and Net Profit increased to Rs 5,553 crore from Rs 4,066 crore in Dec 2025.",
+      "agrees": true
+    }
+  ],
+  "guidance": [
+    {
+      "metric": "new loans",
+      "guide": "between 60 million to 62 million new loans in FY27",
+      "source": "Q2 FY27 concall"
+    },
+    {
+      "metric": "new customers",
+      "guide": "between 18 MM to 20 MM customers to the franchise in FY27",
+      "source": "Q2 FY27 concall"
+    },
+    {
+      "metric": "loan growth",
+      "guide": "between 26%, 27% growth on a full year basis in FY27",
+      "source": "Q2 FY27 concall"
+    },
+    {
+      "metric": "opex-to-NTI",
+      "guide": "25 to 40 basis point improvement in FY27",
+      "source": "Q2 FY27 concall"
+    },
+    {
+      "metric": "gold loan branches",
+      "guide": "close to 2,800 on stand-alone gold branches by end of FY27",
+      "source": "Q2 FY27 concall"
+    },
+    {
+      "metric": "fee income growth",
+      "guide": "sustain a 15% to 18% fee income growth longer term",
+      "source": "Q2 FY27 concall"
+    }
+  ],
+  "bull": [
+    "Revenue growth accelerated to 23% YoY in Sep 2026 reaching Rs 24,546 crore, with PBT expanding 29% YoY to Rs 8,537 crore and Net Profit reaching Rs 6,367 crore.",
+    "Credit quality metrics remain healthy, with loan loss to average AUF improving to 1.56% in Q2 FY27 from 1.88% in the previous year, and vintage performance running below pre-COVID FY20 benchmarks.",
+    "Rapid scaling in high-growth segments, with gold loans growing 112% to 115% YoY to reach 4% of total AUM, alongside BHFL disbursements and AUM expanding at 25%."
+  ],
+  "bear": [
+    "Interest expenses have risen substantially from Rs 5,684 crore in Jun 2024 to Rs 8,602 crore in Sep 2026, increasing the company's funding burden despite cost of funds easing to 7.31%.",
+    "MSME segment growth decelerated to a muted 6% in Q4 FY26 due to necessary proactive risk actions taken by management.",
+    "Performance exhibited vulnerability to cost shocks in Dec 2025, where expenses spiked to Rs 7,737 crore, compressing the financing margin to 28% and dropping Net Profit to Rs 4,066 crore."
+  ]
+}

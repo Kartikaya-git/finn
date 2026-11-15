@@ -86,6 +86,7 @@ function Body({ d, r }: { d: DossierT; r: Research | null }) {
   return (
     <>
       {d.about && <p className="about">{d.about}</p>}
+      {r?.model && <p className="why" style={{ margin: '0 0 12px' }}>Research by {r.model} · grounded in the last four concall transcripts and results filings only</p>}
 
       {r?.promises?.length ? (
         <Sec id="h-prom" title="Promises vs delivered" prov={TRANSCRIPTS}>

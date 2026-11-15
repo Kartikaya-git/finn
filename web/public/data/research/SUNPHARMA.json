@@ -1,0 +1,121 @@
+{
+  "symbol": "SUNPHARMA",
+  "model": "gemini-3.5-flash-lite (extract) → gemini-3.8-flash (reconcile)",
+  "generated_at": "2026-11-15T17:28:28+00:00",
+  "business": {
+    "summary": "Sun Pharma is the largest pharmaceutical company in India, operating across India formulations, the US, Emerging Markets, Rest of the World, and Global Innovative Medicines. The company's Innovative Medicines segment has grown at a 24% CAGR since FY21 and crossed $1 billion in the United States in FY26. Consolidated operations are backed by a net cash position of $3.4 billion as of Q1 FY27.",
+    "segments": [
+      {
+        "name": "India formulations",
+        "share_pct": 34.5
+      },
+      {
+        "name": "US business",
+        "share_pct": 27.0
+      },
+      {
+        "name": "Global Innovative Medicines",
+        "share_pct": 21.1
+      },
+      {
+        "name": "Emerging Markets",
+        "share_pct": 20.7
+      },
+      {
+        "name": "Rest of the World",
+        "share_pct": 14.3
+      }
+    ]
+  },
+  "promises": [
+    {
+      "quarter": "Q4 FY26",
+      "promise": "We expect high single-digit consolidated top line growth for FY27 based on our current understanding of the regulatory and macro environment.",
+      "source": "Q4 FY26 concall",
+      "delivered": "In FY27 year-to-date, YoY sales growth was +10% in Jun 2026 (Sales Rs 15,300 cr vs Rs 13,851 cr in Jun 2025) and +12% in Sep 2026 (Sales Rs 16,199 cr vs Rs 14,478 cr in Sep 2025). Full FY27 horizon has not completed.",
+      "verdict": "pending"
+    },
+    {
+      "quarter": "Q4 FY26",
+      "promise": "We expect our FY27 R&D spend to be 6% to 7% of the sales for the next year.",
+      "source": "Q4 FY26 concall",
+      "delivered": "In Q2 FY27 concall, management stated R&D spend is expected to ramp up in subsequent quarters to meet the overall full-year guidance; full-year FY27 has not concluded.",
+      "verdict": "pending"
+    },
+    {
+      "quarter": "Q4 FY26",
+      "promise": "We expect the effective tax rate to be in the range of 25%.",
+      "source": "Q4 FY26 concall",
+      "delivered": "Tax % came in at 29% in Jun 2026 and rose to 37% in Sep 2026, well above the 25% target.",
+      "verdict": "missed"
+    },
+    {
+      "quarter": "Q4 FY26",
+      "promise": "We expect the acquisition to be completed in Q4 FY27.",
+      "source": "Q4 FY26 concall",
+      "delivered": "In Q1 FY27 and Q2 FY27 concalls, management confirmed that the Organon acquisition remains on track to close by early 2027 / Q4 FY27.",
+      "verdict": "pending"
+    },
+    {
+      "quarter": "Q1 FY27",
+      "promise": "Going forward, and until Organon closing, we expect the tax rate to be in a similar range as in Q1.",
+      "source": "Q1 FY27 concall",
+      "delivered": "Tax % in Jun 2026 (Q1 FY27) was 29%, but jumped significantly to 37% in Sep 2026 (Q2 FY27).",
+      "verdict": "missed"
+    }
+  ],
+  "narrative_vs_numbers": [
+    {
+      "claim": "Consolidated top line delivered strong momentum exceeding high single-digit growth guidance in H1 FY27.",
+      "numbers": "Sales grew YoY by +10% in Jun 2026 (Rs 15,300 cr vs Rs 13,851 cr in Jun 2025) and +12% in Sep 2026 (Rs 16,199 cr vs Rs 14,478 cr in Sep 2025).",
+      "agrees": true
+    },
+    {
+      "claim": "Higher gross margin on better product mix drove operating profit margin expansion in Q2 FY27.",
+      "numbers": "Operating profit margin in Sep 2026 was 29% (Operating Profit Rs 4,744 cr on Sales Rs 16,199 cr), down from 31% in Sep 2025 (Operating Profit Rs 4,527 cr on Sales Rs 14,478 cr) as Expenses grew from Rs 9,951 cr to Rs 11,455 cr.",
+      "agrees": false
+    },
+    {
+      "claim": "Effective tax rate would track around Q1 FY27 levels (~29%) until Organon closing.",
+      "numbers": "Tax % was 29% in Jun 2026 but rose sharply to 37% in Sep 2026.",
+      "agrees": false
+    },
+    {
+      "claim": "Profit before tax remained resilient despite US business headwinds in Q2 FY27.",
+      "numbers": "Profit before tax fell from Rs 4,168 cr in Sep 2025 to Rs 3,159 cr in Sep 2026, heavily impacted by negative Other Income of Rs -752 cr versus positive Rs 470 cr in Sep 2025.",
+      "agrees": false
+    }
+  ],
+  "guidance": [
+    {
+      "metric": "acquisition timeline",
+      "guide": "Organon acquisition is on track to close by early 2027 / Q4 FY27",
+      "source": "Q2 FY27 concall"
+    },
+    {
+      "metric": "full year top-line growth",
+      "guide": "Stick to high single-digit consolidated top-line growth guidance for FY27",
+      "source": "Q2 FY27 concall"
+    },
+    {
+      "metric": "R&D spend",
+      "guide": "R&D spend expected to ramp up in subsequent quarters to meet overall guidance of 6% to 7% of sales",
+      "source": "Q2 FY27 concall"
+    },
+    {
+      "metric": "effective tax rate",
+      "guide": "Tax rate expected to remain in a similar range to Q1 until the Organon closing",
+      "source": "Q1 FY27 concall"
+    }
+  ],
+  "bull": [
+    "Consolidated revenue growth remained robust at +10% YoY in Jun 2026 (Rs 15,300 cr) and +12% YoY in Sep 2026 (Rs 16,199 cr), tracking ahead of full-year high single-digit guidance.",
+    "The domestic formulations franchise demonstrated strong volume outperformance, delivering 6.7% volume growth in Q2 FY27 versus IPM growth of 1.8%, while representing 34.5% of total sales.",
+    "Balance sheet strength is solid with net cash of $3.4 billion reported in Q1 FY27 and Global Innovative Medicines expanding at a 24% CAGR since FY21."
+  ],
+  "bear": [
+    "Net profit contracted sharply by 36% YoY to Rs 1,995 cr in Sep 2026 from Rs 3,125 cr in Sep 2025, driven by negative Other Income of Rs -752 cr and an elevated tax rate of 37%.",
+    "Operating profit margin slipped from 31% in Sep 2025 to 29% in Sep 2026 as consolidated expenses expanded from Rs 9,951 cr to Rs 11,455 cr.",
+    "The US business faced revenue pressure, declining 8.2% to USD 455 million in Q2 FY27 primarily due to lenalidomide erosion."
+  ]
+}

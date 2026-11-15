@@ -1,0 +1,122 @@
+{
+  "symbol": "ASIANPAINT",
+  "model": "gemini-3.5-flash-lite (extract) → gemini-3.8-flash (reconcile)",
+  "generated_at": "2026-11-15T17:28:27+00:00",
+  "business": {
+    "summary": "Asian Paints operates across decorative paints, industrial coatings, international business, and home decor segments. The company has expanded its network with over 6,000 retail touchpoints added in FY26 and is undertaking backward integration via a VAM-VAE emulsion project. In recent quarters, rural markets have outpaced urban centres while industrial and international businesses have recorded double-digit expansion.",
+    "segments": [
+      {
+        "name": "Decorative paints",
+        "share_pct": null
+      },
+      {
+        "name": "Industrial coatings",
+        "share_pct": null
+      },
+      {
+        "name": "International business",
+        "share_pct": null
+      },
+      {
+        "name": "Home Decor",
+        "share_pct": 4
+      }
+    ]
+  },
+  "promises": [
+    {
+      "quarter": "Q3 FY26",
+      "promise": "Maintain PBDIT margin guidance between the 18% and 20% band.",
+      "source": "Q3 FY26 concall",
+      "delivered": "OPM was 19% in Mar 2026 (Operating Profit Rs 1,787 cr) and 21% in Jun 2026 (Operating Profit Rs 2,169 cr), but declined to 16% in Sep 2026 (Operating Profit Rs 1,557 cr).",
+      "verdict": "partly"
+    },
+    {
+      "quarter": "Q3 FY26",
+      "promise": "Targeting training almost 10 lakh people in FY26.",
+      "source": "Q3 FY26 concall",
+      "delivered": "Management reported training 6.7 lakh people in Q3 FY26, but subsequent concalls did not disclose the final FY26 total.",
+      "verdict": "pending"
+    },
+    {
+      "quarter": "Q4 FY26",
+      "promise": "Commission the first phase of the VAM-VAE backward integration project in the first half of FY27.",
+      "source": "Q4 FY26 concall",
+      "delivered": "In Q2 FY27 concall, management confirmed Phase 1 of the VAE plant is in place and targeted ramping up to full capacity within a year.",
+      "verdict": "kept"
+    },
+    {
+      "quarter": "Q4 FY26",
+      "promise": "Achieve high single-digit volume growth in the band of 8% to 10% for FY27.",
+      "source": "Q4 FY26 concall",
+      "delivered": "Company achieved 9% volume growth in Q1 FY27 and 6.4% decorative volume growth in Q2 FY27; full-year FY27 remains ongoing.",
+      "verdict": "pending"
+    },
+    {
+      "quarter": "Q4 FY26",
+      "promise": "Implement further calibrated price increases in the market across Q1-Q2 FY27.",
+      "source": "Q4 FY26 concall",
+      "delivered": "Decorative value growth reached 16.6% in Q1 FY27 and 14.5% in Q2 FY27, outpacing volume growth of 9% and 6.4% respectively.",
+      "verdict": "kept"
+    }
+  ],
+  "narrative_vs_numbers": [
+    {
+      "claim": "Volume growth is back in double digits in Q4 FY26 with steadily improving trajectory over the four quarters.",
+      "numbers": "Sales in Mar 2026 grew +11% YoY to Rs 9,247 cr (vs Rs 8,359 cr in Mar 2025), accelerating from -0% in Jun 2025, +6% in Sep 2025, and +4% in Dec 2025.",
+      "agrees": true
+    },
+    {
+      "claim": "Decorative value has grown at a very good pitch of about 16.6% in Q1 FY27.",
+      "numbers": "Consolidated sales in Jun 2026 grew +18% YoY to Rs 10,542 cr from Rs 8,939 cr in Jun 2025.",
+      "agrees": true
+    },
+    {
+      "claim": "Decorative value growth has been very strong at 14.5% in Q2 FY27.",
+      "numbers": "Consolidated sales in Sep 2026 grew +17% YoY to Rs 9,977 cr from Rs 8,531 cr in Sep 2025.",
+      "agrees": true
+    },
+    {
+      "claim": "Guidance of 18-20% PBDIT margin holds across FY27.",
+      "numbers": "OPM was 21% in Jun 2026 (Rs 2,169 cr Operating Profit) but fell below the guidance range to 16% in Sep 2026 (Rs 1,557 cr Operating Profit).",
+      "agrees": false
+    }
+  ],
+  "guidance": [
+    {
+      "metric": "volume growth",
+      "guide": "Expect volume growth of about 8% to 9% for the remaining year.",
+      "source": "Q2 FY27 concall"
+    },
+    {
+      "metric": "gross margin band",
+      "guide": "Gross margin band of 41% to 43% expected going forward.",
+      "source": "Q2 FY27 concall"
+    },
+    {
+      "metric": "EBITDA margin band",
+      "guide": "Expect to maintain 18% to 20% EBITDA margin band for the full year FY27.",
+      "source": "Q2 FY27 concall"
+    },
+    {
+      "metric": "VAE capacity ramp-up",
+      "guide": "Ramp up to full capacity of Phase 1 of the VAE plant within a year's time.",
+      "source": "Q2 FY27 concall"
+    },
+    {
+      "metric": "volume-value gap",
+      "guide": "Maintain a 3% to 4% gap between volume and value over a period of time.",
+      "source": "Q4 FY26 concall"
+    }
+  ],
+  "bull": [
+    "Consolidated revenue growth accelerated to +18% YoY in Jun 2026 (Rs 10,542 cr) and +17% YoY in Sep 2026 (Rs 9,977 cr), supported by decorative value growth of 16.6% in Q1 FY27 and 14.5% in Q2 FY27.",
+    "Non-decorative engines showed strong momentum in Q2 FY27, with PPGAP (Auto OE JV) expanding by about 34%, General Industrial JV (APPPG) up 28%, and International business growing about 30%.",
+    "Product innovation continues to gain traction, with new products contributing 18% of overall revenues in Q2 FY27 (up from 17% in Q1 FY27)."
+  ],
+  "bear": [
+    "Operating margin dropped to 16% in Sep 2026 (down from 21% in Jun 2026 and 18% in Sep 2025), slipping below the guided full-year corridor of 18% to 20%.",
+    "Operating expenses increased significantly to Rs 8,373 cr in Jun 2026 and Rs 8,419 cr in Sep 2026 compared to Rs 7,028 cr in Sep 2025.",
+    "Decorative volume growth decelerated to 6.4% in Q2 FY27 from 9% in Q1 FY27 and double-digit volume growth in Q4 FY26."
+  ]
+}
