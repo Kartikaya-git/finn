@@ -86,10 +86,27 @@ cd web && npm i && npm run dev                      # http://localhost:5173/finn
 ```
 
 ## Deliberately left out
-Live LLM calls from the deployed app (static hosting, no exposed keys), real push notifications, intraday data, auth, LinkedIn scraping.
+
+| Left out | Why |
+|---|---|
+| **AI calls from the app itself** (e.g. a free-form chatbot) | The app is a static website, so any AI key in it would be visible to every visitor. Instead, the AI runs once in the pipeline, the result is cached, and the app only reads it. That also makes it free to run and quick to open, and every visitor sees the same checked analysis rather than a fresh answer that could differ each time. **Ask** searches the transcripts instead of generating text, so it can't invent anything. |
+| **Intraday (live) prices** | The brief asks for end-of-day data, and the free sources that work reliably only give daily closes. Live prices would need a paid market-data feed. |
+| **Login / user accounts** | It's a single-investor prototype with a fixed demo portfolio. Accounts would add sign-in screens and a database without changing what the app shows. Watch rules and cleared Cards are saved on the device instead. |
+| **Editing the portfolio in the app** | The 20 holdings are set in the pipeline config. Making them editable needs per-user storage and a per-user pipeline run, which only makes sense after accounts exist. |
+| **Scraping LinkedIn for appointee bios** | It's against LinkedIn's terms and breaks often. Indian listing rules (SEBI LODR) already require companies to attach a short profile of every new director or key executive to the appointment filing, so FINN reads that. It's the company's own disclosure, so it fits the primary-sources-only rule. |
+| **BSE / NSE / Yahoo directly** | All three block automated requests (403 / 429 errors). screener.in republishes the same BSE filings, with the same PDF links, plus prices and financials, so one reliable source replaces three fragile ones. |
+| **Native iOS / Android app** | A mobile website opens instantly from a link, with nothing to install. That matters most for a reviewer trying it once. Phone notifications come from the ntfy app instead. |
 
 ## Next
-Notifications straight from the browser without a separate app; smarter sorting of press releases; refreshing the research automatically when a new earnings call is published; a spoken morning summary.
+
+| Next step | Why it matters |
+|---|---|
+| **Notifications straight from the browser** (web push) | Today alerts need the free ntfy app. Web push would remove that install step, and it needs only a small server to hold subscriptions. |
+| **AI help for unclear press releases** | Rules handle most filings well, but a press release can hide a big order win or a minor update behind the same wording. A cheap model reading only those few unclear filings would sharpen the ranking at very little cost. |
+| **Refresh the research when a new earnings call lands** | Research is rebuilt manually today. Detecting a new transcript and re-running only that company would keep the promises verdict current within a day of each call. |
+| **"What changed" view on the company page** | Investors care about change more than the current state, e.g. "management cut its margin target this quarter". Comparing this quarter's research with last quarter's would show exactly that. |
+| **Your own portfolio** | Accounts plus an "add holding" screen, so each person's home screen ranks their own companies. |
+| **Spoken morning summary** | A one-minute audio version of the home screen for the commute, built from the same ranked items. |
 
 ## Repo map
 - `CONTEXT.md` — domain glossary (Brief, Card, Holding, Filing, Dossier, Ask, Watch rule…)
