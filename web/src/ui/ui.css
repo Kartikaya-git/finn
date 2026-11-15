@@ -1,0 +1,40 @@
+/* Shared UI: floating Dock (search) and chart text. Tokens only. */
+.fdock { display: flex; flex-direction: column; gap: 8px; }
+.fdock-row { display: flex; align-items: center; gap: 8px; }
+.fdock-pill {
+  flex: 1; min-width: 0; display: flex; align-items: center; gap: 10px; height: 48px; padding: 0 6px 0 16px;
+  border-radius: 999px; background: color-mix(in srgb, var(--card) 88%, transparent); color: var(--ink-3);
+  border: 1px solid var(--hair); box-shadow: var(--lift); cursor: text;
+  -webkit-backdrop-filter: blur(16px) saturate(1.4); backdrop-filter: blur(16px) saturate(1.4);
+  transition: border-color .18s var(--ease), color .18s var(--ease);
+}
+.fdock-pill.focus { border-color: var(--hair-2); color: var(--ink-2); }
+.fdock-pill input {
+  flex: 1; min-width: 0; height: 100%; border: 0; outline: 0; background: none; color: var(--ink);
+  font: 500 15px/1 var(--sans); letter-spacing: -.005em;
+}
+.fdock-pill input::placeholder { color: var(--ink-3); font-weight: 450; }
+.fdock-pill:has(input:focus-visible) { outline: none; }
+.fdock-clear { width: 36px; height: 36px; border-radius: 999px; font-size: 20px; line-height: 1; color: var(--ink-3); flex: none; }
+.fdock-clear:hover { background: var(--sunk); }
+
+.fdock-list {
+  display: flex; flex-direction: column; padding: 6px; border-radius: var(--r-3);
+  background: var(--card); border: 1px solid var(--hair); box-shadow: var(--lift);
+  animation: fdock-up .2s var(--ease); max-height: 50dvh; overflow: auto;
+}
+@keyframes fdock-up { from { opacity: 0; transform: translateY(8px); } }
+.fdock-opt {
+  display: grid; grid-template-columns: 92px 1fr auto; align-items: center; gap: 10px; min-height: 48px; padding: 0 10px;
+  border-radius: var(--r-2); text-align: left; transition: background .16s var(--ease);
+}
+.fdock-opt.on, .fdock-opt:hover { background: var(--sunk); }
+.fdock-opt .sym { color: var(--ink); overflow: hidden; text-overflow: ellipsis; }
+.fdock-name { font-size: 13.5px; color: var(--ink-2); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; min-width: 0; }
+.fdock-opt.ghost .fdock-name { color: var(--ink-3); font-style: normal; }
+.fdock-arrow { font: 500 12px/1 var(--mono); color: var(--ink-3); padding-right: 4px; }
+
+/* Charts */
+.ch { display: block; width: 100%; height: auto; overflow: visible; }
+.ch text { font-family: var(--mono); font-variant-numeric: tabular-nums; font-size: 9px; fill: var(--ink-3); }
+.ch .ch-strong { fill: var(--ink-2); }
