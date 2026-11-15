@@ -78,7 +78,7 @@ FINN works without a key. Every Dossier's numbers, charts and flags are computed
 ```bash
 # data
 cd pipeline && uv run python -m finn build          # Brief + all Dossiers
-uv run python -m finn dossier TATASTEEL             # any ticker
+uv run python -m finn.expand TATASTEEL              # add any ticker (Dossier + search)
 uv run python -m finn_research ITC                  # research layer (needs GEMINI_API_KEY in ../.env)
 
 # app
@@ -111,4 +111,5 @@ cd web && npm i && npm run dev                      # http://localhost:5173/finn
 ## Repo map
 - `CONTEXT.md` — domain glossary (Brief, Card, Holding, Filing, Dossier, Ask, Watch rule…)
 - `SPEC.md` — spec and data contract · `TICKETS.md` — build tickets
-- `pipeline/` — data + research engines · `web/` — the app
+- `pipeline/` — data + research engines · `web/` — the app · `docs/architecture.jpg` — diagram
+- `.github/workflows/` — deploy, 30-minute pipeline + phone alerts, **Build it** on demand
