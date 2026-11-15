@@ -1,0 +1,112 @@
+{
+  "symbol": "HDFCBANK",
+  "model": "gemini-3.5-flash-lite (extract) → gemini-3.8-flash (reconcile)",
+  "generated_at": "2026-11-15T17:27:30+00:00",
+  "business": {
+    "summary": "HDFCBANK is a financial services institution operating across retail, SME and MSME, and wholesale/corporate banking segments, with retail accounting for 52% of its business. The bank also commands 35% to 40% of account settlements in the Capital Markets segment following its balance sheet expansion post-merger.",
+    "segments": [
+      {
+        "name": "retail",
+        "share_pct": 52
+      },
+      {
+        "name": "Wholesale",
+        "share_pct": null
+      },
+      {
+        "name": "SME and MSME",
+        "share_pct": null
+      },
+      {
+        "name": "corporate",
+        "share_pct": null
+      }
+    ]
+  },
+  "promises": [
+    {
+      "quarter": "Q3 FY26",
+      "promise": "Interim Part-Time Chairman appointment approved by RBI for a period of 3 months",
+      "source": "Q3 FY26 concall",
+      "delivered": "The 3-month interim tenure concluded prior to Q4 FY26 concall with leadership continuity and stability reaffirmed by executive management",
+      "verdict": "kept"
+    },
+    {
+      "quarter": "Q3 FY26",
+      "promise": "Assurance of no material operational issues and complete unity in the management team",
+      "source": "Q3 FY26 concall",
+      "delivered": "Operational execution continued across subsequent quarters, with FY26 system credit growth reaching 12% and profit before tax rising from Rs 26,961 crore in Dec 2025 to Rs 27,672 crore in Mar 2026",
+      "verdict": "kept"
+    },
+    {
+      "quarter": "Q4 FY26",
+      "promise": "Maintain stable return on assets at 1.9% via core cost efficiencies and lower credit costs despite lower NIMs",
+      "source": "Q4 FY26 concall",
+      "delivered": "Credit costs remained contained at 44 basis points in Q2 FY27, and Net Profit increased from Rs 21,074 crore in Mar 2026 to Rs 21,537 crore in Sep 2026",
+      "verdict": "kept"
+    },
+    {
+      "quarter": "Q1 FY27",
+      "promise": "Profit growth in the longer term should be at or above balance sheet growth",
+      "source": "Q1 FY27 concall",
+      "delivered": "Net Profit rose from Rs 20,383 crore in Jun 2026 to Rs 21,537 crore in Sep 2026; long-term assessment remains ongoing",
+      "verdict": "pending"
+    },
+    {
+      "quarter": "Q1 FY27",
+      "promise": "Realize productivity benefits at branches and maintain deposit market share gains",
+      "source": "Q1 FY27 concall",
+      "delivered": "In Q2 FY27, reported deposits grew 18.8% YoY and retail disbursements increased from Rs 76,000 crores in Q1 FY27 to over Rs 90,000 crores",
+      "verdict": "kept"
+    }
+  ],
+  "narrative_vs_numbers": [
+    {
+      "claim": "System credit growth picked up with positive momentum in FY26",
+      "numbers": "Consolidated YoY Revenue growth decelerated from +9% in Mar 2025 (Rs 86,779 crore) to +0% in Mar 2026 (Rs 87,182 crore), although Net Profit rose from Rs 19,285 crore in Mar 2025 to Rs 21,074 crore in Mar 2026",
+      "agrees": false
+    },
+    {
+      "claim": "Cost efficiencies supported profitability in Q4 FY26",
+      "numbers": "Expenses declined from Rs 54,145 crore in Dec 2025 to Rs 44,028 crore in Mar 2026, leading to a rise in Profit before tax from Rs 26,961 crore to Rs 27,672 crore",
+      "agrees": true
+    },
+    {
+      "claim": "Branch productivity continued to move up from past investments in Q1 FY27",
+      "numbers": "Expenses jumped to Rs 58,292 crore in Jun 2026 from Rs 44,028 crore in Mar 2026, resulting in Financing Profit worsening to -Rs 15,342 crore and Net Profit declining from Rs 21,074 crore to Rs 20,383 crore",
+      "agrees": false
+    },
+    {
+      "claim": "Retail disbursements and liabilities momentum accelerated in Q2 FY27",
+      "numbers": "Revenue grew from Rs 90,575 crore in Jun 2026 to Rs 95,132 crore in Sep 2026, with YoY growth accelerating from +4% to +9%, and Net Profit rising to Rs 21,537 crore",
+      "agrees": true
+    }
+  ],
+  "guidance": [
+    {
+      "metric": "profit growth",
+      "guide": "we do think that in the longer term that the profit growth should be at or above the balance sheet growth",
+      "source": "Q1 FY27 concall"
+    },
+    {
+      "metric": "retail CASA growth",
+      "guide": "Building on these new acquired relationships and deepening our existing relationships will enable the liabilities engine to step up further in the coming days even as we keep adding newer relationships at a rapid pace.",
+      "source": "Q2 FY27 concall"
+    },
+    {
+      "metric": "LCR",
+      "guide": "would like to operate between 110 and 120, which we have told you over last few years, somewhere probably in the middle, 115.",
+      "source": "Q2 FY27 concall"
+    }
+  ],
+  "bull": [
+    "Net Profit reached Rs 21,537 crore in Sep 2026 with EPS expanding to Rs 13.43 as YoY revenue growth accelerated to +9% (Rs 95,132 crore).",
+    "Asset quality is sustained at sound levels with gross NPAs reported at 1.15% in Q4 FY26 and credit costs remaining low at 44 basis points in Q2 FY27.",
+    "Retail disbursements accelerated from Rs 76,000 crores in Q1 FY27 to over Rs 90,000 crores in Q2 FY27, backed by 18.8% YoY reported deposit growth."
+  ],
+  "bear": [
+    "Financing Profit remained negative at -Rs 5,565 crore in Sep 2026 and -Rs 15,342 crore in Jun 2026, pressured by rising interest expenses of Rs 50,667 crore.",
+    "Operating expenses exhibit substantial periodic spikes, reaching Rs 64,497 crore in Jun 2025 and Rs 58,292 crore in Jun 2026, which dragged Net Profit down to Rs 17,090 crore and Rs 20,383 crore in those respective periods.",
+    "Consolidated revenue growth decelerated substantially from +59% in Jun 2024 to +0% in Mar 2026, coinciding with management's acknowledgment of a drop in NIMs."
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "symbol": "LT",
+  "model": "gemini-3.5-flash-lite (extract) → gemini-3.8-flash (reconcile)",
+  "generated_at": "2026-11-15T17:27:25+00:00",
+  "business": {
+    "summary": "L&T operates across engineering, procurement, construction, manufacturing, and services, spanning Infrastructure & Utilities, Energy (Conventional and Green), Manufacturing & Products, and Services. The company is actively pursuing international and domestic opportunities while targeting multi-year growth under its Lakshya strategic plans.",
+    "segments": [
+      {
+        "name": "Infrastructure & Utilities",
+        "share_pct": 34.0
+      },
+      {
+        "name": "Energy - Conventional",
+        "share_pct": 34.0
+      },
+      {
+        "name": "Energy - Green",
+        "share_pct": 17.0
+      },
+      {
+        "name": "Services",
+        "share_pct": 7.0
+      },
+      {
+        "name": "Manufacturing & Products",
+        "share_pct": 5.0
+      }
+    ]
+  },
+  "promises": [
+    {
+      "quarter": "Q3 FY26",
+      "promise": "Achieving full year FY26 revenue growth guidance of 15%",
+      "source": "Q3 FY26 concall",
+      "delivered": "FY26 quarterly sales grew +16% (Jun 2025), +10% (Sep 2025), +10% (Dec 2025), and +11% (Mar 2026 to Rs 82,762 crore). Q4 FY26 concall confirmed revenue growth was impacted by subdued execution in domestic projects and missed full-year guidance.",
+      "verdict": "missed"
+    },
+    {
+      "quarter": "Q3 FY26",
+      "promise": "Exceeding the 10% order inflow guidance for FY26",
+      "source": "Q3 FY26 concall",
+      "delivered": "Q4 FY26 concall confirmed the company significantly surpassed this guidance driven by strong order wins across multiple sectors.",
+      "verdict": "kept"
+    },
+    {
+      "quarter": "Q3 FY26",
+      "promise": "Close FY26 with a revised Net Working Capital to Revenue target of around 10%",
+      "source": "Q3 FY26 concall",
+      "delivered": "Q4 FY26 concall reported that Net Working Capital to Revenue improved sharply to 4.1% as of March 2026.",
+      "verdict": "kept"
+    },
+    {
+      "quarter": "Q4 FY26",
+      "promise": "Group order inflows to grow in the range of 10% to 12% in FY27",
+      "source": "Q4 FY26 concall",
+      "delivered": "Q1 FY27 order inflows grew 14% YoY to Rs 1,080 billion and Q2 FY27 reported highest ever quarterly order inflow; full FY27 delivery pending.",
+      "verdict": "pending"
+    },
+    {
+      "quarter": "Q4 FY26",
+      "promise": "FY27 revenue growth to be in the range of 10% to 12%",
+      "source": "Q4 FY26 concall",
+      "delivered": "Sales grew +7% YoY in Jun 2026 (Rs 67,942 crore) and +16% YoY in Sep 2026 (Rs 78,750 crore); full FY27 results pending.",
+      "verdict": "pending"
+    },
+    {
+      "quarter": "Q4 FY26",
+      "promise": "FY27 Net Working Capital to Revenue of around 10%",
+      "source": "Q4 FY26 concall",
+      "delivered": "Q1 FY27 concall stated NWC to Sales ratio was 4.9% in June 2026; full year FY27 delivery pending.",
+      "verdict": "pending"
+    }
+  ],
+  "narrative_vs_numbers": [
+    {
+      "claim": "The group revenues grew 10% Y-on-Y in Q3 FY26.",
+      "numbers": "Dec 2025 Sales stood at Rs 71,450 crore compared to Rs 64,668 crore in Dec 2024, reflecting exact YoY Sales growth of +10%.",
+      "agrees": true
+    },
+    {
+      "claim": "Group revenues for Q1 FY27 stood at Rs. 679 billion, registering a 7% Y-on-Y growth.",
+      "numbers": "Jun 2026 Sales were Rs 67,942 crore vs Rs 63,679 crore in Jun 2025, matching +7% YoY growth.",
+      "agrees": true
+    },
+    {
+      "claim": "Our Recurring PAT at Rs 44 billion reported a strong growth of 31% Y-on-Y in Q3 FY26.",
+      "numbers": "Table reports consolidated Net Profit for Dec 2025 at Rs 3,825 crore, which is down YoY from Rs 3,974 crore in Dec 2024.",
+      "agrees": false
+    },
+    {
+      "claim": "Revenue growth was impacted by subdued execution in certain domestic projects in Q4 FY26.",
+      "numbers": "Mar 2026 YoY Sales growth came in at +11% (Sales Rs 82,762 crore vs Rs 74,392 crore in Mar 2025), below the earlier full-year 15% expectation.",
+      "agrees": true
+    }
+  ],
+  "guidance": [
+    {
+      "metric": "order inflow growth",
+      "guide": "10% to 12% band for FY27",
+      "source": "Q1 FY27 concall"
+    },
+    {
+      "metric": "revenue growth",
+      "guide": "10% to 12% for FY27",
+      "source": "Q1 FY27 concall"
+    },
+    {
+      "metric": "PPM portfolio margin",
+      "guide": "around 7.8% for FY27",
+      "source": "Q1 FY27 concall"
+    },
+    {
+      "metric": "working capital",
+      "guide": "around 10% for FY27",
+      "source": "Q1 FY27 concall"
+    },
+    {
+      "metric": "revenue CAGR",
+      "guide": "13% to 15% revenue CAGR growth over five years under Lakshya L31 with EBIT margins of 16% to 17%",
+      "source": "Q4 FY26 concall"
+    }
+  ],
+  "bull": [
+    "Sales rebounded strongly in Sep 2026 to Rs 78,750 crore (+16% YoY) with Net Profit expanding to Rs 5,949 crore.",
+    "Order inflow momentum is sustained with Q1 FY27 growing 14% YoY to Rs 1,080 billion and Q2 FY27 logging highest ever order inflows via Mega and Ultra Mega orders in Energy - Conventional.",
+    "Working capital management remains strong, with NWC to sales at 4.9% in June 2026 and 4.1% in March 2026, well superior to the ~10% targeted range."
+  ],
+  "bear": [
+    "Operating Profit Margin (OPM) compressed to 11% in Sep 2026 from 13% in Sep 2025 and 12% in Jun 2026.",
+    "Execution vulnerability remains in domestic projects (such as Water and Effluent Treatment) and clearance delays, which previously caused FY26 revenue to fall short of its 15% target.",
+    "High quarterly interest burden persists consistently above Rs 2,400 crore, reaching Rs 2,571 crore in Jun 2026 and Rs 2,442 crore in Sep 2026."
+  ]
+}

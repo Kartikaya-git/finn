@@ -1,0 +1,121 @@
+{
+  "symbol": "INFY",
+  "model": "gemini-3.5-flash-lite (extract) → gemini-3.8-flash (reconcile)",
+  "generated_at": "2026-11-15T17:27:30+00:00",
+  "business": {
+    "summary": "Infosys provides digital, consulting, and technology services across sectors including Financial Services, Manufacturing, Retail, and Communications. The firm deploys proprietary AI offerings such as Topaz AI services across 90% of its large 200 clients. It is ranked as the leading global systems integrator in GitHub adoption and operates with an expanding global brand presence.",
+    "segments": [
+      {
+        "name": "Financial Services",
+        "share_pct": null
+      },
+      {
+        "name": "Manufacturing",
+        "share_pct": null
+      },
+      {
+        "name": "Retail",
+        "share_pct": null
+      },
+      {
+        "name": "Communications",
+        "share_pct": null
+      },
+      {
+        "name": "Energy, Utilities, Resources and Services",
+        "share_pct": null
+      }
+    ]
+  },
+  "promises": [
+    {
+      "quarter": "Q4 FY26",
+      "promise": "Revenue growth guidance for FY27 of 1.5% to 3.5% year-on-year in constant currency terms.",
+      "source": "Q4 FY26 concall",
+      "delivered": "Guidance was lowered to 1.5% to 3% in Q1 FY27 concall and further reduced to 1% to 2% in Q2 FY27 concall.",
+      "verdict": "missed"
+    },
+    {
+      "quarter": "Q4 FY26",
+      "promise": "Operating margin guidance for FY27 of 20% to 22%.",
+      "source": "Q4 FY26 concall",
+      "delivered": "Operating margin was reported at 21.1% in Q1 FY27 concall and 21% in Q2 FY27 concall, with full-year FY27 still ongoing.",
+      "verdict": "pending"
+    },
+    {
+      "quarter": "Q4 FY26",
+      "promise": "Expectation to hire at least 20,000 freshers in FY27.",
+      "source": "Q4 FY26 concall",
+      "delivered": "No update on fresher hiring numbers provided in subsequent Q1 FY27 or Q2 FY27 extracts; FY27 is ongoing.",
+      "verdict": "pending"
+    },
+    {
+      "quarter": "Q4 FY26",
+      "promise": "Effective tax rate for FY27 expected to be in the range of 29% to 30%.",
+      "source": "Q4 FY26 concall",
+      "delivered": "Tax rate was 30% in Jun 2026 and 29% in Sep 2026 per reported quarterly financials, within the target band.",
+      "verdict": "pending"
+    },
+    {
+      "quarter": "Q1 FY27",
+      "promise": "Revised FY27 revenue growth guidance of 1.5% to 3% year-on-year in constant currency terms.",
+      "source": "Q1 FY27 concall",
+      "delivered": "Revised down again to 1% to 2% YoY in constant currency terms in the Q2 FY27 concall.",
+      "verdict": "missed"
+    }
+  ],
+  "narrative_vs_numbers": [
+    {
+      "claim": "Earnings per share were up 15% Y-on-Y in rupee terms in Q1 FY27.",
+      "numbers": "EPS in Rs was 19.15 in Jun 2026 compared to 16.66 in Jun 2025, which is an increase of 14.95% (rounded to 15%).",
+      "agrees": true
+    },
+    {
+      "claim": "Effective tax rates in early FY27 trend in the guided 29% to 30% range.",
+      "numbers": "Reported Tax % was 30% in Jun 2026 and 29% in Sep 2026, aligning with the 29% to 30% guided band.",
+      "agrees": true
+    },
+    {
+      "claim": "Reported operating profit margin (OPM %) remained consistent through FY26 and into FY27.",
+      "numbers": "OPM % stood at 24% across Jun 2025, Sep 2025, Mar 2026, Jun 2026, and Sep 2026 (dipping only to 23% in Dec 2025).",
+      "agrees": true
+    },
+    {
+      "claim": "YoY sales growth slowed down in Q2 FY27 after accelerating in Q1 FY27.",
+      "numbers": "YoY Sales growth peaked at +14% in Jun 2026 (Sales Rs 48,211 cr) and slowed to +11% in Sep 2026 (Sales Rs 49,244 cr).",
+      "agrees": true
+    }
+  ],
+  "guidance": [
+    {
+      "metric": "revenue growth",
+      "guide": "1% to 2% YoY in constant currency terms for FY27",
+      "source": "Q2 FY27 concall"
+    },
+    {
+      "metric": "operating margin",
+      "guide": "20% to 22% for FY27",
+      "source": "Q2 FY27 concall"
+    },
+    {
+      "metric": "fresher hiring",
+      "guide": "at least 20,000 freshers to be hired in FY27",
+      "source": "Q4 FY26 concall"
+    },
+    {
+      "metric": "tax rate",
+      "guide": "effective tax rates in the range of 29% to 30% for FY27",
+      "source": "Q4 FY26 concall"
+    }
+  ],
+  "bull": [
+    "AI revenue contribution expanded significantly from 5.5% in Q3 FY26 to 8.2% in Q1 FY27 and 10.5% in Q2 FY27, recording 29% sequential growth.",
+    "Large deal traction accelerated to $5.2 billion in Q2 FY27 (including two mega deals), up from $3.6 billion in Q1 FY27 and $3.2 billion in Q4 FY26.",
+    "Sales and operating profit reached record levels of Rs 49,244 crore and Rs 11,689 crore respectively in Sep 2026, maintaining a stable 24% OPM."
+  ],
+  "bear": [
+    "FY27 constant currency revenue growth guidance has been lowered twice consecutively, from 1.5%-3.5% at Q4 FY26 down to 1.5%-3% at Q1 FY27 and 1%-2% at Q2 FY27.",
+    "Management highlighted macro uncertainty with soft volumes in Q1 FY27, and YoY Sales growth decelerated from +14% in Jun 2026 to +11% in Sep 2026.",
+    "Net profit dropped from Rs 8,509 crore in Mar 2026 to Rs 7,775 crore in Jun 2026 and Rs 7,838 crore in Sep 2026, impacted by the normalization of tax rates back to 29%-30% from 21%."
+  ]
+}

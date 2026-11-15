@@ -1,0 +1,127 @@
+{
+  "symbol": "RELIANCE",
+  "model": "gemini-3.5-flash-lite (extract) → gemini-3.8-flash (reconcile)",
+  "generated_at": "2026-11-15T17:26:56+00:00",
+  "business": {
+    "summary": "Reliance Industries is a diversified conglomerate operating across Oil-to-Chemicals (O2C), Oil & Gas Exploration & Production, Retail, Digital Services (Jio Platforms), and New Energy. In Q4 FY26, consumer businesses accounted for 55% share, with digital services reporting over 500 million subscribers and retail generating record quarterly revenues. The company is actively expanding in New Energy across solar PV and battery manufacturing facilities.",
+    "segments": [
+      {
+        "name": "Consumer businesses",
+        "share_pct": 55
+      },
+      {
+        "name": "O2C and Oil & Gas",
+        "share_pct": null
+      },
+      {
+        "name": "Digital Services / Jio",
+        "share_pct": null
+      },
+      {
+        "name": "Retail",
+        "share_pct": null
+      }
+    ]
+  },
+  "promises": [
+    {
+      "quarter": "Q3 FY26",
+      "promise": "Commission first fully integrated 10-GW peak annual solar manufacturing gigafactory and scale up to 20-GW peak annual capacity in FY27.",
+      "source": "Q3 FY26 concall",
+      "delivered": "By Q2 FY27 concall, management stated module capacity is now six plus gigawatt reaching up to 20 GW early next year, and solar cell is nearing around 5 GW reaching 20 GW in H1 next year.",
+      "verdict": "partly"
+    },
+    {
+      "quarter": "Q3 FY26",
+      "promise": "Setting up 40-gigawatt best cell, best pack and containerized assembly with commissioning starting during phases in next few quarters.",
+      "source": "Q3 FY26 concall",
+      "delivered": "In Q2 FY27 concall, management stated commissioning of BESS facility (pack and container up to 40-GW hour) will happen in the next half year, and cell will come late next year.",
+      "verdict": "pending"
+    },
+    {
+      "quarter": "Q3 FY26",
+      "promise": "More than doubling beverage capacity this year (FY27).",
+      "source": "Q3 FY26 concall",
+      "delivered": "Later extracts do not report specific beverage capacity figures, though FMCG revenue doubled YoY to Rs. 8,600 Crores in Q1 FY27 and grew 1.6x YoY to Rs. 8,266 Crores in Q2 FY27.",
+      "verdict": "pending"
+    },
+    {
+      "quarter": "Q1 FY27",
+      "promise": "Targeting to double absolute retail EBITDA over the next two years as benefit of scale converts into value.",
+      "source": "Q1 FY27 concall",
+      "delivered": "Two-year horizon extends through FY28/FY29; Q2 FY27 concall re-iterated benefit of retail investments will be seen through FY 2028 and FY 2029.",
+      "verdict": "pending"
+    },
+    {
+      "quarter": "Q1 FY27",
+      "promise": "Achieve 20-gigawatt annual capacity for solar PV manufacturing in an integrated fashion this year.",
+      "source": "Q1 FY27 concall",
+      "delivered": "In Q2 FY27, management reported module capacity at 6+ GW achieving up to 20 GW early next year, and cell capacity nearing 5 GW achieving 20 GW in H1 next year.",
+      "verdict": "pending"
+    }
+  ],
+  "narrative_vs_numbers": [
+    {
+      "claim": "Topline grew 25% year-on-year in Q1 FY27 primarily driven by oil prices along with 12% growth in Jio and retail.",
+      "numbers": "Sales in Jun 2026 (Q1 FY27) were Rs 309,468 crore vs Rs 243,632 crore in Jun 2025 (Q1 FY26), representing a reported YoY Sales growth of +27%.",
+      "agrees": true
+    },
+    {
+      "claim": "Retail business reported highest ever quarterly revenue of Rs.98,000 Crores in Q4 FY26.",
+      "numbers": "Consolidated Sales reached Rs 294,059 crore in Mar 2026 (Q4 FY26), increasing from Rs 264,905 crore in Dec 2025 (Q3 FY26).",
+      "agrees": true
+    },
+    {
+      "claim": "O2C led the charge with EBITDA up 68% in Q2 FY27, driving strong overall performance.",
+      "numbers": "Consolidated Operating Profit jumped from Rs 45,885 crore in Sep 2025 to Rs 56,616 crore in Sep 2026 (Q2 FY27), an increase of 23.4%, while Net Profit rose from Rs 22,092 crore to Rs 29,550 crore.",
+      "agrees": true
+    },
+    {
+      "claim": "Reliance Retail reported its highest ever quarterly revenue in Q3 FY26 at 97,600 Crores.",
+      "numbers": "Consolidated Sales in Dec 2025 (Q3 FY26) were Rs 264,905 crore, up 10% YoY compared to Rs 239,986 crore in Dec 2024.",
+      "agrees": true
+    }
+  ],
+  "guidance": [
+    {
+      "metric": "EBITDA",
+      "guide": "First half of FY 2027 performance is tracking annualized EBITDA well over Rs.80,000 Crores.",
+      "source": "Q2 FY27 concall"
+    },
+    {
+      "metric": "New Energy earnings",
+      "guide": "Earnings contribution starting in FY 2028 as new energy accelerates.",
+      "source": "Q2 FY27 concall"
+    },
+    {
+      "metric": "Retail profitability",
+      "guide": "Benefits of retail digital commerce investments will translate into value through FY 2028 and FY 2029.",
+      "source": "Q2 FY27 concall"
+    },
+    {
+      "metric": "Solar module capacity",
+      "guide": "Expected to reach up to 20 gigawatt early next year (currently 6+ GW).",
+      "source": "Q2 FY27 concall"
+    },
+    {
+      "metric": "Solar cell capacity",
+      "guide": "Expected to reach 20-gigawatt capacity in the first half of next year (currently nearing 5 GW).",
+      "source": "Q2 FY27 concall"
+    },
+    {
+      "metric": "FMCG revenue target",
+      "guide": "Targeting FMCG business revenue of Rs.1 lakh Crores by FY2030.",
+      "source": "Q1 FY27 concall"
+    }
+  ],
+  "bull": [
+    "Sales momentum has accelerated sharply, rising +27% YoY in Jun 2026 (Rs 309,468 crore) and +30% YoY in Sep 2026 (Rs 330,601 crore).",
+    "Digital Services continues strong organic growth with 5G subscribers touching 300 million and ARPU expanding to Rs.218.8 in Q2 FY27 without tariff hikes.",
+    "Operating Profit reached a record Rs 56,616 crore in Sep 2026 with O2C EBITDA up 68%, supporting Net Profit expansion to Rs 29,550 crore."
+  ],
+  "bear": [
+    "Interest expenses increased significantly to Rs 8,337 crore in Jun 2026 and Rs 8,481 crore in Sep 2026 compared to Rs 6,827 crore in Sep 2025.",
+    "OPM % compressed to 15% in Mar 2026 and Jun 2026 before recovering to 17% in Sep 2026, below historical peak levels.",
+    "Major capital-intensive new energy projects remain in commissioning stages, with module capacity at only 6+ GW against the 20 GW target and commercial earnings contribution deferred to FY 2028."
+  ]
+}
