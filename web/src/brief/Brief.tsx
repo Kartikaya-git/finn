@@ -188,6 +188,7 @@ function Top({ line, fixtures }: { line: string; fixtures: boolean }) {
         {line}
         {fixtures && <span className="bf-fixture" title="The pipeline has not run; showing bundled fixtures"> · SAMPLE</span>}
       </span>
+      <a className="bf-guide" href="#/guide" aria-label="How FINN works">?</a>
     </div>
   )
 }

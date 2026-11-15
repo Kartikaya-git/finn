@@ -14,12 +14,26 @@ interface Props {
   open: boolean; onToggle: () => void; onClear: () => void
 }
 
+// The pipeline's `why` often just restates the category pill ("Leadership change" next to
+// "Management change"). Say something the pill doesn't: the number that matters, or who.
+const RESTATES = new Set(['Quarterly results declared', 'Leadership change', 'Acquisition / restructuring', 'Capital raise', 'Legal / regulatory action'])
+function whyLine(f: Filing, person?: Person): string {
+  if (f.results?.rows?.length) {
+    const r = (m: string) => f.results!.rows.find((x) => x.metric === m)
+    const pat = r('PAT'), rev = r('Revenue')
+    return [rev && `Revenue ${pct(rev.yoy)} YoY`, pat && `PAT ${pct(pat.yoy)} YoY`].filter(Boolean).join(' · ') + ` · ${f.results.period}`
+  }
+  if (person) return `${person.name} · ${person.role}`
+  return RESTATES.has(f.why) ? '' : f.why
+}
+
 function describe(card: Card, enrich: Enrichment, rules: WatchRules) {
   if (card.kind === 'filing') {
     const f = card.filing
     const e = enrich[f.id] ?? enrich[f.url]
     // Exchange titles are boilerplate ("Announcement under Regulation 30…"); the summary is the news.
-    return { tag: catLabel(f.category), headline: tidy(e?.summary || f.summary || f.title), why: f.why, filing: f, person: f.person ?? e?.person }
+    const person = f.person ?? e?.person
+    return { tag: catLabel(f.category), headline: tidy(e?.summary || f.summary || f.title), why: whyLine(f, person), filing: f, person }
   }
   const m = card.m
   if (card.kind === 'price') {
@@ -107,7 +121,7 @@ export function CardRow({ card, holding, first, genAt, enrich, rules, open, onTo
               <Chevron />
             </span>
             <span className="bf-hl">{d.headline}</span>
-            <span className="bf-why">{d.why}</span>
+            {d.why && <span className="bf-why">{d.why}</span>}
           </button>
 
           <Reveal open={open}>
