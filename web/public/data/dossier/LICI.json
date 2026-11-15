@@ -1,0 +1,342 @@
+{
+ "symbol": "LICI",
+ "name": "Life Insurance Corporation of India",
+ "generated_at": "2026-11-15T18:07:54+00:00",
+ "about": "Life Insurance Corporation (LIC) is the largest insurance provider company in India. It has a market share of above 66.2% in new business premium. The company offers participating insurance products and non-participating products like unit-linked insurance products, saving insurance products, term insurance products, health insurance, and annuity & pension products.",
+ "sector": "Insurance",
+ "price": {
+  "close": 399.3,
+  "change_pct": -1.2,
+  "mcap_cr": 505114.0,
+  "pe": 8.13,
+  "roce": 35.1,
+  "roe": 37.8
+ },
+ "quarters": [
+  {
+   "period": "Dec 2023",
+   "revenue": 214054.0,
+   "ebitda": 9239.0,
+   "pbt": 9445.0,
+   "pat": 9434.0,
+   "opm": 4.3
+  },
+  {
+   "period": "Mar 2024",
+   "revenue": 238717.0,
+   "ebitda": 1564.0,
+   "pbt": 15813.0,
+   "pat": 13842.0,
+   "opm": 0.7
+  },
+  {
+   "period": "Jun 2024",
+   "revenue": 211952.0,
+   "ebitda": 9773.0,
+   "pbt": 10774.0,
+   "pat": 10527.0,
+   "opm": 4.6
+  },
+  {
+   "period": "Sep 2024",
+   "revenue": 231132.0,
+   "ebitda": 6588.0,
+   "pbt": 7382.0,
+   "pat": 7723.0,
+   "opm": 2.9
+  },
+  {
+   "period": "Dec 2024",
+   "revenue": 203751.0,
+   "ebitda": 11934.0,
+   "pbt": 12752.0,
+   "pat": 11009.0,
+   "opm": 6.0
+  },
+  {
+   "period": "Mar 2025",
+   "revenue": 243134.0,
+   "ebitda": 21514.0,
+   "pbt": 22468.0,
+   "pat": 19039.0,
+   "opm": 9.0
+  },
+  {
+   "period": "Jun 2025",
+   "revenue": 224671.0,
+   "ebitda": 10474.0,
+   "pbt": 11253.0,
+   "pat": 10955.0,
+   "opm": 4.7
+  },
+  {
+   "period": "Sep 2025",
+   "revenue": 241524.0,
+   "ebitda": 9492.0,
+   "pbt": 10537.0,
+   "pat": 10096.0,
+   "opm": 3.9
+  },
+  {
+   "period": "Dec 2025",
+   "revenue": 235954.0,
+   "ebitda": 12366.0,
+   "pbt": 13188.0,
+   "pat": 12908.0,
+   "opm": 5.0
+  },
+  {
+   "period": "Mar 2026",
+   "revenue": 276744.0,
+   "ebitda": 11222.0,
+   "pbt": 14388.0,
+   "pat": 23467.0,
+   "opm": 4.1
+  },
+  {
+   "period": "Jun 2026",
+   "revenue": 239866.0,
+   "ebitda": 14012.0,
+   "pbt": 15312.0,
+   "pat": 13584.0,
+   "opm": 6.0
+  },
+  {
+   "period": "Sep 2026",
+   "revenue": 265322.0,
+   "ebitda": 10884.0,
+   "pbt": 11679.0,
+   "pat": 12112.0,
+   "opm": 4.1
+  }
+ ],
+ "annual": [
+  {
+   "year": "Mar 2019",
+   "revenue": 571508.0,
+   "ebitda": 5920.0,
+   "pat": 2627.0,
+   "opm": 1.0,
+   "cfo": 13274.0,
+   "capex": 1993.0,
+   "fcf": 11281.0,
+   "debt": 269401.0,
+   "equity": 810.0
+  },
+  {
+   "year": "Mar 2020",
+   "revenue": 628043.0,
+   "ebitda": -6947.0,
+   "pat": 2710.0,
+   "opm": -1.1,
+   "cfo": 54367.0,
+   "capex": 920.0,
+   "fcf": 53447.0,
+   "debt": 253414.0,
+   "equity": 1002.0
+  },
+  {
+   "year": "Mar 2021",
+   "revenue": 690914.0,
+   "ebitda": -252.0,
+   "pat": 2974.0,
+   "opm": -0.0,
+   "cfo": 80602.0,
+   "capex": -6163.0,
+   "fcf": 86765.0,
+   "debt": 4.0,
+   "equity": 6884.0
+  },
+  {
+   "year": "Mar 2022",
+   "revenue": 723606.0,
+   "ebitda": 3326.0,
+   "pat": 4125.0,
+   "opm": 0.5,
+   "cfo": -3783.0,
+   "capex": 96.0,
+   "fcf": -3879.0,
+   "debt": 1.0,
+   "equity": 11337.0
+  },
+  {
+   "year": "Mar 2023",
+   "revenue": 784628.0,
+   "ebitda": 34130.0,
+   "pat": 35997.0,
+   "opm": 4.3,
+   "cfo": 54519.0,
+   "capex": 543.0,
+   "fcf": 53976.0,
+   "debt": 0.0,
+   "equity": 46233.0
+  },
+  {
+   "year": "Mar 2024",
+   "revenue": 845966.0,
+   "ebitda": 32651.0,
+   "pat": 40916.0,
+   "opm": 3.9,
+   "cfo": 26548.0,
+   "capex": 713.0,
+   "fcf": 25835.0,
+   "debt": 0.0,
+   "equity": 82747.0
+  },
+  {
+   "year": "Mar 2025",
+   "revenue": 889970.0,
+   "ebitda": 53278.0,
+   "pat": 48320.0,
+   "opm": 6.0,
+   "cfo": -9721.0,
+   "capex": 714.0,
+   "fcf": -10435.0,
+   "debt": 0.0,
+   "equity": 127226.0
+  },
+  {
+   "year": "Mar 2026",
+   "revenue": 977772.0,
+   "ebitda": 48761.0,
+   "pat": 57453.0,
+   "opm": 5.0,
+   "cfo": -26211.0,
+   "capex": 970.0,
+   "fcf": -27181.0,
+   "debt": 0.0,
+   "equity": 176605.0
+  }
+ ],
+ "computed": {
+  "revenue_cagr_3y": 7.6,
+  "revenue_cagr_5y": 7.2,
+  "pat_cagr_3y": 16.9,
+  "pat_cagr_5y": 80.8,
+  "opm_trend": "expanding",
+  "de_ratio": 0.0,
+  "debt_trend": "flat",
+  "cfo_to_pat_5y": 0.22,
+  "fcf_5y_cr": 38316,
+  "ccc_days": 0.0,
+  "ccc_trend": "stable"
+ },
+ "flags": [
+  {
+   "level": "bad",
+   "text": "CFO/PAT over 5y is 0.22 — profits not turning into cash"
+  },
+  {
+   "level": "good",
+   "text": "Debt/equity is 0.00 — virtually debt-free"
+  },
+  {
+   "level": "good",
+   "text": "Operating margin expanding: 4% → 5% over 3 years"
+  },
+  {
+   "level": "good",
+   "text": "ROCE is 35.1%"
+  },
+  {
+   "level": "watch",
+   "text": "Promoter holding fell from 96.5% to 90.0% in 4 quarters"
+  },
+  {
+   "level": "good",
+   "text": "Latest quarter PAT up 20.0% YoY (Sep 2026)"
+  }
+ ],
+ "sources": [
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Nov 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9dcdd6d0-0086-4539-97c0-493a8fff5db6.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Nov 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=74a6fdc0-3040-4810-b413-1bbbc832bb3b.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=cefca5f4-2b3a-4cd8-9cd1-215f84a24208.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=07898360-ba60-4dc6-a68d-ba240e4ca3cf.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fc904de4-4626-4d5f-83a2-4ff69a33f63b.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2f67c5ee-c7fe-4697-b0cc-b86825ca59b1.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · May 2026",
+   "url": "https://licindia.in/documents/20121/93502/INVESTOR++PRESENTATION+FY26-FINAL+21.05.2026.pdf/46155f3d-c0a8-34ff-e765-e2ab4349b2a0?t=1779368126135"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Feb 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=315382f7-76e8-42ba-b8bb-a6546f54c273.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Feb 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=48ceddad-0897-45a3-b6e1-f664b2b6160d.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Nov 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=27396945-f034-49bd-ac3f-5d7d66b2c1d2.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Nov 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fe12aa30-ff7e-4c6d-a5e6-75e7cf18d28c.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Nov 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3fb31d03-e6e1-4399-a277-d84442d4ba03.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Nov 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e780d6bd-d05b-4198-9154-dd666984e7f4.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/bbfc5caf-c294-4e5a-b33d-7cc543f0479d.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/7eecfc8a-4aeb-4c89-bdec-5b8ed7193156.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2024",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/764916b5-38e0-42fc-a78e-764903a5e7ec.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2023",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/d4bd272a-992b-436a-abd9-6551a0ef5c03.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2022",
+   "url": "https://www.bseindia.com/bseplus/AnnualReport/543526/75150543526.pdf"
+  }
+ ]
+}

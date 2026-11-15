@@ -1,0 +1,305 @@
+{
+ "symbol": "ABB",
+ "name": "ABB India Ltd",
+ "generated_at": "2026-11-15T18:07:12+00:00",
+ "about": "ABB India Limited is an integrated power equipment manufacturer supplying the complete range of engineering, products, solutions and services in areas of Automation and Power technology.",
+ "sector": "Electrical Equipment",
+ "price": {
+  "close": 7054.5,
+  "change_pct": 1.9,
+  "mcap_cr": 149491.0,
+  "pe": 95.1,
+  "roce": 29.9,
+  "roe": 22.4
+ },
+ "quarters": [
+  {
+   "period": "Sep 2019",
+   "revenue": 1746.0,
+   "ebitda": 123.0,
+   "pbt": 169.0,
+   "pat": 135.0,
+   "opm": 7.0
+  },
+  {
+   "period": "Mar 2022",
+   "revenue": 1975.0,
+   "ebitda": 188.0,
+   "pbt": 201.0,
+   "pat": 80.0,
+   "opm": 10.0
+  },
+  {
+   "period": "Jun 2022",
+   "revenue": 2098.0,
+   "ebitda": 200.0,
+   "pbt": 196.0,
+   "pat": 146.0,
+   "opm": 10.0
+  },
+  {
+   "period": "Sep 2024",
+   "revenue": 2912.0,
+   "ebitda": 540.0,
+   "pbt": 597.0,
+   "pat": 440.0,
+   "opm": 19.0
+  },
+  {
+   "period": "Dec 2024",
+   "revenue": 3365.0,
+   "ebitda": 657.0,
+   "pbt": 702.0,
+   "pat": 528.0,
+   "opm": 20.0
+  },
+  {
+   "period": "Mar 2025",
+   "revenue": 3010.0,
+   "ebitda": 560.0,
+   "pbt": 631.0,
+   "pat": 475.0,
+   "opm": 19.0
+  },
+  {
+   "period": "Jun 2025",
+   "revenue": 2940.0,
+   "ebitda": 401.0,
+   "pbt": 471.0,
+   "pat": 352.0,
+   "opm": 14.0
+  },
+  {
+   "period": "Sep 2025",
+   "revenue": 3130.0,
+   "ebitda": 486.0,
+   "pbt": 539.0,
+   "pat": 409.0,
+   "opm": 16.0
+  },
+  {
+   "period": "Dec 2025",
+   "revenue": 3423.0,
+   "ebitda": 527.0,
+   "pbt": 571.0,
+   "pat": 433.0,
+   "opm": 15.0
+  },
+  {
+   "period": "Mar 2026",
+   "revenue": 3184.0,
+   "ebitda": 408.0,
+   "pbt": 1904.0,
+   "pat": 1784.0,
+   "opm": 13.0
+  },
+  {
+   "period": "Jun 2026",
+   "revenue": 3559.0,
+   "ebitda": 447.0,
+   "pbt": 491.0,
+   "pat": 362.0,
+   "opm": 13.0
+  },
+  {
+   "period": "Sep 2026",
+   "revenue": 3738.0,
+   "ebitda": 552.0,
+   "pbt": 583.0,
+   "pat": 443.0,
+   "opm": 15.0
+  }
+ ],
+ "annual": [
+  {
+   "year": "Dec 2011",
+   "revenue": 7449.0,
+   "ebitda": 356.0,
+   "pat": 185.0,
+   "opm": 4.8,
+   "cfo": 120.0,
+   "capex": 154.0,
+   "fcf": -34.0,
+   "debt": 0.0,
+   "equity": 2534.0
+  },
+  {
+   "year": "Dec 2012",
+   "revenue": 7608.0,
+   "ebitda": 355.0,
+   "pat": 141.0,
+   "opm": 4.7,
+   "cfo": -44.0,
+   "capex": 174.0,
+   "fcf": -218.0,
+   "debt": 328.0,
+   "equity": 2601.0
+  },
+  {
+   "year": "Dec 2024",
+   "revenue": 12188.0,
+   "ebitda": 2311.0,
+   "pat": 1872.0,
+   "opm": 19.0,
+   "cfo": 1332.0,
+   "capex": 214.0,
+   "fcf": 1118.0,
+   "debt": 52.0,
+   "equity": 7075.0
+  },
+  {
+   "year": "Dec 2025",
+   "revenue": 13203.0,
+   "ebitda": 2045.0,
+   "pat": 1668.0,
+   "opm": 15.0,
+   "cfo": 1220.0,
+   "capex": 240.0,
+   "fcf": 980.0,
+   "debt": 85.0,
+   "equity": 7836.0
+  }
+ ],
+ "computed": {
+  "revenue_cagr_3y": 21.0,
+  "revenue_cagr_5y": null,
+  "pat_cagr_3y": 108.1,
+  "pat_cagr_5y": null,
+  "opm_trend": "expanding",
+  "de_ratio": 0.01,
+  "debt_trend": "rising",
+  "cfo_to_pat_5y": null,
+  "fcf_5y_cr": null,
+  "ccc_days": 21.0,
+  "ccc_trend": "shortening"
+ },
+ "flags": [
+  {
+   "level": "good",
+   "text": "Debt/equity is 0.01 — virtually debt-free"
+  },
+  {
+   "level": "watch",
+   "text": "Borrowings rose from ₹0 Cr to ₹85 Cr over 3 years"
+  },
+  {
+   "level": "good",
+   "text": "Operating margin expanding: 5% → 15% over 3 years"
+  },
+  {
+   "level": "good",
+   "text": "Cash conversion cycle shortened from 75 to 21 days"
+  },
+  {
+   "level": "good",
+   "text": "ROCE is 29.9%"
+  }
+ ],
+ "sources": [
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5134e9c6-e7f8-4283-850e-596c8fcb5585.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Aug 2026",
+   "url": "https://new.abb.com/docs/librariesprovider19/default-document-library/abb-press-analyst-presentation.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · May 2026",
+   "url": "https://new.abb.com/docs/librariesprovider19/default-document-library/analystcalltranscript-q12026.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · May 2026",
+   "url": "https://new.abb.com/docs/librariesprovider19/default-document-library/q1-cy2026-analyst-ppt.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Feb 2026",
+   "url": "https://nsearchives.nseindia.com/corporate/ABB_27022026191521_SETranscriptofAnalystcallQ42025.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Feb 2026",
+   "url": "https://new.abb.com/docs/librariesprovider19/default-document-library/analystcallq42025.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Nov 2025",
+   "url": "https://new.abb.com/docs/librariesprovider19/default-document-library/abbtranscriptofanalystcallccc471f5c1f463c09537ff0000433538.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Nov 2025",
+   "url": "https://new.abb.com/docs/librariesprovider19/default-document-library/letter-to-se_analyst-ppt.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Aug 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ef3fa682-30b0-47b0-9b08-6ba7757a845c.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Aug 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d1842d17-5ab0-4a93-a230-bfa715c391e1.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · May 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a1e56231-6856-4ffb-a32c-d7d9fdde8fcc.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · May 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2cde09e4-ffa3-4f0f-a7c7-584e1cae637a.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Feb 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2bde9c0b-7f48-4efb-b03c-57cb66a9efd2.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Feb 2025",
+   "url": "https://search.abb.com/library/Download.aspx?DocumentID=9AKK108470A7500&LanguageCode=en&DocumentPartId=&Action=Launch"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Nov 2024",
+   "url": "https://nsearchives.nseindia.com/corporate/ABB_08112024173510_ABBTranscriptofAnalystcallQ32024.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Nov 2024",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=27600acf-563d-4525-a74e-f82e60ab3342.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/3e1f777e-4988-48f8-b545-f788c673245c.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2024",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/dd2b0650-5092-495e-9c42-f35f1e479dee.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2023",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/35d46686-9499-482a-914c-0d1f8f13b6d5.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2022",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/f5a4131a-d050-4c6f-9205-9f87fb552375.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2021",
+   "url": "https://www.bseindia.com/bseplus/AnnualReport/500002/72961500002.pdf"
+  }
+ ]
+}

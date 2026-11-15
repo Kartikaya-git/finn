@@ -285,7 +285,7 @@ function Skeleton({ symbol }: { symbol: string }) {
 }
 
 function NotIndexed({ symbol, name }: { symbol: string; name: string | null }) {
-  const cmd = `python -m finn dossier ${symbol}`
+  const cmd = `python -m finn.expand ${symbol}`
   const [copied, setCopied] = useState(false)
   return (
     <div className="dz">
@@ -294,14 +294,17 @@ function NotIndexed({ symbol, name }: { symbol: string; name: string | null }) {
         <p className="label">Not indexed</p>
         <h1 className="hero-h">FINN hasn’t read {name ?? symbol}’s filings yet.</h1>
         <p className="ni-p">A Dossier is built offline from exchange filings: twelve quarters, twelve years of annual results, cash flows and the balance sheet. This symbol isn’t in the index, so there is nothing to show that we could stand behind.</p>
-        <p className="label ni-l">Build it locally</p>
+        <a className="ni-build" href={`https://github.com/Kartikaya-git/finn/issues/new?title=${encodeURIComponent(`build: ${symbol}`)}&body=${encodeURIComponent(`Build the FINN Dossier for ${symbol}. Submitting this issue starts the build; it closes itself when the Dossier is live (about 3 minutes).`)}`} target="_blank" rel="noreferrer">
+          Build it <span aria-hidden="true">→</span>
+        </a>
+        <p className="ni-p dim">Opens a one-click request on GitHub. FINN reads {symbol}’s filings and transcripts, writes the Dossier, and publishes it here in about 3 minutes. Then reload this page.</p>
+        <p className="label ni-l">Or build it on your machine</p>
         <div className="cmd">
           <code>{cmd}</code>
           <button type="button" onClick={() => { navigator.clipboard?.writeText(cmd).then(() => { setCopied(true); setTimeout(() => setCopied(false), 1600) }).catch(() => {}) }}>
             {copied ? 'Copied' : 'Copy'}
           </button>
         </div>
-        <p className="ni-p dim">Takes the symbol exactly as listed on NSE. Then reload this page.</p>
         <p className="prov">Nothing on this page is estimated</p>
       </section>
       <Dock />

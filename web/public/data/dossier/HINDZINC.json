@@ -1,0 +1,316 @@
+{
+ "symbol": "HINDZINC",
+ "name": "Hindustan Zinc Ltd",
+ "generated_at": "2026-11-15T18:07:40+00:00",
+ "about": "Incorporated in 1966, Hindustan Zinc in Zinc-Lead and Silver business is world’s 2nd largest integrated Zinc producer and Hindustan Zinc is the 3rd largest silver producer globally with an annual capacity of 800MT . The company has a market share of ~75% of the growing Zinc market in India with its headquarters at Zinc City, Udaipur along with Zinc-Lead mines and smelting complexes spread across the state of Rajasthan.",
+ "sector": "Non - Ferrous Metals",
+ "price": {
+  "close": 554.85,
+  "change_pct": -2.2,
+  "mcap_cr": 234442.0,
+  "pe": 11.3,
+  "roce": 69.5,
+  "roe": 76.8
+ },
+ "quarters": [
+  {
+   "period": "Dec 2023",
+   "revenue": 7310.0,
+   "ebitda": 3521.0,
+   "pbt": 2669.0,
+   "pat": 2028.0,
+   "opm": 48.0
+  },
+  {
+   "period": "Mar 2024",
+   "revenue": 7549.0,
+   "ebitda": 3649.0,
+   "pbt": 2723.0,
+   "pat": 2038.0,
+   "opm": 48.0
+  },
+  {
+   "period": "Jun 2024",
+   "revenue": 8130.0,
+   "ebitda": 3946.0,
+   "pbt": 3114.0,
+   "pat": 2345.0,
+   "opm": 49.0
+  },
+  {
+   "period": "Sep 2024",
+   "revenue": 8252.0,
+   "ebitda": 4123.0,
+   "pbt": 3130.0,
+   "pat": 2327.0,
+   "opm": 50.0
+  },
+  {
+   "period": "Dec 2024",
+   "revenue": 8614.0,
+   "ebitda": 4499.0,
+   "pbt": 3527.0,
+   "pat": 2678.0,
+   "opm": 52.0
+  },
+  {
+   "period": "Mar 2025",
+   "revenue": 9087.0,
+   "ebitda": 4820.0,
+   "pbt": 3782.0,
+   "pat": 3003.0,
+   "opm": 53.0
+  },
+  {
+   "period": "Jun 2025",
+   "revenue": 7771.0,
+   "ebitda": 3859.0,
+   "pbt": 2985.0,
+   "pat": 2234.0,
+   "opm": 50.0
+  },
+  {
+   "period": "Sep 2025",
+   "revenue": 8549.0,
+   "ebitda": 4445.0,
+   "pbt": 3542.0,
+   "pat": 2649.0,
+   "opm": 52.0
+  },
+  {
+   "period": "Dec 2025",
+   "revenue": 10980.0,
+   "ebitda": 6054.0,
+   "pbt": 5230.0,
+   "pat": 3916.0,
+   "opm": 55.0
+  },
+  {
+   "period": "Mar 2026",
+   "revenue": 13544.0,
+   "ebitda": 7706.0,
+   "pbt": 6751.0,
+   "pat": 5033.0,
+   "opm": 57.0
+  },
+  {
+   "period": "Jun 2026",
+   "revenue": 13747.0,
+   "ebitda": 8050.0,
+   "pbt": 7314.0,
+   "pat": 5469.0,
+   "opm": 59.0
+  },
+  {
+   "period": "Sep 2026",
+   "revenue": 15093.0,
+   "ebitda": 9248.0,
+   "pbt": 8572.0,
+   "pat": 6412.0,
+   "opm": 61.0
+  }
+ ],
+ "annual": [
+  {
+   "year": "Mar 2021",
+   "revenue": 22629.0,
+   "ebitda": 11672.0,
+   "pat": 7980.0,
+   "opm": 52.0,
+   "cfo": 10567.0,
+   "capex": 2427.0,
+   "fcf": 8140.0,
+   "debt": 7201.0,
+   "equity": 32313.0
+  },
+  {
+   "year": "Mar 2022",
+   "revenue": 29440.0,
+   "ebitda": 16225.0,
+   "pat": 9629.0,
+   "opm": 55.0,
+   "cfo": 12691.0,
+   "capex": 2968.0,
+   "fcf": 9723.0,
+   "debt": 2844.0,
+   "equity": 34281.0
+  },
+  {
+   "year": "Mar 2023",
+   "revenue": 34098.0,
+   "ebitda": 17515.0,
+   "pat": 10511.0,
+   "opm": 51.0,
+   "cfo": 15162.0,
+   "capex": 3575.0,
+   "fcf": 11587.0,
+   "debt": 11881.0,
+   "equity": 12932.0
+  },
+  {
+   "year": "Mar 2024",
+   "revenue": 28932.0,
+   "ebitda": 13676.0,
+   "pat": 7759.0,
+   "opm": 47.0,
+   "cfo": 13346.0,
+   "capex": 3815.0,
+   "fcf": 9531.0,
+   "debt": 8722.0,
+   "equity": 15195.0
+  },
+  {
+   "year": "Mar 2025",
+   "revenue": 34083.0,
+   "ebitda": 17431.0,
+   "pat": 10353.0,
+   "opm": 51.0,
+   "cfo": 14160.0,
+   "capex": 3999.0,
+   "fcf": 10161.0,
+   "debt": 10967.0,
+   "equity": 13326.0
+  },
+  {
+   "year": "Mar 2026",
+   "revenue": 40844.0,
+   "ebitda": 22080.0,
+   "pat": 13832.0,
+   "opm": 54.0,
+   "cfo": 17008.0,
+   "capex": 5262.0,
+   "fcf": 11746.0,
+   "debt": 8728.0,
+   "equity": 22629.0
+  }
+ ],
+ "computed": {
+  "revenue_cagr_3y": 6.2,
+  "revenue_cagr_5y": 12.5,
+  "pat_cagr_3y": 9.6,
+  "pat_cagr_5y": 11.6,
+  "opm_trend": "stable",
+  "de_ratio": 0.39,
+  "debt_trend": "falling",
+  "cfo_to_pat_5y": 1.39,
+  "fcf_5y_cr": 52748,
+  "ccc_days": 4.0,
+  "ccc_trend": "stable"
+ },
+ "flags": [
+  {
+   "level": "good",
+   "text": "CFO/PAT over 5y is 1.39 — profits backed by cash"
+  },
+  {
+   "level": "good",
+   "text": "ROCE is 69.5%"
+  },
+  {
+   "level": "good",
+   "text": "Latest quarter PAT up 142.1% YoY (Sep 2026)"
+  }
+ ],
+ "sources": [
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Oct 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c7855465-32dd-44c8-9c0b-e63ce6ac0be5.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Oct 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9d28cec3-e812-4af2-b066-14920c33e5ec.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=74208df2-5e39-4713-a1b0-f7b87cabf359.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=29355fba-ad16-49f3-8df6-6117f966361c.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Apr 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=682ed8fa-0d50-482f-997e-3a71523c0975.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Apr 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0f38c8fb-0dc6-453f-af29-df3528bf752a.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jan 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=04bd0d17-b4b2-4366-95a5-d6f9a5dae61f.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jan 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=72dbe130-c26d-4540-84fe-25a091410257.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jan 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=72dbe130-c26d-4540-84fe-25a091410257.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Oct 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9dea2955-21b2-4373-8705-8f6542740da5.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Oct 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=254ec5ea-b203-4314-8bd8-3922212858b6.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Aug 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=57a056d5-86c7-436d-a526-fd0e87814f5d.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Aug 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8e5aae89-0af5-4d48-aec1-0a1183a58a5c.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jul 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=cfe63060-1f0f-4a68-8c87-a1287c4177fd.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jul 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7056217f-7292-46dd-9328-f31165a2eb79.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/cbc28329-b172-488c-9dcd-71d786cd9053.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/2903ea37-2983-4b1e-9fad-68c7f24d81e7.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2024",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/89081a77-45f1-4b23-8d31-39984152f7fd.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2023",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/fe549e8b-8d46-440b-8991-4cb5ce21322e.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2022",
+   "url": "https://www.bseindia.com/bseplus/AnnualReport/500188/73728500188.pdf"
+  }
+ ]
+}

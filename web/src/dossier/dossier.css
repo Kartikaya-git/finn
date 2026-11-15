@@ -299,3 +299,5 @@ figure.solo { margin-top: 16px; }
 @media (prefers-reduced-motion: reduce) { .tabs button::after, .chev { transition: none; } }
 
 .strip dd.pos { color: var(--pos); } .strip dd.neg { color: var(--neg); }
+
+.ni-build { display: flex; align-items: center; justify-content: center; gap: 8px; min-height: 48px; margin: 20px 0 8px; border-radius: 999px; background: var(--ink); color: var(--paper); font-weight: 600; font-size: 15px; }

@@ -1,0 +1,375 @@
+{
+ "symbol": "GAIL",
+ "name": "GAIL (India) Ltd",
+ "generated_at": "2026-11-15T18:07:34+00:00",
+ "about": "Incorporated in 1984, GAIL, a Government of India undertaking, is an integrated natural gas company in India. It owns over 11,500 km of natural gas pipelines, over 2300 km of LPG pipelines, six LPG gas-processing units and a petrochemicals facility. It also has a joint-venture interest in Petronet LNG Ltd, Ratnagiri Gas and Power Pvt Ltd, and in the CGD business in several cities. GAIL has wholly owned subsidiaries in Singapore and the US for expanding its presence outside India in the segments of LNG, petrochemical trading and shale gas assets.",
+ "sector": "Gas",
+ "price": {
+  "close": 188.0,
+  "change_pct": 0.0,
+  "mcap_cr": 123612.0,
+  "pe": 9.79,
+  "roce": 9.67,
+  "roe": 8.71
+ },
+ "quarters": [
+  {
+   "period": "Dec 2023",
+   "revenue": 34698.0,
+   "ebitda": 4208.0,
+   "pbt": 4075.0,
+   "pat": 3193.0,
+   "opm": 12.0
+  },
+  {
+   "period": "Mar 2024",
+   "revenue": 32756.0,
+   "ebitda": 3849.0,
+   "pbt": 3099.0,
+   "pat": 2474.0,
+   "opm": 12.0
+  },
+  {
+   "period": "Jun 2024",
+   "revenue": 34738.0,
+   "ebitda": 4790.0,
+   "pbt": 4114.0,
+   "pat": 3183.0,
+   "opm": 14.0
+  },
+  {
+   "period": "Sep 2024",
+   "revenue": 33889.0,
+   "ebitda": 3937.0,
+   "pbt": 3470.0,
+   "pat": 2690.0,
+   "opm": 12.0
+  },
+  {
+   "period": "Dec 2024",
+   "revenue": 36835.0,
+   "ebitda": 3169.0,
+   "pbt": 5272.0,
+   "pat": 4084.0,
+   "opm": 9.0
+  },
+  {
+   "period": "Mar 2025",
+   "revenue": 36440.0,
+   "ebitda": 3526.0,
+   "pbt": 3240.0,
+   "pat": 2506.0,
+   "opm": 10.0
+  },
+  {
+   "period": "Jun 2025",
+   "revenue": 35311.0,
+   "ebitda": 3669.0,
+   "pbt": 3029.0,
+   "pat": 2382.0,
+   "opm": 10.0
+  },
+  {
+   "period": "Sep 2025",
+   "revenue": 35537.0,
+   "ebitda": 3460.0,
+   "pbt": 2565.0,
+   "pat": 1989.0,
+   "opm": 10.0
+  },
+  {
+   "period": "Dec 2025",
+   "revenue": 35173.0,
+   "ebitda": 2927.0,
+   "pbt": 2165.0,
+   "pat": 1729.0,
+   "opm": 8.0
+  },
+  {
+   "period": "Mar 2026",
+   "revenue": 35577.0,
+   "ebitda": 1453.0,
+   "pbt": 1966.0,
+   "pat": 1481.0,
+   "opm": 4.1
+  },
+  {
+   "period": "Jun 2026",
+   "revenue": 41198.0,
+   "ebitda": 7098.0,
+   "pbt": 6268.0,
+   "pat": 4671.0,
+   "opm": 17.0
+  },
+  {
+   "period": "Sep 2026",
+   "revenue": 47139.0,
+   "ebitda": 6992.0,
+   "pbt": 6100.0,
+   "pat": 4724.0,
+   "opm": 15.0
+  }
+ ],
+ "annual": [
+  {
+   "year": "Mar 2015",
+   "revenue": 60557.0,
+   "ebitda": 5631.0,
+   "pat": 3160.0,
+   "opm": 9.0,
+   "cfo": 4214.0,
+   "capex": 2716.0,
+   "fcf": 1498.0,
+   "debt": 18291.0,
+   "equity": 34022.0
+  },
+  {
+   "year": "Mar 2016",
+   "revenue": 52053.0,
+   "ebitda": 4536.0,
+   "pat": 1874.0,
+   "opm": 9.0,
+   "cfo": 3960.0,
+   "capex": 1460.0,
+   "fcf": 2500.0,
+   "debt": 9052.0,
+   "equity": 36403.0
+  },
+  {
+   "year": "Mar 2017",
+   "revenue": 48552.0,
+   "ebitda": 6021.0,
+   "pat": 3374.0,
+   "opm": 12.0,
+   "cfo": 6024.0,
+   "capex": 1995.0,
+   "fcf": 4029.0,
+   "debt": 6553.0,
+   "equity": 39305.0
+  },
+  {
+   "year": "Mar 2018",
+   "revenue": 54496.0,
+   "ebitda": 7802.0,
+   "pat": 4805.0,
+   "opm": 14.0,
+   "cfo": 8769.0,
+   "capex": 3399.0,
+   "fcf": 5370.0,
+   "debt": 3876.0,
+   "equity": 41679.0
+  },
+  {
+   "year": "Mar 2019",
+   "revenue": 76190.0,
+   "ebitda": 9938.0,
+   "pat": 6553.0,
+   "opm": 13.0,
+   "cfo": 7984.0,
+   "capex": 7541.0,
+   "fcf": 443.0,
+   "debt": 2224.0,
+   "equity": 46004.0
+  },
+  {
+   "year": "Mar 2020",
+   "revenue": 72518.0,
+   "ebitda": 9022.0,
+   "pat": 9515.0,
+   "opm": 12.0,
+   "cfo": 8345.0,
+   "capex": 9235.0,
+   "fcf": -890.0,
+   "debt": 6912.0,
+   "equity": 49268.0
+  },
+  {
+   "year": "Mar 2021",
+   "revenue": 57372.0,
+   "ebitda": 7245.0,
+   "pat": 6143.0,
+   "opm": 13.0,
+   "cfo": 8993.0,
+   "capex": 5684.0,
+   "fcf": 3309.0,
+   "debt": 7873.0,
+   "equity": 53182.0
+  },
+  {
+   "year": "Mar 2022",
+   "revenue": 92770.0,
+   "ebitda": 15161.0,
+   "pat": 12304.0,
+   "opm": 16.0,
+   "cfo": 9420.0,
+   "capex": 6939.0,
+   "fcf": 2481.0,
+   "debt": 9216.0,
+   "equity": 64114.0
+  },
+  {
+   "year": "Mar 2023",
+   "revenue": 145668.0,
+   "ebitda": 7500.0,
+   "pat": 5596.0,
+   "opm": 5.0,
+   "cfo": 3205.0,
+   "capex": 8753.0,
+   "fcf": -5548.0,
+   "debt": 17816.0,
+   "equity": 64927.0
+  },
+  {
+   "year": "Mar 2024",
+   "revenue": 133228.0,
+   "ebitda": 14314.0,
+   "pat": 9903.0,
+   "opm": 11.0,
+   "cfo": 12586.0,
+   "capex": 12488.0,
+   "fcf": 98.0,
+   "debt": 21794.0,
+   "equity": 76997.0
+  },
+  {
+   "year": "Mar 2025",
+   "revenue": 141902.0,
+   "ebitda": 15412.0,
+   "pat": 12463.0,
+   "opm": 11.0,
+   "cfo": 15727.0,
+   "capex": 7909.0,
+   "fcf": 7818.0,
+   "debt": 21595.0,
+   "equity": 84997.0
+  },
+  {
+   "year": "Mar 2026",
+   "revenue": 141598.0,
+   "ebitda": 11502.0,
+   "pat": 7582.0,
+   "opm": 8.0,
+   "cfo": 11249.0,
+   "capex": 8798.0,
+   "fcf": 2451.0,
+   "debt": 24831.0,
+   "equity": 89049.0
+  }
+ ],
+ "computed": {
+  "revenue_cagr_3y": -0.9,
+  "revenue_cagr_5y": 19.8,
+  "pat_cagr_3y": 10.7,
+  "pat_cagr_5y": 4.3,
+  "opm_trend": "stable",
+  "de_ratio": 0.28,
+  "debt_trend": "rising",
+  "cfo_to_pat_5y": 1.09,
+  "fcf_5y_cr": 7300,
+  "ccc_days": 19.0,
+  "ccc_trend": "stable"
+ },
+ "flags": [
+  {
+   "level": "good",
+   "text": "CFO/PAT over 5y is 1.09 — profits backed by cash"
+  },
+  {
+   "level": "watch",
+   "text": "Borrowings rose from ₹17,816 Cr to ₹24,831 Cr over 3 years"
+  },
+  {
+   "level": "good",
+   "text": "Revenue 5y CAGR is 19.8%"
+  },
+  {
+   "level": "watch",
+   "text": "PAT 5y CAGR 4.3% lags revenue CAGR 19.8% — margins leaking"
+  },
+  {
+   "level": "watch",
+   "text": "ROCE is 9.7% — below cost of capital"
+  },
+  {
+   "level": "good",
+   "text": "Latest quarter PAT up 137.5% YoY (Sep 2026)"
+  }
+ ],
+ "sources": [
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Oct 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9eb0688d-53f6-469d-a85b-13dc5a01d8f2.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jul 2026",
+   "url": "https://gailebank.gail.co.in/InvestorsZone/GAIL_EARNINGS_CALL_Q1_FY27.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3eda4efe-9d6d-438f-941c-a3a8a2389644.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=07a07684-1220-4a04-a416-ac2cb360abbf.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6679d94c-aa3c-49c1-837c-6dfc5cfed984.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Feb 2026",
+   "url": "https://www.gailonline.com/pdf/InvestorsZone/GAIL_Earnings_Call_Q3_FY_26.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Feb 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7bfcc61f-7cdc-416b-85e6-1b71480c55ee.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Oct 2025",
+   "url": "https://www.gailonline.com/pdf/InvestorsZone/GAIL_Earnings_Call_Q2_FY26_updated_041125.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Oct 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f2d772fb-a345-4ce5-b13e-e279ccfabb38.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Oct 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3cdcfaf1-346e-4b0c-9ca3-a89fca2da1af.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/474d7528-dc8d-40e6-bc63-d81008cbb813.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/6e59a978-52ed-4d18-ab76-c42d748c90de.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2024",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/a3d9f45c-7451-469c-a953-87d895e6fcb2.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2023",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/18f9ed26-4838-4cf6-b1d5-bac8483dbd38.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2022",
+   "url": "https://www.bseindia.com/bseplus/AnnualReport/532155/74034532155.pdf"
+  }
+ ]
+}

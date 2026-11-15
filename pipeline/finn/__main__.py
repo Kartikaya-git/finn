@@ -36,6 +36,11 @@ def universe() -> dict[str, list[str]]:
     return kinds
 
 
+def extra_tickers() -> list[dict]:
+    p = OUT.parent.parent.parent / "pipeline" / "indexed_extra.json"
+    return json.loads(p.read_text()) if p.exists() else []
+
+
 def build() -> None:
     kinds = universe()
     order = HOLDINGS + [s for s in RESEARCH if s not in HOLDINGS] + [s for s in NIFTY50 if s not in HOLDINGS and s not in RESEARCH]
@@ -59,6 +64,9 @@ def build() -> None:
         except (NotFound, Exception) as e:  # keep going; report at end
             failed.append(sym)
             print(f"dossier {i}/{len(order)} {sym} FAILED: {type(e).__name__}: {e}", flush=True)
+    # Keep companies added on demand (finn.expand / the "Build it" workflow): their Dossiers are
+    # rebuilt when requested, not on every 30-minute run.
+    tickers += [t for t in extra_tickers() if t["symbol"] not in {x["symbol"] for x in tickers}]
     (OUT / "tickers.json").write_text(json.dumps({"generated_at": now_iso(), "tickers": tickers}, ensure_ascii=False, indent=1))
     (OUT / "brief.json").write_text(json.dumps({"generated_at": now_iso(), "holdings": holdings}, ensure_ascii=False, indent=1))
     print(f"wrote brief.json ({len(holdings)} holdings), tickers.json ({len(tickers)}), failed: {failed or 'none'}")

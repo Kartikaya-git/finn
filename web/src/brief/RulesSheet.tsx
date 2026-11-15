@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useRef } from 'react'
+import { useEffect, useMemo, useRef, useState } from 'react'
 import { CATEGORIES, DEFAULT_RULES, market, type CatMode, type WatchRules } from '../rules'
 import { num } from '../fmt'
 import type { Brief } from '../types'
@@ -83,6 +83,8 @@ export function RulesSheet({ brief, rules, setRules, onClose, live, dismissedCou
           </ul>
         </div>
 
+        <PhoneAlerts />
+
         <div className="bf-sh-foot">
           <button type="button" className="bf-btn ghost" disabled={isDefault} onClick={() => setRules(DEFAULT_RULES)}>Reset rules</button>
           <button type="button" className="bf-btn ghost" disabled={dismissedCount === 0} onClick={onRestore}>
@@ -90,6 +92,40 @@ export function RulesSheet({ brief, rules, setRules, onClose, live, dismissedCou
           </button>
         </div>
       </div>
+    </div>
+  )
+}
+
+const NTFY_TOPIC = 'finn-kartikaya-portfolio'
+
+function PhoneAlerts() {
+  const [state, setState] = useState<'idle' | 'sending' | 'sent' | 'failed'>('idle')
+  const test = async () => {
+    setState('sending')
+    try {
+      const r = await fetch(`https://ntfy.sh/${NTFY_TOPIC}`, {
+        method: 'POST',
+        body: 'Test alert from FINN. If you can read this, phone alerts work.',
+        headers: { Title: 'FINN test alert', Tags: 'bell' },
+      })
+      setState(r.ok ? 'sent' : 'failed')
+    } catch {
+      setState('failed')
+    }
+  }
+  return (
+    <div className="bf-sh-sec">
+      <h3 className="label">Phone alerts</h3>
+      <p className="bf-sh-note">
+        Get a notification the moment a filing needs you or a stock crosses your Watch rule. FINN checks every 30 minutes during market hours.
+      </p>
+      <div className="bf-sh-foot">
+        <a className="bf-btn solid" style={{ textDecoration: 'none', display: 'inline-flex', alignItems: 'center' }} href={`https://ntfy.sh/${NTFY_TOPIC}`} target="_blank" rel="noreferrer">Subscribe on this phone</a>
+        <button type="button" className="bf-btn ghost" disabled={state === 'sending'} onClick={test} aria-live="polite">
+          {state === 'sent' ? 'Sent ✓' : state === 'failed' ? 'Failed, try again' : state === 'sending' ? 'Sending…' : 'Send a test alert'}
+        </button>
+      </div>
+      <p className="bf-sh-note">or install the free ntfy app and subscribe to <b>{NTFY_TOPIC}</b></p>
     </div>
   )
 }

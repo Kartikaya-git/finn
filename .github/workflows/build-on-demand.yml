@@ -1,0 +1,49 @@
+name: Build a Dossier on demand
+
+# The app's "Build it" button opens an issue titled "build: SYMBOL". This builds that
+# company's Dossier (and transcript research when available), publishes it, and closes the issue.
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+  actions: write
+
+jobs:
+  build:
+    if: startsWith(github.event.issue.title, 'build:')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v5
+      - name: Parse symbol
+        id: sym
+        env:
+          TITLE: ${{ github.event.issue.title }}
+        run: |
+          SYM=$(echo "$TITLE" | sed 's/^build:[[:space:]]*//' | tr '[:lower:]' '[:upper:]' | tr -cd 'A-Z0-9&-' | cut -c1-20)
+          echo "symbol=$SYM" >> "$GITHUB_OUTPUT"
+      - name: Build Dossier
+        working-directory: pipeline
+        run: uv run python -m finn.expand "${{ steps.sym.outputs.symbol }}"
+      - name: Transcript research (best effort)
+        working-directory: pipeline/finn_research
+        continue-on-error: true
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: uv run python -m finn_research "${{ steps.sym.outputs.symbol }}"
+      - name: Commit, redeploy, close
+        env:
+          GH_TOKEN: ${{ github.token }}
+          SYM: ${{ steps.sym.outputs.symbol }}
+          NUM: ${{ github.event.issue.number }}
+        run: |
+          git config user.name "finn-pipeline"
+          git config user.email "finn-pipeline@users.noreply.github.com"
+          git add web/public/data pipeline/indexed_extra.json
+          git diff --cached --quiet || git commit -m "data: build $SYM on demand"
+          git pull --rebase -q && git push
+          gh workflow run deploy.yml
+          gh issue close "$NUM" -c "Built. The Dossier will be live in about a minute: https://kartikaya-git.github.io/finn/#/d/$SYM"
