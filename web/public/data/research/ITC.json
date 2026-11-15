@@ -1,0 +1,109 @@
+{
+  "symbol": "ITC",
+  "model": "gemini-3.5-flash-lite (extract) → gemini-3.8-flash (reconcile)",
+  "generated_at": "2026-11-15T17:26:01+00:00",
+  "business": {
+    "summary": "ITC is a diversified conglomerate operating across FMCG - Cigarettes, FMCG - Others, Agri Business, and Paperboards, Paper & Packaging. The company is expanding its portfolio into Digital-first and Organic brands as well as Fresh Food businesses alongside its core leaf tobacco, packaging, and branded packaged goods segments. Revenue growth is primarily anchored by Cigarettes and FMCG, supported by sequential recovery in Paperboards.",
+    "segments": [
+      {
+        "name": "FMCG - Cigarettes",
+        "share_pct": null
+      },
+      {
+        "name": "FMCG - Others",
+        "share_pct": null
+      },
+      {
+        "name": "Agri Business",
+        "share_pct": null
+      },
+      {
+        "name": "Paperboards, Paper & Packaging",
+        "share_pct": null
+      },
+      {
+        "name": "Others",
+        "share_pct": null
+      }
+    ]
+  },
+  "promises": [
+    {
+      "quarter": "Q2 FY26",
+      "promise": "FMCG - Others Segment sustained its Revenue growth momentum amidst operational challenges; up 8% YoY ex-Notebooks",
+      "source": "Q2 FY26 investor presentation",
+      "delivered": "In Q3 FY26, FMCG-Others delivered double-digit revenue growth of 11% YoY (or 12.6%), followed by 15% YoY revenue growth in Q4 FY26.",
+      "verdict": "kept"
+    },
+    {
+      "quarter": "Q2 FY26",
+      "promise": "Paper Segment performance improves sequentially with profit up 17% (margins up 90 bps QoQ)",
+      "source": "Q2 FY26 investor presentation",
+      "delivered": "In Q3 FY26, Paper Segment operating performance continued to improve with underlying profits up 19% QoQ and 11% YoY, followed by profits up 24% QoQ in Q4 FY26.",
+      "verdict": "kept"
+    },
+    {
+      "quarter": "Q3 FY26",
+      "promise": "wood prices are expected to moderate going forward",
+      "source": "Q3 FY26 investor presentation",
+      "delivered": "Paper Segment operating profits improved in Q4 FY26 (+21% YoY, +24% QoQ) and Q1 FY27 (PBIT up 38% YoY), but specific raw material wood price moderation data is not disclosed.",
+      "verdict": "pending"
+    },
+    {
+      "quarter": "Q4 FY26",
+      "promise": "Real GDP projected to grow by 6.9% in FY27 as per RBI estimates",
+      "source": "Q4 FY26 investor presentation",
+      "delivered": "In the Q1 FY27 presentation, the projection for FY27 Real GDP growth was moderated down to 6.4%, with FY27 performance still underway.",
+      "verdict": "partly"
+    }
+  ],
+  "narrative_vs_numbers": [
+    {
+      "claim": "Gross Revenue up 7.1% YoY, driven by double-digit revenue growth in FMCG-Others (+12.6%) and sustained momentum in Cigarettes business (+8.2%) in Q3 FY26",
+      "numbers": "Consolidated Sales in Dec 2025 reached Rs 20,047 cr, reflecting +7% YoY growth compared to Rs 18,790 cr in Dec 2024.",
+      "agrees": true
+    },
+    {
+      "claim": "Q4 FY26 Gross Revenue up 17.5% YoY amidst supply chain disruptions and logistical challenges",
+      "numbers": "Consolidated Sales in Mar 2026 dropped -5% YoY to Rs 17,825 cr from Rs 18,765 cr in Mar 2025.",
+      "agrees": false
+    },
+    {
+      "claim": "Overall EBITDA up 7.3% YoY and PAT up 5% YoY in Q4 FY26",
+      "numbers": "Operating profit in Mar 2026 grew +6.2% YoY to Rs 6,924 cr from Rs 6,519 cr in Mar 2025, but Net Profit fell -72.4% YoY to Rs 5,470 cr compared to Rs 19,808 cr in Mar 2025 (which included exceptional Other Income of Rs 15,391 cr).",
+      "agrees": false
+    },
+    {
+      "claim": "FMCG Segment delivers robust Revenue growth of 12% YoY and Segment PBIT up 21% YoY in Q1 FY27",
+      "numbers": "Total consolidated Sales in Jun 2026 fell -11% YoY to Rs 19,114 cr (vs Rs 21,495 cr in Jun 2025) and consolidated Operating Profit fell -24.0% YoY to Rs 5,181 cr (vs Rs 6,816 cr in Jun 2025).",
+      "agrees": false
+    }
+  ],
+  "guidance": [
+    {
+      "metric": "wood prices",
+      "guide": "wood prices are expected to moderate going forward",
+      "source": "Q3 FY26 investor presentation"
+    },
+    {
+      "metric": "Real GDP growth",
+      "guide": "India's macroeconomic outlook remains relatively resilient with Real GDP projected to grow by 6.9% in FY27 as per RBI estimates.",
+      "source": "Q4 FY26 investor presentation"
+    },
+    {
+      "metric": "Real GDP growth",
+      "guide": "FY27 Real GDP growth expected at 6.4%",
+      "source": "Q1 FY27 investor presentation"
+    }
+  ],
+  "bull": [
+    "FMCG - Others segment maintained strong top-line momentum, generating 11% YoY revenue growth with 145 bps EBITDA margin expansion in Q3 FY26, and 15% YoY revenue growth in Q4 FY26.",
+    "Paperboards, Paper & Packaging business has seen ongoing profit recovery, delivering profit growth of 19% QoQ in Q3 FY26, 21% YoY in Q4 FY26, and 38% PBIT growth YoY in Q1 FY27.",
+    "New growth vectors are scaling rapidly, with the Digital-first & Organic portfolio growing 60% YoY (reaching Rs 150 cr GMV in YTD Dec 2025) and the Fresh Food Business growing GMV by 90% YoY to surpass Rs 300 cr ARR in Q1 FY27."
+  ],
+  "bear": [
+    "Consolidated margins compressed significantly in FY27, with Operating Profit Margin dropping to 27% in Jun 2026 (OP of Rs 5,181 cr) and 28% in Sep 2026 (OP of Rs 5,645 cr), down from 34-39% levels in preceding quarters.",
+    "Consolidated top-line growth has displayed volatility and contractions, falling -2% YoY in Sep 2025 (Rs 19,502 cr), -5% YoY in Mar 2026 (Rs 17,825 cr), and -11% YoY in Jun 2026 (Rs 19,114 cr).",
+    "Net Profit contracted to Rs 4,509 cr in Jun 2026 and Rs 4,229 cr in Sep 2026, while Interest costs increased to Rs 40 cr in Jun 2026 and Rs 38 cr in Sep 2026 from Rs 10-16 cr in early FY25/FY26."
+  ]
+}

@@ -3,6 +3,7 @@ import argparse
 import json
 import sys
 import time
+from concurrent.futures import ThreadPoolExecutor
 
 from . import llm
 from .engine import build_chunks, research
@@ -36,15 +37,17 @@ def run_one(symbol):
 def main(argv=None):
     ap = argparse.ArgumentParser(prog="finn_research")
     ap.add_argument("symbols", nargs="+")
+    ap.add_argument("--jobs", type=int, default=1, help="companies researched in parallel")
     ap.add_argument("--force", action="store_true", help="allow overwriting hand-written research set")
     a = ap.parse_args(argv)
     syms = [s.upper() for s in a.symbols]
     print(f"research: {len(syms)} companies, MAP={llm.MAP_MODEL}, REDUCE={llm.REDUCE_MODEL}", flush=True)
     ok, failed = [], []
-    for i, s in enumerate(syms, 1):
+    def one(item):
+        i, s = item
         if s in PROTECTED and not a.force:
             print(f"research {i}/{len(syms)} {s} skipped (hand-written research set; --force to override)", flush=True)
-            continue
+            return
         t0 = time.time()
         print(f"research {i}/{len(syms)} {s} starting", flush=True)
         try:
@@ -54,6 +57,9 @@ def main(argv=None):
         except Exception as e:
             failed.append((s, str(e)))
             print(f"research {i}/{len(syms)} {s} FAILED ({e}, {time.time()-t0:.0f}s)", flush=True)
+
+    with ThreadPoolExecutor(max_workers=max(1, a.jobs)) as ex:
+        list(ex.map(one, enumerate(syms, 1)))
     print(f"\ndone: {len(ok)} ok, {len(failed)} failed", flush=True)
     for s, e in failed:
         print(f"  {s}: {e}")

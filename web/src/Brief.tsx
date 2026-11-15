@@ -178,7 +178,10 @@ function CardView({ card, holding, genAt, enrich, onDismiss }: { card: Card; hol
   let tag: string, title: string, why: string, body: React.ReactNode, ts = card.ts
   if (card.kind === 'filing') {
     const f = card.filing
-    tag = catLabel(f.category); title = f.title; why = f.why; ts = f.ts
+    // Exchange titles are boilerplate ("Announcement under Regulation 30 (LODR)-…");
+    // the one-line summary is the actual news, so it leads.
+    const e = enrich[f.id] ?? enrich[f.url]
+    tag = catLabel(f.category); title = e?.summary ?? f.summary ?? f.title; why = f.why; ts = f.ts
     body = <FilingBody f={f} enrich={enrich} />
   } else if (card.kind === 'price') {
     tag = 'Price'; title = `${pct(card.m.dayPct)} today`
@@ -253,8 +256,7 @@ function FilingBody({ f, enrich }: { f: Filing; enrich: Enrichment }) {
   }
   return (
     <div className="other">
-      {summary && <p>{summary}</p>}
-      <a className="src" href={f.url} target="_blank" rel="noreferrer">Filing ↗</a>
+      <a className="src" href={f.url} target="_blank" rel="noreferrer">{summary ? f.title.replace(/^Announcement under Regulation 30 \(LODR\)-/, '') : 'Filing'} ↗</a>
     </div>
   )
 }

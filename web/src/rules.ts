@@ -51,7 +51,11 @@ export interface Group { holding: Holding; cards: Card[]; sev: number; latest: s
 export interface Triage { groups: Group[]; routine: Filing[]; quiet: Holding[]; windowCardCount: number }
 
 export function triage(brief: Brief, r: WatchRules, days: number, dismissed: Set<string>): Triage {
-  const cutoff = new Date(brief.generated_at).getTime() - days * 864e5
+  // Windows end at the most recent Filing, not the wall clock: on a weekend or a stale
+  // data refresh, "24h" still means the last day of disclosure activity.
+  const latestTs = Math.max(0, ...brief.holdings.flatMap((h) => (h.filings ?? []).map((f) => new Date(f.ts).getTime())))
+  const end = latestTs || new Date(brief.generated_at).getTime()
+  const cutoff = end - days * 864e5
   const groups: Group[] = []
   const routine: Filing[] = []
   const quiet: Holding[] = []

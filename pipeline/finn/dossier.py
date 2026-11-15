@@ -127,7 +127,7 @@ def flags(c: Company, annual: list[dict], comp: dict, is_fin: bool) -> list[dict
             add("watch", f"ROCE is {roce:.1f}% — below cost of capital")
     roe = c.top.get("ROE")
     if roe is not None and is_fin:
-        add("good" if roe >= 15 else "watch" if roe < 10 else "good", f"ROE is {roe:.1f}%")
+        add("good" if roe >= 15 else "watch", f"ROE is {roe:.1f}%" + ("" if roe >= 15 else " — below 15% for a lender"))
     prom = c.shareholding.get("Promoters")
     prom = [x for x in (prom or []) if x is not None]
     if len(prom) >= 5 and prom[-5] - prom[-1] >= 2:

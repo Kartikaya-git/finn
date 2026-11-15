@@ -2,8 +2,8 @@
 import hashlib
 import re
 import subprocess
+import threading
 import time
-from datetime import date
 
 import requests
 from bs4 import BeautifulSoup
@@ -12,14 +12,16 @@ from .paths import PDF_CACHE, SCREENER_CACHE
 
 UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 Chrome/124 Safari/537.36"
 _last = [0.0]
+_net_lock = threading.Lock()
 MONTHS = {m: i for i, m in enumerate(["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"], 1)}
 
 
 def _polite_get(url, **kw):
-    gap = time.time() - _last[0]
-    if gap < 1.0:
-        time.sleep(1.0 - gap)
-    _last[0] = time.time()
+    with _net_lock:  # ~1 request/second across all worker threads
+        gap = time.time() - _last[0]
+        if gap < 1.0:
+            time.sleep(1.0 - gap)
+        _last[0] = time.time()
     headers = {"User-Agent": UA, **kw.pop("headers", {})}
     return requests.get(url, headers=headers, timeout=60, **kw)
 
