@@ -1,31 +1,27 @@
 # FINN — Financial INvestment ageNt
 
-**Live (open on a phone):** https://kartikaya-git.github.io/finn/
+**Try it (best on a phone):** https://kartikaya-git.github.io/finn/
 
-FINN is a mobile-first agent for an investor holding a portfolio of NSE-listed companies. Its thesis: the scarce skill isn't aggregating information, it's **ranking it by how much it needs you** — and proving that with primary sources.
+FINN is a phone app for someone who owns shares in Indian companies (listed on NSE). Every day those companies publish dozens of official notices — results, management changes, lawsuits, routine paperwork. FINN reads all of them and shows you only the few that matter, and it can research any company for you using the company's own reports.
 
-## Two pages, deliberately
+## What the app does
 
-| | **Brief** (home, push) | **Dossier** (pull) |
-|---|---|---|
-| Question it answers | "What changed that needs me?" | "What do I think of this company?" |
-| Time | Events since the window start | Multi-quarter judgment |
-| Content | Every Holding exactly once: **Needs you** Cards → collapsed **Routine** filings → **Quiet** rows | Promises vs delivered, narrative vs numbers, guidance, bull/bear, computed trajectory / balance sheet / cash quality, **Ask** |
+**Home screen — what needs your attention today**
+- Shows everything that happened across your companies, most important first. Boring paperwork is folded into one line.
+- Quarterly results show the key numbers (revenue, profit) compared with last quarter and last year.
+- When a senior person joins or leaves, it shows who they are, taken from the company's own announcement.
+- Alerts you when a share price moves or trading volume jumps more than you've set. You choose the limits.
+- Tap **Clear** on an item once you've seen it. When everything is cleared, the screen says **All clear**.
+- Phone notifications: a check runs every 30 minutes during market hours and sends new items to your phone (via the free ntfy app).
 
-Why not a third "portfolio" page: the broker app already has one, and a list that shows every company equally works against filtering. Instead the home screen *is* the portfolio, ordered by attention. Dismiss a Card and the Holding drops into Quiet — "done for the day" is visible.
+**Company page — research on demand**
+- Opens with a verdict: how many of management's promises from the last four quarters they actually kept.
+- Then the evidence: what management said vs what the numbers show, growth over the years, debt, whether profits turn into cash, and the case for and against.
+- **Ask** searches the company's own earnings-call transcripts and shows the exact quotes.
+- Uses only the company's own documents — no news articles or analyst opinions.
+- 140 companies are ready. For any other NSE company, tap **Build it** and it is prepared in a few minutes.
 
-### Brief
-- Time window chips (24h / 3d / 7d / 30d). Windows end at the latest Filing, so a weekend or stale refresh never shows an empty Brief.
-- **Results Cards**: Revenue / EBITDA / PBT / PAT this quarter vs QoQ and YoY (banks: Financing Profit in the EBITDA slot).
-- **Management-change Cards**: the incoming person's profile, taken from the Filing itself (SEBI LODR requires a brief profile of the appointee) — a primary source instead of LinkedIn scraping.
-- **Watch rules** (gear icon): day-move %, volume × 20-day average, and per-category "always Card / always Routine". Evaluated on-device from the shipped price/volume series, so changing a threshold re-ranks instantly.
-- Every Card carries a `why` — the reason it earned your attention.
-
-### Dossier
-- **Promises vs delivered** leads: what management guided each quarter, what the numbers later showed, verdict (kept / partly / missed / pending), source.
-- Deterministic sections work for **any** ticker (59 indexed; `python -m finn dossier SYMBOL` builds any other): trajectory, CAGRs, margin trend, D/E, cash-conversion cycle, CFO/PAT, FCF, rule-derived flags that each cite a number.
-- **Ask** answers only with quoted passages from the company's own concall transcripts (client-side retrieval, ₹0).
-- Every section is labelled with provenance: *from filings · computed* or *from transcripts · cached*.
+An in-app guide (the **?** button on the home screen) walks through all of this step by step.
 
 ## Architecture
 
