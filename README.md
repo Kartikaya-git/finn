@@ -25,6 +25,8 @@ An in-app guide (the **?** button on the home screen) walks through all of this 
 
 ## Architecture
 
+![FINN architecture](docs/architecture.jpg)
+
 ```
 screener.in (filings, EOD price+volume, financials, transcript links)
         │  1 req/s, on-disk cache
