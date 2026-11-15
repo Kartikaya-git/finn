@@ -89,7 +89,7 @@ cd web && npm i && npm run dev                      # http://localhost:5173/finn
 
 | Left out | Why |
 |---|---|
-| **AI calls from the app itself** (e.g. a free-form chatbot) | The app is a static website, so any AI key in it would be visible to every visitor. Instead, the AI runs once in the pipeline, the result is cached, and the app only reads it. That also makes it free to run and quick to open, and every visitor sees the same checked analysis rather than a fresh answer that could differ each time. **Ask** searches the transcripts instead of generating text, so it can't invent anything. |
+| **AI chatbot in this version** | Not left out for good, only for this prototype. The app is a static website with no server, so any AI key placed in it would be visible to every visitor. For now the AI runs once in the pipeline, the result is cached, and the app reads it: free, fast, and the same checked answer for everyone. **Ask** searches the transcripts instead of generating text. Adding a chatbot safely needs a small server to hide the key; that is the first item under **Next**. |
 | **Intraday (live) prices** | The brief asks for end-of-day data, and the free sources that work reliably only give daily closes. Live prices would need a paid market-data feed. |
 | **Login / user accounts** | It's a single-investor prototype with a fixed demo portfolio. Accounts would add sign-in screens and a database without changing what the app shows. Watch rules and cleared Cards are saved on the device instead. |
 | **Editing the portfolio in the app** | The 20 holdings are set in the pipeline config. Making them editable needs per-user storage and a per-user pipeline run, which only makes sense after accounts exist. |
