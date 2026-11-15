@@ -1,0 +1,366 @@
+{
+ "symbol": "ASTRAL",
+ "name": "Astral Ltd",
+ "generated_at": "2026-11-15T18:08:53+00:00",
+ "about": "Astral Poly Technik Ltd was established in 1996, with the aim to manufacture pro-India plumbing and drainage systems in the country. The company is into manufacturing of Pipes, water tanks, bathware, specialised valves, paints, adhesives and sealants, infrastructure solutions, specialised fittings and construction chemicals.",
+ "sector": "Industrial Products",
+ "price": {
+  "close": 1254.0,
+  "change_pct": -1.6,
+  "mcap_cr": 33689.0,
+  "pe": 56.9,
+  "roce": 19.2,
+  "roe": 13.9
+ },
+ "quarters": [
+  {
+   "period": "Dec 2023",
+   "revenue": 1370.0,
+   "ebitda": 205.0,
+   "pbt": 154.0,
+   "pat": 113.0,
+   "opm": 15.0
+  },
+  {
+   "period": "Mar 2024",
+   "revenue": 1625.0,
+   "ebitda": 291.0,
+   "pbt": 241.0,
+   "pat": 181.0,
+   "opm": 18.0
+  },
+  {
+   "period": "Jun 2024",
+   "revenue": 1384.0,
+   "ebitda": 214.0,
+   "pbt": 163.0,
+   "pat": 120.0,
+   "opm": 16.0
+  },
+  {
+   "period": "Sep 2024",
+   "revenue": 1370.0,
+   "ebitda": 210.0,
+   "pbt": 149.0,
+   "pat": 109.0,
+   "opm": 15.0
+  },
+  {
+   "period": "Dec 2024",
+   "revenue": 1397.0,
+   "ebitda": 219.0,
+   "pbt": 154.0,
+   "pat": 113.0,
+   "opm": 16.0
+  },
+  {
+   "period": "Mar 2025",
+   "revenue": 1681.0,
+   "ebitda": 302.0,
+   "pbt": 236.0,
+   "pat": 178.0,
+   "opm": 18.0
+  },
+  {
+   "period": "Jun 2025",
+   "revenue": 1361.0,
+   "ebitda": 185.0,
+   "pbt": 110.0,
+   "pat": 79.0,
+   "opm": 14.0
+  },
+  {
+   "period": "Sep 2025",
+   "revenue": 1577.0,
+   "ebitda": 257.0,
+   "pbt": 180.0,
+   "pat": 135.0,
+   "opm": 16.0
+  },
+  {
+   "period": "Dec 2025",
+   "revenue": 1542.0,
+   "ebitda": 237.0,
+   "pbt": 144.0,
+   "pat": 108.0,
+   "opm": 15.0
+  },
+  {
+   "period": "Mar 2026",
+   "revenue": 2088.0,
+   "ebitda": 383.0,
+   "pbt": 297.0,
+   "pat": 213.0,
+   "opm": 18.0
+  },
+  {
+   "period": "Jun 2026",
+   "revenue": 1578.0,
+   "ebitda": 231.0,
+   "pbt": 163.0,
+   "pat": 120.0,
+   "opm": 15.0
+  },
+  {
+   "period": "Sep 2026",
+   "revenue": 1988.0,
+   "ebitda": 260.0,
+   "pbt": 172.0,
+   "pat": 127.0,
+   "opm": 13.0
+  }
+ ],
+ "annual": [
+  {
+   "year": "Mar 2015",
+   "revenue": 1410.0,
+   "ebitda": 168.0,
+   "pat": 78.0,
+   "opm": 12.0,
+   "cfo": 117.0,
+   "capex": 85.0,
+   "fcf": 32.0,
+   "debt": 203.0,
+   "equity": 619.0
+  },
+  {
+   "year": "Mar 2016",
+   "revenue": 1678.0,
+   "ebitda": 208.0,
+   "pat": 102.0,
+   "opm": 12.0,
+   "cfo": 226.0,
+   "capex": 135.0,
+   "fcf": 91.0,
+   "debt": 197.0,
+   "equity": 708.0
+  },
+  {
+   "year": "Mar 2017",
+   "revenue": 1895.0,
+   "ebitda": 261.0,
+   "pat": 145.0,
+   "opm": 14.0,
+   "cfo": 114.0,
+   "capex": 159.0,
+   "fcf": -45.0,
+   "debt": 229.0,
+   "equity": 847.0
+  },
+  {
+   "year": "Mar 2018",
+   "revenue": 2073.0,
+   "ebitda": 314.0,
+   "pat": 176.0,
+   "opm": 15.0,
+   "cfo": 282.0,
+   "capex": 184.0,
+   "fcf": 98.0,
+   "debt": 189.0,
+   "equity": 1018.0
+  },
+  {
+   "year": "Mar 2019",
+   "revenue": 2507.0,
+   "ebitda": 382.0,
+   "pat": 197.0,
+   "opm": 15.0,
+   "cfo": 342.0,
+   "capex": 220.0,
+   "fcf": 122.0,
+   "debt": 275.0,
+   "equity": 1278.0
+  },
+  {
+   "year": "Mar 2020",
+   "revenue": 2578.0,
+   "ebitda": 442.0,
+   "pat": 250.0,
+   "opm": 17.0,
+   "cfo": 405.0,
+   "capex": 213.0,
+   "fcf": 192.0,
+   "debt": 191.0,
+   "equity": 1503.0
+  },
+  {
+   "year": "Mar 2021",
+   "revenue": 3176.0,
+   "ebitda": 638.0,
+   "pat": 408.0,
+   "opm": 20.0,
+   "cfo": 664.0,
+   "capex": 171.0,
+   "fcf": 493.0,
+   "debt": 80.0,
+   "equity": 1896.0
+  },
+  {
+   "year": "Mar 2022",
+   "revenue": 4394.0,
+   "ebitda": 754.0,
+   "pat": 490.0,
+   "opm": 17.0,
+   "cfo": 543.0,
+   "capex": 345.0,
+   "fcf": 198.0,
+   "debt": 98.0,
+   "equity": 2336.0
+  },
+  {
+   "year": "Mar 2023",
+   "revenue": 5158.0,
+   "ebitda": 810.0,
+   "pat": 472.0,
+   "opm": 16.0,
+   "cfo": 557.0,
+   "capex": 310.0,
+   "fcf": 247.0,
+   "debt": 87.0,
+   "equity": 2711.0
+  },
+  {
+   "year": "Mar 2024",
+   "revenue": 5641.0,
+   "ebitda": 925.0,
+   "pat": 546.0,
+   "opm": 16.0,
+   "cfo": 823.0,
+   "capex": 550.0,
+   "fcf": 273.0,
+   "debt": 119.0,
+   "equity": 3188.0
+  },
+  {
+   "year": "Mar 2025",
+   "revenue": 5832.0,
+   "ebitda": 946.0,
+   "pat": 519.0,
+   "opm": 16.0,
+   "cfo": 630.0,
+   "capex": 540.0,
+   "fcf": 90.0,
+   "debt": 233.0,
+   "equity": 3617.0
+  },
+  {
+   "year": "Mar 2026",
+   "revenue": 6569.0,
+   "ebitda": 1062.0,
+   "pat": 535.0,
+   "opm": 16.0,
+   "cfo": 1117.0,
+   "capex": 456.0,
+   "fcf": 661.0,
+   "debt": 250.0,
+   "equity": 4058.0
+  }
+ ],
+ "computed": {
+  "revenue_cagr_3y": 8.4,
+  "revenue_cagr_5y": 15.6,
+  "pat_cagr_3y": 4.3,
+  "pat_cagr_5y": 5.6,
+  "opm_trend": "stable",
+  "de_ratio": 0.06,
+  "debt_trend": "rising",
+  "cfo_to_pat_5y": 1.43,
+  "fcf_5y_cr": 1469,
+  "ccc_days": 23.0,
+  "ccc_trend": "stable"
+ },
+ "flags": [
+  {
+   "level": "good",
+   "text": "CFO/PAT over 5y is 1.43 — profits backed by cash"
+  },
+  {
+   "level": "good",
+   "text": "Debt/equity is 0.06 — virtually debt-free"
+  },
+  {
+   "level": "watch",
+   "text": "Borrowings rose from ₹87 Cr to ₹250 Cr over 3 years"
+  },
+  {
+   "level": "good",
+   "text": "Revenue 5y CAGR is 15.6%"
+  },
+  {
+   "level": "watch",
+   "text": "PAT 5y CAGR 5.6% lags revenue CAGR 15.6% — margins leaking"
+  }
+ ],
+ "sources": [
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Nov 2026",
+   "url": "https://www.astralltd.com/wp-content/uploads/2026/11/Equirus-Astral-Nov05-2026-1.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Aug 2026",
+   "url": "https://www.astralltd.com/wp-content/uploads/2026/08/Equirus-Astral-Aug12-2026-1.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · May 2026",
+   "url": "https://www.astralltd.com/wp-content/uploads/2026/05/Analysts-Meet-2026-Transcript.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · May 2026",
+   "url": "https://www.astralltd.com/wp-content/uploads/2026/05/Investor-Presentation-May-2026.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Feb 2026",
+   "url": "https://nsearchives.nseindia.com/corporate/ASTRAL_05022026201047_Earning_Call.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Nov 2025",
+   "url": "https://www.astralltd.com/wp-content/uploads/2025/11/Transcript.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Aug 2025",
+   "url": "https://www.astralltd.com/wp-content/uploads/2025/08/Transcript-of-Earning-Call-held-on-12th-August-2025.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · May 2025",
+   "url": "https://www.astralltd.com/wp-content/uploads/2025/05/Analyst-Meet-2025-Transcript.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · May 2025",
+   "url": "https://www.astralltd.com/wp-content/uploads/2025/05/Astral-Analysts-Meet-PPT-R-1.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/5772a6ee-bd33-47d5-bbd1-85b269bd26c3.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/78a2a99f-5d2e-4692-b054-43192a2fc329.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2024",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/455e935e-98ba-4ef9-bd54-c293a46bab7c.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2023",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/aa9741a9-f026-474d-9169-5be6f7a1a073.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2022",
+   "url": "https://www.bseindia.com/bseplus/AnnualReport/532830/74164532830.pdf"
+  }
+ ]
+}

@@ -1,0 +1,377 @@
+{
+ "symbol": "HINDPETRO",
+ "name": "Hindustan Petroleum Corporation Ltd",
+ "generated_at": "2026-11-15T18:09:56+00:00",
+ "about": "Hindustan Petroleum Corporation Ltd is mainly engaged in the business of refining of crude oil and marketing of petroleum products, production of hydrocarbons as well as providing services for management of E&P Blocks.",
+ "sector": "Petroleum Products",
+ "price": {
+  "close": 381.5,
+  "change_pct": -2.3,
+  "mcap_cr": 81176.0,
+  "pe": 56.5,
+  "roce": 22.2,
+  "roe": 30.9
+ },
+ "quarters": [
+  {
+   "period": "Dec 2023",
+   "revenue": 111348.0,
+   "ebitda": 2160.0,
+   "pbt": 986.0,
+   "pat": 713.0,
+   "opm": 1.9
+  },
+  {
+   "period": "Mar 2024",
+   "revenue": 114678.0,
+   "ebitda": 4882.0,
+   "pbt": 3124.0,
+   "pat": 2709.0,
+   "opm": 4.3
+  },
+  {
+   "period": "Jun 2024",
+   "revenue": 113888.0,
+   "ebitda": 2089.0,
+   "pbt": 805.0,
+   "pat": 634.0,
+   "opm": 1.8
+  },
+  {
+   "period": "Sep 2024",
+   "revenue": 99957.0,
+   "ebitda": 2296.0,
+   "pbt": 348.0,
+   "pat": 143.0,
+   "opm": 2.3
+  },
+  {
+   "period": "Dec 2024",
+   "revenue": 110608.0,
+   "ebitda": 5495.0,
+   "pbt": 3509.0,
+   "pat": 2544.0,
+   "opm": 5.0
+  },
+  {
+   "period": "Mar 2025",
+   "revenue": 109633.0,
+   "ebitda": 5788.0,
+   "pbt": 4338.0,
+   "pat": 3415.0,
+   "opm": 5.0
+  },
+  {
+   "period": "Jun 2025",
+   "revenue": 110825.0,
+   "ebitda": 7461.0,
+   "pbt": 5547.0,
+   "pat": 4111.0,
+   "opm": 7.0
+  },
+  {
+   "period": "Sep 2025",
+   "revenue": 100856.0,
+   "ebitda": 6852.0,
+   "pbt": 5131.0,
+   "pat": 3859.0,
+   "opm": 7.0
+  },
+  {
+   "period": "Dec 2025",
+   "revenue": 115153.0,
+   "ebitda": 6998.0,
+   "pbt": 5317.0,
+   "pat": 4011.0,
+   "opm": 6.0
+  },
+  {
+   "period": "Mar 2026",
+   "revenue": 114937.0,
+   "ebitda": 9211.0,
+   "pbt": 7644.0,
+   "pat": 6065.0,
+   "opm": 8.0
+  },
+  {
+   "period": "Jun 2026",
+   "revenue": 140584.0,
+   "ebitda": -16122.0,
+   "pbt": -18170.0,
+   "pat": -12265.0,
+   "opm": -11.0
+  },
+  {
+   "period": "Sep 2026",
+   "revenue": 134407.0,
+   "ebitda": 9048.0,
+   "pbt": 6820.0,
+   "pat": 3625.0,
+   "opm": 7.0
+  }
+ ],
+ "annual": [
+  {
+   "year": "Mar 2015",
+   "revenue": 216648.0,
+   "ebitda": 4733.0,
+   "pat": 1489.0,
+   "opm": 2.2,
+   "cfo": 19410.0,
+   "capex": 6313.0,
+   "fcf": 13097.0,
+   "debt": 36916.0,
+   "equity": 13924.0
+  },
+  {
+   "year": "Mar 2016",
+   "revenue": 177910.0,
+   "ebitda": 8335.0,
+   "pat": 4675.0,
+   "opm": 4.7,
+   "cfo": 6651.0,
+   "capex": 4824.0,
+   "fcf": 1827.0,
+   "debt": 22160.0,
+   "equity": 16664.0
+  },
+  {
+   "year": "Mar 2017",
+   "revenue": 187493.0,
+   "ebitda": 10886.0,
+   "pat": 8236.0,
+   "opm": 6.0,
+   "cfo": 10254.0,
+   "capex": 5854.0,
+   "fcf": 4400.0,
+   "debt": 22130.0,
+   "equity": 21071.0
+  },
+  {
+   "year": "Mar 2018",
+   "revenue": 219510.0,
+   "ebitda": 10778.0,
+   "pat": 7218.0,
+   "opm": 4.9,
+   "cfo": 11037.0,
+   "capex": 6703.0,
+   "fcf": 4334.0,
+   "debt": 21952.0,
+   "equity": 25532.0
+  },
+  {
+   "year": "Mar 2019",
+   "revenue": 275491.0,
+   "ebitda": 11527.0,
+   "pat": 6691.0,
+   "opm": 4.2,
+   "cfo": 8554.0,
+   "capex": 11267.0,
+   "fcf": -2713.0,
+   "debt": 28192.0,
+   "equity": 30400.0
+  },
+  {
+   "year": "Mar 2020",
+   "revenue": 269092.0,
+   "ebitda": 5204.0,
+   "pat": 2639.0,
+   "opm": 1.9,
+   "cfo": 5469.0,
+   "capex": 13794.0,
+   "fcf": -8325.0,
+   "debt": 44001.0,
+   "equity": 30980.0
+  },
+  {
+   "year": "Mar 2021",
+   "revenue": 233248.0,
+   "ebitda": 16055.0,
+   "pat": 10663.0,
+   "opm": 7.0,
+   "cfo": 17829.0,
+   "capex": 11607.0,
+   "fcf": 6222.0,
+   "debt": 43709.0,
+   "equity": 38080.0
+  },
+  {
+   "year": "Mar 2022",
+   "revenue": 349913.0,
+   "ebitda": 10244.0,
+   "pat": 7294.0,
+   "opm": 2.9,
+   "cfo": 15810.0,
+   "capex": 12028.0,
+   "fcf": 3782.0,
+   "debt": 48498.0,
+   "equity": 41404.0
+  },
+  {
+   "year": "Mar 2023",
+   "revenue": 440709.0,
+   "ebitda": -7192.0,
+   "pat": -6980.0,
+   "opm": -1.6,
+   "cfo": -3466.0,
+   "capex": 9180.0,
+   "fcf": -12646.0,
+   "debt": 70671.0,
+   "equity": 32263.0
+  },
+  {
+   "year": "Mar 2024",
+   "revenue": 433857.0,
+   "ebitda": 24928.0,
+   "pat": 16015.0,
+   "opm": 6.0,
+   "cfo": 23852.0,
+   "capex": 9946.0,
+   "fcf": 13906.0,
+   "debt": 66684.0,
+   "equity": 46921.0
+  },
+  {
+   "year": "Mar 2025",
+   "revenue": 434106.0,
+   "ebitda": 16448.0,
+   "pat": 6736.0,
+   "opm": 3.8,
+   "cfo": 14231.0,
+   "capex": 9417.0,
+   "fcf": 4814.0,
+   "debt": 70558.0,
+   "equity": 51144.0
+  },
+  {
+   "year": "Mar 2026",
+   "revenue": 441771.0,
+   "ebitda": 30645.0,
+   "pat": 18047.0,
+   "opm": 7.0,
+   "cfo": 36111.0,
+   "capex": 8112.0,
+   "fcf": 27999.0,
+   "debt": 55964.0,
+   "equity": 65556.0
+  }
+ ],
+ "computed": {
+  "revenue_cagr_3y": 0.1,
+  "revenue_cagr_5y": 13.6,
+  "pat_cagr_3y": null,
+  "pat_cagr_5y": 11.1,
+  "opm_trend": "expanding",
+  "de_ratio": 0.85,
+  "debt_trend": "falling",
+  "cfo_to_pat_5y": 2.1,
+  "fcf_5y_cr": 37855,
+  "ccc_days": 14.0,
+  "ccc_trend": "stable"
+ },
+ "flags": [
+  {
+   "level": "good",
+   "text": "CFO/PAT over 5y is 2.10 — profits backed by cash"
+  },
+  {
+   "level": "watch",
+   "text": "Debt/equity is 0.85"
+  },
+  {
+   "level": "good",
+   "text": "Operating margin expanding: -2% → 7% over 3 years"
+  },
+  {
+   "level": "good",
+   "text": "ROCE is 22.2%"
+  }
+ ],
+ "sources": [
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Oct 2026",
+   "url": "https://www.hindustanpetroleum.com/documents/pdf/Post-Earning-Concall-Transcript-Q2FY2627.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jul 2026",
+   "url": "https://www.hindustanpetroleum.com/documents/pdf/Post-Earning-Concall-Transcript-Q1FY2627.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · May 2026",
+   "url": "https://www.hindustanpetroleum.com/documents/pdf/Post%20Earning%20Concall%20Transript%20-%20Q4FY26.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · May 2026",
+   "url": "https://www.hindustanpetroleum.com/documents/pdf/Investor-Presentation-Q4-FY-2025-26.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jan 2026",
+   "url": "https://www.hindustanpetroleum.com/documents/pdf/Post%20Earning%20Concall%20Transript%20-%20Q3FY26.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jan 2026",
+   "url": "https://www.hindustanpetroleum.com/documents/pdf/Investor-Presentation-Q3-FY-2025-26.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Oct 2025",
+   "url": "https://www.hindustanpetroleum.com/documents/pdf/Antique-HPCL-Oct-31-2025.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Oct 2025",
+   "url": "https://www.hindustanpetroleum.com/documents/pdf/Investor-Presentation-Q2-FY-2025-26.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Aug 2025",
+   "url": "https://www.hindustanpetroleum.com/documents/pdf/Post-Earning-Concall-Transcript-Q1FY26.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Aug 2025",
+   "url": "https://www.hindustanpetroleum.com/documents/pdf/Investor_Presentation_Q1_FY_2025-26.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · May 2025",
+   "url": "https://www.hindustanpetroleum.com/documents/pdf/Q4_FY_2025_Earning_Conference_Call_Transcript.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · May 2025",
+   "url": "https://www.hindustanpetroleum.com/documents/pdf/Investor-Presentation-Q4-FY-2024-25.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/f1214176-9f1e-4788-b748-fa356cd72b25.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/d147f5ef-1754-405b-9f9a-7fe00b288d57.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2024",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/a7cdff95-e0a3-4935-abf4-eae8dcb0b3a9.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2023",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/06a6b90f-a62d-4874-afbb-a7e380a371c1.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2022",
+   "url": "https://www.bseindia.com/bseplus/AnnualReport/500104/74179500104.pdf"
+  }
+ ]
+}

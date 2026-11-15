@@ -1,0 +1,366 @@
+{
+ "symbol": "UNITDSPR",
+ "name": "United Spirits Ltd",
+ "generated_at": "2026-11-15T18:08:19+00:00",
+ "about": "Diageo India incorporated in India as United Spirits Ltd.(USL) is the country’s leading beverage alcohol company and a subsidiary of global leader Diageo PLC. The company manufactures, sells, and distributes a wide portfolio of premium brands such as Johnnie Walker, Black Dog, Black & White, VAT 69, Antiquity, Signature, Royal Challenge, McDowell’s No.1, Smirnoff and Captain Morgan.",
+ "sector": "Beverages",
+ "price": {
+  "close": 1416.8,
+  "change_pct": -0.6,
+  "mcap_cr": 103051.0,
+  "pe": 56.8,
+  "roce": 26.4,
+  "roe": 21.4
+ },
+ "quarters": [
+  {
+   "period": "Dec 2023",
+   "revenue": 3002.0,
+   "ebitda": 486.0,
+   "pbt": 459.0,
+   "pat": 350.0,
+   "opm": 16.0
+  },
+  {
+   "period": "Mar 2024",
+   "revenue": 2783.0,
+   "ebitda": 334.0,
+   "pbt": 312.0,
+   "pat": 241.0,
+   "opm": 12.0
+  },
+  {
+   "period": "Jun 2024",
+   "revenue": 2761.0,
+   "ebitda": 712.0,
+   "pbt": 653.0,
+   "pat": 485.0,
+   "opm": 26.0
+  },
+  {
+   "period": "Sep 2024",
+   "revenue": 2844.0,
+   "ebitda": 500.0,
+   "pbt": 460.0,
+   "pat": 341.0,
+   "opm": 18.0
+  },
+  {
+   "period": "Dec 2024",
+   "revenue": 3433.0,
+   "ebitda": 565.0,
+   "pbt": 480.0,
+   "pat": 335.0,
+   "opm": 16.0
+  },
+  {
+   "period": "Mar 2025",
+   "revenue": 2946.0,
+   "ebitda": 509.0,
+   "pbt": 553.0,
+   "pat": 421.0,
+   "opm": 17.0
+  },
+  {
+   "period": "Jun 2025",
+   "revenue": 3021.0,
+   "ebitda": 638.0,
+   "pbt": 571.0,
+   "pat": 417.0,
+   "opm": 21.0
+  },
+  {
+   "period": "Sep 2025",
+   "revenue": 3173.0,
+   "ebitda": 666.0,
+   "pbt": 624.0,
+   "pat": 464.0,
+   "opm": 21.0
+  },
+  {
+   "period": "Dec 2025",
+   "revenue": 3691.0,
+   "ebitda": 614.0,
+   "pbt": 543.0,
+   "pat": 418.0,
+   "opm": 17.0
+  },
+  {
+   "period": "Mar 2026",
+   "revenue": 3054.0,
+   "ebitda": 593.0,
+   "pbt": 674.0,
+   "pat": 539.0,
+   "opm": 19.0
+  },
+  {
+   "period": "Jun 2026",
+   "revenue": 2708.0,
+   "ebitda": 429.0,
+   "pbt": 545.0,
+   "pat": 463.0,
+   "opm": 16.0
+  },
+  {
+   "period": "Sep 2026",
+   "revenue": 3264.0,
+   "ebitda": 642.0,
+   "pbt": 586.0,
+   "pat": 428.0,
+   "opm": 20.0
+  }
+ ],
+ "annual": [
+  {
+   "year": "Mar 2015",
+   "revenue": 9254.0,
+   "ebitda": -366.0,
+   "pat": -1687.0,
+   "opm": -4.0,
+   "cfo": -196.0,
+   "capex": 63.0,
+   "fcf": -259.0,
+   "debt": 4987.0,
+   "equity": 659.0
+  },
+  {
+   "year": "Mar 2016",
+   "revenue": 8495.0,
+   "ebitda": 333.0,
+   "pat": 143.0,
+   "opm": 3.9,
+   "cfo": 283.0,
+   "capex": 233.0,
+   "fcf": 50.0,
+   "debt": 4242.0,
+   "equity": 1634.0
+  },
+  {
+   "year": "Mar 2017",
+   "revenue": 8818.0,
+   "ebitda": 991.0,
+   "pat": 93.0,
+   "opm": 11.0,
+   "cfo": 647.0,
+   "capex": 258.0,
+   "fcf": 389.0,
+   "debt": 4144.0,
+   "equity": 1785.0
+  },
+  {
+   "year": "Mar 2018",
+   "revenue": 8591.0,
+   "ebitda": 1209.0,
+   "pat": 652.0,
+   "opm": 14.0,
+   "cfo": 925.0,
+   "capex": 30.0,
+   "fcf": 895.0,
+   "debt": 3421.0,
+   "equity": 2419.0
+  },
+  {
+   "year": "Mar 2019",
+   "revenue": 9341.0,
+   "ebitda": 1394.0,
+   "pat": 684.0,
+   "opm": 15.0,
+   "cfo": 948.0,
+   "capex": 76.0,
+   "fcf": 872.0,
+   "debt": 2883.0,
+   "equity": 3090.0
+  },
+  {
+   "year": "Mar 2020",
+   "revenue": 9325.0,
+   "ebitda": 1571.0,
+   "pat": 621.0,
+   "opm": 17.0,
+   "cfo": 783.0,
+   "capex": 200.0,
+   "fcf": 583.0,
+   "debt": 2570.0,
+   "equity": 3728.0
+  },
+  {
+   "year": "Mar 2021",
+   "revenue": 8131.0,
+   "ebitda": 1051.0,
+   "pat": 362.0,
+   "opm": 13.0,
+   "cfo": 1818.0,
+   "capex": 139.0,
+   "fcf": 1679.0,
+   "debt": 1037.0,
+   "equity": 4119.0
+  },
+  {
+   "year": "Mar 2022",
+   "revenue": 9712.0,
+   "ebitda": 1595.0,
+   "pat": 811.0,
+   "opm": 16.0,
+   "cfo": 977.0,
+   "capex": 95.0,
+   "fcf": 882.0,
+   "debt": 605.0,
+   "equity": 4953.0
+  },
+  {
+   "year": "Mar 2023",
+   "revenue": 10612.0,
+   "ebitda": 1417.0,
+   "pat": 1126.0,
+   "opm": 13.0,
+   "cfo": 615.0,
+   "capex": 110.0,
+   "fcf": 505.0,
+   "debt": 183.0,
+   "equity": 5999.0
+  },
+  {
+   "year": "Mar 2024",
+   "revenue": 11321.0,
+   "ebitda": 2000.0,
+   "pat": 1408.0,
+   "opm": 18.0,
+   "cfo": 1118.0,
+   "capex": 79.0,
+   "fcf": 1039.0,
+   "debt": 265.0,
+   "equity": 7121.0
+  },
+  {
+   "year": "Mar 2025",
+   "revenue": 12069.0,
+   "ebitda": 2236.0,
+   "pat": 1582.0,
+   "opm": 19.0,
+   "cfo": 1947.0,
+   "capex": 161.0,
+   "fcf": 1786.0,
+   "debt": 480.0,
+   "equity": 8104.0
+  },
+  {
+   "year": "Mar 2026",
+   "revenue": 12467.0,
+   "ebitda": 2279.0,
+   "pat": 1838.0,
+   "opm": 18.0,
+   "cfo": 1459.0,
+   "capex": -72.0,
+   "fcf": 1531.0,
+   "debt": 413.0,
+   "equity": 8953.0
+  }
+ ],
+ "computed": {
+  "revenue_cagr_3y": 5.5,
+  "revenue_cagr_5y": 8.9,
+  "pat_cagr_3y": 17.7,
+  "pat_cagr_5y": 38.4,
+  "opm_trend": "expanding",
+  "de_ratio": 0.05,
+  "debt_trend": "rising",
+  "cfo_to_pat_5y": 0.9,
+  "fcf_5y_cr": 5743,
+  "ccc_days": 129.0,
+  "ccc_trend": "stable"
+ },
+ "flags": [
+  {
+   "level": "good",
+   "text": "CFO/PAT over 5y is 0.90 — profits backed by cash"
+  },
+  {
+   "level": "good",
+   "text": "Debt/equity is 0.05 — virtually debt-free"
+  },
+  {
+   "level": "watch",
+   "text": "Borrowings rose from ₹183 Cr to ₹413 Cr over 3 years"
+  },
+  {
+   "level": "good",
+   "text": "Operating margin expanding: 13% → 18% over 3 years"
+  },
+  {
+   "level": "good",
+   "text": "ROCE is 26.4%"
+  }
+ ],
+ "sources": [
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jul 2026",
+   "url": "https://www.diageoindia.com/pdf-viewer.aspx?gid=307336661&src=%2F%7E%2Fmedia%2FFiles%2FD%2FDiageo-V2%2FDiageo-India%2Finvestors%2Ffinancials%2Fresults-reports-and-presentations%2Fearnings-call-transcript-q1-fy27.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · May 2026",
+   "url": "https://www.diageoindia.com/pdf-viewer.aspx?gid=307336661&src=%2F%7E%2Fmedia%2FFiles%2FD%2FDiageo-V2%2FDiageo-India%2Finvestors%2Ffinancials%2Fresults-reports-and-presentations%2Funited-spirits-limited-earnings-call-transcript-q4-fy26.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2c262f1d-575a-4df8-ac8e-7e1a5ed0dfe3.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jan 2026",
+   "url": "https://www.diageoindia.com/pdf-viewer.aspx?gid=307336661&src=%2F%7E%2Fmedia%2FFiles%2FD%2FDiageo-V2%2FDiageo-India%2Finvestors%2Ffinancials%2Fresults-reports-and-presentations%2Fearnings-call-transcript-q3-fy26.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Nov 2025",
+   "url": "https://www.diageoindia.com/pdf-viewer.aspx?gid=307336661&src=%2F%7E%2Fmedia%2FFiles%2FD%2FDiageo-V2%2FDiageo-India%2Finvestors%2Fproduction-library%2Fusl-earnings-call-transcript-q2-fy26.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Aug 2025",
+   "url": "https://www.diageoindia.com/tools/viewer.aspx?src=%2F%7E%2Fmedia%2FFiles%2FD%2FDiageo-V2%2FDiageo-India%2Finvestors%2Fproduction-library%2Fearnings-call-transcript-q1-fy26.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · May 2025",
+   "url": "https://www.diageoindia.com/%7E/media/Files/D/Diageo-V2/Diageo-India/investors/financials/results-reports-and-presentations/earnings-call-transcript-q4-fy25.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · May 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=68899d5a-7836-48a8-bcff-ed5cfc4b4890.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jan 2025",
+   "url": "https://www.diageoindia.com/en/news-and-media/press-releases/2025/earnings-call-transcript-q3-fy25"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/a54d7dc1-15c4-4707-9014-939a8db32297.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/0412136e-1b49-4b6e-867b-7b4a833881f6.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2024",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/5a3fca91-db50-4b8f-b441-b923f2fa20a5.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2023",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/a9f48c17-7320-41cd-8732-3fa67c480f1e.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2022",
+   "url": "https://www.bseindia.com/bseplus/AnnualReport/532432/73716532432.pdf"
+  }
+ ]
+}

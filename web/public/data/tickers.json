@@ -624,6 +624,377 @@
    "kind": [
     "indexed"
    ]
+  },
+  {
+   "symbol": "SIEMENS",
+   "name": "Siemens Ltd",
+   "kind": [
+    "indexed"
+   ]
+  },
+  {
+   "symbol": "SRF",
+   "name": "SRF Ltd",
+   "kind": [
+    "indexed"
+   ]
+  },
+  {
+   "symbol": "TATAPOWER",
+   "name": "Tata Power Company Ltd",
+   "kind": [
+    "indexed"
+   ]
+  },
+  {
+   "symbol": "TORNTPHARM",
+   "name": "Torrent Pharmaceuticals Ltd",
+   "kind": [
+    "indexed"
+   ]
+  },
+  {
+   "symbol": "TVSMOTOR",
+   "name": "TVS Motor Company Ltd",
+   "kind": [
+    "indexed"
+   ]
+  },
+  {
+   "symbol": "UNITDSPR",
+   "name": "United Spirits Ltd",
+   "kind": [
+    "indexed"
+   ]
+  },
+  {
+   "symbol": "VBL",
+   "name": "Varun Beverages Ltd",
+   "kind": [
+    "indexed"
+   ]
+  },
+  {
+   "symbol": "VEDL",
+   "name": "Vedanta Ltd",
+   "kind": [
+    "indexed"
+   ]
+  },
+  {
+   "symbol": "ZYDUSLIFE",
+   "name": "Zydus Lifesciences Ltd",
+   "kind": [
+    "indexed"
+   ]
+  },
+  {
+   "symbol": "MOTHERSON",
+   "name": "Samvardhana Motherson International Ltd",
+   "kind": [
+    "indexed"
+   ]
+  },
+  {
+   "symbol": "PNB",
+   "name": "Punjab National Bank",
+   "kind": [
+    "indexed"
+   ]
+  },
+  {
+   "symbol": "IDFCFIRSTB",
+   "name": "IDFC First Bank Ltd",
+   "kind": [
+    "indexed"
+   ]
+  },
+  {
+   "symbol": "INDUSTOWER",
+   "name": "Indus Towers Ltd",
+   "kind": [
+    "indexed"
+   ]
+  },
+  {
+   "symbol": "COLPAL",
+   "name": "Colgate-Palmolive (India) Ltd",
+   "kind": [
+    "indexed"
+   ]
+  },
+  {
+   "symbol": "BERGEPAINT",
+   "name": "Berger Paints India Ltd",
+   "kind": [
+    "indexed"
+   ]
+  },
+  {
+   "symbol": "MUTHOOTFIN",
+   "name": "Muthoot Finance Ltd",
+   "kind": [
+    "indexed"
+   ]
+  },
+  {
+   "symbol": "PERSISTENT",
+   "name": "Persistent Systems Ltd",
+   "kind": [
+    "indexed"
+   ]
+  },
+  {
+   "symbol": "COFORGE",
+   "name": "Coforge Ltd",
+   "kind": [
+    "indexed"
+   ]
+  },
+  {
+   "symbol": "MPHASIS",
+   "name": "Mphasis Ltd",
+   "kind": [
+    "indexed"
+   ]
+  },
+  {
+   "symbol": "TATAELXSI",
+   "name": "Tata Elxsi Ltd",
+   "kind": [
+    "indexed"
+   ]
+  },
+  {
+   "symbol": "PAGEIND",
+   "name": "Page Industries Ltd",
+   "kind": [
+    "indexed"
+   ]
+  },
+  {
+   "symbol": "ASTRAL",
+   "name": "Astral Ltd",
+   "kind": [
+    "indexed"
+   ]
+  },
+  {
+   "symbol": "SUPREMEIND",
+   "name": "Supreme Industries Ltd",
+   "kind": [
+    "indexed"
+   ]
+  },
+  {
+   "symbol": "CUMMINSIND",
+   "name": "Cummins India Ltd",
+   "kind": [
+    "indexed"
+   ]
+  },
+  {
+   "symbol": "BHARATFORG",
+   "name": "Bharat Forge Ltd",
+   "kind": [
+    "indexed"
+   ]
+  },
+  {
+   "symbol": "ASHOKLEY",
+   "name": "Ashok Leyland Ltd",
+   "kind": [
+    "indexed"
+   ]
+  },
+  {
+   "symbol": "FEDERALBNK",
+   "name": "Federal Bank Ltd",
+   "kind": [
+    "indexed"
+   ]
+  },
+  {
+   "symbol": "AUBANK",
+   "name": "AU Small Finance Bank Ltd",
+   "kind": [
+    "indexed"
+   ]
+  },
+  {
+   "symbol": "LUPIN",
+   "name": "Lupin Ltd",
+   "kind": [
+    "indexed"
+   ]
+  },
+  {
+   "symbol": "AUROPHARMA",
+   "name": "Aurobindo Pharma Ltd",
+   "kind": [
+    "indexed"
+   ]
+  },
+  {
+   "symbol": "ALKEM",
+   "name": "Alkem Laboratories Ltd",
+   "kind": [
+    "indexed"
+   ]
+  },
+  {
+   "symbol": "NYKAA",
+   "name": "FSN E-Commerce Ventures Ltd",
+   "kind": [
+    "indexed"
+   ]
+  },
+  {
+   "symbol": "PAYTM",
+   "name": "One 97 Communications Ltd",
+   "kind": [
+    "indexed"
+   ]
+  },
+  {
+   "symbol": "POLICYBZR",
+   "name": "PB Fintech Ltd",
+   "kind": [
+    "indexed"
+   ]
+  },
+  {
+   "symbol": "NHPC",
+   "name": "NHPC Ltd",
+   "kind": [
+    "indexed"
+   ]
+  },
+  {
+   "symbol": "BHEL",
+   "name": "Bharat Heavy Electricals Ltd",
+   "kind": [
+    "indexed"
+   ]
+  },
+  {
+   "symbol": "SAIL",
+   "name": "Steel Authority of India Ltd",
+   "kind": [
+    "indexed"
+   ]
+  },
+  {
+   "symbol": "NMDC",
+   "name": "NMDC Ltd",
+   "kind": [
+    "indexed"
+   ]
+  },
+  {
+   "symbol": "CONCOR",
+   "name": "Container Corporation Of India Ltd",
+   "kind": [
+    "indexed"
+   ]
+  },
+  {
+   "symbol": "INDHOTEL",
+   "name": "Indian Hotels Co Ltd",
+   "kind": [
+    "indexed"
+   ]
+  },
+  {
+   "symbol": "JUBLFOOD",
+   "name": "Jubilant Foodworks Ltd",
+   "kind": [
+    "indexed"
+   ]
+  },
+  {
+   "symbol": "PIIND",
+   "name": "P I Industries Ltd",
+   "kind": [
+    "indexed"
+   ]
+  },
+  {
+   "symbol": "UPL",
+   "name": "UPL Ltd",
+   "kind": [
+    "indexed"
+   ]
+  },
+  {
+   "symbol": "TATACOMM",
+   "name": "Tata Communications Ltd",
+   "kind": [
+    "indexed"
+   ]
+  },
+  {
+   "symbol": "OFSS",
+   "name": "Oracle Financial Services Software Ltd",
+   "kind": [
+    "indexed"
+   ]
+  },
+  {
+   "symbol": "VOLTAS",
+   "name": "Voltas Ltd",
+   "kind": [
+    "indexed"
+   ]
+  },
+  {
+   "symbol": "CROMPTON",
+   "name": "Crompton Greaves Consumer Electricals Ltd",
+   "kind": [
+    "indexed"
+   ]
+  },
+  {
+   "symbol": "KEI",
+   "name": "KEI Industries Ltd",
+   "kind": [
+    "indexed"
+   ]
+  },
+  {
+   "symbol": "APLAPOLLO",
+   "name": "APL Apollo Tubes Ltd",
+   "kind": [
+    "indexed"
+   ]
+  },
+  {
+   "symbol": "BALKRISIND",
+   "name": "Balkrishna Industries Ltd",
+   "kind": [
+    "indexed"
+   ]
+  },
+  {
+   "symbol": "MRF",
+   "name": "MRF Ltd",
+   "kind": [
+    "indexed"
+   ]
+  },
+  {
+   "symbol": "PETRONET",
+   "name": "Petronet LNG Ltd",
+   "kind": [
+    "indexed"
+   ]
+  },
+  {
+   "symbol": "HINDPETRO",
+   "name": "Hindustan Petroleum Corporation Ltd",
+   "kind": [
+    "indexed"
+   ]
   }
  ]
 }

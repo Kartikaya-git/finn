@@ -1,0 +1,400 @@
+{
+ "symbol": "LUPIN",
+ "name": "Lupin Ltd",
+ "generated_at": "2026-11-15T18:09:08+00:00",
+ "about": "Lupin is an innovation-led transnational pharmaceutical company headquartered in Mumbai. Lupin develops and commercializes a wide range of branded and generic formulations, biotechnology products, and APIs in over 100 markets in the U.S., India, South Africa, and across the Asia Pacific (APAC), Latin America (LATAM), Europe, and Middle East regions.",
+ "sector": "Pharmaceuticals & Biotechnology",
+ "price": {
+  "close": 1980.3,
+  "change_pct": -1.7,
+  "mcap_cr": 90558.0,
+  "pe": 16.1,
+  "roce": 29.9,
+  "roe": 28.7
+ },
+ "quarters": [
+  {
+   "period": "Dec 2023",
+   "revenue": 5197.0,
+   "ebitda": 1038.0,
+   "pbt": 736.0,
+   "pat": 619.0,
+   "opm": 20.0
+  },
+  {
+   "period": "Mar 2024",
+   "revenue": 4961.0,
+   "ebitda": 997.0,
+   "pbt": 498.0,
+   "pat": 368.0,
+   "opm": 20.0
+  },
+  {
+   "period": "Jun 2024",
+   "revenue": 5600.0,
+   "ebitda": 1241.0,
+   "pbt": 993.0,
+   "pat": 806.0,
+   "opm": 22.0
+  },
+  {
+   "period": "Sep 2024",
+   "revenue": 5673.0,
+   "ebitda": 1340.0,
+   "pbt": 1055.0,
+   "pat": 859.0,
+   "opm": 24.0
+  },
+  {
+   "period": "Dec 2024",
+   "revenue": 5768.0,
+   "ebitda": 1356.0,
+   "pbt": 1071.0,
+   "pat": 859.0,
+   "opm": 24.0
+  },
+  {
+   "period": "Mar 2025",
+   "revenue": 5667.0,
+   "ebitda": 1321.0,
+   "pbt": 896.0,
+   "pat": 782.0,
+   "opm": 23.0
+  },
+  {
+   "period": "Jun 2025",
+   "revenue": 6268.0,
+   "ebitda": 1727.0,
+   "pbt": 1416.0,
+   "pat": 1221.0,
+   "opm": 28.0
+  },
+  {
+   "period": "Sep 2025",
+   "revenue": 7048.0,
+   "ebitda": 2341.0,
+   "pbt": 2007.0,
+   "pat": 1485.0,
+   "opm": 33.0
+  },
+  {
+   "period": "Dec 2025",
+   "revenue": 7168.0,
+   "ebitda": 2262.0,
+   "pbt": 1522.0,
+   "pat": 1181.0,
+   "opm": 32.0
+  },
+  {
+   "period": "Mar 2026",
+   "revenue": 7475.0,
+   "ebitda": 2486.0,
+   "pbt": 1928.0,
+   "pat": 1469.0,
+   "opm": 33.0
+  },
+  {
+   "period": "Jun 2026",
+   "revenue": 8277.0,
+   "ebitda": 2450.0,
+   "pbt": 2017.0,
+   "pat": 1417.0,
+   "opm": 30.0
+  },
+  {
+   "period": "Sep 2026",
+   "revenue": 7827.0,
+   "ebitda": 2044.0,
+   "pbt": 1580.0,
+   "pat": 1155.0,
+   "opm": 26.0
+  }
+ ],
+ "annual": [
+  {
+   "year": "Mar 2015",
+   "revenue": 12770.0,
+   "ebitda": 3624.0,
+   "pat": 2444.0,
+   "opm": 28.0,
+   "cfo": 2733.0,
+   "capex": 868.0,
+   "fcf": 1865.0,
+   "debt": 537.0,
+   "equity": 8874.0
+  },
+  {
+   "year": "Mar 2016",
+   "revenue": 14256.0,
+   "ebitda": 3691.0,
+   "pat": 2270.0,
+   "opm": 26.0,
+   "cfo": -382.0,
+   "capex": 5782.0,
+   "fcf": -6164.0,
+   "debt": 7178.0,
+   "equity": 11163.0
+  },
+  {
+   "year": "Mar 2017",
+   "revenue": 17367.0,
+   "ebitda": 4502.0,
+   "pat": 2565.0,
+   "opm": 26.0,
+   "cfo": 4114.0,
+   "capex": 2601.0,
+   "fcf": 1513.0,
+   "debt": 7966.0,
+   "equity": 13497.0
+  },
+  {
+   "year": "Mar 2018",
+   "revenue": 15797.0,
+   "ebitda": 3148.0,
+   "pat": 258.0,
+   "opm": 20.0,
+   "cfo": 1751.0,
+   "capex": 1490.0,
+   "fcf": 261.0,
+   "debt": 7143.0,
+   "equity": 13577.0
+  },
+  {
+   "year": "Mar 2019",
+   "revenue": 14665.0,
+   "ebitda": 2561.0,
+   "pat": 615.0,
+   "opm": 17.0,
+   "cfo": 1666.0,
+   "capex": 960.0,
+   "fcf": 706.0,
+   "debt": 8496.0,
+   "equity": 13742.0
+  },
+  {
+   "year": "Mar 2020",
+   "revenue": 15375.0,
+   "ebitda": 2355.0,
+   "pat": -270.0,
+   "opm": 15.0,
+   "cfo": 1469.0,
+   "capex": 671.0,
+   "fcf": 798.0,
+   "debt": 6305.0,
+   "equity": 12537.0
+  },
+  {
+   "year": "Mar 2021",
+   "revenue": 15163.0,
+   "ebitda": 2567.0,
+   "pat": 1228.0,
+   "opm": 17.0,
+   "cfo": 1822.0,
+   "capex": 672.0,
+   "fcf": 1150.0,
+   "debt": 4783.0,
+   "equity": 13803.0
+  },
+  {
+   "year": "Mar 2022",
+   "revenue": 16405.0,
+   "ebitda": 219.0,
+   "pat": -1528.0,
+   "opm": 1.3,
+   "cfo": 367.0,
+   "capex": 898.0,
+   "fcf": -531.0,
+   "debt": 4158.0,
+   "equity": 12153.0
+  },
+  {
+   "year": "Mar 2023",
+   "revenue": 16642.0,
+   "ebitda": 1721.0,
+   "pat": 448.0,
+   "opm": 10.0,
+   "cfo": 1897.0,
+   "capex": 1461.0,
+   "fcf": 436.0,
+   "debt": 4542.0,
+   "equity": 12465.0
+  },
+  {
+   "year": "Mar 2024",
+   "revenue": 20011.0,
+   "ebitda": 3800.0,
+   "pat": 1936.0,
+   "opm": 19.0,
+   "cfo": 3648.0,
+   "capex": 916.0,
+   "fcf": 2732.0,
+   "debt": 2922.0,
+   "equity": 14290.0
+  },
+  {
+   "year": "Mar 2025",
+   "revenue": 22708.0,
+   "ebitda": 5278.0,
+   "pat": 3306.0,
+   "opm": 23.0,
+   "cfo": 3000.0,
+   "capex": 1653.0,
+   "fcf": 1347.0,
+   "debt": 5448.0,
+   "equity": 17203.0
+  },
+  {
+   "year": "Mar 2026",
+   "revenue": 27958.0,
+   "ebitda": 8160.0,
+   "pat": 5355.0,
+   "opm": 29.0,
+   "cfo": 7334.0,
+   "capex": 1807.0,
+   "fcf": 5527.0,
+   "debt": 6616.0,
+   "equity": 22448.0
+  }
+ ],
+ "computed": {
+  "revenue_cagr_3y": 18.9,
+  "revenue_cagr_5y": 13.0,
+  "pat_cagr_3y": 128.6,
+  "pat_cagr_5y": 34.2,
+  "opm_trend": "expanding",
+  "de_ratio": 0.29,
+  "debt_trend": "rising",
+  "cfo_to_pat_5y": 1.71,
+  "fcf_5y_cr": 9511,
+  "ccc_days": 181.0,
+  "ccc_trend": "shortening"
+ },
+ "flags": [
+  {
+   "level": "good",
+   "text": "CFO/PAT over 5y is 1.71 — profits backed by cash"
+  },
+  {
+   "level": "watch",
+   "text": "Borrowings rose from ₹4,542 Cr to ₹6,616 Cr over 3 years"
+  },
+  {
+   "level": "good",
+   "text": "Operating margin expanding: 10% → 29% over 3 years"
+  },
+  {
+   "level": "good",
+   "text": "Cash conversion cycle shortened from 204 to 181 days"
+  },
+  {
+   "level": "good",
+   "text": "ROCE is 29.9%"
+  },
+  {
+   "level": "bad",
+   "text": "Latest quarter PAT down 22.2% YoY (Sep 2026)"
+  }
+ ],
+ "sources": [
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Nov 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=127cb475-d1ef-4b06-8d8b-32aab249461a.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Nov 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=713a7892-0108-47b5-92e4-56172fbe7b40.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fad86f0c-56cb-47d9-bd30-274370377ef3.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=93ad293e-41ed-484d-805e-7bf98ba60ae4.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=bb90acbb-78f4-4ae1-97ec-e5b22e0bad4d.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b564f73e-c329-426c-918c-e138f2bdbb41.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a9396ab4-f32a-4c00-9d1f-f56f12ed6425.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Feb 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=28d4b4b3-f13b-4c45-9295-23b75fea3689.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Feb 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=31389bc5-2400-4652-b0b3-705933d141e5.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Nov 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=58fae1c3-739f-4074-952c-e8fae31f5f2c.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Nov 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4bcf95d2-421b-4a61-bfdc-4788a5144f81.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Aug 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=75514df9-518b-4d3c-973e-56cea6a63ade.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Aug 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8d1ec720-157a-4541-9887-ee92480f028c.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · May 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=086b5197-121c-40d1-b56d-a0b63cdd2cd0.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · May 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=dec76331-be46-44f2-9a37-b7441c4cd47f.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/8fb3dcd7-7042-4c3c-9e52-a3966a5c110d.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b6d158c2-0aba-4c82-8b1e-35d6bf1d2ccb.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2024",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/04bba4b6-ba6d-4e54-81b9-3f2284b1a113.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2023",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/3f1647ec-c5ea-4055-9ed7-24c9a6eec0e6.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2022",
+   "url": "https://www.bseindia.com/bseplus/AnnualReport/500257/73654500257.pdf"
+  }
+ ]
+}

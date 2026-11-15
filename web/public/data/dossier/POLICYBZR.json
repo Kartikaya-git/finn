@@ -1,0 +1,383 @@
+{
+ "symbol": "POLICYBZR",
+ "name": "PB Fintech Ltd",
+ "generated_at": "2026-11-15T18:09:18+00:00",
+ "about": "PB Fintech Ltd, popularly known as Policy Bazar is India’s largest online platform for insurance and lending products through its flagship brands - Policybazaar and Paisabazaar platform through which they provide convenient access to insurance, credit and other financial products",
+ "sector": "Financial Technology (Fintech)",
+ "price": {
+  "close": 1105.0,
+  "change_pct": 5.2,
+  "mcap_cr": 51400.0,
+  "pe": 63.8,
+  "roce": 10.3,
+  "roe": 9.75
+ },
+ "quarters": [
+  {
+   "period": "Dec 2023",
+   "revenue": 871.0,
+   "ebitda": -27.0,
+   "pbt": 37.0,
+   "pat": 37.0,
+   "opm": -3.1
+  },
+  {
+   "period": "Mar 2024",
+   "revenue": 1090.0,
+   "ebitda": 5.0,
+   "pbt": 73.0,
+   "pat": 60.0,
+   "opm": 0.5
+  },
+  {
+   "period": "Jun 2024",
+   "revenue": 1010.0,
+   "ebitda": -39.0,
+   "pbt": 71.0,
+   "pat": 60.0,
+   "opm": -3.9
+  },
+  {
+   "period": "Sep 2024",
+   "revenue": 1167.0,
+   "ebitda": -8.0,
+   "pbt": 60.0,
+   "pat": 51.0,
+   "opm": -0.7
+  },
+  {
+   "period": "Dec 2024",
+   "revenue": 1292.0,
+   "ebitda": 28.0,
+   "pbt": 85.0,
+   "pat": 72.0,
+   "opm": 2.1
+  },
+  {
+   "period": "Mar 2025",
+   "revenue": 1508.0,
+   "ebitda": 112.0,
+   "pbt": 171.0,
+   "pat": 170.0,
+   "opm": 7.0
+  },
+  {
+   "period": "Jun 2025",
+   "revenue": 1348.0,
+   "ebitda": 34.0,
+   "pbt": 92.0,
+   "pat": 85.0,
+   "opm": 2.5
+  },
+  {
+   "period": "Sep 2025",
+   "revenue": 1614.0,
+   "ebitda": 98.0,
+   "pbt": 142.0,
+   "pat": 135.0,
+   "opm": 6.0
+  },
+  {
+   "period": "Dec 2025",
+   "revenue": 1771.0,
+   "ebitda": 159.0,
+   "pbt": 201.0,
+   "pat": 189.0,
+   "opm": 9.0
+  },
+  {
+   "period": "Mar 2026",
+   "revenue": 2061.0,
+   "ebitda": 212.0,
+   "pbt": 272.0,
+   "pat": 261.0,
+   "opm": 10.0
+  },
+  {
+   "period": "Jun 2026",
+   "revenue": 1888.0,
+   "ebitda": 137.0,
+   "pbt": 179.0,
+   "pat": 163.0,
+   "opm": 7.0
+  },
+  {
+   "period": "Sep 2026",
+   "revenue": 2178.0,
+   "ebitda": 161.0,
+   "pbt": 205.0,
+   "pat": 192.0,
+   "opm": 7.0
+  }
+ ],
+ "annual": [
+  {
+   "year": "Mar 2015",
+   "revenue": 78.0,
+   "ebitda": -72.0,
+   "pat": -64.0,
+   "opm": -92.0,
+   "cfo": -102.0,
+   "capex": 19.0,
+   "fcf": -121.0,
+   "debt": 0.0,
+   "equity": 97.04
+  },
+  {
+   "year": "Mar 2016",
+   "revenue": 90.0,
+   "ebitda": -142.0,
+   "pat": -110.0,
+   "opm": -157.0,
+   "cfo": -97.0,
+   "capex": 208.0,
+   "fcf": -305.0,
+   "debt": 1.0,
+   "equity": 301.04
+  },
+  {
+   "year": "Mar 2018",
+   "revenue": 334.0,
+   "ebitda": -52.0,
+   "pat": -59.0,
+   "opm": -16.0,
+   "cfo": -83.0,
+   "capex": 14.0,
+   "fcf": -97.0,
+   "debt": 1.0,
+   "equity": 787.04
+  },
+  {
+   "year": "Mar 2019",
+   "revenue": 492.0,
+   "ebitda": -336.0,
+   "pat": -347.0,
+   "opm": -68.0,
+   "cfo": -282.0,
+   "capex": 35.0,
+   "fcf": -317.0,
+   "debt": 90.0,
+   "equity": 489.04
+  },
+  {
+   "year": "Mar 2020",
+   "revenue": 771.0,
+   "ebitda": -320.0,
+   "pat": -304.0,
+   "opm": -41.0,
+   "cfo": -364.0,
+   "capex": 32.0,
+   "fcf": -396.0,
+   "debt": 110.0,
+   "equity": 1265.04
+  },
+  {
+   "year": "Mar 2021",
+   "revenue": 887.0,
+   "ebitda": -160.0,
+   "pat": -150.0,
+   "opm": -18.0,
+   "cfo": 29.0,
+   "capex": 5.0,
+   "fcf": 24.0,
+   "debt": 110.0,
+   "equity": 1990.05
+  },
+  {
+   "year": "Mar 2022",
+   "revenue": 1425.0,
+   "ebitda": -901.0,
+   "pat": -833.0,
+   "opm": -63.0,
+   "cfo": -1568.0,
+   "capex": 31.0,
+   "fcf": -1599.0,
+   "debt": 159.0,
+   "equity": 5412.0
+  },
+  {
+   "year": "Mar 2023",
+   "revenue": 2558.0,
+   "ebitda": -662.0,
+   "pat": -488.0,
+   "opm": -26.0,
+   "cfo": -299.0,
+   "capex": 64.0,
+   "fcf": -363.0,
+   "debt": 227.0,
+   "equity": 5476.0
+  },
+  {
+   "year": "Mar 2024",
+   "revenue": 3438.0,
+   "ebitda": -188.0,
+   "pat": 64.0,
+   "opm": -5.0,
+   "cfo": 9.0,
+   "capex": 64.0,
+   "fcf": -55.0,
+   "debt": 253.0,
+   "equity": 5871.0
+  },
+  {
+   "year": "Mar 2025",
+   "revenue": 4977.0,
+   "ebitda": 93.0,
+   "pat": 352.0,
+   "opm": 1.9,
+   "cfo": -183.0,
+   "capex": 97.0,
+   "fcf": -280.0,
+   "debt": 322.0,
+   "equity": 6433.0
+  },
+  {
+   "year": "Mar 2026",
+   "revenue": 6794.0,
+   "ebitda": 508.0,
+   "pat": 670.0,
+   "opm": 7.0,
+   "cfo": 41.0,
+   "capex": 77.0,
+   "fcf": -36.0,
+   "debt": 360.0,
+   "equity": 7312.0
+  }
+ ],
+ "computed": {
+  "revenue_cagr_3y": 38.5,
+  "revenue_cagr_5y": 50.3,
+  "pat_cagr_3y": null,
+  "pat_cagr_5y": null,
+  "opm_trend": "expanding",
+  "de_ratio": 0.05,
+  "debt_trend": "rising",
+  "cfo_to_pat_5y": null,
+  "fcf_5y_cr": -2333,
+  "ccc_days": 93.0,
+  "ccc_trend": "stable"
+ },
+ "flags": [
+  {
+   "level": "watch",
+   "text": "Cumulative 5y free cash flow is ₹-2,333 Cr — growth is consuming cash"
+  },
+  {
+   "level": "good",
+   "text": "Debt/equity is 0.05 — virtually debt-free"
+  },
+  {
+   "level": "watch",
+   "text": "Borrowings rose from ₹227 Cr to ₹360 Cr over 3 years"
+  },
+  {
+   "level": "good",
+   "text": "Revenue 5y CAGR is 50.3%"
+  },
+  {
+   "level": "good",
+   "text": "Operating margin expanding: -26% → 7% over 3 years"
+  },
+  {
+   "level": "good",
+   "text": "Latest quarter PAT up 42.2% YoY (Sep 2026)"
+  }
+ ],
+ "sources": [
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Nov 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5dcba7ff-7f7c-428e-8975-a5621e71d692.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Sep 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=814f9a04-deee-4d2e-9eb9-d229abf7a8ea.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=63fbf6a2-bffb-47fb-9bb6-2555dc8b8873.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Aug 2026",
+   "url": "https://www.pbfintech.in/pdf/earnings-call-deck-q1fy27.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=11ee14c1-a9d2-4b70-a12a-b40d89f52b97.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=01d9a091-f63a-493e-9bd9-8ebf210f4eff.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Feb 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7f849e2e-139f-4677-8793-07c03fbb1ba3.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Feb 2026",
+   "url": "https://www.pbfintech.in/pdf/earnings-call-q3-fy26.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Nov 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ffdbbf55-3948-4fe9-a1ad-ec63305ab06c.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Nov 2025",
+   "url": "https://nsearchives.nseindia.com/corporate/POLICYBZR_29102025171229_OutcomeOfBMPBFLQ2FY2629102025.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Aug 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=914d18b6-25e9-4d18-bf28-e6d5b7c56f0f.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Aug 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a7b38d63-c113-461e-a254-de6988ccaa54.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · May 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a93ba456-3c91-4c32-a7f0-33e2e9cef8ef.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · May 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2f37bc42-8b58-46b5-a6b5-55bb329179a6.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/97f7d70a-5c4b-45b9-8a39-cc5444e047cc.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/2bfdb4de-0d15-4056-afa6-23bbf094fb89.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2024",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/52edcf3c-a166-492b-ab1e-85ffcf0e4b21.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2023",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/71d7d60d-67e0-495c-af73-c801236ce32a.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2022",
+   "url": "https://www.bseindia.com/bseplus/AnnualReport/543390/75837543390.pdf"
+  }
+ ]
+}

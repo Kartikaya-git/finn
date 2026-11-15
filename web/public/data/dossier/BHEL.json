@@ -1,0 +1,374 @@
+{
+ "symbol": "BHEL",
+ "name": "Bharat Heavy Electricals Ltd",
+ "generated_at": "2026-11-15T18:09:22+00:00",
+ "about": "Bharat Heavy Electricals Ltd is an integrated power plant equipment manufacturer engaged in design, engineering, manufacture, erection, testing, commissioning and servicing of a wide range of products and services for the core sectors of the economy, viz. Power, transmission, Industry, transportation, renewable energy, Oil & Gas and defence. It is the flagship engineering and manufacturing company of India owned and controlled by the Govt. of India.",
+ "sector": "Electrical Equipment",
+ "price": {
+  "close": 436.3,
+  "change_pct": 1.2,
+  "mcap_cr": 151922.0,
+  "pe": 52.8,
+  "roce": 9.14,
+  "roe": 6.25
+ },
+ "quarters": [
+  {
+   "period": "Dec 2023",
+   "revenue": 5504.0,
+   "ebitda": 217.0,
+   "pbt": 84.0,
+   "pat": 60.0,
+   "opm": 3.9
+  },
+  {
+   "period": "Mar 2024",
+   "revenue": 8260.0,
+   "ebitda": 728.0,
+   "pbt": 636.0,
+   "pat": 490.0,
+   "opm": 9.0
+  },
+  {
+   "period": "Jun 2024",
+   "revenue": 5485.0,
+   "ebitda": -169.0,
+   "pbt": -279.0,
+   "pat": -211.0,
+   "opm": -3.1
+  },
+  {
+   "period": "Sep 2024",
+   "revenue": 6584.0,
+   "ebitda": 275.0,
+   "pbt": 141.0,
+   "pat": 106.0,
+   "opm": 4.2
+  },
+  {
+   "period": "Dec 2024",
+   "revenue": 7277.0,
+   "ebitda": 304.0,
+   "pbt": 179.0,
+   "pat": 135.0,
+   "opm": 4.2
+  },
+  {
+   "period": "Mar 2025",
+   "revenue": 8993.0,
+   "ebitda": 832.0,
+   "pbt": 704.0,
+   "pat": 504.0,
+   "opm": 9.0
+  },
+  {
+   "period": "Jun 2025",
+   "revenue": 5487.0,
+   "ebitda": -537.0,
+   "pbt": -608.0,
+   "pat": -456.0,
+   "opm": -10.0
+  },
+  {
+   "period": "Sep 2025",
+   "revenue": 7512.0,
+   "ebitda": 581.0,
+   "pbt": 499.0,
+   "pat": 375.0,
+   "opm": 8.0
+  },
+  {
+   "period": "Dec 2025",
+   "revenue": 8473.0,
+   "ebitda": 545.0,
+   "pbt": 520.0,
+   "pat": 390.0,
+   "opm": 6.0
+  },
+  {
+   "period": "Mar 2026",
+   "revenue": 12310.0,
+   "ebitda": 1753.0,
+   "pbt": 1728.0,
+   "pat": 1290.0,
+   "opm": 14.0
+  },
+  {
+   "period": "Jun 2026",
+   "revenue": 7698.0,
+   "ebitda": 504.0,
+   "pbt": 508.0,
+   "pat": 377.0,
+   "opm": 7.0
+  },
+  {
+   "period": "Sep 2026",
+   "revenue": 9300.0,
+   "ebitda": 1026.0,
+   "pbt": 1089.0,
+   "pat": 821.0,
+   "opm": 11.0
+  }
+ ],
+ "annual": [
+  {
+   "year": "Mar 2015",
+   "revenue": 31323.0,
+   "ebitda": 2141.0,
+   "pat": 1450.0,
+   "opm": 7.0,
+   "cfo": 821.0,
+   "capex": 277.0,
+   "fcf": 544.0,
+   "debt": 1889.0,
+   "equity": 34207.0
+  },
+  {
+   "year": "Mar 2016",
+   "revenue": 25505.0,
+   "ebitda": -1357.0,
+   "pat": -706.0,
+   "opm": -5.0,
+   "cfo": 374.0,
+   "capex": 552.0,
+   "fcf": -178.0,
+   "debt": 211.0,
+   "equity": 32315.0
+  },
+  {
+   "year": "Mar 2017",
+   "revenue": 28465.0,
+   "ebitda": 1095.0,
+   "pat": 455.0,
+   "opm": 3.9,
+   "cfo": 560.0,
+   "capex": 333.0,
+   "fcf": 227.0,
+   "debt": 156.0,
+   "equity": 32389.0
+  },
+  {
+   "year": "Mar 2018",
+   "revenue": 28827.0,
+   "ebitda": 1653.0,
+   "pat": 438.0,
+   "opm": 6.0,
+   "cfo": 989.0,
+   "capex": 270.0,
+   "fcf": 719.0,
+   "debt": 110.0,
+   "equity": 32335.0
+  },
+  {
+   "year": "Mar 2019",
+   "revenue": 30441.0,
+   "ebitda": 2032.0,
+   "pat": 1002.0,
+   "opm": 7.0,
+   "cfo": -3860.0,
+   "capex": 424.0,
+   "fcf": -4284.0,
+   "debt": 2598.0,
+   "equity": 30904.0
+  },
+  {
+   "year": "Mar 2020",
+   "revenue": 21463.0,
+   "ebitda": -133.0,
+   "pat": -1468.0,
+   "opm": -0.6,
+   "cfo": -2892.0,
+   "capex": 384.0,
+   "fcf": -3276.0,
+   "debt": 5080.0,
+   "equity": 28660.0
+  },
+  {
+   "year": "Mar 2021",
+   "revenue": 17309.0,
+   "ebitda": -3049.0,
+   "pat": -2700.0,
+   "opm": -18.0,
+   "cfo": 560.0,
+   "capex": 249.0,
+   "fcf": 311.0,
+   "debt": 4951.0,
+   "equity": 25983.0
+  },
+  {
+   "year": "Mar 2022",
+   "revenue": 21211.0,
+   "ebitda": 828.0,
+   "pat": 445.0,
+   "opm": 3.9,
+   "cfo": 660.0,
+   "capex": 162.0,
+   "fcf": 498.0,
+   "debt": 4830.0,
+   "equity": 26506.0
+  },
+  {
+   "year": "Mar 2023",
+   "revenue": 23365.0,
+   "ebitda": 1044.0,
+   "pat": 654.0,
+   "opm": 4.5,
+   "cfo": -741.0,
+   "capex": 180.0,
+   "fcf": -921.0,
+   "debt": 5454.0,
+   "equity": 24378.0
+  },
+  {
+   "year": "Mar 2024",
+   "revenue": 23893.0,
+   "ebitda": 711.0,
+   "pat": 282.0,
+   "opm": 3.0,
+   "cfo": -3713.0,
+   "capex": 223.0,
+   "fcf": -3936.0,
+   "debt": 8856.0,
+   "equity": 24438.0
+  },
+  {
+   "year": "Mar 2025",
+   "revenue": 28339.0,
+   "ebitda": 1399.0,
+   "pat": 534.0,
+   "opm": 4.9,
+   "cfo": 2192.0,
+   "capex": 290.0,
+   "fcf": 1902.0,
+   "debt": 9015.0,
+   "equity": 24722.0
+  },
+  {
+   "year": "Mar 2026",
+   "revenue": 33782.0,
+   "ebitda": 2572.0,
+   "pat": 1600.0,
+   "opm": 8.0,
+   "cfo": 5837.0,
+   "capex": 576.0,
+   "fcf": 5261.0,
+   "debt": 8187.0,
+   "equity": 26146.0
+  }
+ ],
+ "computed": {
+  "revenue_cagr_3y": 13.1,
+  "revenue_cagr_5y": 14.3,
+  "pat_cagr_3y": 34.7,
+  "pat_cagr_5y": null,
+  "opm_trend": "expanding",
+  "de_ratio": 0.31,
+  "debt_trend": "rising",
+  "cfo_to_pat_5y": 1.2,
+  "fcf_5y_cr": 2804,
+  "ccc_days": 151.0,
+  "ccc_trend": "lengthening"
+ },
+ "flags": [
+  {
+   "level": "good",
+   "text": "CFO/PAT over 5y is 1.20 — profits backed by cash"
+  },
+  {
+   "level": "watch",
+   "text": "Borrowings rose from ₹5,454 Cr to ₹8,187 Cr over 3 years"
+  },
+  {
+   "level": "good",
+   "text": "Operating margin expanding: 4% → 8% over 3 years"
+  },
+  {
+   "level": "watch",
+   "text": "Cash conversion cycle lengthened from -35 to 151 days"
+  },
+  {
+   "level": "watch",
+   "text": "ROCE is 9.1% — below cost of capital"
+  },
+  {
+   "level": "watch",
+   "text": "Promoter holding fell from 63.2% to 58.2% in 4 quarters"
+  },
+  {
+   "level": "good",
+   "text": "Latest quarter PAT up 118.9% YoY (Sep 2026)"
+  }
+ ],
+ "sources": [
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d67af566-9633-4ce7-a92f-167df3e97e9e.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Oct 2025",
+   "url": "https://www.bhel.com/sites/default/files/BHEL%20Q2%20FY2025-26%20Supplementary%20Information.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · May 2025",
+   "url": "https://www.bhel.com/sites/default/files/Supplementary%20Information%20BHEL%20Q4FY25.cleaned.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jan 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8cc24fc8-bace-4a93-9696-0bf335363007.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Oct 2024",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=13df1bc9-e65d-4fb6-b808-cdd626288b86.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jul 2024",
+   "url": "https://bhel.com/sites/default/files/Supplementary%20Information%20BHEL%20Q1FY25.cleaned.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · May 2024",
+   "url": "https://bhel.com/sites/default/files/BHEL-Transcript%20CONCALL%20Q4FY24-May21_2024.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · May 2024",
+   "url": "https://bhel.com/sites/default/files/Supplementary%20Information%20BHEL%20Q4FY24_0.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Nov 2023",
+   "url": "https://www.bhel.com/sites/default/files/Supplementary%20Information%20BHEL%20Q2FY24.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/04116f8e-fa1a-4abc-9e5f-f3c8be2db99f.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/78065402-e226-4cad-ae7d-2876ac01190f.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2024",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/c24318ed-7bfa-490a-b9f9-26a2e0357d0a.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2023",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b6e66b29-cb68-48f7-9a6a-d309a42dd11c.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2022",
+   "url": "https://www.bseindia.com/bseplus/AnnualReport/500103/76557500103.pdf"
+  }
+ ]
+}

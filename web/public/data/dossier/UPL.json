@@ -1,0 +1,396 @@
+{
+ "symbol": "UPL",
+ "name": "UPL Ltd",
+ "generated_at": "2026-11-15T18:09:36+00:00",
+ "about": "UPL is principally engaged in the business of agrochemicals, industrial chemicals, chemical intermediates, speciality chemicals and production and sale of field crops and vegetable seeds.",
+ "sector": "Fertilizers & Agrochemicals",
+ "price": {
+  "close": 559.4,
+  "change_pct": 0.6,
+  "mcap_cr": 47208.0,
+  "pe": 24.7,
+  "roce": 10.1,
+  "roe": 5.64
+ },
+ "quarters": [
+  {
+   "period": "Dec 2023",
+   "revenue": 9887.0,
+   "ebitda": 67.0,
+   "pbt": -1666.0,
+   "pat": -1607.0,
+   "opm": 0.7
+  },
+  {
+   "period": "Mar 2024",
+   "revenue": 14078.0,
+   "ebitda": 1848.0,
+   "pbt": 30.0,
+   "pat": -80.0,
+   "opm": 13.0
+  },
+  {
+   "period": "Jun 2024",
+   "revenue": 9067.0,
+   "ebitda": 1069.0,
+   "pbt": -455.0,
+   "pat": -527.0,
+   "opm": 12.0
+  },
+  {
+   "period": "Sep 2024",
+   "revenue": 11090.0,
+   "ebitda": 1217.0,
+   "pbt": -447.0,
+   "pat": -585.0,
+   "opm": 11.0
+  },
+  {
+   "period": "Dec 2024",
+   "revenue": 10907.0,
+   "ebitda": 1678.0,
+   "pbt": 354.0,
+   "pat": 853.0,
+   "opm": 15.0
+  },
+  {
+   "period": "Mar 2025",
+   "revenue": 15573.0,
+   "ebitda": 3164.0,
+   "pbt": 1377.0,
+   "pat": 1079.0,
+   "opm": 20.0
+  },
+  {
+   "period": "Jun 2025",
+   "revenue": 9216.0,
+   "ebitda": 1396.0,
+   "pbt": -190.0,
+   "pat": -176.0,
+   "opm": 15.0
+  },
+  {
+   "period": "Sep 2025",
+   "revenue": 12019.0,
+   "ebitda": 1947.0,
+   "pbt": 784.0,
+   "pat": 612.0,
+   "opm": 16.0
+  },
+  {
+   "period": "Dec 2025",
+   "revenue": 12269.0,
+   "ebitda": 2236.0,
+   "pbt": 671.0,
+   "pat": 490.0,
+   "opm": 18.0
+  },
+  {
+   "period": "Mar 2026",
+   "revenue": 18335.0,
+   "ebitda": 3481.0,
+   "pbt": 1892.0,
+   "pat": 1294.0,
+   "opm": 19.0
+  },
+  {
+   "period": "Jun 2026",
+   "revenue": 10181.0,
+   "ebitda": 1367.0,
+   "pbt": -109.0,
+   "pat": -73.0,
+   "opm": 13.0
+  },
+  {
+   "period": "Sep 2026",
+   "revenue": 11860.0,
+   "ebitda": 2068.0,
+   "pbt": 615.0,
+   "pat": 452.0,
+   "opm": 17.0
+  }
+ ],
+ "annual": [
+  {
+   "year": "Mar 2015",
+   "revenue": 12091.0,
+   "ebitda": 2363.0,
+   "pat": 1187.0,
+   "opm": 20.0,
+   "cfo": 1409.0,
+   "capex": 531.0,
+   "fcf": 878.0,
+   "debt": 3281.0,
+   "equity": 5861.0
+  },
+  {
+   "year": "Mar 2016",
+   "revenue": 14048.0,
+   "ebitda": 2348.0,
+   "pat": 952.0,
+   "opm": 17.0,
+   "cfo": 1396.0,
+   "capex": 693.0,
+   "fcf": 703.0,
+   "debt": 5258.0,
+   "equity": 5889.0
+  },
+  {
+   "year": "Mar 2017",
+   "revenue": 16312.0,
+   "ebitda": 2966.0,
+   "pat": 1733.0,
+   "opm": 18.0,
+   "cfo": 2585.0,
+   "capex": 1203.0,
+   "fcf": 1382.0,
+   "debt": 6443.0,
+   "equity": 7315.0
+  },
+  {
+   "year": "Mar 2018",
+   "revenue": 17378.0,
+   "ebitda": 3412.0,
+   "pat": 2030.0,
+   "opm": 20.0,
+   "cfo": 2839.0,
+   "capex": 1404.0,
+   "fcf": 1435.0,
+   "debt": 6638.0,
+   "equity": 9169.0
+  },
+  {
+   "year": "Mar 2019",
+   "revenue": 21837.0,
+   "ebitda": 3813.0,
+   "pat": 1575.0,
+   "opm": 17.0,
+   "cfo": 2356.0,
+   "capex": 1553.0,
+   "fcf": 803.0,
+   "debt": 29139.0,
+   "equity": 14715.0
+  },
+  {
+   "year": "Mar 2020",
+   "revenue": 35756.0,
+   "ebitda": 6772.0,
+   "pat": 2178.0,
+   "opm": 19.0,
+   "cfo": 8739.0,
+   "capex": 1935.0,
+   "fcf": 6804.0,
+   "debt": 29388.0,
+   "equity": 19282.0
+  },
+  {
+   "year": "Mar 2021",
+   "revenue": 38694.0,
+   "ebitda": 8352.0,
+   "pat": 3495.0,
+   "opm": 22.0,
+   "cfo": 7212.0,
+   "capex": 2065.0,
+   "fcf": 5147.0,
+   "debt": 24519.0,
+   "equity": 20887.0
+  },
+  {
+   "year": "Mar 2022",
+   "revenue": 46240.0,
+   "ebitda": 9529.0,
+   "pat": 4437.0,
+   "opm": 21.0,
+   "cfo": 6496.0,
+   "capex": 2565.0,
+   "fcf": 3931.0,
+   "debt": 26746.0,
+   "equity": 24661.0
+  },
+  {
+   "year": "Mar 2023",
+   "revenue": 53576.0,
+   "ebitda": 10196.0,
+   "pat": 4414.0,
+   "opm": 19.0,
+   "cfo": 7751.0,
+   "capex": 2289.0,
+   "fcf": 5462.0,
+   "debt": 23939.0,
+   "equity": 26858.0
+  },
+  {
+   "year": "Mar 2024",
+   "revenue": 43098.0,
+   "ebitda": 4297.0,
+   "pat": -1878.0,
+   "opm": 10.0,
+   "cfo": 2321.0,
+   "capex": 1954.0,
+   "fcf": 367.0,
+   "debt": 29754.0,
+   "equity": 24807.0
+  },
+  {
+   "year": "Mar 2025",
+   "revenue": 46637.0,
+   "ebitda": 7128.0,
+   "pat": 820.0,
+   "opm": 15.0,
+   "cfo": 10151.0,
+   "capex": 1255.0,
+   "fcf": 8896.0,
+   "debt": 25099.0,
+   "equity": 29213.0
+  },
+  {
+   "year": "Mar 2026",
+   "revenue": 51839.0,
+   "ebitda": 9078.0,
+   "pat": 2220.0,
+   "opm": 18.0,
+   "cfo": 7855.0,
+   "capex": 2353.0,
+   "fcf": 5502.0,
+   "debt": 23576.0,
+   "equity": 34696.0
+  }
+ ],
+ "computed": {
+  "revenue_cagr_3y": -1.1,
+  "revenue_cagr_5y": 6.0,
+  "pat_cagr_3y": -20.5,
+  "pat_cagr_5y": -8.7,
+  "opm_trend": "stable",
+  "de_ratio": 0.68,
+  "debt_trend": "flat",
+  "cfo_to_pat_5y": 3.45,
+  "fcf_5y_cr": 24158,
+  "ccc_days": 135.0,
+  "ccc_trend": "lengthening"
+ },
+ "flags": [
+  {
+   "level": "good",
+   "text": "CFO/PAT over 5y is 3.45 — profits backed by cash"
+  },
+  {
+   "level": "watch",
+   "text": "Debt/equity is 0.68"
+  },
+  {
+   "level": "watch",
+   "text": "PAT 5y CAGR -8.7% lags revenue CAGR 6.0% — margins leaking"
+  },
+  {
+   "level": "watch",
+   "text": "Cash conversion cycle lengthened from 76 to 135 days"
+  },
+  {
+   "level": "bad",
+   "text": "Latest quarter PAT down 26.1% YoY (Sep 2026)"
+  }
+ ],
+ "sources": [
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Nov 2026",
+   "url": "https://www.upl-ltd.com/financial_result_and_report_pdfs/QIs5Ps8JR6TFa7RMTgG9adAtsDr85TaTXIGoLSwz/UPL--Q2-and-H1FY2027---Earnings-Call-Transcript.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Nov 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e2744e2f-a37b-4275-8a9c-599b8af670da.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Aug 2026",
+   "url": "https://www.upl-ltd.com/financial_result_and_report_pdfs/1YFDJsK5r70iGV5s8cp2XJkhqIvcSbKE7tm3xZ7b/UPL---Q1FY27---Earnings-call-transcript.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2f0f3bf4-eb2a-4b8e-85a4-fa1b252aa4f1.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · May 2026",
+   "url": "https://www.upl-ltd.com/financial_pdfs/cmd-2025-transcript.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=423093cb-ab1a-4288-abdc-894653fabf37.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Feb 2026",
+   "url": "https://www.upl-ltd.com/financial_result_and_report_pdfs/R8CeLDUKZ4SZatGQEdIF2zN6cwfUiAZUiFtluFq3/UPL-Ltd---Q3&9MFY26---Earnings-call-transcript.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Feb 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ed2fe91d-1586-4389-a24f-d64a4e6975d8.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Feb 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6bcd0819-5ddb-4516-a762-f7a1141762db.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Nov 2025",
+   "url": "https://www.upl-ltd.com/financial_result_and_report_pdfs/UPL-Q2FY26-Earnings-call-transcript.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Nov 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0f944762-33b2-41d9-9bc3-aab7d950cfc9.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Aug 2025",
+   "url": "https://www.upl-ltd.com/financial_result_and_report_pdfs/r3nhTBqvvaJwil4Yfw2svFbm3ssp7pXGaXZJVwLM/UPL---Q1FY26---Earnings-call-transcript.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Aug 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=199792f5-db4d-43f8-bca8-9fc46e15e9b3.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · May 2025",
+   "url": "https://www.upl-ltd.com/financial_result_and_report_pdfs/7mkodaFuvV69UHvH2dd08jzTCjsin2KsSA8h0afY/UPL-CMD-2025-Transcription.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · May 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=38a2270a-8a9a-4206-8333-bc732990299c.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/eb12d677-50d7-4495-9f5f-1921ef482847.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/16ebc6c3-a363-4437-b10d-8e0dfedb9483.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2024",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/8ee29f18-2108-4736-a8f1-7e012f32ce56.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2023",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/599ae0be-ca37-446f-8a49-975a38d3b3d2.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2022",
+   "url": "https://www.bseindia.com/bseplus/AnnualReport/512070/73839512070.pdf"
+  }
+ ]
+}

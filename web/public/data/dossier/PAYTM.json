@@ -1,0 +1,381 @@
+{
+ "symbol": "PAYTM",
+ "name": "One 97 Communications Ltd",
+ "generated_at": "2026-11-15T18:09:16+00:00",
+ "about": "Incorporated in 2000, One 97 Communications Ltd is India's leading digital ecosystem for consumers as well as merchants. As of March 31, 2021, the company has a 333 million+ client base and 21 million+ registered merchants to whom it offers payment services, financial services, and commerce and cloud services.",
+ "sector": "Financial Technology (Fintech)",
+ "price": {
+  "close": 1939.9,
+  "change_pct": 0.8,
+  "mcap_cr": 124615.0,
+  "pe": 149.0,
+  "roce": 4.96,
+  "roe": 4.64
+ },
+ "quarters": [
+  {
+   "period": "Dec 2023",
+   "revenue": 2850.0,
+   "ebitda": -163.0,
+   "pbt": -221.0,
+   "pat": -222.0,
+   "opm": -6.0
+  },
+  {
+   "period": "Mar 2024",
+   "revenue": 2267.0,
+   "ebitda": -467.0,
+   "pbt": -536.0,
+   "pat": -550.0,
+   "opm": -21.0
+  },
+  {
+   "period": "Jun 2024",
+   "revenue": 1502.0,
+   "ebitda": -794.0,
+   "pbt": -839.0,
+   "pat": -840.0,
+   "opm": -53.0
+  },
+  {
+   "period": "Sep 2024",
+   "revenue": 1659.0,
+   "ebitda": -404.0,
+   "pbt": 938.0,
+   "pat": 930.0,
+   "opm": -24.0
+  },
+  {
+   "period": "Dec 2024",
+   "revenue": 1828.0,
+   "ebitda": -223.0,
+   "pbt": -203.0,
+   "pat": -208.0,
+   "opm": -12.0
+  },
+  {
+   "period": "Mar 2025",
+   "revenue": 1912.0,
+   "ebitda": -88.0,
+   "pbt": -542.0,
+   "pat": -545.0,
+   "opm": -4.6
+  },
+  {
+   "period": "Jun 2025",
+   "revenue": 1918.0,
+   "ebitda": 72.0,
+   "pbt": 126.0,
+   "pat": 123.0,
+   "opm": 3.8
+  },
+  {
+   "period": "Sep 2025",
+   "revenue": 2061.0,
+   "ebitda": 140.0,
+   "pbt": 30.0,
+   "pat": 21.0,
+   "opm": 7.0
+  },
+  {
+   "period": "Dec 2025",
+   "revenue": 2194.0,
+   "ebitda": 155.0,
+   "pbt": 230.0,
+   "pat": 225.0,
+   "opm": 7.0
+  },
+  {
+   "period": "Mar 2026",
+   "revenue": 2264.0,
+   "ebitda": 132.0,
+   "pbt": 194.0,
+   "pat": 183.0,
+   "opm": 6.0
+  },
+  {
+   "period": "Jun 2026",
+   "revenue": 2448.0,
+   "ebitda": 203.0,
+   "pbt": 247.0,
+   "pat": 220.0,
+   "opm": 8.0
+  },
+  {
+   "period": "Sep 2026",
+   "revenue": 2648.0,
+   "ebitda": 267.0,
+   "pbt": 292.0,
+   "pat": 225.0,
+   "opm": 10.0
+  }
+ ],
+ "annual": [
+  {
+   "year": "Mar 2015",
+   "revenue": 323.0,
+   "ebitda": -360.0,
+   "pat": -372.0,
+   "opm": -111.0,
+   "cfo": -334.0,
+   "capex": 38.0,
+   "fcf": -372.0,
+   "debt": 0.0,
+   "equity": 384.0
+  },
+  {
+   "year": "Mar 2016",
+   "revenue": 855.0,
+   "ebitda": -1668.0,
+   "pat": -1535.0,
+   "opm": -195.0,
+   "cfo": -1405.0,
+   "capex": 110.0,
+   "fcf": -1515.0,
+   "debt": 15.0,
+   "equity": 2797.0
+  },
+  {
+   "year": "Mar 2019",
+   "revenue": 3224.0,
+   "ebitda": -4368.0,
+   "pat": -4231.0,
+   "opm": -135.0,
+   "cfo": -4476.0,
+   "capex": 175.0,
+   "fcf": -4651.0,
+   "debt": 932.0,
+   "equity": 5725.0
+  },
+  {
+   "year": "Mar 2020",
+   "revenue": 3279.0,
+   "ebitda": -2685.0,
+   "pat": -2942.0,
+   "opm": -82.0,
+   "cfo": -2377.0,
+   "capex": 186.0,
+   "fcf": -2563.0,
+   "debt": 428.0,
+   "equity": 8105.0
+  },
+  {
+   "year": "Mar 2021",
+   "revenue": 2801.0,
+   "ebitda": -1838.0,
+   "pat": -1701.0,
+   "opm": -66.0,
+   "cfo": -2082.0,
+   "capex": 188.0,
+   "fcf": -2270.0,
+   "debt": 612.0,
+   "equity": 6534.0
+  },
+  {
+   "year": "Mar 2022",
+   "revenue": 4974.0,
+   "ebitda": -2384.0,
+   "pat": -2396.0,
+   "opm": -48.0,
+   "cfo": -1236.0,
+   "capex": 505.0,
+   "fcf": -1741.0,
+   "debt": 222.0,
+   "equity": 14152.0
+  },
+  {
+   "year": "Mar 2023",
+   "revenue": 7990.0,
+   "ebitda": -1644.0,
+   "pat": -1776.0,
+   "opm": -21.0,
+   "cfo": 416.0,
+   "capex": 697.0,
+   "fcf": -281.0,
+   "debt": 223.0,
+   "equity": 13015.0
+  },
+  {
+   "year": "Mar 2024",
+   "revenue": 9978.0,
+   "ebitda": -943.0,
+   "pat": -1422.0,
+   "opm": -9.0,
+   "cfo": 651.0,
+   "capex": 812.0,
+   "fcf": -161.0,
+   "debt": 177.0,
+   "equity": 13327.0
+  },
+  {
+   "year": "Mar 2025",
+   "revenue": 6900.0,
+   "ebitda": -1506.0,
+   "pat": -663.0,
+   "opm": -22.0,
+   "cfo": -121.0,
+   "capex": 317.0,
+   "fcf": -438.0,
+   "debt": 160.0,
+   "equity": 15027.0
+  },
+  {
+   "year": "Mar 2026",
+   "revenue": 8437.0,
+   "ebitda": 501.0,
+   "pat": 552.0,
+   "opm": 6.0,
+   "cfo": -743.0,
+   "capex": 468.0,
+   "fcf": -1211.0,
+   "debt": 172.0,
+   "equity": 16026.0
+  }
+ ],
+ "computed": {
+  "revenue_cagr_3y": 1.8,
+  "revenue_cagr_5y": 24.7,
+  "pat_cagr_3y": null,
+  "pat_cagr_5y": null,
+  "opm_trend": "expanding",
+  "de_ratio": 0.01,
+  "debt_trend": "falling",
+  "cfo_to_pat_5y": null,
+  "fcf_5y_cr": -3832,
+  "ccc_days": 51.0,
+  "ccc_trend": "stable"
+ },
+ "flags": [
+  {
+   "level": "watch",
+   "text": "Cumulative 5y free cash flow is ₹-3,832 Cr — growth is consuming cash"
+  },
+  {
+   "level": "good",
+   "text": "Debt/equity is 0.01 — virtually debt-free"
+  },
+  {
+   "level": "good",
+   "text": "Revenue 5y CAGR is 24.7%"
+  },
+  {
+   "level": "good",
+   "text": "Operating margin expanding: -21% → 6% over 3 years"
+  },
+  {
+   "level": "watch",
+   "text": "ROCE is 5.0% — below cost of capital"
+  },
+  {
+   "level": "good",
+   "text": "Latest quarter PAT up 971.4% YoY (Sep 2026)"
+  }
+ ],
+ "sources": [
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Oct 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=46af905c-f73e-4409-8f53-a486e2b6157e.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Oct 2026",
+   "url": "https://paytm.com/document/ir/financial-results/Paytm_Earnings-Presentation_Q2-FY-2027_INR.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=98c94d54-c284-4e83-83b3-fc6e41943d16.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jul 2026",
+   "url": "https://paytm.com/document/ir/financial-results/Paytm_Earning-Release_Q1-FY-2027.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a39d5732-4edd-4b8f-8269-767d21ccd4c2.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · May 2026",
+   "url": "https://nsearchives.nseindia.com/corporate/PAYTM_06052026202426_EarningsRelease.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Feb 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4720712e-95e6-432a-ae09-64d5fb6ff426.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Feb 2026",
+   "url": "https://paytm.com/document/ir/financial-results/fy2025-26/Paytm_Earnings_Presentation_Q3-FY26_INR.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Nov 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=86dfa175-b19a-424b-a170-5341345487b7.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Nov 2025",
+   "url": "https://nsearchives.nseindia.com/corporate/PAYTM_04112025215154_Reg30_Earnings_Release_FY26_Q2_OCL_sd.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jul 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0380fc7f-f4b4-4828-a3fe-9c5d05201db9.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jul 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=390a147e-db05-46a4-8195-fb46f7f420c0.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · May 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f4f63818-7cec-4a27-84d6-dfaa0578c25f.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · May 2025",
+   "url": "https://paytm.com/document/ir/financial-results/fy2024-25/Earnings-Release_Q4_FY25_Paytm.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jan 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=10e7f126-382e-4d86-b0c1-aa0e35f838a5.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jan 2025",
+   "url": "https://paytm.com/document/ir/financial-results/Paytm_Earnings-Presentation_Q3FY2025.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/38e0ec1b-bb22-4190-a4ce-90e20fcf8983.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/dad7b019-c2c8-40e1-88b9-d2fb7ce2b73a.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2024",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/61bd3477-0728-46fa-9e62-319088c2f276.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2023",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/d778c2f3-0d03-4617-acff-2e44312e8d00.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2022",
+   "url": "https://www.bseindia.com/bseplus/AnnualReport/543396/73953543396.pdf"
+  }
+ ]
+}

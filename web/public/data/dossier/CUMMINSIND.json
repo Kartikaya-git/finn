@@ -1,0 +1,375 @@
+{
+ "symbol": "CUMMINSIND",
+ "name": "Cummins India Ltd",
+ "generated_at": "2026-11-15T18:08:57+00:00",
+ "about": "Cummins India Ltd is a part of the Cummins Inc. Group USA. It designs, manufactures, distributes and services diesel and alternative fuel engines from 2.8 to 100 liters, diesel and alternative-fueled power generator sets of up to 3000 kW (3750 kVA), as well as related components and technology.",
+ "sector": "Industrial Products",
+ "price": {
+  "close": 4369.0,
+  "change_pct": 2.6,
+  "mcap_cr": 121109.0,
+  "pe": 52.1,
+  "roce": 39.5,
+  "roe": 30.2
+ },
+ "quarters": [
+  {
+   "period": "Dec 2023",
+   "revenue": 2541.0,
+   "ebitda": 543.0,
+   "pbt": 647.0,
+   "pat": 499.0,
+   "opm": 21.0
+  },
+  {
+   "period": "Mar 2024",
+   "revenue": 2319.0,
+   "ebitda": 539.0,
+   "pbt": 676.0,
+   "pat": 539.0,
+   "opm": 23.0
+  },
+  {
+   "period": "Jun 2024",
+   "revenue": 2316.0,
+   "ebitda": 473.0,
+   "pbt": 595.0,
+   "pat": 463.0,
+   "opm": 20.0
+  },
+  {
+   "period": "Sep 2024",
+   "revenue": 2509.0,
+   "ebitda": 484.0,
+   "pbt": 594.0,
+   "pat": 449.0,
+   "opm": 19.0
+  },
+  {
+   "period": "Dec 2024",
+   "revenue": 3096.0,
+   "ebitda": 598.0,
+   "pbt": 714.0,
+   "pat": 558.0,
+   "opm": 19.0
+  },
+  {
+   "period": "Mar 2025",
+   "revenue": 2470.0,
+   "ebitda": 525.0,
+   "pbt": 690.0,
+   "pat": 530.0,
+   "opm": 21.0
+  },
+  {
+   "period": "Jun 2025",
+   "revenue": 2907.0,
+   "ebitda": 624.0,
+   "pbt": 785.0,
+   "pat": 604.0,
+   "opm": 21.0
+  },
+  {
+   "period": "Sep 2025",
+   "revenue": 3170.0,
+   "ebitda": 695.0,
+   "pbt": 824.0,
+   "pat": 622.0,
+   "opm": 22.0
+  },
+  {
+   "period": "Dec 2025",
+   "revenue": 3055.0,
+   "ebitda": 634.0,
+   "pbt": 626.0,
+   "pat": 486.0,
+   "opm": 21.0
+  },
+  {
+   "period": "Mar 2026",
+   "revenue": 3011.0,
+   "ebitda": 642.0,
+   "pbt": 852.0,
+   "pat": 649.0,
+   "opm": 21.0
+  },
+  {
+   "period": "Jun 2026",
+   "revenue": 3426.0,
+   "ebitda": 616.0,
+   "pbt": 787.0,
+   "pat": 609.0,
+   "opm": 18.0
+  },
+  {
+   "period": "Sep 2026",
+   "revenue": 3301.0,
+   "ebitda": 506.0,
+   "pbt": 641.0,
+   "pat": 507.0,
+   "opm": 15.0
+  }
+ ],
+ "annual": [
+  {
+   "year": "Mar 2015",
+   "revenue": 4916.0,
+   "ebitda": 815.0,
+   "pat": 772.0,
+   "opm": 17.0,
+   "cfo": 589.0,
+   "capex": 338.0,
+   "fcf": 251.0,
+   "debt": 3.0,
+   "equity": 3088.0
+  },
+  {
+   "year": "Mar 2016",
+   "revenue": 4720.0,
+   "ebitda": 775.0,
+   "pat": 721.0,
+   "opm": 16.0,
+   "cfo": 696.0,
+   "capex": 491.0,
+   "fcf": 205.0,
+   "debt": 3.0,
+   "equity": 3608.0
+  },
+  {
+   "year": "Mar 2017",
+   "revenue": 5106.0,
+   "ebitda": 805.0,
+   "pat": 736.0,
+   "opm": 16.0,
+   "cfo": 748.0,
+   "capex": 232.0,
+   "fcf": 516.0,
+   "debt": 252.0,
+   "equity": 3871.0
+  },
+  {
+   "year": "Mar 2018",
+   "revenue": 5112.0,
+   "ebitda": 738.0,
+   "pat": 712.0,
+   "opm": 14.0,
+   "cfo": 632.0,
+   "capex": 92.0,
+   "fcf": 540.0,
+   "debt": 257.0,
+   "equity": 4118.0
+  },
+  {
+   "year": "Mar 2019",
+   "revenue": 5697.0,
+   "ebitda": 869.0,
+   "pat": 743.0,
+   "opm": 15.0,
+   "cfo": 553.0,
+   "capex": 274.0,
+   "fcf": 279.0,
+   "debt": 313.0,
+   "equity": 4283.0
+  },
+  {
+   "year": "Mar 2020",
+   "revenue": 5191.0,
+   "ebitda": 593.0,
+   "pat": 706.0,
+   "opm": 11.0,
+   "cfo": 601.0,
+   "capex": 237.0,
+   "fcf": 364.0,
+   "debt": 512.0,
+   "equity": 4402.0
+  },
+  {
+   "year": "Mar 2021",
+   "revenue": 4360.0,
+   "ebitda": 603.0,
+   "pat": 635.0,
+   "opm": 14.0,
+   "cfo": 789.0,
+   "capex": 114.0,
+   "fcf": 675.0,
+   "debt": 40.0,
+   "equity": 4651.0
+  },
+  {
+   "year": "Mar 2022",
+   "revenue": 6171.0,
+   "ebitda": 883.0,
+   "pat": 934.0,
+   "opm": 14.0,
+   "cfo": 712.0,
+   "capex": -70.0,
+   "fcf": 782.0,
+   "debt": 418.0,
+   "equity": 5145.0
+  },
+  {
+   "year": "Mar 2023",
+   "revenue": 7772.0,
+   "ebitda": 1248.0,
+   "pat": 1228.0,
+   "opm": 16.0,
+   "cfo": 820.0,
+   "capex": 155.0,
+   "fcf": 665.0,
+   "debt": 376.0,
+   "equity": 5758.0
+  },
+  {
+   "year": "Mar 2024",
+   "revenue": 9000.0,
+   "ebitda": 1770.0,
+   "pat": 1721.0,
+   "opm": 20.0,
+   "cfo": 1285.0,
+   "capex": 282.0,
+   "fcf": 1003.0,
+   "debt": 127.0,
+   "equity": 6612.0
+  },
+  {
+   "year": "Mar 2025",
+   "revenue": 10391.0,
+   "ebitda": 2080.0,
+   "pat": 2000.0,
+   "opm": 20.0,
+   "cfo": 1683.0,
+   "capex": 218.0,
+   "fcf": 1465.0,
+   "debt": 30.0,
+   "equity": 7561.0
+  },
+  {
+   "year": "Mar 2026",
+   "revenue": 12143.0,
+   "ebitda": 2595.0,
+   "pat": 2362.0,
+   "opm": 21.0,
+   "cfo": 1734.0,
+   "capex": 247.0,
+   "fcf": 1487.0,
+   "debt": 37.0,
+   "equity": 8475.0
+  }
+ ],
+ "computed": {
+  "revenue_cagr_3y": 16.0,
+  "revenue_cagr_5y": 22.7,
+  "pat_cagr_3y": 24.4,
+  "pat_cagr_5y": 30.0,
+  "opm_trend": "expanding",
+  "de_ratio": 0.0,
+  "debt_trend": "falling",
+  "cfo_to_pat_5y": 0.76,
+  "fcf_5y_cr": 5402,
+  "ccc_days": 60.0,
+  "ccc_trend": "stable"
+ },
+ "flags": [
+  {
+   "level": "watch",
+   "text": "CFO/PAT over 5y is 0.76 — cash conversion a bit soft"
+  },
+  {
+   "level": "good",
+   "text": "Debt/equity is 0.00 — virtually debt-free"
+  },
+  {
+   "level": "good",
+   "text": "Revenue 5y CAGR is 22.7%"
+  },
+  {
+   "level": "good",
+   "text": "Operating margin expanding: 16% → 21% over 3 years"
+  },
+  {
+   "level": "good",
+   "text": "ROCE is 39.5%"
+  },
+  {
+   "level": "bad",
+   "text": "Latest quarter PAT down 18.5% YoY (Sep 2026)"
+  }
+ ],
+ "sources": [
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9794a95c-b9b9-4625-8663-efd651a05187.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jun 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5fc0ce89-0765-417a-b55b-fdf1efa7d419.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Feb 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=dd1502b2-99ca-4254-9c2f-c446b090114f.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Nov 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=cff3233e-af87-4950-a2ef-46ee79205bc7.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Aug 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6c61209e-6eb6-4745-9b28-59c0d058feee.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jun 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1e318165-1511-495b-bb72-7b5391a23016.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Feb 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fb718e75-ce05-4c9b-af80-b1bb2fb97948.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Feb 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=98a04e6b-2a1d-4405-98b1-5b799a4d4e43.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Nov 2024",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=00922442-0b76-4833-bae8-2b35c0b10771.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Nov 2024",
+   "url": "https://d1io3yog0oux5.cloudfront.net/_d947d9d300486b327ceac1d463e90f9b/cummins/db/784/7713/pdf/Q3-24+Cummins+Inc.+Earnings+Release+Presentation.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/a3fd8d45-4e43-45a3-95c3-99c80f16e4a2.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/07fa1101-317e-4120-8479-f819f66a8c26.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2024",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/d9045abb-ad59-41e5-93c6-9f8993918f1c.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2023",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/73bce19b-7516-4012-9798-487078057052.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2022",
+   "url": "https://www.bseindia.com/bseplus/AnnualReport/500480/73756500480.pdf"
+  }
+ ]
+}

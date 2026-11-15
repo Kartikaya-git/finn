@@ -1,0 +1,389 @@
+{
+ "symbol": "COFORGE",
+ "name": "Coforge Ltd",
+ "generated_at": "2026-11-15T18:08:44+00:00",
+ "about": "Coforge is an IT services company providing end-to-end software solutions and services. . It is among the top-20 Indian software exporters. Prominent global customers include British Airways, the ING group, SEI Investments, Sabre, and SITA. Over the years, Coforge has set up subsidiaries in the US, Singapore, Australia, UK, Germany and Thailand, mainly to market and mobilise projects for the software division. The company has business partnerships with large IT companies across the world.",
+ "sector": "IT - Software",
+ "price": {
+  "close": 2028.0,
+  "change_pct": -0.3,
+  "mcap_cr": 89853.0,
+  "pe": 41.4,
+  "roce": 23.5,
+  "roe": 21.4
+ },
+ "quarters": [
+  {
+   "period": "Dec 2023",
+   "revenue": 2323.0,
+   "ebitda": 395.0,
+   "pbt": 294.0,
+   "pat": 243.0,
+   "opm": 17.0
+  },
+  {
+   "period": "Mar 2024",
+   "revenue": 2318.0,
+   "ebitda": 390.0,
+   "pbt": 288.0,
+   "pat": 229.0,
+   "opm": 17.0
+  },
+  {
+   "period": "Jun 2024",
+   "revenue": 2357.0,
+   "ebitda": 309.0,
+   "pbt": 211.0,
+   "pat": 139.0,
+   "opm": 13.0
+  },
+  {
+   "period": "Sep 2024",
+   "revenue": 3026.0,
+   "ebitda": 423.0,
+   "pbt": 320.0,
+   "pat": 234.0,
+   "opm": 14.0
+  },
+  {
+   "period": "Dec 2024",
+   "revenue": 3258.0,
+   "ebitda": 435.0,
+   "pbt": 343.0,
+   "pat": 256.0,
+   "opm": 13.0
+  },
+  {
+   "period": "Mar 2025",
+   "revenue": 3422.0,
+   "ebitda": 527.0,
+   "pbt": 395.0,
+   "pat": 307.0,
+   "opm": 15.0
+  },
+  {
+   "period": "Jun 2025",
+   "revenue": 3704.0,
+   "ebitda": 577.0,
+   "pbt": 436.0,
+   "pat": 356.0,
+   "opm": 16.0
+  },
+  {
+   "period": "Sep 2025",
+   "revenue": 4016.0,
+   "ebitda": 759.0,
+   "pbt": 558.0,
+   "pat": 425.0,
+   "opm": 19.0
+  },
+  {
+   "period": "Dec 2025",
+   "revenue": 4232.0,
+   "ebitda": 723.0,
+   "pbt": 384.0,
+   "pat": 297.0,
+   "opm": 17.0
+  },
+  {
+   "period": "Mar 2026",
+   "revenue": 4450.0,
+   "ebitda": 876.0,
+   "pbt": 625.0,
+   "pat": 666.0,
+   "opm": 20.0
+  },
+  {
+   "period": "Jun 2026",
+   "revenue": 5528.0,
+   "ebitda": 1058.0,
+   "pbt": 702.0,
+   "pat": 532.0,
+   "opm": 19.0
+  },
+  {
+   "period": "Sep 2026",
+   "revenue": 6171.0,
+   "ebitda": 1223.0,
+   "pbt": 799.0,
+   "pat": 605.0,
+   "opm": 20.0
+  }
+ ],
+ "annual": [
+  {
+   "year": "Mar 2015",
+   "revenue": 2372.0,
+   "ebitda": 337.0,
+   "pat": 122.0,
+   "opm": 14.0,
+   "cfo": 258.0,
+   "capex": 187.0,
+   "fcf": 71.0,
+   "debt": 9.0,
+   "equity": 1357.0
+  },
+  {
+   "year": "Mar 2016",
+   "revenue": 2688.0,
+   "ebitda": 474.0,
+   "pat": 287.0,
+   "opm": 18.0,
+   "cfo": 360.0,
+   "capex": 160.0,
+   "fcf": 200.0,
+   "debt": 10.0,
+   "equity": 1572.0
+  },
+  {
+   "year": "Mar 2017",
+   "revenue": 2802.0,
+   "ebitda": 480.0,
+   "pat": 272.0,
+   "opm": 17.0,
+   "cfo": 472.0,
+   "capex": 85.0,
+   "fcf": 387.0,
+   "debt": 25.0,
+   "equity": 1686.0
+  },
+  {
+   "year": "Mar 2018",
+   "revenue": 2991.0,
+   "ebitda": 502.0,
+   "pat": 309.0,
+   "opm": 17.0,
+   "cfo": 382.0,
+   "capex": 88.0,
+   "fcf": 294.0,
+   "debt": 22.0,
+   "equity": 1774.0
+  },
+  {
+   "year": "Mar 2019",
+   "revenue": 3676.0,
+   "ebitda": 650.0,
+   "pat": 422.0,
+   "opm": 18.0,
+   "cfo": 453.0,
+   "capex": 68.0,
+   "fcf": 385.0,
+   "debt": 14.0,
+   "equity": 2072.0
+  },
+  {
+   "year": "Mar 2020",
+   "revenue": 4184.0,
+   "ebitda": 725.0,
+   "pat": 468.0,
+   "opm": 17.0,
+   "cfo": 297.0,
+   "capex": 70.0,
+   "fcf": 227.0,
+   "debt": 35.0,
+   "equity": 2396.0
+  },
+  {
+   "year": "Mar 2021",
+   "revenue": 4663.0,
+   "ebitda": 781.0,
+   "pat": 466.0,
+   "opm": 17.0,
+   "cfo": 762.0,
+   "capex": 75.0,
+   "fcf": 687.0,
+   "debt": 83.0,
+   "equity": 2467.0
+  },
+  {
+   "year": "Mar 2022",
+   "revenue": 6432.0,
+   "ebitda": 1102.0,
+   "pat": 715.0,
+   "opm": 17.0,
+   "cfo": 766.0,
+   "capex": 148.0,
+   "fcf": 618.0,
+   "debt": 490.0,
+   "equity": 2733.0
+  },
+  {
+   "year": "Mar 2023",
+   "revenue": 8015.0,
+   "ebitda": 1282.0,
+   "pat": 745.0,
+   "opm": 16.0,
+   "cfo": 950.0,
+   "capex": 153.0,
+   "fcf": 797.0,
+   "debt": 562.0,
+   "equity": 3082.0
+  },
+  {
+   "year": "Mar 2024",
+   "revenue": 9009.0,
+   "ebitda": 1447.0,
+   "pat": 836.0,
+   "opm": 16.0,
+   "cfo": 903.0,
+   "capex": 259.0,
+   "fcf": 644.0,
+   "debt": 726.0,
+   "equity": 3627.0
+  },
+  {
+   "year": "Mar 2025",
+   "revenue": 12073.0,
+   "ebitda": 1694.0,
+   "pat": 936.0,
+   "opm": 14.0,
+   "cfo": 1237.0,
+   "capex": 557.0,
+   "fcf": 680.0,
+   "debt": 1070.0,
+   "equity": 6379.0
+  },
+  {
+   "year": "Mar 2026",
+   "revenue": 16403.0,
+   "ebitda": 2936.0,
+   "pat": 1745.0,
+   "opm": 18.0,
+   "cfo": 1792.0,
+   "capex": 595.0,
+   "fcf": 1197.0,
+   "debt": 728.0,
+   "equity": 9537.0
+  }
+ ],
+ "computed": {
+  "revenue_cagr_3y": 27.0,
+  "revenue_cagr_5y": 28.6,
+  "pat_cagr_3y": 32.8,
+  "pat_cagr_5y": 30.2,
+  "opm_trend": "stable",
+  "de_ratio": 0.08,
+  "debt_trend": "rising",
+  "cfo_to_pat_5y": 1.13,
+  "fcf_5y_cr": 3936,
+  "ccc_days": 88.0,
+  "ccc_trend": "lengthening"
+ },
+ "flags": [
+  {
+   "level": "good",
+   "text": "CFO/PAT over 5y is 1.13 — profits backed by cash"
+  },
+  {
+   "level": "good",
+   "text": "Debt/equity is 0.08 — virtually debt-free"
+  },
+  {
+   "level": "watch",
+   "text": "Borrowings rose from ₹562 Cr to ₹728 Cr over 3 years"
+  },
+  {
+   "level": "good",
+   "text": "Revenue 5y CAGR is 28.6%"
+  },
+  {
+   "level": "watch",
+   "text": "Cash conversion cycle lengthened from 73 to 88 days"
+  },
+  {
+   "level": "good",
+   "text": "ROCE is 23.5%"
+  },
+  {
+   "level": "good",
+   "text": "Latest quarter PAT up 42.4% YoY (Sep 2026)"
+  }
+ ],
+ "sources": [
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Oct 2026",
+   "url": "https://investors.coforge.com/hubfs/Coforge-Limited-Earnings-Call-Transcript-Q2FY27-October-23-2026.pdf?hsLang=en"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Sep 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=86403cba-158f-4d53-9016-01cac46ddef7.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jul 2026",
+   "url": "https://investors.coforge.com/hubfs/Coforge_Q1FY27%20Earnings%20Conference%20Call%20Transcript.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3c063cf7-0415-4631-a1cb-6c9cedcd84d7.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · May 2026",
+   "url": "https://investors.coforge.com/hubfs/Coforge-Limited-Earnings-Call-Transcript-Q4FY26%20_AJ.pdf?hsLang=en"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e1748b92-a29a-47e5-9347-8dca589e1219.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Feb 2026",
+   "url": "https://www.coforge.com/hubfs/Coforge-Limited-Earnings-Call-Transcript-Q3-FY26.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jan 2026",
+   "url": "https://www.coforge.com/hubfs/Transcript-Coforge-Encora-Acquisition-Conference-Call.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jan 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b52dfadc-8dae-4228-a8aa-1af7df356aa6.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Dec 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f994402e-89bc-4a7d-a922-46de9d3b387e.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Oct 2025",
+   "url": "https://www.coforge.com/hubfs/Coforge-Limited-Earnings-Call-Transcript-Q2-FY26.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Oct 2025",
+   "url": "https://www.coforge.com/hubfs/Q2-FY26-Web-Presentation-and-Factsheet.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b6778798-69aa-4fea-b818-8182497957b3.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/092cb657-c836-432f-8802-1fa337f1806e.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2024",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4a9f4e43-9ca2-4956-8d5f-053e45e7a0ef.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2023",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/7255f3ee-e102-4dca-ac7d-4b279447b296.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2022",
+   "url": "https://www.bseindia.com/bseplus/AnnualReport/532541/74004532541.pdf"
+  }
+ ]
+}

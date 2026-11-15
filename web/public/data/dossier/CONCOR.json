@@ -1,0 +1,353 @@
+{
+ "symbol": "CONCOR",
+ "name": "Container Corporation Of India Ltd",
+ "generated_at": "2026-11-15T18:09:28+00:00",
+ "about": "Container Corporation Of India (CONCOR) is engaged in the business of providing inland transportation of containers by rail. It also covers the Management of Ports, Air cargo complexes and establishes cold chains.",
+ "sector": "Transport Services",
+ "price": {
+  "close": 442.15,
+  "change_pct": -1.6,
+  "mcap_cr": 33675.0,
+  "pe": 27.7,
+  "roce": 12.6,
+  "roe": 9.81
+ },
+ "quarters": [
+  {
+   "period": "Dec 2023",
+   "revenue": 2211.0,
+   "ebitda": 517.0,
+   "pbt": 431.0,
+   "pat": 331.0,
+   "opm": 23.0
+  },
+  {
+   "period": "Mar 2024",
+   "revenue": 2325.0,
+   "ebitda": 498.0,
+   "pbt": 406.0,
+   "pat": 318.0,
+   "opm": 21.0
+  },
+  {
+   "period": "Jun 2024",
+   "revenue": 2103.0,
+   "ebitda": 442.0,
+   "pbt": 347.0,
+   "pat": 259.0,
+   "opm": 21.0
+  },
+  {
+   "period": "Sep 2024",
+   "revenue": 2288.0,
+   "ebitda": 582.0,
+   "pbt": 493.0,
+   "pat": 366.0,
+   "opm": 25.0
+  },
+  {
+   "period": "Dec 2024",
+   "revenue": 2208.0,
+   "ebitda": 465.0,
+   "pbt": 457.0,
+   "pat": 367.0,
+   "opm": 21.0
+  },
+  {
+   "period": "Mar 2025",
+   "revenue": 2288.0,
+   "ebitda": 441.0,
+   "pbt": 392.0,
+   "pat": 300.0,
+   "opm": 19.0
+  },
+  {
+   "period": "Jun 2025",
+   "revenue": 2154.0,
+   "ebitda": 433.0,
+   "pbt": 349.0,
+   "pat": 267.0,
+   "opm": 20.0
+  },
+  {
+   "period": "Sep 2025",
+   "revenue": 2355.0,
+   "ebitda": 576.0,
+   "pbt": 498.0,
+   "pat": 380.0,
+   "opm": 24.0
+  },
+  {
+   "period": "Dec 2025",
+   "revenue": 2308.0,
+   "ebitda": 514.0,
+   "pbt": 433.0,
+   "pat": 335.0,
+   "opm": 22.0
+  },
+  {
+   "period": "Mar 2026",
+   "revenue": 2263.0,
+   "ebitda": 427.0,
+   "pbt": 342.0,
+   "pat": 264.0,
+   "opm": 19.0
+  },
+  {
+   "period": "Jun 2026",
+   "revenue": 2160.0,
+   "ebitda": 444.0,
+   "pbt": 360.0,
+   "pat": 269.0,
+   "opm": 21.0
+  },
+  {
+   "period": "Sep 2026",
+   "revenue": 2379.0,
+   "ebitda": 550.0,
+   "pbt": 454.0,
+   "pat": 354.0,
+   "opm": 23.0
+  }
+ ],
+ "annual": [
+  {
+   "year": "Mar 2015",
+   "revenue": 6032.0,
+   "ebitda": 1395.0,
+   "pat": 1056.0,
+   "opm": 23.0,
+   "cfo": 1166.0,
+   "capex": 999.0,
+   "fcf": 167.0,
+   "debt": 190.0,
+   "equity": 7517.0
+  },
+  {
+   "year": "Mar 2016",
+   "revenue": 6278.0,
+   "ebitda": 1342.0,
+   "pat": 967.0,
+   "opm": 21.0,
+   "cfo": -781.0,
+   "capex": 860.0,
+   "fcf": -1641.0,
+   "debt": 10.0,
+   "equity": 8307.0
+  },
+  {
+   "year": "Mar 2017",
+   "revenue": 5980.0,
+   "ebitda": 1248.0,
+   "pat": 854.0,
+   "opm": 21.0,
+   "cfo": 2029.0,
+   "capex": 1084.0,
+   "fcf": 945.0,
+   "debt": 62.0,
+   "equity": 8771.0
+  },
+  {
+   "year": "Mar 2018",
+   "revenue": 6612.0,
+   "ebitda": 1492.0,
+   "pat": 1060.0,
+   "opm": 23.0,
+   "cfo": 1313.0,
+   "capex": 880.0,
+   "fcf": 433.0,
+   "debt": 62.0,
+   "equity": 9322.0
+  },
+  {
+   "year": "Mar 2019",
+   "revenue": 6956.0,
+   "ebitda": 1792.0,
+   "pat": 1222.0,
+   "opm": 26.0,
+   "cfo": -1941.0,
+   "capex": 717.0,
+   "fcf": -2658.0,
+   "debt": 771.0,
+   "equity": 10328.0
+  },
+  {
+   "year": "Mar 2020",
+   "revenue": 6530.0,
+   "ebitda": 1694.0,
+   "pat": 406.0,
+   "opm": 26.0,
+   "cfo": 4286.0,
+   "capex": 996.0,
+   "fcf": 3290.0,
+   "debt": 70.0,
+   "equity": 10046.0
+  },
+  {
+   "year": "Mar 2021",
+   "revenue": 6427.0,
+   "ebitda": 1047.0,
+   "pat": 501.0,
+   "opm": 16.0,
+   "cfo": 1029.0,
+   "capex": 462.0,
+   "fcf": 567.0,
+   "debt": 723.0,
+   "equity": 10188.0
+  },
+  {
+   "year": "Mar 2022",
+   "revenue": 7653.0,
+   "ebitda": 1748.0,
+   "pat": 1052.0,
+   "opm": 23.0,
+   "cfo": 1369.0,
+   "capex": 604.0,
+   "fcf": 765.0,
+   "debt": 735.0,
+   "equity": 10756.0
+  },
+  {
+   "year": "Mar 2023",
+   "revenue": 8169.0,
+   "ebitda": 1868.0,
+   "pat": 1173.0,
+   "opm": 23.0,
+   "cfo": 1406.0,
+   "capex": 571.0,
+   "fcf": 835.0,
+   "debt": 779.0,
+   "equity": 11226.0
+  },
+  {
+   "year": "Mar 2024",
+   "revenue": 8653.0,
+   "ebitda": 1959.0,
+   "pat": 1262.0,
+   "opm": 23.0,
+   "cfo": 1388.0,
+   "capex": 785.0,
+   "fcf": 603.0,
+   "debt": 939.0,
+   "equity": 11824.0
+  },
+  {
+   "year": "Mar 2025",
+   "revenue": 8887.0,
+   "ebitda": 1930.0,
+   "pat": 1293.0,
+   "opm": 22.0,
+   "cfo": 1712.0,
+   "capex": 844.0,
+   "fcf": 868.0,
+   "debt": 861.0,
+   "equity": 12382.0
+  },
+  {
+   "year": "Mar 2026",
+   "revenue": 9079.0,
+   "ebitda": 1951.0,
+   "pat": 1246.0,
+   "opm": 21.0,
+   "cfo": 1482.0,
+   "capex": 1138.0,
+   "fcf": 344.0,
+   "debt": 965.0,
+   "equity": 12943.0
+  }
+ ],
+ "computed": {
+  "revenue_cagr_3y": 3.6,
+  "revenue_cagr_5y": 7.2,
+  "pat_cagr_3y": 2.0,
+  "pat_cagr_5y": 20.0,
+  "opm_trend": "stable",
+  "de_ratio": 0.07,
+  "debt_trend": "rising",
+  "cfo_to_pat_5y": 1.22,
+  "fcf_5y_cr": 3415,
+  "ccc_days": 20.0,
+  "ccc_trend": "stable"
+ },
+ "flags": [
+  {
+   "level": "good",
+   "text": "CFO/PAT over 5y is 1.22 — profits backed by cash"
+  },
+  {
+   "level": "good",
+   "text": "Debt/equity is 0.07 — virtually debt-free"
+  },
+  {
+   "level": "watch",
+   "text": "Borrowings rose from ₹779 Cr to ₹965 Cr over 3 years"
+  }
+ ],
+ "sources": [
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Nov 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0b53f182-e78d-4873-9add-813c78f9c892.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jun 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c128f551-bda0-4f7d-b0b4-cb5b8085bd39.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Feb 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e7ed07e8-d349-4b13-a089-14402b2991e2.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Feb 2026",
+   "url": "https://cms.concorindia.co.in:8000/uploads/cms/pdf/tE3K1LYjHCVfWPr_CONCORPresentationQ3_compressed.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Nov 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=22f2d68d-b767-49fa-9498-227506ac65fb.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Aug 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=acc9b944-b9e7-47fe-9fd1-68e1af9e8410.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · May 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0e57f7da-c1bd-4a2c-a2f0-ecd1224f0f01.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Feb 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0cc93681-e0f3-4196-9c45-d08ae6193e0e.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/f7ed8d97-f3e0-4afd-bd99-6af5f3902be8.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/1ddf804b-4abf-4d0a-b688-3028af41079d.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2024",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/fe7b8106-5fd4-42d6-b262-3efd67a04fb7.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2023",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/55bf69b3-f3f3-42a6-b011-ed5535d86f7f.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2022",
+   "url": "https://www.bseindia.com/bseplus/AnnualReport/531344/75712531344.pdf"
+  }
+ ]
+}

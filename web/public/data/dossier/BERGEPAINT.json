@@ -1,0 +1,373 @@
+{
+ "symbol": "BERGEPAINT",
+ "name": "Berger Paints India Ltd",
+ "generated_at": "2026-11-15T18:08:38+00:00",
+ "about": "Berger Paints India is engaged in the Manufacturing and selling of Paints.(Source : 201903 Annual Report Page No: 117)",
+ "sector": "Consumer Durables",
+ "price": {
+  "close": 475.5,
+  "change_pct": -0.8,
+  "mcap_cr": 55443.0,
+  "pe": 44.8,
+  "roce": 21.6,
+  "roe": 17.3
+ },
+ "quarters": [
+  {
+   "period": "Dec 2023",
+   "revenue": 2882.0,
+   "ebitda": 480.0,
+   "pbt": 398.0,
+   "pat": 300.0,
+   "opm": 17.0
+  },
+  {
+   "period": "Mar 2024",
+   "revenue": 2520.0,
+   "ebitda": 351.0,
+   "pbt": 294.0,
+   "pat": 223.0,
+   "opm": 14.0
+  },
+  {
+   "period": "Jun 2024",
+   "revenue": 3091.0,
+   "ebitda": 522.0,
+   "pbt": 466.0,
+   "pat": 354.0,
+   "opm": 17.0
+  },
+  {
+   "period": "Sep 2024",
+   "revenue": 2775.0,
+   "ebitda": 434.0,
+   "pbt": 358.0,
+   "pat": 270.0,
+   "opm": 16.0
+  },
+  {
+   "period": "Dec 2024",
+   "revenue": 2975.0,
+   "ebitda": 472.0,
+   "pbt": 394.0,
+   "pat": 296.0,
+   "opm": 16.0
+  },
+  {
+   "period": "Mar 2025",
+   "revenue": 2704.0,
+   "ebitda": 428.0,
+   "pbt": 350.0,
+   "pat": 263.0,
+   "opm": 16.0
+  },
+  {
+   "period": "Jun 2025",
+   "revenue": 3201.0,
+   "ebitda": 528.0,
+   "pbt": 423.0,
+   "pat": 315.0,
+   "opm": 17.0
+  },
+  {
+   "period": "Sep 2025",
+   "revenue": 2827.0,
+   "ebitda": 352.0,
+   "pbt": 275.0,
+   "pat": 206.0,
+   "opm": 12.0
+  },
+  {
+   "period": "Dec 2025",
+   "revenue": 2984.0,
+   "ebitda": 471.0,
+   "pbt": 352.0,
+   "pat": 271.0,
+   "opm": 16.0
+  },
+  {
+   "period": "Mar 2026",
+   "revenue": 2868.0,
+   "ebitda": 482.0,
+   "pbt": 438.0,
+   "pat": 335.0,
+   "opm": 17.0
+  },
+  {
+   "period": "Jun 2026",
+   "revenue": 3584.0,
+   "ebitda": 607.0,
+   "pbt": 543.0,
+   "pat": 405.0,
+   "opm": 17.0
+  },
+  {
+   "period": "Sep 2026",
+   "revenue": 3200.0,
+   "ebitda": 371.0,
+   "pbt": 285.0,
+   "pat": 217.0,
+   "opm": 12.0
+  }
+ ],
+ "annual": [
+  {
+   "year": "Mar 2015",
+   "revenue": 4170.0,
+   "ebitda": 511.0,
+   "pat": 265.0,
+   "opm": 12.0,
+   "cfo": 414.0,
+   "capex": 160.0,
+   "fcf": 254.0,
+   "debt": 610.0,
+   "equity": 1260.0
+  },
+  {
+   "year": "Mar 2016",
+   "revenue": 4223.0,
+   "ebitda": 645.0,
+   "pat": 371.0,
+   "opm": 15.0,
+   "cfo": 595.0,
+   "capex": 118.0,
+   "fcf": 477.0,
+   "debt": 354.0,
+   "equity": 1562.0
+  },
+  {
+   "year": "Mar 2017",
+   "revenue": 4552.0,
+   "ebitda": 719.0,
+   "pat": 474.0,
+   "opm": 16.0,
+   "cfo": 394.0,
+   "capex": 264.0,
+   "fcf": 130.0,
+   "debt": 406.0,
+   "equity": 1901.0
+  },
+  {
+   "year": "Mar 2018",
+   "revenue": 5166.0,
+   "ebitda": 807.0,
+   "pat": 461.0,
+   "opm": 16.0,
+   "cfo": 422.0,
+   "capex": 290.0,
+   "fcf": 132.0,
+   "debt": 422.0,
+   "equity": 2194.0
+  },
+  {
+   "year": "Mar 2019",
+   "revenue": 6062.0,
+   "ebitda": 935.0,
+   "pat": 494.0,
+   "opm": 15.0,
+   "cfo": 611.0,
+   "capex": 291.0,
+   "fcf": 320.0,
+   "debt": 753.0,
+   "equity": 2444.0
+  },
+  {
+   "year": "Mar 2020",
+   "revenue": 6366.0,
+   "ebitda": 1053.0,
+   "pat": 656.0,
+   "opm": 17.0,
+   "cfo": 725.0,
+   "capex": 431.0,
+   "fcf": 294.0,
+   "debt": 767.0,
+   "equity": 2660.0
+  },
+  {
+   "year": "Mar 2021",
+   "revenue": 6818.0,
+   "ebitda": 1182.0,
+   "pat": 720.0,
+   "opm": 17.0,
+   "cfo": 796.0,
+   "capex": 185.0,
+   "fcf": 611.0,
+   "debt": 634.0,
+   "equity": 3377.0
+  },
+  {
+   "year": "Mar 2022",
+   "revenue": 8762.0,
+   "ebitda": 1331.0,
+   "pat": 833.0,
+   "opm": 15.0,
+   "cfo": 566.0,
+   "capex": 759.0,
+   "fcf": -193.0,
+   "debt": 1014.0,
+   "equity": 3927.0
+  },
+  {
+   "year": "Mar 2023",
+   "revenue": 10568.0,
+   "ebitda": 1478.0,
+   "pat": 860.0,
+   "opm": 14.0,
+   "cfo": 976.0,
+   "capex": 744.0,
+   "fcf": 232.0,
+   "debt": 1189.0,
+   "equity": 4494.0
+  },
+  {
+   "year": "Mar 2024",
+   "revenue": 11199.0,
+   "ebitda": 1861.0,
+   "pat": 1170.0,
+   "opm": 17.0,
+   "cfo": 1591.0,
+   "capex": 270.0,
+   "fcf": 1321.0,
+   "debt": 753.0,
+   "equity": 5379.0
+  },
+  {
+   "year": "Mar 2025",
+   "revenue": 11545.0,
+   "ebitda": 1856.0,
+   "pat": 1183.0,
+   "opm": 16.0,
+   "cfo": 1269.0,
+   "capex": 424.0,
+   "fcf": 845.0,
+   "debt": 670.0,
+   "equity": 6155.0
+  },
+  {
+   "year": "Mar 2026",
+   "revenue": 11880.0,
+   "ebitda": 1833.0,
+   "pat": 1128.0,
+   "opm": 15.0,
+   "cfo": 1540.0,
+   "capex": 503.0,
+   "fcf": 1037.0,
+   "debt": 635.0,
+   "equity": 6917.0
+  }
+ ],
+ "computed": {
+  "revenue_cagr_3y": 4.0,
+  "revenue_cagr_5y": 11.7,
+  "pat_cagr_3y": 9.5,
+  "pat_cagr_5y": 9.4,
+  "opm_trend": "stable",
+  "de_ratio": 0.09,
+  "debt_trend": "falling",
+  "cfo_to_pat_5y": 1.15,
+  "fcf_5y_cr": 3242,
+  "ccc_days": 87.0,
+  "ccc_trend": "stable"
+ },
+ "flags": [
+  {
+   "level": "good",
+   "text": "CFO/PAT over 5y is 1.15 — profits backed by cash"
+  },
+  {
+   "level": "good",
+   "text": "Debt/equity is 0.09 — virtually debt-free"
+  },
+  {
+   "level": "good",
+   "text": "ROCE is 21.6%"
+  }
+ ],
+ "sources": [
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Nov 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7777d629-4ac8-4f58-9989-c640e7b18304.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=77ee8484-13e7-418b-8d61-6f848cc21d43.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=27c99433-f4b1-44d9-aa61-7c8e85f8fd80.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=da336d01-80ae-4b61-bf5c-a6fe1de93929.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Feb 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2481ab42-4cae-4699-ac36-97813d7490a3.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Feb 2026",
+   "url": "https://files.tijorifinance.com/insight/india/1124/Investor%20Presentation/IP-Feb26.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Nov 2025",
+   "url": "https://www.bergerpaints.com/investors/download#:~:text=Transcripts%20of-,Earnings,-Call"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Nov 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4b6d1ca9-ecaf-4b6e-a89d-21b92c3180ae.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Aug 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2397eefe-0842-4567-8a50-b7b5224bcfd3.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jun 2025",
+   "url": "https://www.bergerpaints.com/investors/download"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jun 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8c5dce86-58ee-44f4-b444-015cf7dc384f.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · May 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c36ed3eb-2f7f-4c49-bd82-3b88f78d736c.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/de99cbbb-fcb4-4894-9a15-049160eb0a0c.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/41551bf7-3b4e-4c09-832c-7ba204da1136.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2024",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4c4f9fcd-cccd-417a-a807-10487aeb4015.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2023",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/56f53fb5-e3bd-4708-b2a9-a3b37a819803.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2022",
+   "url": "https://www.bseindia.com/bseplus/AnnualReport/509480/74061509480.pdf"
+  }
+ ]
+}

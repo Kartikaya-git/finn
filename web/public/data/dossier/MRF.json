@@ -1,0 +1,313 @@
+{
+ "symbol": "MRF",
+ "name": "MRF Ltd",
+ "generated_at": "2026-11-15T18:09:52+00:00",
+ "about": "Madras Rubber Factory Limited (MRF) is the parent company of the MRF Group. The Co is engaged in the business of manufacturing tyres",
+ "sector": "Auto Components",
+ "price": {
+  "close": 127955.0,
+  "change_pct": -0.5,
+  "mcap_cr": 54268.0,
+  "pe": 23.3,
+  "roce": 15.7,
+  "roe": 12.5
+ },
+ "quarters": [
+  {
+   "period": "Dec 2023",
+   "revenue": 6162.0,
+   "ebitda": 1055.0,
+   "pbt": 682.0,
+   "pat": 510.0,
+   "opm": 17.0
+  },
+  {
+   "period": "Mar 2024",
+   "revenue": 6349.0,
+   "ebitda": 912.0,
+   "pbt": 527.0,
+   "pat": 396.0,
+   "opm": 14.0
+  },
+  {
+   "period": "Jun 2024",
+   "revenue": 7196.0,
+   "ebitda": 1160.0,
+   "pbt": 763.0,
+   "pat": 571.0,
+   "opm": 16.0
+  },
+  {
+   "period": "Sep 2024",
+   "revenue": 6881.0,
+   "ebitda": 1011.0,
+   "pbt": 631.0,
+   "pat": 471.0,
+   "opm": 15.0
+  },
+  {
+   "period": "Dec 2024",
+   "revenue": 7001.0,
+   "ebitda": 835.0,
+   "pbt": 424.0,
+   "pat": 315.0,
+   "opm": 12.0
+  },
+  {
+   "period": "Mar 2025",
+   "revenue": 7075.0,
+   "ebitda": 1074.0,
+   "pbt": 659.0,
+   "pat": 510.0,
+   "opm": 15.0
+  },
+  {
+   "period": "Jun 2025",
+   "revenue": 7676.0,
+   "ebitda": 1070.0,
+   "pbt": 672.0,
+   "pat": 502.0,
+   "opm": 14.0
+  },
+  {
+   "period": "Sep 2025",
+   "revenue": 7379.0,
+   "ebitda": 1126.0,
+   "pbt": 700.0,
+   "pat": 527.0,
+   "opm": 15.0
+  },
+  {
+   "period": "Dec 2025",
+   "revenue": 8050.0,
+   "ebitda": 1400.0,
+   "pbt": 920.0,
+   "pat": 695.0,
+   "opm": 17.0
+  },
+  {
+   "period": "Mar 2026",
+   "revenue": 8044.0,
+   "ebitda": 1305.0,
+   "pbt": 930.0,
+   "pat": 702.0,
+   "opm": 16.0
+  },
+  {
+   "period": "Jun 2026",
+   "revenue": 8416.0,
+   "ebitda": 991.0,
+   "pbt": 650.0,
+   "pat": 495.0,
+   "opm": 12.0
+  },
+  {
+   "period": "Sep 2026",
+   "revenue": 8660.0,
+   "ebitda": 958.0,
+   "pbt": 522.0,
+   "pat": 387.0,
+   "opm": 11.0
+  }
+ ],
+ "annual": [
+  {
+   "year": "Sep 2014",
+   "revenue": 13329.0,
+   "ebitda": 1945.0,
+   "pat": 908.0,
+   "opm": 15.0,
+   "cfo": 1699.0,
+   "capex": 1245.0,
+   "fcf": 454.0,
+   "debt": 1903.0,
+   "equity": 4539.0
+  },
+  {
+   "year": "Mar 2016 18m",
+   "revenue": 20179.0,
+   "ebitda": 4437.0,
+   "pat": 2509.0,
+   "opm": 22.0,
+   "cfo": null,
+   "capex": null,
+   "fcf": null,
+   "debt": null,
+   "equity": null
+  },
+  {
+   "year": "Mar 2017",
+   "revenue": 13412.0,
+   "ebitda": 2649.0,
+   "pat": 1486.0,
+   "opm": 20.0,
+   "cfo": 1956.0,
+   "capex": 1366.0,
+   "fcf": 590.0,
+   "debt": 2333.0,
+   "equity": 8641.0
+  },
+  {
+   "year": "Mar 2018",
+   "revenue": 14954.0,
+   "ebitda": 2288.0,
+   "pat": 1132.0,
+   "opm": 15.0,
+   "cfo": 2413.0,
+   "capex": 1564.0,
+   "fcf": 849.0,
+   "debt": 2163.0,
+   "equity": 9738.0
+  },
+  {
+   "year": "Mar 2019",
+   "revenue": 16062.0,
+   "ebitda": 2317.0,
+   "pat": 1131.0,
+   "opm": 14.0,
+   "cfo": 1253.0,
+   "capex": 1963.0,
+   "fcf": -710.0,
+   "debt": 2506.0,
+   "equity": 10837.0
+  },
+  {
+   "year": "Mar 2020",
+   "revenue": 16237.0,
+   "ebitda": 2382.0,
+   "pat": 1423.0,
+   "opm": 15.0,
+   "cfo": 2271.0,
+   "capex": 2750.0,
+   "fcf": -479.0,
+   "debt": 1854.0,
+   "equity": 12214.0
+  },
+  {
+   "year": "Mar 2021",
+   "revenue": 16162.0,
+   "ebitda": 2954.0,
+   "pat": 1277.0,
+   "opm": 18.0,
+   "cfo": 4325.0,
+   "capex": 852.0,
+   "fcf": 3473.0,
+   "debt": 2388.0,
+   "equity": 13413.0
+  },
+  {
+   "year": "Mar 2022",
+   "revenue": 19317.0,
+   "ebitda": 2061.0,
+   "pat": 669.0,
+   "opm": 11.0,
+   "cfo": -578.0,
+   "capex": 1705.0,
+   "fcf": -2283.0,
+   "debt": 3229.0,
+   "equity": 14032.0
+  },
+  {
+   "year": "Mar 2023",
+   "revenue": 23008.0,
+   "ebitda": 2404.0,
+   "pat": 769.0,
+   "opm": 10.0,
+   "cfo": 2755.0,
+   "capex": 3290.0,
+   "fcf": -535.0,
+   "debt": 3014.0,
+   "equity": 14707.0
+  },
+  {
+   "year": "Mar 2024",
+   "revenue": 25169.0,
+   "ebitda": 4272.0,
+   "pat": 2081.0,
+   "opm": 17.0,
+   "cfo": 3303.0,
+   "capex": 2162.0,
+   "fcf": 1141.0,
+   "debt": 2822.0,
+   "equity": 16703.0
+  },
+  {
+   "year": "Mar 2025",
+   "revenue": 28152.0,
+   "ebitda": 4090.0,
+   "pat": 1873.0,
+   "opm": 15.0,
+   "cfo": 1865.0,
+   "capex": 1296.0,
+   "fcf": 569.0,
+   "debt": 3771.0,
+   "equity": 18610.0
+  },
+  {
+   "year": "Mar 2026",
+   "revenue": 31149.0,
+   "ebitda": 4910.0,
+   "pat": 2426.0,
+   "opm": 16.0,
+   "cfo": 4590.0,
+   "capex": 1426.0,
+   "fcf": 3164.0,
+   "debt": 3207.0,
+   "equity": 20974.0
+  }
+ ],
+ "computed": {
+  "revenue_cagr_3y": 10.6,
+  "revenue_cagr_5y": 14.0,
+  "pat_cagr_3y": 46.7,
+  "pat_cagr_5y": 13.7,
+  "opm_trend": "expanding",
+  "de_ratio": 0.15,
+  "debt_trend": "flat",
+  "cfo_to_pat_5y": 1.53,
+  "fcf_5y_cr": 2056,
+  "ccc_days": 83.0,
+  "ccc_trend": "stable"
+ },
+ "flags": [
+  {
+   "level": "good",
+   "text": "CFO/PAT over 5y is 1.53 — profits backed by cash"
+  },
+  {
+   "level": "good",
+   "text": "Operating margin expanding: 10% → 16% over 3 years"
+  },
+  {
+   "level": "bad",
+   "text": "Latest quarter PAT down 26.6% YoY (Sep 2026)"
+  }
+ ],
+ "sources": [
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/38efc5e4-44e5-475a-8dcf-f426cc3ade0d.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/7b4139fc-c3bb-48da-852f-3b20ee03260c.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2024",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4ad6950f-0cd6-4be9-9cd2-c32769a0da02.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2023",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/8cfa5007-26b2-40f3-aa14-6e4d908abc63.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2022",
+   "url": "https://www.bseindia.com/bseplus/AnnualReport/500290/73600500290.pdf"
+  }
+ ]
+}

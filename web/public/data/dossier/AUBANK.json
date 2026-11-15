@@ -1,0 +1,377 @@
+{
+ "symbol": "AUBANK",
+ "name": "AU Small Finance Bank Ltd",
+ "generated_at": "2026-11-15T18:09:06+00:00",
+ "about": "AU Small Finance Bank Limited is engaged in providing a range of banking and financial services including retail banking, wholesale banking, treasury operations and other services.",
+ "sector": "Banks",
+ "price": {
+  "close": 967.0,
+  "change_pct": -1.3,
+  "mcap_cr": 72696.0,
+  "pe": 23.1,
+  "roce": 7.66,
+  "roe": 14.2
+ },
+ "quarters": [
+  {
+   "period": "Dec 2023",
+   "revenue": 2736.0,
+   "ebitda": 56.0,
+   "pbt": 498.0,
+   "pat": 375.0,
+   "opm": 2.0
+  },
+  {
+   "period": "Mar 2024",
+   "revenue": 2830.0,
+   "ebitda": -9.0,
+   "pbt": 455.0,
+   "pat": 371.0,
+   "opm": -0.0
+  },
+  {
+   "period": "Jun 2024",
+   "revenue": 3769.0,
+   "ebitda": 160.0,
+   "pbt": 669.0,
+   "pat": 503.0,
+   "opm": 4.0
+  },
+  {
+   "period": "Sep 2024",
+   "revenue": 3911.0,
+   "ebitda": 121.0,
+   "pbt": 759.0,
+   "pat": 571.0,
+   "opm": 3.0
+  },
+  {
+   "period": "Dec 2024",
+   "revenue": 4113.0,
+   "ebitda": 85.0,
+   "pbt": 703.0,
+   "pat": 528.0,
+   "opm": 2.0
+  },
+  {
+   "period": "Mar 2025",
+   "revenue": 4271.0,
+   "ebitda": -104.0,
+   "pbt": 657.0,
+   "pat": 504.0,
+   "opm": -2.0
+  },
+  {
+   "period": "Jun 2025",
+   "revenue": 4378.0,
+   "ebitda": -32.0,
+   "pbt": 779.0,
+   "pat": 581.0,
+   "opm": -1.0
+  },
+  {
+   "period": "Sep 2025",
+   "revenue": 4511.0,
+   "ebitda": 16.0,
+   "pbt": 729.0,
+   "pat": 561.0,
+   "opm": 0.0
+  },
+  {
+   "period": "Dec 2025",
+   "revenue": 4727.0,
+   "ebitda": 160.0,
+   "pbt": 884.0,
+   "pat": 668.0,
+   "opm": 3.0
+  },
+  {
+   "period": "Mar 2026",
+   "revenue": 5019.0,
+   "ebitda": 351.0,
+   "pbt": 1082.0,
+   "pat": 832.0,
+   "opm": 7.0
+  },
+  {
+   "period": "Jun 2026",
+   "revenue": 5303.0,
+   "ebitda": 375.0,
+   "pbt": 1064.0,
+   "pat": 796.0,
+   "opm": 7.0
+  },
+  {
+   "period": "Sep 2026",
+   "revenue": 5612.0,
+   "ebitda": 384.0,
+   "pbt": 1154.0,
+   "pat": 858.0,
+   "opm": 7.0
+  }
+ ],
+ "annual": [
+  {
+   "year": "Mar 2015",
+   "revenue": 704.0,
+   "ebitda": 212.0,
+   "pat": 140.0,
+   "opm": 30.0,
+   "cfo": -747.0,
+   "capex": 9.0,
+   "fcf": -756.0,
+   "debt": 2878.0,
+   "equity": 811.0
+  },
+  {
+   "year": "Mar 2016",
+   "revenue": 1010.0,
+   "ebitda": 326.0,
+   "pat": 212.0,
+   "opm": 32.0,
+   "cfo": -1938.0,
+   "capex": 14.0,
+   "fcf": -1952.0,
+   "debt": 4783.0,
+   "equity": 1009.0
+  },
+  {
+   "year": "Mar 2017",
+   "revenue": 1280.0,
+   "ebitda": 339.0,
+   "pat": 822.0,
+   "opm": 26.0,
+   "cfo": -2405.0,
+   "capex": 257.0,
+   "fcf": -2662.0,
+   "debt": 7120.0,
+   "equity": 1987.0
+  },
+  {
+   "year": "Mar 2018",
+   "revenue": 1767.0,
+   "ebitda": 109.0,
+   "pat": 292.0,
+   "opm": 6.0,
+   "cfo": 2505.0,
+   "capex": 164.0,
+   "fcf": 2341.0,
+   "debt": 7639.0,
+   "equity": 2281.0
+  },
+  {
+   "year": "Mar 2019",
+   "revenue": 2949.0,
+   "ebitda": 180.0,
+   "pat": 382.0,
+   "opm": 6.0,
+   "cfo": 848.0,
+   "capex": 124.0,
+   "fcf": 724.0,
+   "debt": 8613.0,
+   "equity": 3163.0
+  },
+  {
+   "year": "Mar 2020",
+   "revenue": 4286.0,
+   "ebitda": 296.0,
+   "pat": 675.0,
+   "opm": 7.0,
+   "cfo": 660.0,
+   "capex": 91.0,
+   "fcf": 569.0,
+   "debt": 10335.0,
+   "equity": 4377.0
+  },
+  {
+   "year": "Mar 2021",
+   "revenue": 4950.0,
+   "ebitda": 142.0,
+   "pat": 1171.0,
+   "opm": 3.0,
+   "cfo": 5056.0,
+   "capex": 140.0,
+   "fcf": 4916.0,
+   "debt": 7030.0,
+   "equity": 6275.0
+  },
+  {
+   "year": "Mar 2022",
+   "revenue": 5922.0,
+   "ebitda": 601.0,
+   "pat": 1130.0,
+   "opm": 10.0,
+   "cfo": 6849.0,
+   "capex": 281.0,
+   "fcf": 6568.0,
+   "debt": 5991.0,
+   "equity": 7514.0
+  },
+  {
+   "year": "Mar 2023",
+   "revenue": 8205.0,
+   "ebitda": 1016.0,
+   "pat": 1428.0,
+   "opm": 12.0,
+   "cfo": 5494.0,
+   "capex": 304.0,
+   "fcf": 5190.0,
+   "debt": 6299.0,
+   "equity": 10978.0
+  },
+  {
+   "year": "Mar 2024",
+   "revenue": 10555.0,
+   "ebitda": 528.0,
+   "pat": 1535.0,
+   "opm": 5.0,
+   "cfo": 2608.0,
+   "capex": 338.0,
+   "fcf": 2270.0,
+   "debt": 5479.0,
+   "equity": 12559.0
+  },
+  {
+   "year": "Mar 2025",
+   "revenue": 16064.0,
+   "ebitda": 520.0,
+   "pat": 2106.0,
+   "opm": 3.0,
+   "cfo": 5462.0,
+   "capex": 257.0,
+   "fcf": 5205.0,
+   "debt": 11660.0,
+   "equity": 17167.0
+  },
+  {
+   "year": "Mar 2026",
+   "revenue": 18636.0,
+   "ebitda": 768.0,
+   "pat": 2641.0,
+   "opm": 4.0,
+   "cfo": 1829.0,
+   "capex": 802.0,
+   "fcf": 1027.0,
+   "debt": 13872.0,
+   "equity": 19973.0
+  }
+ ],
+ "computed": {
+  "revenue_cagr_3y": 31.4,
+  "revenue_cagr_5y": 30.4,
+  "pat_cagr_3y": 22.7,
+  "pat_cagr_5y": 17.7,
+  "opm_trend": "compressing",
+  "de_ratio": 0.69,
+  "debt_trend": "rising",
+  "cfo_to_pat_5y": 2.52,
+  "fcf_5y_cr": 20260,
+  "ccc_days": null,
+  "ccc_trend": null
+ },
+ "flags": [
+  {
+   "level": "good",
+   "text": "Revenue 5y CAGR is 30.4%"
+  },
+  {
+   "level": "watch",
+   "text": "PAT 5y CAGR 17.7% lags revenue CAGR 30.4% — margins leaking"
+  },
+  {
+   "level": "watch",
+   "text": "ROE is 14.2% — below 15% for a lender"
+  },
+  {
+   "level": "good",
+   "text": "Latest quarter PAT up 52.9% YoY (Sep 2026)"
+  }
+ ],
+ "sources": [
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Oct 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b3b7a2ee-2ce1-4a32-a15b-a3ab98e6659e.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Oct 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=52b76147-9cd8-4a19-accf-cc297174299b.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Sep 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c2385e10-dddb-4f4f-bd35-46c24094de93.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Sep 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8b33f96e-c424-4051-a8fc-0abc056b841b.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ece9e8e4-fd46-4288-bbe1-95b133b2de75.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f9f77ed7-6d22-47b0-bcab-d58e6fa72818.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Apr 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3d6a9e7f-4924-4a8b-b0ab-c0845e69edba.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Apr 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6067dc4d-8517-44a4-934b-71b3daf69753.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jan 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1c6155a1-a47f-41b8-8a75-44128a185f2a.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jan 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=945e8b69-5139-4171-bd99-1dea71fdff1c.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jan 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a9a4cc9a-7dea-4669-b670-e278fa63d420.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jan 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=945e8b69-5139-4171-bd99-1dea71fdff1c.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/eb30e818-86e4-4b67-a119-bd7044a02b22.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/01ec3ac4-b1c1-4ee2-9c05-ed8ed715bd21.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2024",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ae4d6fef-f3ae-4610-a641-9a59d27a150b.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2023",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/e82af772-5a91-4539-af81-099247394ef5.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2022",
+   "url": "https://www.bseindia.com/bseplus/AnnualReport/540611/74006540611.pdf"
+  }
+ ]
+}

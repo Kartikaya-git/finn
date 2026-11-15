@@ -1,0 +1,370 @@
+{
+ "symbol": "TORNTPHARM",
+ "name": "Torrent Pharmaceuticals Ltd",
+ "generated_at": "2026-11-15T18:08:15+00:00",
+ "about": "Torrent Pharmaceuticals Ltd is one of the leading Indian Pharmaceutical Company engaged in research, development, manufacturing and marketing of generic pharmaceutical formulations.",
+ "sector": "Pharmaceuticals & Biotechnology",
+ "price": {
+  "close": 4670.0,
+  "change_pct": -1.2,
+  "mcap_cr": 177632.0,
+  "pe": 81.8,
+  "roce": 15.2,
+  "roe": 27.4
+ },
+ "quarters": [
+  {
+   "period": "Dec 2023",
+   "revenue": 2732.0,
+   "ebitda": 869.0,
+   "pbt": 631.0,
+   "pat": 443.0,
+   "opm": 32.0
+  },
+  {
+   "period": "Mar 2024",
+   "revenue": 2745.0,
+   "ebitda": 883.0,
+   "pbt": 631.0,
+   "pat": 449.0,
+   "opm": 32.0
+  },
+  {
+   "period": "Jun 2024",
+   "revenue": 2859.0,
+   "ebitda": 904.0,
+   "pbt": 656.0,
+   "pat": 457.0,
+   "opm": 32.0
+  },
+  {
+   "period": "Sep 2024",
+   "revenue": 2889.0,
+   "ebitda": 939.0,
+   "pbt": 661.0,
+   "pat": 453.0,
+   "opm": 32.0
+  },
+  {
+   "period": "Dec 2024",
+   "revenue": 2809.0,
+   "ebitda": 914.0,
+   "pbt": 691.0,
+   "pat": 503.0,
+   "opm": 33.0
+  },
+  {
+   "period": "Mar 2025",
+   "revenue": 2959.0,
+   "ebitda": 964.0,
+   "pbt": 665.0,
+   "pat": 498.0,
+   "opm": 33.0
+  },
+  {
+   "period": "Jun 2025",
+   "revenue": 3178.0,
+   "ebitda": 1032.0,
+   "pbt": 738.0,
+   "pat": 548.0,
+   "opm": 32.0
+  },
+  {
+   "period": "Sep 2025",
+   "revenue": 3302.0,
+   "ebitda": 1083.0,
+   "pbt": 791.0,
+   "pat": 591.0,
+   "opm": 33.0
+  },
+  {
+   "period": "Dec 2025",
+   "revenue": 3303.0,
+   "ebitda": 1088.0,
+   "pbt": 814.0,
+   "pat": 635.0,
+   "opm": 33.0
+  },
+  {
+   "period": "Mar 2026",
+   "revenue": 4197.0,
+   "ebitda": 1356.0,
+   "pbt": 529.0,
+   "pat": 364.0,
+   "opm": 32.0
+  },
+  {
+   "period": "Jun 2026",
+   "revenue": 4921.0,
+   "ebitda": 1664.0,
+   "pbt": 733.0,
+   "pat": 566.0,
+   "opm": 34.0
+  },
+  {
+   "period": "Sep 2026",
+   "revenue": 4979.0,
+   "ebitda": 1666.0,
+   "pbt": 737.0,
+   "pat": 534.0,
+   "opm": 33.0
+  }
+ ],
+ "annual": [
+  {
+   "year": "Mar 2015",
+   "revenue": 4636.0,
+   "ebitda": 1020.0,
+   "pat": 751.0,
+   "opm": 22.0,
+   "cfo": 810.0,
+   "capex": 236.0,
+   "fcf": 574.0,
+   "debt": 2740.0,
+   "equity": 2491.0
+  },
+  {
+   "year": "Mar 2016",
+   "revenue": 6687.0,
+   "ebitda": 2733.0,
+   "pat": 1733.0,
+   "opm": 41.0,
+   "cfo": 2742.0,
+   "capex": 592.0,
+   "fcf": 2150.0,
+   "debt": 2352.0,
+   "equity": 3494.0
+  },
+  {
+   "year": "Mar 2017",
+   "revenue": 5816.0,
+   "ebitda": 1377.0,
+   "pat": 934.0,
+   "opm": 24.0,
+   "cfo": 1009.0,
+   "capex": 486.0,
+   "fcf": 523.0,
+   "debt": 2510.0,
+   "equity": 4351.0
+  },
+  {
+   "year": "Mar 2018",
+   "revenue": 5950.0,
+   "ebitda": 1349.0,
+   "pat": 678.0,
+   "opm": 23.0,
+   "cfo": 894.0,
+   "capex": 789.0,
+   "fcf": 105.0,
+   "debt": 6462.0,
+   "equity": 4623.0
+  },
+  {
+   "year": "Mar 2019",
+   "revenue": 7673.0,
+   "ebitda": 1983.0,
+   "pat": 436.0,
+   "opm": 26.0,
+   "cfo": 1798.0,
+   "capex": 660.0,
+   "fcf": 1138.0,
+   "debt": 6038.0,
+   "equity": 4725.0
+  },
+  {
+   "year": "Mar 2020",
+   "revenue": 7939.0,
+   "ebitda": 2170.0,
+   "pat": 1025.0,
+   "opm": 27.0,
+   "cfo": 1393.0,
+   "capex": 403.0,
+   "fcf": 990.0,
+   "debt": 5784.0,
+   "equity": 4824.0
+  },
+  {
+   "year": "Mar 2021",
+   "revenue": 8005.0,
+   "ebitda": 2480.0,
+   "pat": 1252.0,
+   "opm": 31.0,
+   "cfo": 2005.0,
+   "capex": 334.0,
+   "fcf": 1671.0,
+   "debt": 4874.0,
+   "equity": 5838.0
+  },
+  {
+   "year": "Mar 2022",
+   "revenue": 8508.0,
+   "ebitda": 2431.0,
+   "pat": 777.0,
+   "opm": 29.0,
+   "cfo": 1803.0,
+   "capex": 196.0,
+   "fcf": 1607.0,
+   "debt": 4070.0,
+   "equity": 5953.0
+  },
+  {
+   "year": "Mar 2023",
+   "revenue": 9620.0,
+   "ebitda": 2842.0,
+   "pat": 1245.0,
+   "opm": 30.0,
+   "cfo": 2368.0,
+   "capex": 415.0,
+   "fcf": 1953.0,
+   "debt": 5369.0,
+   "equity": 6198.0
+  },
+  {
+   "year": "Mar 2024",
+   "revenue": 10728.0,
+   "ebitda": 3368.0,
+   "pat": 1656.0,
+   "opm": 31.0,
+   "cfo": 3266.0,
+   "capex": 299.0,
+   "fcf": 2967.0,
+   "debt": 4022.0,
+   "equity": 6856.0
+  },
+  {
+   "year": "Mar 2025",
+   "revenue": 11516.0,
+   "ebitda": 3721.0,
+   "pat": 1911.0,
+   "opm": 32.0,
+   "cfo": 2585.0,
+   "capex": 594.0,
+   "fcf": 1991.0,
+   "debt": 3202.0,
+   "equity": 7590.0
+  },
+  {
+   "year": "Mar 2026",
+   "revenue": 13980.0,
+   "ebitda": 4558.0,
+   "pat": 2138.0,
+   "opm": 33.0,
+   "cfo": 3023.0,
+   "capex": 637.0,
+   "fcf": 2386.0,
+   "debt": 15026.0,
+   "equity": 8388.0
+  }
+ ],
+ "computed": {
+  "revenue_cagr_3y": 13.3,
+  "revenue_cagr_5y": 11.8,
+  "pat_cagr_3y": 19.8,
+  "pat_cagr_5y": 11.3,
+  "opm_trend": "expanding",
+  "de_ratio": 1.79,
+  "debt_trend": "rising",
+  "cfo_to_pat_5y": 1.69,
+  "fcf_5y_cr": 10904,
+  "ccc_days": 163.0,
+  "ccc_trend": "lengthening"
+ },
+ "flags": [
+  {
+   "level": "good",
+   "text": "CFO/PAT over 5y is 1.69 — profits backed by cash"
+  },
+  {
+   "level": "bad",
+   "text": "Debt/equity is 1.79 — leveraged balance sheet"
+  },
+  {
+   "level": "watch",
+   "text": "Borrowings rose from ₹5,369 Cr to ₹15,026 Cr over 3 years"
+  },
+  {
+   "level": "good",
+   "text": "Operating margin expanding: 30% → 33% over 3 years"
+  },
+  {
+   "level": "watch",
+   "text": "Cash conversion cycle lengthened from 147 to 163 days"
+  },
+  {
+   "level": "watch",
+   "text": "Promoter holding fell from 68.3% to 60.8% in 4 quarters"
+  }
+ ],
+ "sources": [
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jul 2026",
+   "url": "https://www.torrentpharma.com/pdf/investors/Q1-FY26-27_Earnings-Call-Transcript.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · May 2026",
+   "url": "https://www.torrentpharma.com/pdf/investors/Q4-FY25-26_Earnings-Call-Transcript.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Feb 2026",
+   "url": "https://www.torrentpharma.com/pdf/investors/Q3-FY25-26_Earnings-Call-Transcript.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Nov 2025",
+   "url": "https://www.torrentpharma.com/pdf/investors/Q2-FY25-26_Earnings-Call-Transcript.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Nov 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6e94e952-be35-4092-b775-7b3ece9ecce0.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jul 2025",
+   "url": "https://www.torrentpharma.com/pdf/investors/Q1-FY25-26_Earnings-Call-Transcript.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jul 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6314da61-f7f2-42a3-a461-607c3a8f44ad.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · May 2025",
+   "url": "https://www.torrentpharma.com/assets/TorrentPharma-Earnings-May20-2025.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jan 2025",
+   "url": "https://www.torrentpharma.com/pdf/investors/TorrentPharma_Earnings_Q3_2024_25.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ff8314b3-63f3-4741-871f-83b50a44e1d9.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/72f4c6a4-acaf-4542-9ee0-563a58f66ed3.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2024",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/bf33b4fb-38ba-401a-85c7-58c0a36fed92.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2023",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/6fe845d6-918b-4ab8-9efd-36588666eeed.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2022",
+   "url": "https://www.bseindia.com/bseplus/AnnualReport/500420/73450500420.pdf"
+  }
+ ]
+}

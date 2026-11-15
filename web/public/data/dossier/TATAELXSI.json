@@ -1,0 +1,351 @@
+{
+ "symbol": "TATAELXSI",
+ "name": "Tata Elxsi Ltd",
+ "generated_at": "2026-11-15T18:08:48+00:00",
+ "about": "Tata Elxsi is amongst the world’s leading providers of design and technology services across industries including Automotive, Media, Communications and Healthcare. Tata Elxsi provides integrated services from research and strategy, to electronics and mechanical design, software development, validation and deployment, and is supported by a network of design studios, global development centers and offices worldwide.",
+ "sector": "IT - Software",
+ "price": {
+  "close": 3835.0,
+  "change_pct": -0.7,
+  "mcap_cr": 23895.0,
+  "pe": 234.0,
+  "roce": 60.0,
+  "roe": 39.3
+ },
+ "quarters": [
+  {
+   "period": "Jun 2012",
+   "revenue": 146.0,
+   "ebitda": 13.0,
+   "pbt": 5.0,
+   "pat": 3.0,
+   "opm": 9.0
+  },
+  {
+   "period": "Sep 2012",
+   "revenue": 155.0,
+   "ebitda": 20.0,
+   "pbt": 3.0,
+   "pat": 2.0,
+   "opm": 13.0
+  },
+  {
+   "period": "Dec 2012",
+   "revenue": 157.0,
+   "ebitda": 16.0,
+   "pbt": 13.0,
+   "pat": 9.0,
+   "opm": 11.0
+  },
+  {
+   "period": "Mar 2013",
+   "revenue": 163.0,
+   "ebitda": 22.0,
+   "pbt": 13.0,
+   "pat": 8.0,
+   "opm": 14.0
+  },
+  {
+   "period": "Jun 2013",
+   "revenue": 173.0,
+   "ebitda": 13.0,
+   "pbt": 14.0,
+   "pat": 9.0,
+   "opm": 8.0
+  },
+  {
+   "period": "Sep 2013",
+   "revenue": 190.0,
+   "ebitda": 32.0,
+   "pbt": 30.0,
+   "pat": 20.0,
+   "opm": 17.0
+  },
+  {
+   "period": "Dec 2013",
+   "revenue": 200.0,
+   "ebitda": 44.0,
+   "pbt": 33.0,
+   "pat": 22.0,
+   "opm": 22.0
+  },
+  {
+   "period": "Mar 2014",
+   "revenue": 212.0,
+   "ebitda": 47.0,
+   "pbt": 35.0,
+   "pat": 22.0,
+   "opm": 22.0
+  },
+  {
+   "period": "Jun 2014",
+   "revenue": 191.0,
+   "ebitda": 38.0,
+   "pbt": 31.0,
+   "pat": 21.0,
+   "opm": 20.0
+  },
+  {
+   "period": "Sep 2014",
+   "revenue": 206.0,
+   "ebitda": 42.0,
+   "pbt": 35.0,
+   "pat": 24.0,
+   "opm": 20.0
+  },
+  {
+   "period": "Dec 2014",
+   "revenue": 221.0,
+   "ebitda": 50.0,
+   "pbt": 43.0,
+   "pat": 28.0,
+   "opm": 23.0
+  },
+  {
+   "period": "Mar 2015",
+   "revenue": 231.0,
+   "ebitda": 47.0,
+   "pbt": 45.0,
+   "pat": 30.0,
+   "opm": 20.0
+  }
+ ],
+ "annual": [
+  {
+   "year": "Mar 2008",
+   "revenue": 402.0,
+   "ebitda": 75.0,
+   "pat": 53.0,
+   "opm": 19.0,
+   "cfo": 14.0,
+   "capex": 41.0,
+   "fcf": -27.0,
+   "debt": 55.0,
+   "equity": 119.0
+  },
+  {
+   "year": "Mar 2009",
+   "revenue": 419.0,
+   "ebitda": 82.0,
+   "pat": 58.0,
+   "opm": 20.0,
+   "cfo": 80.0,
+   "capex": 13.0,
+   "fcf": 67.0,
+   "debt": 13.0,
+   "equity": 152.0
+  },
+  {
+   "year": "Mar 2010",
+   "revenue": 388.0,
+   "ebitda": 68.0,
+   "pat": 49.0,
+   "opm": 18.0,
+   "cfo": 14.0,
+   "capex": 9.0,
+   "fcf": 5.0,
+   "debt": 34.0,
+   "equity": 175.0
+  },
+  {
+   "year": "Mar 2011",
+   "revenue": 416.0,
+   "ebitda": 48.0,
+   "pat": 33.0,
+   "opm": 11.0,
+   "cfo": 71.0,
+   "capex": 29.0,
+   "fcf": 42.0,
+   "debt": 25.0,
+   "equity": 182.0
+  },
+  {
+   "year": "Mar 2012",
+   "revenue": 539.0,
+   "ebitda": 75.0,
+   "pat": 35.0,
+   "opm": 14.0,
+   "cfo": 62.0,
+   "capex": 28.0,
+   "fcf": 34.0,
+   "debt": 34.0,
+   "equity": 192.0
+  },
+  {
+   "year": "Mar 2013",
+   "revenue": 622.0,
+   "ebitda": 73.0,
+   "pat": 21.0,
+   "opm": 12.0,
+   "cfo": 38.0,
+   "capex": 34.0,
+   "fcf": 4.0,
+   "debt": 59.0,
+   "equity": 195.0
+  },
+  {
+   "year": "Mar 2014",
+   "revenue": 775.0,
+   "ebitda": 137.0,
+   "pat": 72.0,
+   "opm": 18.0,
+   "cfo": 129.0,
+   "capex": 24.0,
+   "fcf": 105.0,
+   "debt": 0.0,
+   "equity": 236.0
+  },
+  {
+   "year": "Mar 2015",
+   "revenue": 849.0,
+   "ebitda": 178.0,
+   "pat": 102.0,
+   "opm": 21.0,
+   "cfo": 143.0,
+   "capex": 33.0,
+   "fcf": 110.0,
+   "debt": 0.0,
+   "equity": 283.0
+  }
+ ],
+ "computed": {
+  "revenue_cagr_3y": 16.4,
+  "revenue_cagr_5y": 17.0,
+  "pat_cagr_3y": 42.8,
+  "pat_cagr_5y": 15.8,
+  "opm_trend": "expanding",
+  "de_ratio": 0.0,
+  "debt_trend": "falling",
+  "cfo_to_pat_5y": 1.68,
+  "fcf_5y_cr": 295,
+  "ccc_days": 66.0,
+  "ccc_trend": "lengthening"
+ },
+ "flags": [
+  {
+   "level": "good",
+   "text": "CFO/PAT over 5y is 1.68 — profits backed by cash"
+  },
+  {
+   "level": "good",
+   "text": "Debt/equity is 0.00 — virtually debt-free"
+  },
+  {
+   "level": "good",
+   "text": "Revenue 5y CAGR is 17.0%"
+  },
+  {
+   "level": "good",
+   "text": "Operating margin expanding: 14% → 21% over 3 years"
+  },
+  {
+   "level": "watch",
+   "text": "Cash conversion cycle lengthened from -300 to 66 days"
+  },
+  {
+   "level": "good",
+   "text": "ROCE is 60.0%"
+  },
+  {
+   "level": "good",
+   "text": "Latest quarter PAT up 36.4% YoY (Mar 2015)"
+  }
+ ],
+ "sources": [
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Oct 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=211a23af-40e5-4714-a87f-98b232e17654.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Oct 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c4b9e1d1-d40c-424b-ac60-7f3e72a2cd31.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2a3ed22f-9093-413f-bbb3-76c8c62b4415.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2e73f96b-3566-4f10-88d7-d3ae7f3eae57.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Apr 2026",
+   "url": "https://d1y69b020rytqm.cloudfront.net/PDF/Financial-Statements/April2026/TranscriptofEarningsCall31.03.2026.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Apr 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7f5cbac1-ae76-4172-b171-452a15c2e452.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Apr 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=65bbb769-8aef-4324-9951-9b472b6f11b0.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jan 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7c86d41c-a216-49df-b4ac-136f1a115bbd.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jan 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7c86d41c-a216-49df-b4ac-136f1a115bbd.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jan 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8656eea6-e10d-4f28-bd96-6a3be6585f44.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Oct 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c96a46fe-dbd4-4827-9b9a-3393c2a3b452.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Oct 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=eb75cd66-612f-40dc-b21b-4ac91822f7c7.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jul 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=cb73cece-f44a-4dba-a33e-148184e21f00.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jul 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=62dfeaa8-14dd-47a8-9f0e-bc41023428ff.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/e9e33d3a-e315-45f6-9e6b-3ef91fb6ddee.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/e2000451-fe66-4aa4-8ba3-90bb1750c9fc.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2024",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/581f26b5-91d7-4d45-9825-a397d5dea1b9.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2023",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/97be1e14-f647-4f75-8057-bbe0c78dd233.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2022",
+   "url": "https://www.bseindia.com/bseplus/AnnualReport/500408/73036500408_03_06_22.pdf"
+  }
+ ]
+}

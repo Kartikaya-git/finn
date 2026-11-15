@@ -1,0 +1,401 @@
+{
+ "symbol": "NHPC",
+ "name": "NHPC Ltd",
+ "generated_at": "2026-11-15T18:09:20+00:00",
+ "about": "NHPC, a Navratna Ratna public sector utility, is Government of India’s flagship hydroelectric generation company. The company is primarily involved in the generation and sale of bulk power to various Power Utilities. Its other business includes providing project management / construction contracts/ consultancy assignment services and trading of power.",
+ "sector": "Power",
+ "price": {
+  "close": 75.83,
+  "change_pct": -1.3,
+  "mcap_cr": 76172.0,
+  "pe": 17.6,
+  "roce": 5.75,
+  "roe": 9.32
+ },
+ "quarters": [
+  {
+   "period": "Dec 2023",
+   "revenue": 2056.0,
+   "ebitda": 752.0,
+   "pbt": 909.0,
+   "pat": 623.0,
+   "opm": 37.0
+  },
+  {
+   "period": "Mar 2024",
+   "revenue": 1887.0,
+   "ebitda": 1152.0,
+   "pbt": 1111.0,
+   "pat": 605.0,
+   "opm": 61.0
+  },
+  {
+   "period": "Jun 2024",
+   "revenue": 2694.0,
+   "ebitda": 1609.0,
+   "pbt": 1500.0,
+   "pat": 1102.0,
+   "opm": 60.0
+  },
+  {
+   "period": "Sep 2024",
+   "revenue": 3052.0,
+   "ebitda": 1805.0,
+   "pbt": 1666.0,
+   "pat": 1060.0,
+   "opm": 59.0
+  },
+  {
+   "period": "Dec 2024",
+   "revenue": 2287.0,
+   "ebitda": 1015.0,
+   "pbt": 434.0,
+   "pat": 330.0,
+   "opm": 44.0
+  },
+  {
+   "period": "Mar 2025",
+   "revenue": 2347.0,
+   "ebitda": 1205.0,
+   "pbt": 1167.0,
+   "pat": 920.0,
+   "opm": 51.0
+  },
+  {
+   "period": "Jun 2025",
+   "revenue": 3214.0,
+   "ebitda": 1802.0,
+   "pbt": 1518.0,
+   "pat": 1131.0,
+   "opm": 56.0
+  },
+  {
+   "period": "Sep 2025",
+   "revenue": 3365.0,
+   "ebitda": 2027.0,
+   "pbt": 1755.0,
+   "pat": 1219.0,
+   "opm": 60.0
+  },
+  {
+   "period": "Dec 2025",
+   "revenue": 2221.0,
+   "ebitda": 212.0,
+   "pbt": 894.0,
+   "pat": 321.0,
+   "opm": 10.0
+  },
+  {
+   "period": "Mar 2026",
+   "revenue": 2816.0,
+   "ebitda": 637.0,
+   "pbt": -274.0,
+   "pat": 1549.0,
+   "opm": 23.0
+  },
+  {
+   "period": "Jun 2026",
+   "revenue": 3808.0,
+   "ebitda": 2352.0,
+   "pbt": 1554.0,
+   "pat": 1178.0,
+   "opm": 62.0
+  },
+  {
+   "period": "Sep 2026",
+   "revenue": 4483.0,
+   "ebitda": 2876.0,
+   "pbt": 2194.0,
+   "pat": 1658.0,
+   "opm": 64.0
+  }
+ ],
+ "annual": [
+  {
+   "year": "Mar 2015",
+   "revenue": 8221.0,
+   "ebitda": 5134.0,
+   "pat": 2798.0,
+   "opm": 62.0,
+   "cfo": 4061.0,
+   "capex": 1726.0,
+   "fcf": 2335.0,
+   "debt": 20584.0,
+   "equity": 30758.0
+  },
+  {
+   "year": "Mar 2016",
+   "revenue": 8354.0,
+   "ebitda": 4783.0,
+   "pat": 2365.0,
+   "opm": 57.0,
+   "cfo": 5971.0,
+   "capex": 2147.0,
+   "fcf": 3824.0,
+   "debt": 19938.0,
+   "equity": 31643.0
+  },
+  {
+   "year": "Mar 2017",
+   "revenue": 8623.0,
+   "ebitda": 4884.0,
+   "pat": 3480.0,
+   "opm": 57.0,
+   "cfo": 8329.0,
+   "capex": 1587.0,
+   "fcf": 6742.0,
+   "debt": 19227.0,
+   "equity": 29015.0
+  },
+  {
+   "year": "Mar 2018",
+   "revenue": 7755.0,
+   "ebitda": 4248.0,
+   "pat": 2785.0,
+   "opm": 55.0,
+   "cfo": 4696.0,
+   "capex": 1563.0,
+   "fcf": 3133.0,
+   "debt": 18602.0,
+   "equity": 30041.0
+  },
+  {
+   "year": "Mar 2019",
+   "revenue": 8983.0,
+   "ebitda": 4981.0,
+   "pat": 2836.0,
+   "opm": 55.0,
+   "cfo": 3824.0,
+   "capex": 1360.0,
+   "fcf": 2464.0,
+   "debt": 19066.0,
+   "equity": 30798.0
+  },
+  {
+   "year": "Mar 2020",
+   "revenue": 10008.0,
+   "ebitda": 4856.0,
+   "pat": 3345.0,
+   "opm": 49.0,
+   "cfo": 2993.0,
+   "capex": 3632.0,
+   "fcf": -639.0,
+   "debt": 23226.0,
+   "equity": 31381.0
+  },
+  {
+   "year": "Mar 2021",
+   "revenue": 9648.0,
+   "ebitda": 5277.0,
+   "pat": 3600.0,
+   "opm": 55.0,
+   "cfo": 5070.0,
+   "capex": 2058.0,
+   "fcf": 3012.0,
+   "debt": 23365.0,
+   "equity": 33053.0
+  },
+  {
+   "year": "Mar 2022",
+   "revenue": 9144.0,
+   "ebitda": 4013.0,
+   "pat": 3774.0,
+   "opm": 44.0,
+   "cfo": 4590.0,
+   "capex": 3702.0,
+   "fcf": 888.0,
+   "debt": 26096.0,
+   "equity": 34921.0
+  },
+  {
+   "year": "Mar 2023",
+   "revenue": 10607.0,
+   "ebitda": 6184.0,
+   "pat": 4261.0,
+   "opm": 58.0,
+   "cfo": 4705.0,
+   "capex": 4974.0,
+   "fcf": -269.0,
+   "debt": 29540.0,
+   "equity": 36961.0
+  },
+  {
+   "year": "Mar 2024",
+   "revenue": 9631.0,
+   "ebitda": 4936.0,
+   "pat": 4000.0,
+   "opm": 51.0,
+   "cfo": 7252.0,
+   "capex": 6967.0,
+   "fcf": 285.0,
+   "debt": 32561.0,
+   "equity": 38669.0
+  },
+  {
+   "year": "Mar 2025",
+   "revenue": 10380.0,
+   "ebitda": 5523.0,
+   "pat": 3412.0,
+   "opm": 53.0,
+   "cfo": 5026.0,
+   "capex": 8849.0,
+   "fcf": -3823.0,
+   "debt": 39557.0,
+   "equity": 39668.0
+  },
+  {
+   "year": "Mar 2026",
+   "revenue": 11615.0,
+   "ebitda": 4097.0,
+   "pat": 4220.0,
+   "opm": 35.0,
+   "cfo": 3294.0,
+   "capex": 11568.0,
+   "fcf": -8274.0,
+   "debt": 52327.0,
+   "equity": 41437.0
+  }
+ ],
+ "computed": {
+  "revenue_cagr_3y": 3.1,
+  "revenue_cagr_5y": 3.8,
+  "pat_cagr_3y": -0.3,
+  "pat_cagr_5y": 3.2,
+  "opm_trend": "compressing",
+  "de_ratio": 1.26,
+  "debt_trend": "rising",
+  "cfo_to_pat_5y": 1.26,
+  "fcf_5y_cr": -11193,
+  "ccc_days": 83.0,
+  "ccc_trend": "shortening"
+ },
+ "flags": [
+  {
+   "level": "good",
+   "text": "CFO/PAT over 5y is 1.26 — profits backed by cash"
+  },
+  {
+   "level": "watch",
+   "text": "Cumulative 5y free cash flow is ₹-11,193 Cr — growth is consuming cash"
+  },
+  {
+   "level": "bad",
+   "text": "Debt/equity is 1.26 — leveraged balance sheet"
+  },
+  {
+   "level": "watch",
+   "text": "Borrowings rose from ₹29,540 Cr to ₹52,327 Cr over 3 years"
+  },
+  {
+   "level": "watch",
+   "text": "Revenue 5y CAGR is only 3.8%"
+  },
+  {
+   "level": "watch",
+   "text": "Operating margin compressing: 58% → 35% over 3 years"
+  },
+  {
+   "level": "good",
+   "text": "Cash conversion cycle shortened from 212 to 83 days"
+  },
+  {
+   "level": "watch",
+   "text": "ROCE is 5.8% — below cost of capital"
+  },
+  {
+   "level": "watch",
+   "text": "Promoter holding fell from 67.4% to 61.4% in 4 quarters"
+  },
+  {
+   "level": "good",
+   "text": "Latest quarter PAT up 36.0% YoY (Sep 2026)"
+  }
+ ],
+ "sources": [
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Nov 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=901313db-ed17-4c64-9951-e19a6c7341a9.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Aug 2026",
+   "url": "https://www.nhpcindia.com/assests/pzi_public/gallery/17859053110.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=02173b42-0106-4ec5-9502-58663b7e9e60.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · May 2026",
+   "url": "https://www.nhpcindia.com/assests/pzi_public/gallery/17788610930.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Feb 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=81909888-ea0e-4766-9bab-4f54e0dc5960.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Feb 2026",
+   "url": "https://www.nhpcindia.com/assests/pzi_public/gallery/17702120640.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Sep 2025",
+   "url": "https://www.nhpcindia.com/assests/pzi_public/gallery/17624280830.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · May 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=48b22a8f-fda0-4287-9b28-d11df7110ca3.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · May 2025",
+   "url": "https://www.nhpcindia.com/assests/pzi_public/gallery/17478085820.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Nov 2024",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=770ac18f-85e1-4e39-9ed1-89a3e23388d3.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Nov 2024",
+   "url": "https://www.nhpcindia.com/assests/pzi_public/gallery/17310655280.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jun 2024",
+   "url": "https://www.nhpcindia.com/assests/pzi_public/gallery/17230433200.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/e6d91f5c-880c-40c9-93ff-2d2146a206ba.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/282ae9e7-52c3-4a73-847c-089bd5690462.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2024",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/fc41ca38-a8a1-4303-b930-96ca38789649.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2023",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/f692e123-8873-4b1a-8326-093454443008.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2022",
+   "url": "https://www.bseindia.com/bseplus/AnnualReport/533098/73960533098.pdf"
+  }
+ ]
+}

@@ -1,0 +1,381 @@
+{
+ "symbol": "ALKEM",
+ "name": "Alkem Laboratories Ltd",
+ "generated_at": "2026-11-15T18:09:12+00:00",
+ "about": "Alkem Laboratories is engaged in pharmaceutical business with global operations. The Company is engaged in the development, manufacture and sale of pharmaceutical and nutraceutical products.(Source : 202003-01 Annual Report Page No:107)",
+ "sector": "Pharmaceuticals & Biotechnology",
+ "price": {
+  "close": 5114.0,
+  "change_pct": -3.5,
+  "mcap_cr": 61146.0,
+  "pe": 28.3,
+  "roce": 21.2,
+  "roe": 18.9
+ },
+ "quarters": [
+  {
+   "period": "Dec 2023",
+   "revenue": 3324.0,
+   "ebitda": 708.0,
+   "pbt": 655.0,
+   "pat": 604.0,
+   "opm": 21.0
+  },
+  {
+   "period": "Mar 2024",
+   "revenue": 2936.0,
+   "ebitda": 402.0,
+   "pbt": 367.0,
+   "pat": 304.0,
+   "opm": 14.0
+  },
+  {
+   "period": "Jun 2024",
+   "revenue": 3032.0,
+   "ebitda": 609.0,
+   "pbt": 619.0,
+   "pat": 550.0,
+   "opm": 20.0
+  },
+  {
+   "period": "Sep 2024",
+   "revenue": 3415.0,
+   "ebitda": 753.0,
+   "pbt": 780.0,
+   "pat": 702.0,
+   "opm": 22.0
+  },
+  {
+   "period": "Dec 2024",
+   "revenue": 3374.0,
+   "ebitda": 759.0,
+   "pbt": 731.0,
+   "pat": 641.0,
+   "opm": 23.0
+  },
+  {
+   "period": "Mar 2025",
+   "revenue": 3144.0,
+   "ebitda": 391.0,
+   "pbt": 396.0,
+   "pat": 322.0,
+   "opm": 12.0
+  },
+  {
+   "period": "Jun 2025",
+   "revenue": 3371.0,
+   "ebitda": 739.0,
+   "pbt": 771.0,
+   "pat": 668.0,
+   "opm": 22.0
+  },
+  {
+   "period": "Sep 2025",
+   "revenue": 4001.0,
+   "ebitda": 921.0,
+   "pbt": 896.0,
+   "pat": 779.0,
+   "opm": 23.0
+  },
+  {
+   "period": "Dec 2025",
+   "revenue": 3737.0,
+   "ebitda": 828.0,
+   "pbt": 781.0,
+   "pat": 653.0,
+   "opm": 22.0
+  },
+  {
+   "period": "Mar 2026",
+   "revenue": 3603.0,
+   "ebitda": 517.0,
+   "pbt": 423.0,
+   "pat": 251.0,
+   "opm": 14.0
+  },
+  {
+   "period": "Jun 2026",
+   "revenue": 3740.0,
+   "ebitda": 766.0,
+   "pbt": 772.0,
+   "pat": 521.0,
+   "opm": 20.0
+  },
+  {
+   "period": "Sep 2026",
+   "revenue": 4552.0,
+   "ebitda": 1025.0,
+   "pbt": 1000.0,
+   "pat": 667.0,
+   "opm": 23.0
+  }
+ ],
+ "annual": [
+  {
+   "year": "Mar 2015",
+   "revenue": 3674.0,
+   "ebitda": 427.0,
+   "pat": 392.0,
+   "opm": 12.0,
+   "cfo": 325.0,
+   "capex": 135.0,
+   "fcf": 190.0,
+   "debt": 1306.0,
+   "equity": 2999.0
+  },
+  {
+   "year": "Mar 2016",
+   "revenue": 4905.0,
+   "ebitda": 866.0,
+   "pat": 752.0,
+   "opm": 18.0,
+   "cfo": 726.0,
+   "capex": 254.0,
+   "fcf": 472.0,
+   "debt": 658.0,
+   "equity": 3692.0
+  },
+  {
+   "year": "Mar 2017",
+   "revenue": 5688.0,
+   "ebitda": 1001.0,
+   "pat": 905.0,
+   "opm": 18.0,
+   "cfo": 471.0,
+   "capex": 634.0,
+   "fcf": -163.0,
+   "debt": 659.0,
+   "equity": 4468.0
+  },
+  {
+   "year": "Mar 2018",
+   "revenue": 6401.0,
+   "ebitda": 1009.0,
+   "pat": 638.0,
+   "opm": 16.0,
+   "cfo": 266.0,
+   "capex": 677.0,
+   "fcf": -411.0,
+   "debt": 998.0,
+   "equity": 4864.0
+  },
+  {
+   "year": "Mar 2019",
+   "revenue": 7357.0,
+   "ebitda": 1120.0,
+   "pat": 774.0,
+   "opm": 15.0,
+   "cfo": 780.0,
+   "capex": 527.0,
+   "fcf": 253.0,
+   "debt": 944.0,
+   "equity": 5439.0
+  },
+  {
+   "year": "Mar 2020",
+   "revenue": 8344.0,
+   "ebitda": 1476.0,
+   "pat": 1149.0,
+   "opm": 18.0,
+   "cfo": 585.0,
+   "capex": 348.0,
+   "fcf": 237.0,
+   "debt": 1616.0,
+   "equity": 6161.0
+  },
+  {
+   "year": "Mar 2021",
+   "revenue": 8865.0,
+   "ebitda": 1945.0,
+   "pat": 1618.0,
+   "opm": 22.0,
+   "cfo": 1265.0,
+   "capex": 149.0,
+   "fcf": 1116.0,
+   "debt": 1707.0,
+   "equity": 7377.0
+  },
+  {
+   "year": "Mar 2022",
+   "revenue": 10634.0,
+   "ebitda": 2054.0,
+   "pat": 1680.0,
+   "opm": 19.0,
+   "cfo": 1111.0,
+   "capex": 328.0,
+   "fcf": 783.0,
+   "debt": 2668.0,
+   "equity": 8638.0
+  },
+  {
+   "year": "Mar 2023",
+   "revenue": 11599.0,
+   "ebitda": 1622.0,
+   "pat": 1007.0,
+   "opm": 14.0,
+   "cfo": 1682.0,
+   "capex": 229.0,
+   "fcf": 1453.0,
+   "debt": 1397.0,
+   "equity": 9045.0
+  },
+  {
+   "year": "Mar 2024",
+   "revenue": 12668.0,
+   "ebitda": 2249.0,
+   "pat": 1811.0,
+   "opm": 18.0,
+   "cfo": 1948.0,
+   "capex": 187.0,
+   "fcf": 1761.0,
+   "debt": 1418.0,
+   "equity": 10312.0
+  },
+  {
+   "year": "Mar 2025",
+   "revenue": 12965.0,
+   "ebitda": 2512.0,
+   "pat": 2215.0,
+   "opm": 19.0,
+   "cfo": 1913.0,
+   "capex": 635.0,
+   "fcf": 1278.0,
+   "debt": 1381.0,
+   "equity": 11985.0
+  },
+  {
+   "year": "Mar 2026",
+   "revenue": 14712.0,
+   "ebitda": 3007.0,
+   "pat": 2351.0,
+   "opm": 20.0,
+   "cfo": 1963.0,
+   "capex": 487.0,
+   "fcf": 1476.0,
+   "debt": 2047.0,
+   "equity": 13820.0
+  }
+ ],
+ "computed": {
+  "revenue_cagr_3y": 8.2,
+  "revenue_cagr_5y": 10.7,
+  "pat_cagr_3y": 32.7,
+  "pat_cagr_5y": 7.8,
+  "opm_trend": "expanding",
+  "de_ratio": 0.15,
+  "debt_trend": "rising",
+  "cfo_to_pat_5y": 0.95,
+  "fcf_5y_cr": 6751,
+  "ccc_days": 152.0,
+  "ccc_trend": "shortening"
+ },
+ "flags": [
+  {
+   "level": "good",
+   "text": "CFO/PAT over 5y is 0.95 — profits backed by cash"
+  },
+  {
+   "level": "watch",
+   "text": "Borrowings rose from ₹1,397 Cr to ₹2,047 Cr over 3 years"
+  },
+  {
+   "level": "good",
+   "text": "Operating margin expanding: 14% → 20% over 3 years"
+  },
+  {
+   "level": "good",
+   "text": "Cash conversion cycle shortened from 174 to 152 days"
+  },
+  {
+   "level": "good",
+   "text": "ROCE is 21.2%"
+  }
+ ],
+ "sources": [
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Nov 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=30a586a3-54db-4646-bb0d-9ddddce8aa04.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=994702db-fe4d-429d-bf12-a23c42c7275c.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e35df9c8-98f4-466e-811c-0637f12e3862.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=efcd8c7a-7f1f-4760-8279-0af90b7a2514.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jun 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=65750fe0-662a-48ca-a015-e770c0a7f0e7.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jun 2026",
+   "url": "https://admin.alkemlabs.com/uploads/Q4_and_FY_26_Results_Presentation_e92712308b.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Feb 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a15cf9d7-1ac0-4b20-bb95-fc49544c1487.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Feb 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b4778b50-6dd4-4b8c-96a6-cdb9511b3988.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Feb 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=53c93086-b4dd-4832-a634-9bae3e40762e.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Feb 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=535e4722-853b-4f09-832f-7a5b3c2be1b2.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Nov 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ecd03561-909d-4fcd-b57b-fb455bd2da51.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Nov 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6491c139-e5e1-45cd-b7d3-06397d76eafe.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/17dc6456-8643-49d4-a860-eb0cd3796e43.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/08670de9-d763-4d1b-9412-f1524ad094d0.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2024",
+   "url": "https://admin.alkemlabs.com/uploads/alkem_labs_ar_2023_24_C2_C_26_07_2024_high_res_1890c8a8ec.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2024",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/92259065-d6cd-48d1-9d2c-d5dd267da373.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2023",
+   "url": "https://admin.alkemlabs.com/uploads/Alkem_Laboratories_AR_2022_23_C2_C_single_page_view_for_web_upload_140723_compressed_c192bf30c3.pdf"
+  }
+ ]
+}

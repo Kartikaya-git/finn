@@ -1,0 +1,400 @@
+{
+ "symbol": "ZYDUSLIFE",
+ "name": "Zydus Lifesciences Ltd",
+ "generated_at": "2026-11-15T18:08:25+00:00",
+ "about": "In 1995, the group was restructured and thus was formed Cadila Healthcare under the aegis of the Zydus group. From a humble turnover Rs. 250 crores in 1995 the group witnessed a significant financial growth and registered a turnover of over Rs. 14,253 crores in FY20. Adhering to its brand promise of being dedicated to life in all its dimensions, Zydus continues to innovate with an unswerving focus to address the unmet healthcare needs. Simultaneously it rededicates itself to its mission of creating healthier, happier communities across the globe",
+ "sector": "Pharmaceuticals & Biotechnology",
+ "price": {
+  "close": 1189.9,
+  "change_pct": -1.3,
+  "mcap_cr": 118693.0,
+  "pe": 26.2,
+  "roce": 21.1,
+  "roe": 21.2
+ },
+ "quarters": [
+  {
+   "period": "Dec 2023",
+   "revenue": 4505.0,
+   "ebitda": 1102.0,
+   "pbt": 947.0,
+   "pat": 790.0,
+   "opm": 24.0
+  },
+  {
+   "period": "Mar 2024",
+   "revenue": 5534.0,
+   "ebitda": 1630.0,
+   "pbt": 1550.0,
+   "pat": 1246.0,
+   "opm": 29.0
+  },
+  {
+   "period": "Jun 2024",
+   "revenue": 6208.0,
+   "ebitda": 2084.0,
+   "pbt": 1900.0,
+   "pat": 1482.0,
+   "opm": 34.0
+  },
+  {
+   "period": "Sep 2024",
+   "revenue": 5237.0,
+   "ebitda": 1461.0,
+   "pbt": 1271.0,
+   "pat": 920.0,
+   "opm": 28.0
+  },
+  {
+   "period": "Dec 2024",
+   "revenue": 5269.0,
+   "ebitda": 1388.0,
+   "pbt": 1184.0,
+   "pat": 1026.0,
+   "opm": 26.0
+  },
+  {
+   "period": "Mar 2025",
+   "revenue": 6528.0,
+   "ebitda": 2126.0,
+   "pbt": 1672.0,
+   "pat": 1244.0,
+   "opm": 33.0
+  },
+  {
+   "period": "Jun 2025",
+   "revenue": 6574.0,
+   "ebitda": 2088.0,
+   "pbt": 1921.0,
+   "pat": 1521.0,
+   "opm": 32.0
+  },
+  {
+   "period": "Sep 2025",
+   "revenue": 6123.0,
+   "ebitda": 2016.0,
+   "pbt": 1687.0,
+   "pat": 1239.0,
+   "opm": 33.0
+  },
+  {
+   "period": "Dec 2025",
+   "revenue": 6864.0,
+   "ebitda": 1816.0,
+   "pbt": 1353.0,
+   "pat": 1023.0,
+   "opm": 26.0
+  },
+  {
+   "period": "Mar 2026",
+   "revenue": 7587.0,
+   "ebitda": 2554.0,
+   "pbt": 1660.0,
+   "pat": 1341.0,
+   "opm": 34.0
+  },
+  {
+   "period": "Jun 2026",
+   "revenue": 8017.0,
+   "ebitda": 1929.0,
+   "pbt": 1369.0,
+   "pat": 1011.0,
+   "opm": 24.0
+  },
+  {
+   "period": "Sep 2026",
+   "revenue": 7910.0,
+   "ebitda": 1894.0,
+   "pbt": 1262.0,
+   "pat": 928.0,
+   "opm": 24.0
+  }
+ ],
+ "annual": [
+  {
+   "year": "Mar 2015",
+   "revenue": 8651.0,
+   "ebitda": 1756.0,
+   "pat": 1188.0,
+   "opm": 20.0,
+   "cfo": 994.0,
+   "capex": 496.0,
+   "fcf": 498.0,
+   "debt": 2651.0,
+   "equity": 4251.0
+  },
+  {
+   "year": "Mar 2016",
+   "revenue": 9427.0,
+   "ebitda": 2332.0,
+   "pat": 1964.0,
+   "opm": 25.0,
+   "cfo": 1894.0,
+   "capex": 958.0,
+   "fcf": 936.0,
+   "debt": 2442.0,
+   "equity": 5699.0
+  },
+  {
+   "year": "Mar 2017",
+   "revenue": 9376.0,
+   "ebitda": 1902.0,
+   "pat": 1517.0,
+   "opm": 20.0,
+   "cfo": 1312.0,
+   "capex": 2935.0,
+   "fcf": -1623.0,
+   "debt": 5207.0,
+   "equity": 6960.0
+  },
+  {
+   "year": "Mar 2018",
+   "revenue": 11905.0,
+   "ebitda": 2831.0,
+   "pat": 1810.0,
+   "opm": 24.0,
+   "cfo": 919.0,
+   "capex": 1035.0,
+   "fcf": -116.0,
+   "debt": 5407.0,
+   "equity": 8744.0
+  },
+  {
+   "year": "Mar 2019",
+   "revenue": 13166.0,
+   "ebitda": 2991.0,
+   "pat": 1899.0,
+   "opm": 23.0,
+   "cfo": 1282.0,
+   "capex": 1046.0,
+   "fcf": 236.0,
+   "debt": 7899.0,
+   "equity": 10386.0
+  },
+  {
+   "year": "Mar 2020",
+   "revenue": 14253.0,
+   "ebitda": 2798.0,
+   "pat": 1204.0,
+   "opm": 20.0,
+   "cfo": 2932.0,
+   "capex": 889.0,
+   "fcf": 2043.0,
+   "debt": 7986.0,
+   "equity": 10375.0
+  },
+  {
+   "year": "Mar 2021",
+   "revenue": 14404.0,
+   "ebitda": 3391.0,
+   "pat": 2185.0,
+   "opm": 24.0,
+   "cfo": 3294.0,
+   "capex": 847.0,
+   "fcf": 2447.0,
+   "debt": 4608.0,
+   "equity": 12992.0
+  },
+  {
+   "year": "Mar 2022",
+   "revenue": 15110.0,
+   "ebitda": 3342.0,
+   "pat": 4618.0,
+   "opm": 22.0,
+   "cfo": 2104.0,
+   "capex": 1054.0,
+   "fcf": 1050.0,
+   "debt": 4221.0,
+   "equity": 16999.0
+  },
+  {
+   "year": "Mar 2023",
+   "revenue": 17237.0,
+   "ebitda": 3860.0,
+   "pat": 2092.0,
+   "opm": 22.0,
+   "cfo": 2689.0,
+   "capex": 992.0,
+   "fcf": 1697.0,
+   "debt": 1195.0,
+   "equity": 17516.0
+  },
+  {
+   "year": "Mar 2024",
+   "revenue": 19547.0,
+   "ebitda": 5384.0,
+   "pat": 3973.0,
+   "opm": 28.0,
+   "cfo": 3196.0,
+   "capex": 883.0,
+   "fcf": 2313.0,
+   "debt": 804.0,
+   "equity": 19830.0
+  },
+  {
+   "year": "Mar 2025",
+   "revenue": 23242.0,
+   "ebitda": 7058.0,
+   "pat": 4673.0,
+   "opm": 30.0,
+   "cfo": 6781.0,
+   "capex": 1642.0,
+   "fcf": 5139.0,
+   "debt": 3213.0,
+   "equity": 23953.0
+  },
+  {
+   "year": "Mar 2026",
+   "revenue": 27148.0,
+   "ebitda": 8475.0,
+   "pat": 5124.0,
+   "opm": 31.0,
+   "cfo": 2117.0,
+   "capex": 2647.0,
+   "fcf": -530.0,
+   "debt": 12496.0,
+   "equity": 27112.0
+  }
+ ],
+ "computed": {
+  "revenue_cagr_3y": 16.3,
+  "revenue_cagr_5y": 13.5,
+  "pat_cagr_3y": 34.8,
+  "pat_cagr_5y": 18.6,
+  "opm_trend": "expanding",
+  "de_ratio": 0.46,
+  "debt_trend": "rising",
+  "cfo_to_pat_5y": 0.82,
+  "fcf_5y_cr": 9669,
+  "ccc_days": 212.0,
+  "ccc_trend": "lengthening"
+ },
+ "flags": [
+  {
+   "level": "watch",
+   "text": "CFO/PAT over 5y is 0.82 — cash conversion a bit soft"
+  },
+  {
+   "level": "watch",
+   "text": "Borrowings rose from ₹1,195 Cr to ₹12,496 Cr over 3 years"
+  },
+  {
+   "level": "good",
+   "text": "Operating margin expanding: 22% → 31% over 3 years"
+  },
+  {
+   "level": "watch",
+   "text": "Cash conversion cycle lengthened from 168 to 212 days"
+  },
+  {
+   "level": "good",
+   "text": "ROCE is 21.1%"
+  },
+  {
+   "level": "bad",
+   "text": "Latest quarter PAT down 25.1% YoY (Sep 2026)"
+  }
+ ],
+ "sources": [
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Nov 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0673a358-a878-4882-ae44-84cb3358631b.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Nov 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=bc0e18ca-1cf3-4484-a21e-b79db3dc899b.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=bcb4a0b1-3ded-4b04-897c-a56ae9a760e0.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=83898b45-5ad5-4812-9114-b90af501f6c8.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=010501ea-6ffc-42c9-b93f-b2e236c4e384.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6e72bb3a-947d-4512-b211-93829c92f260.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Feb 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=208d131f-2674-4235-853a-010b3847599d.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Feb 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=92fec597-5665-48a4-b102-1872064c91e8.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Nov 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e5ee65b8-585c-48b6-b9d6-a568f7c30851.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Nov 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1ca929d3-bed6-476d-9375-7f85bf065af3.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Nov 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=68e6336b-5e24-4d76-95fa-eff0c21897c7.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Aug 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=64106ebe-0cb5-444a-a148-82e2be083189.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Aug 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=dde79516-6d2a-4c21-8cbf-5b4ca26d5757.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jun 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0de3fb26-4e76-407a-a262-86ec5dd2d679.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jun 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1edbdced-39a6-4e2a-bde6-ab204a1e9fce.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/3b825406-a2d1-44a7-9e41-10f5c876d22f.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/1415e71d-79db-48ad-b29a-d1ce6a554352.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2024",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/cb20386b-4a53-40b3-a9fb-dc63f99696f3.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2023",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/fca8fc8e-6400-47eb-bbbe-1eaefff703d4.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2022",
+   "url": "https://www.bseindia.com/bseplus/AnnualReport/532321/73737532321.pdf"
+  }
+ ]
+}

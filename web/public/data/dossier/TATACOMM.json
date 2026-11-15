@@ -1,0 +1,370 @@
+{
+ "symbol": "TATACOMM",
+ "name": "Tata Communications Ltd",
+ "generated_at": "2026-11-15T18:09:38+00:00",
+ "about": "Tata Communications was incorporated on March 19, 1986 as VSNL. In February 2002, the Government of India, as per their disinvestments plan, sold 25% of their holding in the company to the strategic partner. Consequently, the company was taken over under the administrative control of TATA. It is the leading global digital ecosystem enabler. It has a leadership position in emerging markets, and an infrastructure that spans the globe. It delivers managed solutions to multinational companies and service providers. It partners with 300 of the Fortune 500 companies with their state-of the-art solutions, including a wide range of communication, collaboration, cloud, mobility, connected solutions, network and data center services.",
+ "sector": "Telecom - Services",
+ "price": {
+  "close": 1772.9,
+  "change_pct": 1.7,
+  "mcap_cr": 50553.0,
+  "pe": 41.7,
+  "roce": 14.6,
+  "roe": 32.6
+ },
+ "quarters": [
+  {
+   "period": "Dec 2023",
+   "revenue": 5588.0,
+   "ebitda": 1153.0,
+   "pbt": 154.0,
+   "pat": 45.0,
+   "opm": 21.0
+  },
+  {
+   "period": "Mar 2024",
+   "revenue": 5645.0,
+   "ebitda": 1076.0,
+   "pbt": 207.0,
+   "pat": 322.0,
+   "opm": 19.0
+  },
+  {
+   "period": "Jun 2024",
+   "revenue": 5592.0,
+   "ebitda": 1137.0,
+   "pbt": 417.0,
+   "pat": 333.0,
+   "opm": 20.0
+  },
+  {
+   "period": "Sep 2024",
+   "revenue": 5728.0,
+   "ebitda": 1129.0,
+   "pbt": 321.0,
+   "pat": 227.0,
+   "opm": 20.0
+  },
+  {
+   "period": "Dec 2024",
+   "revenue": 5798.0,
+   "ebitda": 1181.0,
+   "pbt": 350.0,
+   "pat": 236.0,
+   "opm": 20.0
+  },
+  {
+   "period": "Mar 2025",
+   "revenue": 5990.0,
+   "ebitda": 1122.0,
+   "pbt": 1193.0,
+   "pat": 1041.0,
+   "opm": 19.0
+  },
+  {
+   "period": "Jun 2025",
+   "revenue": 5960.0,
+   "ebitda": 1137.0,
+   "pbt": 249.0,
+   "pat": 190.0,
+   "opm": 19.0
+  },
+  {
+   "period": "Sep 2025",
+   "revenue": 6100.0,
+   "ebitda": 1174.0,
+   "pbt": 255.0,
+   "pat": 183.0,
+   "opm": 19.0
+  },
+  {
+   "period": "Dec 2025",
+   "revenue": 6189.0,
+   "ebitda": 1228.0,
+   "pbt": 458.0,
+   "pat": 364.0,
+   "opm": 20.0
+  },
+  {
+   "period": "Mar 2026",
+   "revenue": 6554.0,
+   "ebitda": 1284.0,
+   "pbt": 434.0,
+   "pat": 259.0,
+   "opm": 20.0
+  },
+  {
+   "period": "Jun 2026",
+   "revenue": 6583.0,
+   "ebitda": 1230.0,
+   "pbt": 211.0,
+   "pat": 130.0,
+   "opm": 19.0
+  },
+  {
+   "period": "Sep 2026",
+   "revenue": 6688.0,
+   "ebitda": 1422.0,
+   "pbt": 463.0,
+   "pat": 336.0,
+   "opm": 21.0
+  }
+ ],
+ "annual": [
+  {
+   "year": "Mar 2015",
+   "revenue": 19913.0,
+   "ebitda": 2994.0,
+   "pat": 3.0,
+   "opm": 15.0,
+   "cfo": 3028.0,
+   "capex": 1771.0,
+   "fcf": 1257.0,
+   "debt": 13076.0,
+   "equity": 321.0
+  },
+  {
+   "year": "Mar 2016",
+   "revenue": 18149.0,
+   "ebitda": 2434.0,
+   "pat": 10.0,
+   "opm": 13.0,
+   "cfo": 2363.0,
+   "capex": 2029.0,
+   "fcf": 334.0,
+   "debt": 14231.0,
+   "equity": -363.0
+  },
+  {
+   "year": "Mar 2017",
+   "revenue": 17620.0,
+   "ebitda": 2406.0,
+   "pat": 1235.0,
+   "opm": 14.0,
+   "cfo": 2394.0,
+   "capex": 1796.0,
+   "fcf": 598.0,
+   "debt": 9214.0,
+   "equity": 1592.0
+  },
+  {
+   "year": "Mar 2018",
+   "revenue": 16772.0,
+   "ebitda": 2412.0,
+   "pat": -326.0,
+   "opm": 14.0,
+   "cfo": 1713.0,
+   "capex": 1611.0,
+   "fcf": 102.0,
+   "debt": 8927.0,
+   "equity": 499.0
+  },
+  {
+   "year": "Mar 2019",
+   "revenue": 16525.0,
+   "ebitda": 2745.0,
+   "pat": -80.0,
+   "opm": 17.0,
+   "cfo": 1844.0,
+   "capex": 1738.0,
+   "fcf": 106.0,
+   "debt": 9935.0,
+   "equity": -182.0
+  },
+  {
+   "year": "Mar 2020",
+   "revenue": 17068.0,
+   "ebitda": 3289.0,
+   "pat": -85.0,
+   "opm": 19.0,
+   "cfo": 2525.0,
+   "capex": 1681.0,
+   "fcf": 844.0,
+   "debt": 12413.0,
+   "equity": -1278.0
+  },
+  {
+   "year": "Mar 2021",
+   "revenue": 17100.0,
+   "ebitda": 4261.0,
+   "pat": 1252.0,
+   "opm": 25.0,
+   "cfo": 3180.0,
+   "capex": 1352.0,
+   "fcf": 1828.0,
+   "debt": 11394.0,
+   "equity": 115.0
+  },
+  {
+   "year": "Mar 2022",
+   "revenue": 16725.0,
+   "ebitda": 4227.0,
+   "pat": 1485.0,
+   "opm": 25.0,
+   "cfo": 4204.0,
+   "capex": 1650.0,
+   "fcf": 2554.0,
+   "debt": 9122.0,
+   "equity": 928.0
+  },
+  {
+   "year": "Mar 2023",
+   "revenue": 17838.0,
+   "ebitda": 4318.0,
+   "pat": 1801.0,
+   "opm": 24.0,
+   "cfo": 4384.0,
+   "capex": 1485.0,
+   "fcf": 2899.0,
+   "debt": 8577.0,
+   "equity": 1518.0
+  },
+  {
+   "year": "Mar 2024",
+   "revenue": 20969.0,
+   "ebitda": 4230.0,
+   "pat": 970.0,
+   "opm": 20.0,
+   "cfo": 3182.0,
+   "capex": 2072.0,
+   "fcf": 1110.0,
+   "debt": 11263.0,
+   "equity": 1786.0
+  },
+  {
+   "year": "Mar 2025",
+   "revenue": 23109.0,
+   "ebitda": 4569.0,
+   "pat": 1837.0,
+   "opm": 20.0,
+   "cfo": 2911.0,
+   "capex": 2200.0,
+   "fcf": 711.0,
+   "debt": 12357.0,
+   "equity": 3021.0
+  },
+  {
+   "year": "Mar 2026",
+   "revenue": 24803.0,
+   "ebitda": 4822.0,
+   "pat": 997.0,
+   "opm": 19.0,
+   "cfo": 4479.0,
+   "capex": 2419.0,
+   "fcf": 2060.0,
+   "debt": 12249.0,
+   "equity": 3447.0
+  }
+ ],
+ "computed": {
+  "revenue_cagr_3y": 11.6,
+  "revenue_cagr_5y": 7.7,
+  "pat_cagr_3y": -17.9,
+  "pat_cagr_5y": -4.5,
+  "opm_trend": "compressing",
+  "de_ratio": 3.55,
+  "debt_trend": "rising",
+  "cfo_to_pat_5y": 2.7,
+  "fcf_5y_cr": 9334,
+  "ccc_days": 61.0,
+  "ccc_trend": "stable"
+ },
+ "flags": [
+  {
+   "level": "good",
+   "text": "CFO/PAT over 5y is 2.70 — profits backed by cash"
+  },
+  {
+   "level": "bad",
+   "text": "Debt/equity is 3.55 — leveraged balance sheet"
+  },
+  {
+   "level": "watch",
+   "text": "Borrowings rose from ₹8,577 Cr to ₹12,249 Cr over 3 years"
+  },
+  {
+   "level": "watch",
+   "text": "PAT 5y CAGR -4.5% lags revenue CAGR 7.7% — margins leaking"
+  },
+  {
+   "level": "watch",
+   "text": "Operating margin compressing: 24% → 19% over 3 years"
+  },
+  {
+   "level": "good",
+   "text": "Latest quarter PAT up 83.6% YoY (Sep 2026)"
+  }
+ ],
+ "sources": [
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Oct 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5dd86f09-7fce-448a-aae1-b1688e1fdca2.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jul 2026",
+   "url": "https://www.tatacommunications.com/hubfs/library/documents/q1-fy2027-earning-call-transcript.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jul 2026",
+   "url": "https://www.tatacommunications.com/hubfs/Quarterly%20report/md-and-ceo-presentation.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Apr 2026",
+   "url": "https://www.tatacommunications.com/hubfs/Quarterly%20report/q4-fy2026-earning-call-transcript.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jan 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5623a776-548e-4f6d-9fe0-94261fe7607b.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Aug 2025",
+   "url": "https://www.tatacommunications.com/hubfs/Quarterly%20report/q2-fy2026-earning-call-transcript.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jun 2025",
+   "url": "https://gamma.tatacommunications.com/assets/wp-content/uploads/2025/06/institutional-investors-and-analysts-meet-2025-transcript.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jun 2025",
+   "url": "https://gamma.tatacommunications.com/assets/wp-content/uploads/2025/06/institutional-investors-and-analysts-meet-2025.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Apr 2025",
+   "url": "https://gamma.tatacommunications.com/assets/wp-content/uploads/2025/04/q4-fy2025-earning-call-transcript.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ab9cdbcd-5200-4f50-8980-828ac76dc65b.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/2deb8be1-7489-4871-a3b2-1eb671cbb2c7.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2024",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4b0b014b-625e-4bd7-bd7a-2254f4045201.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2023",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/bdf1c351-2950-4bf4-bab2-62dc8690d7dc.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2022",
+   "url": "https://www.bseindia.com/bseplus/AnnualReport/500483/73164500483.pdf"
+  }
+ ]
+}

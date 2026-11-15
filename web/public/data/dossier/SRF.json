@@ -1,0 +1,392 @@
+{
+ "symbol": "SRF",
+ "name": "SRF Ltd",
+ "generated_at": "2026-11-15T18:08:10+00:00",
+ "about": "Incorporated in 1970, SRF Ltd manufactures and sells technical textiles, chemicals, packaging films, aluminum foils, and other polymers",
+ "sector": "Chemicals & Petrochemicals",
+ "price": {
+  "close": 2475.0,
+  "change_pct": -0.1,
+  "mcap_cr": 73365.0,
+  "pe": 31.1,
+  "roce": 14.6,
+  "roe": 14.3
+ },
+ "quarters": [
+  {
+   "period": "Dec 2023",
+   "revenue": 3053.0,
+   "ebitda": 566.0,
+   "pbt": 348.0,
+   "pat": 253.0,
+   "opm": 19.0
+  },
+  {
+   "period": "Mar 2024",
+   "revenue": 3570.0,
+   "ebitda": 696.0,
+   "pbt": 443.0,
+   "pat": 422.0,
+   "opm": 19.0
+  },
+  {
+   "period": "Jun 2024",
+   "revenue": 3464.0,
+   "ebitda": 603.0,
+   "pbt": 344.0,
+   "pat": 252.0,
+   "opm": 17.0
+  },
+  {
+   "period": "Sep 2024",
+   "revenue": 3424.0,
+   "ebitda": 538.0,
+   "pbt": 284.0,
+   "pat": 201.0,
+   "opm": 16.0
+  },
+  {
+   "period": "Dec 2024",
+   "revenue": 3491.0,
+   "ebitda": 620.0,
+   "pbt": 369.0,
+   "pat": 271.0,
+   "opm": 18.0
+  },
+  {
+   "period": "Mar 2025",
+   "revenue": 4313.0,
+   "ebitda": 957.0,
+   "pbt": 707.0,
+   "pat": 526.0,
+   "opm": 22.0
+  },
+  {
+   "period": "Jun 2025",
+   "revenue": 3819.0,
+   "ebitda": 830.0,
+   "pbt": 576.0,
+   "pat": 432.0,
+   "opm": 22.0
+  },
+  {
+   "period": "Sep 2025",
+   "revenue": 3640.0,
+   "ebitda": 774.0,
+   "pbt": 517.0,
+   "pat": 388.0,
+   "opm": 21.0
+  },
+  {
+   "period": "Dec 2025",
+   "revenue": 3713.0,
+   "ebitda": 780.0,
+   "pbt": 452.0,
+   "pat": 433.0,
+   "opm": 21.0
+  },
+  {
+   "period": "Mar 2026",
+   "revenue": 4615.0,
+   "ebitda": 1026.0,
+   "pbt": 757.0,
+   "pat": 582.0,
+   "opm": 22.0
+  },
+  {
+   "period": "Jun 2026",
+   "revenue": 5033.0,
+   "ebitda": 1237.0,
+   "pbt": 979.0,
+   "pat": 759.0,
+   "opm": 25.0
+  },
+  {
+   "period": "Sep 2026",
+   "revenue": 4904.0,
+   "ebitda": 946.0,
+   "pbt": 671.0,
+   "pat": 509.0,
+   "opm": 19.0
+  }
+ ],
+ "annual": [
+  {
+   "year": "Mar 2015",
+   "revenue": 4540.0,
+   "ebitda": 717.0,
+   "pat": 303.0,
+   "opm": 16.0,
+   "cfo": 542.0,
+   "capex": 484.0,
+   "fcf": 58.0,
+   "debt": 2435.0,
+   "equity": 2296.0
+  },
+  {
+   "year": "Mar 2016",
+   "revenue": 4593.0,
+   "ebitda": 963.0,
+   "pat": 430.0,
+   "opm": 21.0,
+   "cfo": 1090.0,
+   "capex": 579.0,
+   "fcf": 511.0,
+   "debt": 2515.0,
+   "equity": 2763.0
+  },
+  {
+   "year": "Mar 2017",
+   "revenue": 4822.0,
+   "ebitda": 969.0,
+   "pat": 515.0,
+   "opm": 20.0,
+   "cfo": 645.0,
+   "capex": 640.0,
+   "fcf": 5.0,
+   "debt": 2396.0,
+   "equity": 3182.0
+  },
+  {
+   "year": "Mar 2018",
+   "revenue": 5589.0,
+   "ebitda": 906.0,
+   "pat": 462.0,
+   "opm": 16.0,
+   "cfo": 678.0,
+   "capex": 1283.0,
+   "fcf": -605.0,
+   "debt": 3142.0,
+   "equity": 3564.0
+  },
+  {
+   "year": "Mar 2019",
+   "revenue": 7100.0,
+   "ebitda": 1297.0,
+   "pat": 642.0,
+   "opm": 18.0,
+   "cfo": 896.0,
+   "capex": 1053.0,
+   "fcf": -157.0,
+   "debt": 3730.0,
+   "equity": 4129.0
+  },
+  {
+   "year": "Mar 2020",
+   "revenue": 7209.0,
+   "ebitda": 1455.0,
+   "pat": 1019.0,
+   "opm": 20.0,
+   "cfo": 1304.0,
+   "capex": 1373.0,
+   "fcf": -69.0,
+   "debt": 4135.0,
+   "equity": 4933.0
+  },
+  {
+   "year": "Mar 2021",
+   "revenue": 8400.0,
+   "ebitda": 2133.0,
+   "pat": 1198.0,
+   "opm": 25.0,
+   "cfo": 1772.0,
+   "capex": 1205.0,
+   "fcf": 567.0,
+   "debt": 3469.0,
+   "equity": 6856.0
+  },
+  {
+   "year": "Mar 2022",
+   "revenue": 12434.0,
+   "ebitda": 3103.0,
+   "pat": 1889.0,
+   "opm": 25.0,
+   "cfo": 2106.0,
+   "capex": 1817.0,
+   "fcf": 289.0,
+   "debt": 3655.0,
+   "equity": 8565.0
+  },
+  {
+   "year": "Mar 2023",
+   "revenue": 14870.0,
+   "ebitda": 3529.0,
+   "pat": 2162.0,
+   "opm": 24.0,
+   "cfo": 2902.0,
+   "capex": 2852.0,
+   "fcf": 50.0,
+   "debt": 4478.0,
+   "equity": 10327.0
+  },
+  {
+   "year": "Mar 2024",
+   "revenue": 13139.0,
+   "ebitda": 2584.0,
+   "pat": 1336.0,
+   "opm": 20.0,
+   "cfo": 2094.0,
+   "capex": 2202.0,
+   "fcf": -108.0,
+   "debt": 5031.0,
+   "equity": 11479.0
+  },
+  {
+   "year": "Mar 2025",
+   "revenue": 14693.0,
+   "ebitda": 2718.0,
+   "pat": 1251.0,
+   "opm": 18.0,
+   "cfo": 2487.0,
+   "capex": 1222.0,
+   "fcf": 1265.0,
+   "debt": 4726.0,
+   "equity": 12626.0
+  },
+  {
+   "year": "Mar 2026",
+   "revenue": 15787.0,
+   "ebitda": 3410.0,
+   "pat": 1835.0,
+   "opm": 22.0,
+   "cfo": 2554.0,
+   "capex": 1807.0,
+   "fcf": 747.0,
+   "debt": 5083.0,
+   "equity": 14042.0
+  }
+ ],
+ "computed": {
+  "revenue_cagr_3y": 2.0,
+  "revenue_cagr_5y": 13.4,
+  "pat_cagr_3y": -5.3,
+  "pat_cagr_5y": 8.9,
+  "opm_trend": "compressing",
+  "de_ratio": 0.36,
+  "debt_trend": "flat",
+  "cfo_to_pat_5y": 1.43,
+  "fcf_5y_cr": 2243,
+  "ccc_days": 69.0,
+  "ccc_trend": "lengthening"
+ },
+ "flags": [
+  {
+   "level": "good",
+   "text": "CFO/PAT over 5y is 1.43 — profits backed by cash"
+  },
+  {
+   "level": "watch",
+   "text": "Operating margin compressing: 24% → 22% over 3 years"
+  },
+  {
+   "level": "watch",
+   "text": "Cash conversion cycle lengthened from 46 to 69 days"
+  },
+  {
+   "level": "good",
+   "text": "Latest quarter PAT up 31.2% YoY (Sep 2026)"
+  }
+ ],
+ "sources": [
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Oct 2026",
+   "url": "https://www.srf.com/storage/files/earning-calls/1793166072.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Oct 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4bee2b6e-7ffa-4632-a371-ecd145b00ffa.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jul 2026",
+   "url": "https://www.srf.com/storage/files/earning-calls/1785301598.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6d0a3bb3-5ead-49eb-9ca5-8b3a978d3476.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · May 2026",
+   "url": "https://www.srf.com/storage/files/earning-calls/1778580319.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=110be928-8d59-42e2-9dd7-90c8fab04597.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jan 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=efbca81c-728d-4a01-9749-a606f65a619c.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jan 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=355a0d1a-7b07-4f1b-892b-59dd9f0bf1f3.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Nov 2025",
+   "url": "https://www.srf.com/wp-content/uploads/2025/11/SRF-Limited-Q2-H1-FY26-Concall-Transcript.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Nov 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=720e915d-3fc3-40a7-a9ea-0f60e4e0c987.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Sep 2025",
+   "url": "https://www.srf.com/wp-content/uploads/2025/09/SRF-Limited-Update-on-Refrigerant-Segment-Concall-Transcript_Final.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jul 2025",
+   "url": "https://www.srf.com/wp-content/uploads/2025/07/SRF-Limited-Q1-FY26-Concall-Transcript.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jul 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c501aa78-cb1b-4108-9dff-852146ed3765.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · May 2025",
+   "url": "https://www.srf.com/wp-content/uploads/2025/05/SRF-Limited-Q4-FY25-Concall-Transcript.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · May 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=28c2a788-6649-4403-8180-f9946a234387.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4a7644aa-f953-438c-a41a-8827cff676f5.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/abe86126-5672-4dba-9a6d-b0f0dfe75862.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2024",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/fec21c73-4ecf-4985-8fea-3c68663e958d.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2023",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/467eed3a-3fcf-4a98-90d1-92577a9bde3d.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2022",
+   "url": "https://www.bseindia.com/bseplus/AnnualReport/503806/73315503806.pdf"
+  }
+ ]
+}

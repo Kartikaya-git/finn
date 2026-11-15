@@ -1,0 +1,385 @@
+{
+ "symbol": "VEDL",
+ "name": "Vedanta Ltd",
+ "generated_at": "2026-11-15T18:08:23+00:00",
+ "about": "Vedanta Ltd is a diversified natural resource group engaged in exploring, extracting and processing minerals and oil & gas. The group engages in the exploration, production and sale of zinc, lead, silver, copper, aluminium, iron ore and oil & gas. It has presence across India, South Africa, Namibia, Ireland, Liberia & UAE. Its other businesses includes commercial power generation, steel manufacturing & port operations in India and manufacturing of glass substrate in South Korea and Taiwan.",
+ "sector": "Diversified Metals",
+ "price": {
+  "close": 259.68,
+  "change_pct": -0.3,
+  "mcap_cr": 101545.0,
+  "pe": 7.69,
+  "roce": 16.1,
+  "roe": 38.2
+ },
+ "quarters": [
+  {
+   "period": "Dec 2023",
+   "revenue": 35541.0,
+   "ebitda": 8531.0,
+   "pbt": 4105.0,
+   "pat": 2868.0,
+   "opm": 24.0
+  },
+  {
+   "period": "Mar 2024",
+   "revenue": 35509.0,
+   "ebitda": 8768.0,
+   "pbt": 3995.0,
+   "pat": 2275.0,
+   "opm": 25.0
+  },
+  {
+   "period": "Jun 2024",
+   "revenue": 35764.0,
+   "ebitda": 9945.0,
+   "pbt": 5926.0,
+   "pat": 5095.0,
+   "opm": 28.0
+  },
+  {
+   "period": "Sep 2024",
+   "revenue": 37634.0,
+   "ebitda": 9828.0,
+   "pbt": 7633.0,
+   "pat": 5603.0,
+   "opm": 26.0
+  },
+  {
+   "period": "Dec 2024",
+   "revenue": 17063.0,
+   "ebitda": 5013.0,
+   "pbt": 5904.0,
+   "pat": 4876.0,
+   "opm": 29.0
+  },
+  {
+   "period": "Mar 2025",
+   "revenue": 16686.0,
+   "ebitda": 5246.0,
+   "pbt": 5755.0,
+   "pat": 4961.0,
+   "opm": 31.0
+  },
+  {
+   "period": "Jun 2025",
+   "revenue": 15754.0,
+   "ebitda": 4276.0,
+   "pbt": 5288.0,
+   "pat": 4457.0,
+   "opm": 27.0
+  },
+  {
+   "period": "Sep 2025",
+   "revenue": 16736.0,
+   "ebitda": 4828.0,
+   "pbt": 4215.0,
+   "pat": 3479.0,
+   "opm": 29.0
+  },
+  {
+   "period": "Dec 2025",
+   "revenue": 21337.0,
+   "ebitda": 6521.0,
+   "pbt": 9161.0,
+   "pat": 7807.0,
+   "opm": 31.0
+  },
+  {
+   "period": "Mar 2026",
+   "revenue": 24609.0,
+   "ebitda": 7559.0,
+   "pbt": 11036.0,
+   "pat": 9352.0,
+   "opm": 31.0
+  },
+  {
+   "period": "Jun 2026",
+   "revenue": 24205.0,
+   "ebitda": 8501.0,
+   "pbt": 9813.0,
+   "pat": 7918.0,
+   "opm": 35.0
+  },
+  {
+   "period": "Sep 2026",
+   "revenue": 26356.0,
+   "ebitda": 9915.0,
+   "pbt": 8390.0,
+   "pat": 6202.0,
+   "opm": 38.0
+  }
+ ],
+ "annual": [
+  {
+   "year": "Mar 2015",
+   "revenue": 73710.0,
+   "ebitda": 22114.0,
+   "pat": -11369.0,
+   "opm": 30.0,
+   "cfo": 17805.0,
+   "capex": 10574.0,
+   "fcf": 7231.0,
+   "debt": 77752.0,
+   "equity": 53875.0
+  },
+  {
+   "year": "Mar 2016",
+   "revenue": 64262.0,
+   "ebitda": -18479.0,
+   "pat": -17862.0,
+   "opm": -29.0,
+   "cfo": 20377.0,
+   "capex": 5412.0,
+   "fcf": 14965.0,
+   "debt": 67778.0,
+   "equity": 44039.0
+  },
+  {
+   "year": "Mar 2017",
+   "revenue": 72225.0,
+   "ebitda": 21376.0,
+   "pat": 11316.0,
+   "opm": 30.0,
+   "cfo": 18083.0,
+   "capex": 5435.0,
+   "fcf": 12648.0,
+   "debt": 71569.0,
+   "equity": 60425.0
+  },
+  {
+   "year": "Mar 2018",
+   "revenue": 91866.0,
+   "ebitda": 24877.0,
+   "pat": 13692.0,
+   "opm": 27.0,
+   "cfo": 17366.0,
+   "capex": 7296.0,
+   "fcf": 10070.0,
+   "debt": 58159.0,
+   "equity": 63312.0
+  },
+  {
+   "year": "Mar 2019",
+   "revenue": 92048.0,
+   "ebitda": 23171.0,
+   "pat": 9698.0,
+   "opm": 25.0,
+   "cfo": 23754.0,
+   "capex": 8817.0,
+   "fcf": 14937.0,
+   "debt": 66226.0,
+   "equity": 62297.0
+  },
+  {
+   "year": "Mar 2020",
+   "revenue": 84447.0,
+   "ebitda": 20743.0,
+   "pat": -4744.0,
+   "opm": 25.0,
+   "cfo": 19300.0,
+   "capex": 7669.0,
+   "fcf": 11631.0,
+   "debt": 59187.0,
+   "equity": 54635.0
+  },
+  {
+   "year": "Mar 2021",
+   "revenue": 88021.0,
+   "ebitda": 27318.0,
+   "pat": 15032.0,
+   "opm": 31.0,
+   "cfo": 23980.0,
+   "capex": 6718.0,
+   "fcf": 17262.0,
+   "debt": 57669.0,
+   "equity": 62278.0
+  },
+  {
+   "year": "Mar 2022",
+   "revenue": 132732.0,
+   "ebitda": 44824.0,
+   "pat": 23710.0,
+   "opm": 34.0,
+   "cfo": 34963.0,
+   "capex": 10305.0,
+   "fcf": 24658.0,
+   "debt": 53583.0,
+   "equity": 65383.0
+  },
+  {
+   "year": "Mar 2023",
+   "revenue": 147308.0,
+   "ebitda": 34431.0,
+   "pat": 14503.0,
+   "opm": 23.0,
+   "cfo": 33065.0,
+   "capex": 13654.0,
+   "fcf": 19411.0,
+   "debt": 80329.0,
+   "equity": 39423.0
+  },
+  {
+   "year": "Mar 2024",
+   "revenue": 143727.0,
+   "ebitda": 35312.0,
+   "pat": 7539.0,
+   "opm": 25.0,
+   "cfo": 35654.0,
+   "capex": 16557.0,
+   "fcf": 19097.0,
+   "debt": 87706.0,
+   "equity": 30722.0
+  },
+  {
+   "year": "Mar 2025",
+   "revenue": 62717.0,
+   "ebitda": 18578.0,
+   "pat": 20535.0,
+   "opm": 30.0,
+   "cfo": 39562.0,
+   "capex": 16714.0,
+   "fcf": 22848.0,
+   "debt": 91479.0,
+   "equity": 41212.0
+  },
+  {
+   "year": "Mar 2026",
+   "revenue": 78437.0,
+   "ebitda": 23183.0,
+   "pat": 25096.0,
+   "opm": 30.0,
+   "cfo": 39499.0,
+   "capex": 20752.0,
+   "fcf": 18747.0,
+   "debt": 32947.0,
+   "equity": 49652.0
+  }
+ ],
+ "computed": {
+  "revenue_cagr_3y": -18.9,
+  "revenue_cagr_5y": -2.3,
+  "pat_cagr_3y": 20.1,
+  "pat_cagr_5y": 10.8,
+  "opm_trend": "expanding",
+  "de_ratio": 0.66,
+  "debt_trend": "falling",
+  "cfo_to_pat_5y": 2.0,
+  "fcf_5y_cr": 104761,
+  "ccc_days": -16.0,
+  "ccc_trend": "shortening"
+ },
+ "flags": [
+  {
+   "level": "good",
+   "text": "CFO/PAT over 5y is 2.00 — profits backed by cash"
+  },
+  {
+   "level": "watch",
+   "text": "Debt/equity is 0.66"
+  },
+  {
+   "level": "watch",
+   "text": "Revenue 5y CAGR is only -2.3%"
+  },
+  {
+   "level": "good",
+   "text": "Operating margin expanding: 23% → 30% over 3 years"
+  },
+  {
+   "level": "good",
+   "text": "Cash conversion cycle shortened from 43 to -16 days"
+  },
+  {
+   "level": "good",
+   "text": "Latest quarter PAT up 78.3% YoY (Sep 2026)"
+  }
+ ],
+ "sources": [
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Oct 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=49dc0908-347a-4af4-ab1c-0d0cfac26c4b.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f8b18e0e-4d21-46a7-916d-732b896b18ed.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b8b95ea1-9d39-4176-9a1a-15f1a2c5c4bd.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Apr 2026",
+   "url": "https://www.vedantalimited.com/uploads/investor-overview/financial-results/2026/Vedanta-Transcript-Apr29-2026.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Apr 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=918fc405-534d-492a-9def-a386f80ba291.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jan 2026",
+   "url": "https://www.vedantalimited.com/uploads/investor-overview/financial-results/2026/Transcript_29Jan2026.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jan 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=48883dba-0b14-4a5e-ad9c-b9e40292ee52.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Nov 2025",
+   "url": "https://www.vedantalimited.com/uploads/investor-overview/financial-results/2026/VEDL_Q2FY26_Transcript.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Nov 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=614c7898-dc7a-4f07-bb16-036e9ef8303c.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Aug 2025",
+   "url": "https://www.vedantalimited.com/uploads/investor-overview/financial-results/2026/Vedanta_Transcript_Jul31_2025.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Aug 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2f4607c8-0394-46f5-a86c-0d36d15c6e74.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jul 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c67b03ec-8441-4a2e-8b8e-98722a20e4bd.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/3725606c-05f5-40b2-b122-55c0a6e7bdd1.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4f41b8d2-e8ed-4dad-b3fd-b9adca371fed.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2024",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/d4d3e3bc-fe5a-4184-b181-b5455d60f11a.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2023",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/a04c4068-5204-4adb-8611-f12be2663d7d.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2022",
+   "url": "https://www.bseindia.com/bseplus/AnnualReport/500295/73739500295.pdf"
+  }
+ ]
+}

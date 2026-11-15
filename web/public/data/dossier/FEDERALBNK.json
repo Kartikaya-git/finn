@@ -1,0 +1,378 @@
+{
+ "symbol": "FEDERALBNK",
+ "name": "Federal Bank Ltd",
+ "generated_at": "2026-11-15T18:09:03+00:00",
+ "about": "The Federal Bank Limited (‘the Bank’) was incorporated in 1931 as Travancore Federal Bank Limited. It provides retail and corporate banking, para banking activities such as debit card, third party product distribution etc., treasury and foreign exchange business. .It is the second-largest bank and the largest private sector bank in Kerala",
+ "sector": "Banks",
+ "price": {
+  "close": 360.95,
+  "change_pct": -0.4,
+  "mcap_cr": 89272.0,
+  "pe": 17.2,
+  "roce": 6.39,
+  "roe": 11.6
+ },
+ "quarters": [
+  {
+   "period": "Dec 2023",
+   "revenue": 6085.0,
+   "ebitda": 511.0,
+   "pbt": 1420.0,
+   "pat": 1067.0,
+   "opm": 8.0
+  },
+  {
+   "period": "Mar 2024",
+   "revenue": 6339.0,
+   "ebitda": 486.0,
+   "pbt": 1296.0,
+   "pat": 996.0,
+   "opm": 8.0
+  },
+  {
+   "period": "Jun 2024",
+   "revenue": 6728.0,
+   "ebitda": 468.0,
+   "pbt": 1404.0,
+   "pat": 1047.0,
+   "opm": 7.0
+  },
+  {
+   "period": "Sep 2024",
+   "revenue": 7006.0,
+   "ebitda": 463.0,
+   "pbt": 1473.0,
+   "pat": 1115.0,
+   "opm": 7.0
+  },
+  {
+   "period": "Dec 2024",
+   "revenue": 7265.0,
+   "ebitda": 346.0,
+   "pbt": 1277.0,
+   "pat": 951.0,
+   "opm": 5.0
+  },
+  {
+   "period": "Mar 2025",
+   "revenue": 7108.0,
+   "ebitda": 386.0,
+   "pbt": 1434.0,
+   "pat": 1120.0,
+   "opm": 5.0
+  },
+  {
+   "period": "Jun 2025",
+   "revenue": 7151.0,
+   "ebitda": 105.0,
+   "pbt": 1270.0,
+   "pat": 951.0,
+   "opm": 1.0
+  },
+  {
+   "period": "Sep 2025",
+   "revenue": 7216.0,
+   "ebitda": 267.0,
+   "pbt": 1373.0,
+   "pat": 1023.0,
+   "opm": 4.0
+  },
+  {
+   "period": "Dec 2025",
+   "revenue": 7360.0,
+   "ebitda": 365.0,
+   "pbt": 1507.0,
+   "pat": 1125.0,
+   "opm": 5.0
+  },
+  {
+   "period": "Mar 2026",
+   "revenue": 7947.0,
+   "ebitda": 528.0,
+   "pbt": 1714.0,
+   "pat": 1392.0,
+   "opm": 7.0
+  },
+  {
+   "period": "Jun 2026",
+   "revenue": 7862.0,
+   "ebitda": 659.0,
+   "pbt": 1741.0,
+   "pat": 1302.0,
+   "opm": 8.0
+  },
+  {
+   "period": "Sep 2026",
+   "revenue": 8383.0,
+   "ebitda": 601.0,
+   "pbt": 2122.0,
+   "pat": 1568.0,
+   "opm": 7.0
+  }
+ ],
+ "annual": [
+  {
+   "year": "Mar 2015",
+   "revenue": 7488.0,
+   "ebitda": 731.0,
+   "pat": 1058.0,
+   "opm": 10.0,
+   "cfo": 5158.0,
+   "capex": 119.0,
+   "fcf": 5039.0,
+   "debt": 2393.0,
+   "equity": 7700.0
+  },
+  {
+   "year": "Mar 2016",
+   "revenue": 7826.0,
+   "ebitda": 38.0,
+   "pat": 486.0,
+   "opm": 0.0,
+   "cfo": -1557.0,
+   "capex": 160.0,
+   "fcf": -1717.0,
+   "debt": 5236.0,
+   "equity": 8064.0
+  },
+  {
+   "year": "Mar 2017",
+   "revenue": 8783.0,
+   "ebitda": 382.0,
+   "pat": 867.0,
+   "opm": 4.0,
+   "cfo": 3431.0,
+   "capex": 93.0,
+   "fcf": 3338.0,
+   "debt": 6345.0,
+   "equity": 8952.0
+  },
+  {
+   "year": "Mar 2018",
+   "revenue": 9915.0,
+   "ebitda": 358.0,
+   "pat": 935.0,
+   "opm": 4.0,
+   "cfo": -5051.0,
+   "capex": 94.0,
+   "fcf": -5145.0,
+   "debt": 12329.0,
+   "equity": 12274.0
+  },
+  {
+   "year": "Mar 2019",
+   "revenue": 11635.0,
+   "ebitda": 747.0,
+   "pat": 1318.0,
+   "opm": 6.0,
+   "cfo": 7873.0,
+   "capex": 123.0,
+   "fcf": 7750.0,
+   "debt": 8706.0,
+   "equity": 13498.0
+  },
+  {
+   "year": "Mar 2020",
+   "revenue": 13590.0,
+   "ebitda": 304.0,
+   "pat": 1590.0,
+   "opm": 2.0,
+   "cfo": 3731.0,
+   "capex": 146.0,
+   "fcf": 3585.0,
+   "debt": 12528.0,
+   "equity": 14823.0
+  },
+  {
+   "year": "Mar 2021",
+   "revenue": 14314.0,
+   "ebitda": 352.0,
+   "pat": 1680.0,
+   "opm": 2.0,
+   "cfo": 11179.0,
+   "capex": 126.0,
+   "fcf": 11053.0,
+   "debt": 12271.0,
+   "equity": 16504.0
+  },
+  {
+   "year": "Mar 2022",
+   "revenue": 14382.0,
+   "ebitda": 664.0,
+   "pat": 1996.0,
+   "opm": 5.0,
+   "cfo": -7774.0,
+   "capex": 288.0,
+   "fcf": -8062.0,
+   "debt": 19587.0,
+   "equity": 19256.0
+  },
+  {
+   "year": "Mar 2023",
+   "revenue": 17812.0,
+   "ebitda": 2009.0,
+   "pat": 3210.0,
+   "opm": 11.0,
+   "cfo": 489.0,
+   "capex": 481.0,
+   "fcf": 8.0,
+   "debt": 25862.0,
+   "equity": 22122.0
+  },
+  {
+   "year": "Mar 2024",
+   "revenue": 23565.0,
+   "ebitda": 2278.0,
+   "pat": 3964.0,
+   "opm": 10.0,
+   "cfo": 6431.0,
+   "capex": 317.0,
+   "fcf": 6114.0,
+   "debt": 25160.0,
+   "equity": 30105.0
+  },
+  {
+   "year": "Mar 2025",
+   "revenue": 28106.0,
+   "ebitda": 1952.0,
+   "pat": 4234.0,
+   "opm": 7.0,
+   "cfo": 8801.0,
+   "capex": 751.0,
+   "fcf": 8050.0,
+   "debt": 32596.0,
+   "equity": 34538.0
+  },
+  {
+   "year": "Mar 2026",
+   "revenue": 29674.0,
+   "ebitda": 1571.0,
+   "pat": 4491.0,
+   "opm": 5.0,
+   "cfo": 4349.0,
+   "capex": 286.0,
+   "fcf": 4063.0,
+   "debt": 33193.0,
+   "equity": 40043.0
+  }
+ ],
+ "computed": {
+  "revenue_cagr_3y": 18.5,
+  "revenue_cagr_5y": 15.7,
+  "pat_cagr_3y": 11.8,
+  "pat_cagr_5y": 21.7,
+  "opm_trend": "compressing",
+  "de_ratio": 0.83,
+  "debt_trend": "rising",
+  "cfo_to_pat_5y": 0.69,
+  "fcf_5y_cr": 10173,
+  "ccc_days": null,
+  "ccc_trend": null
+ },
+ "flags": [
+  {
+   "level": "good",
+   "text": "Revenue 5y CAGR is 15.7%"
+  },
+  {
+   "level": "watch",
+   "text": "ROE is 11.6% — below 15% for a lender"
+  },
+  {
+   "level": "good",
+   "text": "Latest quarter PAT up 53.3% YoY (Sep 2026)"
+  }
+ ],
+ "sources": [
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Oct 2026",
+   "url": "https://www.federal.bank.in/documents/10180/0/Earnings+Call+Transcript_Q2FY27.pdf/527958cc-0d06-64e5-a169-bd1a69116f75?t=1792159944025"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Oct 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=91910d1a-df1a-41f3-b30c-8949bfedd3ba.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Sep 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a0f8c394-00ae-41e8-90b9-4e6bc3c25090.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3c581848-d7f7-4d08-9b8c-3ef682dd0433.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1778d410-7e93-493e-8ffe-09e5be5ad1fa.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ad2b2b8d-75d3-4327-8b3f-6de2118387fc.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jan 2026",
+   "url": "https://www.federal.bank.in/documents/10180/1143925090/Earnings+Call+Transcript_Q3FY26.pdf/04d39ba4-e788-bab9-7493-2845eeb9dfe8?t=1769100612971"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jan 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d087c861-7c52-401a-bbdd-de3d5b215b43.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Oct 2025",
+   "url": "https://www.federalbank.co.in/documents/10180/1131213536/Earnings+Call+Transcript_Q2FY26.pdf/0679e819-edad-77c6-7d2a-4388a10fe747?t=1761370057469"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Oct 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=40e48cfd-b004-498e-a1f3-17b785527503.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Aug 2025",
+   "url": "https://www.federalbank.co.in/documents/10180/1128159406/Earnings+Call+Transcript_Q1FY26.pdf/89f9853a-4a1c-c372-92ba-0a0a16146d72?t=1754558852975"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Aug 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1da5096d-466a-4009-b9ac-b80a9ca79049.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Aug 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4b5dd25c-6126-4f15-828d-fff4c9d037b6.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ad830431-1737-419d-84ec-a40aa969637e.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/88960bed-cd92-4fca-8b92-df436c12c822.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2024",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/888f430e-3ffc-4481-b5c7-f0128efe2c09.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2023",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/84f877f6-9a6f-4715-b05b-5311ff39a475.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2022",
+   "url": "https://www.bseindia.com/bseplus/AnnualReport/500469/73493500469.pdf"
+  }
+ ]
+}
