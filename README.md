@@ -59,6 +59,36 @@ GitHub Actions: deploy on push; end-of-day pipeline cron on weekdays after marke
 
 87% of tokens go through the cheapest model; the strong model sees only compact extracts. 3–13% of extracted quotes failed the verbatim check and were dropped rather than shown. A rerun costs nothing (prompt-hash cache). Four companies (POLYCAB, KPITTECH, DIXON, PIDILITIND) were researched at build time with Claude as a quality benchmark for the Gemini pipeline; each Dossier names the model that produced it.
 
+## Setting up your Gemini API key (optional)
+
+FINN works without a key. Every Dossier's numbers, charts and flags are computed without any AI. The key only adds **transcript research** (the promises-vs-delivered verdict, narrative vs numbers, bull/bear) for companies built with **Build it** or the scheduled pipeline.
+
+1. **Get a free key** at https://aistudio.google.com/apikey.
+2. **To run on your own machine**, create a file named `.env` in the project root containing:
+   ```
+   GEMINI_API_KEY=your-key-here
+   ```
+   `.env` is in `.gitignore`, so it is never committed.
+3. **To let GitHub's automated builds use it**, save it as a repository secret named `GEMINI_API_KEY`. Either:
+   - on GitHub, go to **Settings → Secrets and variables → Actions → New repository secret**, or
+   - from the project folder, run:
+     ```bash
+     grep '^GEMINI_API_KEY=' .env | cut -d= -f2- | tr -d '\n' | gh secret set GEMINI_API_KEY
+     ```
+   A secret is encrypted and never appears in the code, the commits or the logs. Even the repo owner can't read it back.
+
+**Where the code reads the key:**
+
+| File | What uses it |
+|---|---|
+| `pipeline/finn_research/finn_research/llm.py` (line 23) | Reads `GEMINI_API_KEY` from the environment, falling back to `.env`. All research calls go through here. |
+| `.github/workflows/build-on-demand.yml` (line 35) | The **Build it** job passes `secrets.GEMINI_API_KEY` to the research step. |
+| `.github/workflows/pipeline.yml` (line 25) | The scheduled pipeline passes the same secret. |
+
+**If no key is set,** the research step is skipped (`continue-on-error`) and the Dossier is still published with all computed sections.
+
+**Cost and abuse:** the free tier can't charge you. Because anyone can open a **Build it** issue on a public repo, someone could use up your daily free quota. They can never see the key.
+
 ## Run locally
 
 ```bash
