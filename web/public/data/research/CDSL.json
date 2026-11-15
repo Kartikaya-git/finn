@@ -1,0 +1,93 @@
+{
+  "symbol": "CDSL",
+  "model": "gemini-3.5-flash-lite (extract) → gemini-3.8-flash (reconcile)",
+  "generated_at": "2026-11-15T17:33:14+00:00",
+  "business": {
+    "summary": "CDSL operates as a premier securities depository in India, holding over an 80% share of total industry demat accounts. The company also operates related digital offerings including an Insurance Repository and CVL digital service offerings. Management positions CDSL with a competitive value proposition by ensuring pricing remains cheaper than competitors.",
+    "segments": [
+      {
+        "name": "CDSL",
+        "share_pct": 80.0
+      }
+    ]
+  },
+  "promises": [
+    {
+      "quarter": "Q3 FY26",
+      "promise": "Maintain 80% share of depository industry demat accounts (having reached 17.27 crores out of 21.6 crores industry accounts)",
+      "source": "Q3 FY26 concall",
+      "delivered": "In Q2 FY27 concall, management confirmed CDSL continued to account for approximately 80%+ of industry demat accounts with about 19.34 crores accounts by end of September 2026.",
+      "verdict": "kept"
+    },
+    {
+      "quarter": "Q3 FY26",
+      "promise": "Maintain steady operating revenue from the Insurance Repository point of view",
+      "source": "Q3 FY26 concall",
+      "delivered": "Overall consolidated sales moved from Rs 304 crore in Dec 2025 to Rs 263 crore in Mar 2026, Rs 293 crore in Jun 2026, and Rs 394 crore in Sep 2026; granular segment breakup for Insurance Repository is not separately disclosed in the quarterly table.",
+      "verdict": "partly"
+    },
+    {
+      "quarter": "Q4 FY26",
+      "promise": "Depository Participants (DPs) continue to remain on both platforms with no DP completely moving away",
+      "source": "Q4 FY26 concall",
+      "delivered": "Market share remained stable at approximately 80%+ through Q2 FY27 with demat accounts growing to 19.34 crores, supporting continued DP retention across platforms.",
+      "verdict": "kept"
+    },
+    {
+      "quarter": "Q4 FY26",
+      "promise": "Ensure CDSL remains cheaper than competition, preserving value proposition",
+      "source": "Q4 FY26 concall",
+      "delivered": "Account market share maintained at ~80%+ in Q1 FY27 and Q2 FY27, reaching 19.34 crore accounts by September 2026, while consolidated sales reached an all-time high of Rs 394 crore in Sep 2026.",
+      "verdict": "kept"
+    }
+  ],
+  "narrative_vs_numbers": [
+    {
+      "claim": "For the Year 2025-26, standalone total income was INR 1,096 crores and standalone net profit was INR 468 crores",
+      "numbers": "Consolidated sales for FY26 (Jun 2025 to Mar 2026) summed to Rs 1,145 crore (259 + 319 + 304 + 263) and consolidated net profit summed to Rs 455 crore (102 + 140 + 133 + 80), aligning broadly with reported standalone figures of Rs 1,096 crore income and Rs 468 crore PAT.",
+      "agrees": true
+    },
+    {
+      "claim": "Activity levels in the securities market remain healthy in Q1 FY27",
+      "numbers": "Consolidated sales grew 13% YoY to Rs 293 crore in Jun 2026 compared to Rs 259 crore in Jun 2025, with Net Profit rising to Rs 118 crore from Rs 102 crore in Jun 2025.",
+      "agrees": true
+    },
+    {
+      "claim": "During Q2 FY27, Indian securities market saw continued activity, particularly in the primary market, with demat account additions significant",
+      "numbers": "Sales reached Rs 394 crore in Sep 2026, up 24% YoY from Rs 319 crore in Sep 2025, Operating Profit rose to Rs 228 crore from Rs 176 crore, and Net Profit increased to Rs 173 crore from Rs 140 crore.",
+      "agrees": true
+    },
+    {
+      "claim": "Operating performance experienced a sharp dip in Q4 FY26 before recovering",
+      "numbers": "In Mar 2026, Sales dropped to Rs 263 crore with an OPM of 44% and Net Profit of Rs 80 crore (EPS Rs 3.84), which subsequently recovered to Rs 394 crore Sales, 58% OPM, and Rs 173 crore Net Profit (EPS Rs 8.32) by Sep 2026.",
+      "agrees": true
+    }
+  ],
+  "guidance": [
+    {
+      "metric": "Market Share",
+      "guide": "Maintain approximately 80%+ share of the depository industry's demat accounts",
+      "source": "Q2 FY27 concall"
+    },
+    {
+      "metric": "Pricing Strategy",
+      "guide": "Ensure CDSL remains cheaper than competition to preserve client value proposition",
+      "source": "Q4 FY26 concall"
+    },
+    {
+      "metric": "Business Driver",
+      "guide": "CVL revenue growth driven by improvements in other businesses and digital service offerings",
+      "source": "Q1 FY27 concall"
+    }
+  ],
+  "bull": [
+    "Consolidated revenue demonstrated sharp growth in Sep 2026, reaching Rs 394 crore (+24% YoY) with operating profit climbing to Rs 228 crore at an OPM of 58%.",
+    "CDSL continues to maintain depository market dominance, commanding an 80%+ market share with total demat accounts increasing to 19.34 crores by September 2026.",
+    "Operating margins rebounded strongly from a low of 44% in Mar 2026 to 58% in Sep 2026, driving EPS to Rs 8.32 compared to Rs 3.84 in Mar 2026."
+  ],
+  "bear": [
+    "Expenses have steadily risen from Rs 103 crore in Jun 2024 to Rs 166 crore in Sep 2026, creating structural cost inflation.",
+    "Operating margins exhibited marked cyclicality over the period, dropping to 44% in Mar 2026 and 47% in Jun 2026 before recovering to 58% in Sep 2026.",
+    "Quarterly net profit has shown sharp volatility, falling to a low of Rs 80 crore in Mar 2026 down from Rs 140 crore in Sep 2025 and Rs 162 crore in Sep 2024."
+  ]
+}

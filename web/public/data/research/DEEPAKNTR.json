@@ -1,0 +1,109 @@
+{
+  "symbol": "DEEPAKNTR",
+  "model": "gemini-3.5-flash-lite (extract) → gemini-3.8-flash (reconcile)",
+  "generated_at": "2026-11-15T17:31:31+00:00",
+  "business": {
+    "summary": "Deepak Nitrite operates primarily across two key segments: Phenolics and Advanced Intermediates, delivering chemical products for domestic and export markets with a domestic-to-export revenue mix of 86:14 in Q4 FY26. The company is actively expanding its manufacturing capabilities into downstream products such as MIBK, MIBC, BPA, and Polycarbonate, while accelerating transition towards renewable energy.",
+    "segments": [
+      {
+        "name": "Phenolics",
+        "share_pct": null
+      },
+      {
+        "name": "Advanced Intermediates",
+        "share_pct": null
+      }
+    ]
+  },
+  "promises": [
+    {
+      "quarter": "Q3 FY26",
+      "promise": "Accelerating transition towards green energy by sourcing 60% to 70% of energy mix from hybrid renewable sources",
+      "source": "Q3 FY26 concall",
+      "delivered": "Long-term horizon; progress on exact percentage mix not specified in subsequent documents.",
+      "verdict": "pending"
+    },
+    {
+      "quarter": "Q4 FY26",
+      "promise": "Commissioning of multipurpose agrochemical intermediates, MIBK, and MIBC projects scheduled in Q2 FY27",
+      "source": "Q4 FY26 concall",
+      "delivered": "In Q1 FY27 concall, management confirmed MIBK, MIBC, and acetophenone scheduled to be commissioned in August itself with rest within Q2 FY27; later in Q2 FY27 concall, management noted 'with all the assets that have been commissioned running at steady-state'.",
+      "verdict": "kept"
+    },
+    {
+      "quarter": "Q4 FY26",
+      "promise": "Polycarbonate project expected to be commissioned by June 2028",
+      "source": "Q4 FY26 concall",
+      "delivered": "Reiterated in Q1 FY27 concall with target around H2 FY28-29; horizon of June 2028 has not arrived.",
+      "verdict": "pending"
+    },
+    {
+      "quarter": "Q1 FY27",
+      "promise": "MIBK as well as MIBC commissioned along with acetophenone in August itself, and the rest within Q2",
+      "source": "Q1 FY27 concall",
+      "delivered": "By Q2 FY27 concall, management referenced all assets commissioned and running at steady-state.",
+      "verdict": "kept"
+    },
+    {
+      "quarter": "Q1 FY27",
+      "promise": "Capex spend of around another INR 1,000 crore to INR 1,500 crore in FY27",
+      "source": "Q1 FY27 concall",
+      "delivered": "FY27 is ongoing as of Q2 FY27; net debt stood at INR 1,657 crore in Q2 FY27. Final full year FY27 spend pending.",
+      "verdict": "pending"
+    }
+  ],
+  "narrative_vs_numbers": [
+    {
+      "claim": "Consolidated total revenue for Q3 FY26 stood at INR 1,983 crore, growing 3% YoY and QoQ.",
+      "numbers": "Table reports Dec 2025 (Q3 FY26) Sales of Rs 1,975 crore, reflecting +4% YoY growth (vs Rs 1,903 crore in Dec 2024) and +3.8% QoQ growth (vs Rs 1,902 crore in Sep 2025).",
+      "agrees": true
+    },
+    {
+      "claim": "Consolidated revenues for Q4 FY26 stood at INR 2,127 crore with EBITDA at INR 383 crore and PAT at INR 220 crore.",
+      "numbers": "Table shows Mar 2026 (Q4 FY26) Sales of Rs 2,120 crore, Operating Profit of Rs 376 crore, and Net Profit of Rs 220 crore.",
+      "agrees": true
+    },
+    {
+      "claim": "Consolidated revenue from operations for Q1 FY27 improved 35% YoY and PAT reached INR 345 crore, registering 207% YoY growth.",
+      "numbers": "Table reports Jun 2026 (Q1 FY27) Sales of Rs 2,578 crore (+36% YoY vs Rs 1,890 crore in Jun 2025) and Net Profit of Rs 345 crore (+208% YoY vs Rs 112 crore in Jun 2025).",
+      "agrees": true
+    },
+    {
+      "claim": "Consolidated revenue from operations for Q2 FY27 reached INR 3,091 crore with 61% YoY growth, and EBITDA reached Rs 643 crore with 21% margin.",
+      "numbers": "Table reports Sep 2026 (Q2 FY27) Sales of Rs 3,076 crore (+62% YoY vs Rs 1,902 crore in Sep 2025), Operating Profit of Rs 627 crore, and OPM of 20%.",
+      "agrees": true
+    }
+  ],
+  "guidance": [
+    {
+      "metric": "Polycarbonate project commissioning",
+      "guide": "Targeting commissioning in H2 FY28-29 (June 2028)",
+      "source": "Q1 FY27 concall"
+    },
+    {
+      "metric": "BPA project commissioning",
+      "guide": "Targeting commissioning a couple of months after Polycarbonate in FY28-29",
+      "source": "Q1 FY27 concall"
+    },
+    {
+      "metric": "FY27 Capex spend",
+      "guide": "Spend around another INR 1,000 crore to INR 1,500 crore in FY27",
+      "source": "Q1 FY27 concall"
+    },
+    {
+      "metric": "Advanced Intermediates EBIT margin",
+      "guide": "Targeting about 14% to 15% EBIT next year with commissioned assets running at steady-state",
+      "source": "Q2 FY27 concall"
+    }
+  ],
+  "bull": [
+    "Revenue growth accelerated sharply from -3% YoY in Mar 2026 to +36% in Jun 2026 (Rs 2,578 crore) and +62% in Sep 2026 (Rs 3,076 crore), driven by record Phenolics performance.",
+    "Operating profitability has expanded significantly, with OPM rising from 9-11% during FY26 to 21% in Jun 2026 and 20% in Sep 2026, delivering Rs 627 crore of Operating Profit in Sep 2026.",
+    "Net Profit reached an all-time high of Rs 398 crore (EPS of Rs 29.16) in Sep 2026 compared to Rs 119 crore (EPS Rs 8.70) in Sep 2025, while net debt-to-equity improved to 0.25x in Q2 FY27."
+  ],
+  "bear": [
+    "Interest expense has increased steadily, rising from Rs 6 crore in Dec 2024 to Rs 29 crore in Sep 2026, alongside depreciation rising to Rs 71 crore.",
+    "High domestic concentration risks remain, with the domestic to export revenue mix standing at 86:14 in Q4 FY26.",
+    "Substantial ongoing capex commitments (INR 1,000 to 1,500 crore in FY27, plus Polycarbonate and BPA projects out to FY28-29) maintain execution and commissioning risk."
+  ]
+}

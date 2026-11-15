@@ -1,0 +1,122 @@
+{
+  "symbol": "ETERNAL",
+  "model": "gemini-3.5-flash-lite (extract) → gemini-3.8-flash (reconcile)",
+  "generated_at": "2026-11-15T17:30:33+00:00",
+  "business": {
+    "summary": "ETERNAL operates a multi-segment platform comprising quick commerce (Blinkit), food delivery, going-out (District), and Hyperpure. The company focuses on scaling dark store infrastructure, deepening penetration in existing metro markets, and expanding into tier-2 cities. Growth is complemented by customer programs such as the District Pass and targeted platform fee strategies in food delivery.",
+    "segments": [
+      {
+        "name": "food delivery",
+        "share_pct": null
+      },
+      {
+        "name": "quick commerce",
+        "share_pct": null
+      },
+      {
+        "name": "District",
+        "share_pct": null
+      },
+      {
+        "name": "Hyperpure",
+        "share_pct": null
+      }
+    ]
+  },
+  "promises": [
+    {
+      "quarter": "Q3 FY26",
+      "promise": "Expect going-out losses to come down sequentially towards breakeven in the next four to six quarters",
+      "source": "Q3 FY26 concall",
+      "delivered": "Consolidated operating profit rose from Rs 368 cr in Dec 2025 to Rs 486 cr in Mar 2026, Rs 594 cr in Jun 2026, and Rs 752 cr in Sep 2026; however, segment-specific breakeven remains within the 4-6 quarter window.",
+      "verdict": "pending"
+    },
+    {
+      "quarter": "Q3 FY26",
+      "promise": "Maintain $3 billion NOV guidance for going-out in FY30",
+      "source": "Q3 FY26 concall",
+      "delivered": "FY30 target horizon has not arrived; latest reported consolidated sales reached Rs 24,138 cr in Sep 2026.",
+      "verdict": "pending"
+    },
+    {
+      "quarter": "Q3 FY26",
+      "promise": "Confidence on quick commerce margins going to 5% to 6% of NOV in the long term",
+      "source": "Q3 FY26 concall",
+      "delivered": "Consolidated OPM % expanded from 2.3% in Dec 2025 to 3.1% in Sep 2026, but segment-level NOV margins are not reported.",
+      "verdict": "pending"
+    },
+    {
+      "quarter": "Q4 FY26",
+      "promise": "Store addition target of 3,000 stores by March",
+      "source": "Q4 FY26 concall",
+      "delivered": "Management stated in Q4 FY26 concall that they remained firmly on track for 3,000 stores by March, but final store counts were not disclosed in subsequent concalls.",
+      "verdict": "pending"
+    },
+    {
+      "quarter": "Q4 FY26",
+      "promise": "Three-year guidance of a 60% CAGR for quick commerce NOV growth",
+      "source": "Q4 FY26 concall",
+      "delivered": "In Q1 FY27, management stated quick commerce was likely to end at the higher end of the range; consolidated sales rose to Rs 20,211 cr in Jun 2026 (+182% YoY) and Rs 24,138 cr in Sep 2026 (+78% YoY). Horizon spans 3 years.",
+      "verdict": "pending"
+    }
+  ],
+  "narrative_vs_numbers": [
+    {
+      "claim": "Quick commerce contribution margin and EBITDA expanded in Q3 FY26 despite lower throughput and competition",
+      "numbers": "Consolidated Operating Profit rose from Rs 239 cr in Sep 2025 to Rs 368 cr in Dec 2025, and OPM % expanded from 1.8% to 2.3% as Sales grew from Rs 13,590 cr to Rs 16,315 cr.",
+      "agrees": true
+    },
+    {
+      "claim": "Low cost of customer acquisition in Q4 FY26 due to competitors pulling back on marketing",
+      "numbers": "Consolidated Expenses in Mar 2026 rose 5.4% QoQ to Rs 16,806 cr from Rs 15,947 cr in Dec 2025, while Sales rose 6.0% QoQ to Rs 17,292 cr, improving Operating Profit to Rs 486 cr.",
+      "agrees": true
+    },
+    {
+      "claim": "Peak competitive intensity in Q1 FY27",
+      "numbers": "Consolidated Sales YoY growth moderated to +182% in Jun 2026 (Sales Rs 20,211 cr, Expenses Rs 19,617 cr) from +196% in Mar 2026, and Net Profit fell sequentially to Rs 92 cr from Rs 174 cr due to a 66% tax rate.",
+      "agrees": true
+    },
+    {
+      "claim": "Higher competitive intensity in food delivery in Q2 FY27 compared to previous quarters",
+      "numbers": "Consolidated YoY Sales growth slowed markedly to +78% in Sep 2026 (Sales of Rs 24,138 cr) compared to +182% in Jun 2026 and +196% in Mar 2026.",
+      "agrees": true
+    }
+  ],
+  "guidance": [
+    {
+      "metric": "Food delivery margins",
+      "guide": "Broadly, over the next 1 or 2 years, margins are expected to remain flattish",
+      "source": "Q2 FY27 concall"
+    },
+    {
+      "metric": "Quick commerce guidance",
+      "guide": "Likely to end at the higher end of the range guided earlier",
+      "source": "Q1 FY27 concall"
+    },
+    {
+      "metric": "Quick commerce NOV growth",
+      "guide": "60% CAGR over a 3-year horizon",
+      "source": "Q4 FY26 concall"
+    },
+    {
+      "metric": "Going-out losses",
+      "guide": "Losses to come down sequentially towards breakeven in four to six quarters from Q3 FY26",
+      "source": "Q3 FY26 concall"
+    },
+    {
+      "metric": "Going-out NOV",
+      "guide": "Maintain $3 billion NOV guidance for going-out in FY30",
+      "source": "Q3 FY26 concall"
+    }
+  ],
+  "bull": [
+    "Sales expanded from Rs 4,206 cr in Jun 2024 to Rs 24,138 cr in Sep 2026, with Operating Profit growing from Rs 177 cr to Rs 752 cr over the same period.",
+    "Management indicates quick commerce is tracking towards the higher end of guidance, supported by robust unit economics and fast paybacks in tier-2 cities.",
+    "Consolidated OPM % showed steady sequential expansion from 1.2% in Mar 2025 to 3.1% in Sep 2026, alongside a long-term goal of 5% to 6% EBITDA margin on quick commerce NOV."
+  ],
+  "bear": [
+    "High and volatile tax rates (66% in Jun 2026 and 61% in Sep 2026) have constrained bottom-line conversion, leaving Net Profit at Rs 125 cr on Rs 24,138 cr of sales in Sep 2026.",
+    "Management guided food delivery margins to remain flattish over the next 1 to 2 years amidst elevated competitive intensity acknowledged in Q2 FY27.",
+    "Depreciation and interest expenses have escalated rapidly, rising from Rs 149 cr and Rs 25 cr in Jun 2024 to Rs 625 cr and Rs 155 cr in Sep 2026, respectively, reflecting increased store sizes and network capital intensity."
+  ]
+}

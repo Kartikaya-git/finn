@@ -1,0 +1,96 @@
+{
+  "symbol": "DMART",
+  "model": "gemini-3.5-flash-lite (extract) → gemini-3.8-flash (reconcile)",
+  "generated_at": "2026-11-15T17:30:12+00:00",
+  "business": {
+    "summary": "DMART operates a cluster-based retail store network offering groceries, foods, and general merchandise and apparel. The company targets an annual internal expansion benchmark of opening around 15% of its store base while continuing expansion across warehouses and retail formats. Its product mix is led by groceries and staples alongside foods, FMCG, and apparel.",
+    "segments": [
+      {
+        "name": "Groceries (Staples, Dairy)",
+        "share_pct": 57.01
+      },
+      {
+        "name": "Foods (Snacks, Processed Foods, Fruits & Vegetables, Beverages and Confectionery, Home Care, Frozen Products)",
+        "share_pct": 23.34
+      },
+      {
+        "name": "General Merchandise & Apparel (Bed & Bath, Toys & Games, Crockery, Plastic Goods, Personal Care, Toiletries, Other over the counter products, Footwear, Garments, Home Appliances)",
+        "share_pct": 19.65
+      }
+    ]
+  },
+  "promises": [
+    {
+      "quarter": "Q4 FY26",
+      "promise": "Maintain merchandise mix with General Merchandise & Apparel representing 57.73% of sales",
+      "source": "Q4 FY26 investor presentation",
+      "delivered": "In Q1 FY27 investor presentation, General Merchandise & Apparel share dropped to 19.60% (and was 19.65% in Q2 FY27), while Foods and Groceries accounted for the vast majority of sales.",
+      "verdict": "missed"
+    },
+    {
+      "quarter": "Q1 FY27",
+      "promise": "Opening around 15% of our store base as the number that we want to increase annually",
+      "source": "Q1 FY27 concall",
+      "delivered": "Full annual store addition data is not reported in quarterly numbers; Sales increased to Rs 19,644 crore in Sep 2026 from Rs 16,676 crore in Sep 2025, but the full annual horizon remains underway.",
+      "verdict": "pending"
+    },
+    {
+      "quarter": "Q1 FY27",
+      "promise": "Avenue Food Plaza has turned around and is on course to turn in a healthy number",
+      "source": "Q1 FY27 concall",
+      "delivered": "Consolidated Net Profit stood at Rs 743 crore in Sep 2026 and Rs 860 crore in Jun 2026, though standalone Avenue Food Plaza profitability is not reported separately.",
+      "verdict": "pending"
+    },
+    {
+      "quarter": "Q1 FY27",
+      "promise": "Category contributions over the last year have remained pretty steady with a slight dip in non-food and a marginal increase in food",
+      "source": "Q1 FY27 concall",
+      "delivered": "Q2 FY27 investor presentation reported Groceries at 57.01%, Foods at 23.34%, and General Merchandise & Apparel at 19.65%, reflecting an altered classification structure.",
+      "verdict": "partly"
+    }
+  ],
+  "narrative_vs_numbers": [
+    {
+      "claim": "Same-store growth for older stores has been impacted by capacity saturation and competition in large metros",
+      "numbers": "YoY Sales growth dropped to +13% in Dec 2025 and +15% in Jun 2026 compared to peak growth of +19% in Jun 2024 and Mar 2026, reflecting periodic moderation as quarterly sales rose from Rs 14,069 crore in Jun 2024 to Rs 19,644 crore in Sep 2026.",
+      "agrees": true
+    },
+    {
+      "claim": "Cluster Based Expansion Strategy Continues and more warehouses opened during the year",
+      "numbers": "Depreciation rose continuously from Rs 193 crore in Jun 2024 to Rs 288 crore in Jun 2026 and Rs 318 crore in Sep 2026, while Interest rose from Rs 16 crore in Jun 2024 to Rs 64 crore in Sep 2026, reflecting ongoing asset base and lease additions.",
+      "agrees": true
+    },
+    {
+      "claim": "Category contributions over the last year have remained pretty steady",
+      "numbers": "Investor presentations show Foods was 22.26% and General Merchandise & Apparel was 57.73% in Q4 FY26, but Foods was reported at 54.93% and General Merchandise & Apparel at 19.6% in Q1 FY27, showing substantial reported variance rather than steady shares.",
+      "agrees": false
+    }
+  ],
+  "guidance": [
+    {
+      "metric": "store expansion",
+      "guide": "internally, our benchmarks will remain that we should be opening around 15% of our store base as the number that we want to increase annually.",
+      "source": "Q1 FY27 concall"
+    },
+    {
+      "metric": "Avenue Food Plaza performance",
+      "guide": "has turned around and is on course to turn in a healthy number",
+      "source": "Q1 FY27 concall"
+    },
+    {
+      "metric": "network expansion",
+      "guide": "Cluster Based Expansion Strategy Continues",
+      "source": "Q2 FY27 investor presentation"
+    }
+  ],
+  "bull": [
+    "Consistent revenue growth with Sales rising from Rs 14,069 crore in Jun 2024 to Rs 19,644 crore in Sep 2026, sustaining double-digit YoY Sales growth between 13% and 19% across all 10 reported quarters.",
+    "A clear footprint growth benchmark targeting internal store additions of around 15% of store base annually via an ongoing cluster-based expansion strategy.",
+    "Turnaround underway in Avenue Food Plaza after previous-year expansion losses, with management indicating it is on course to deliver a healthy number."
+  ],
+  "bear": [
+    "Operating margin contraction with OPM % slipping from 9% in Jun 2024 to 7% in Sep 2026, having touched a low of 6% in Mar 2025.",
+    "Sharply rising finance and capital costs, with quarterly Interest surging fourfold from Rs 16 crore in Jun 2024 to Rs 64 crore in Sep 2026, and Depreciation expanding from Rs 193 crore to Rs 318 crore.",
+    "Capacity saturation and metro competition slowing same-store growth in older stores, while warehouse expansion pushed inventory days up to 33.2."
+  ]
+}

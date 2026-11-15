@@ -1,0 +1,122 @@
+{
+  "symbol": "TITAN",
+  "model": "gemini-3.5-flash-lite (extract) → gemini-3.8-flash (reconcile)",
+  "generated_at": "2026-11-15T17:30:48+00:00",
+  "business": {
+    "summary": "Titan is a consumer lifestyle company operating primarily in Jewellery, Watches, EyeCare, and Emerging Businesses. The Jewellery segment dominates the business portfolio, led by brands such as Tanishq, Mia, Zoya, CaratLane, and beYon, alongside international operations like Damas. Watches and Emerging Businesses focus on premiumization, design excellence, and customer value propositions.",
+    "segments": [
+      {
+        "name": "Jewellery",
+        "share_pct": 89
+      },
+      {
+        "name": "Watches",
+        "share_pct": 8
+      },
+      {
+        "name": "EyeCare",
+        "share_pct": 1
+      },
+      {
+        "name": "Emerging Businesses",
+        "share_pct": 1
+      }
+    ]
+  },
+  "promises": [
+    {
+      "quarter": "Q4 FY26",
+      "promise": "Scale up lab-grown diamond brand beYon to 10 to 12 stores across two to three cities in FY27.",
+      "source": "Q4 FY26 concall",
+      "delivered": "Store count rollout progress for beYon is not disclosed in subsequent Q1 FY27 or Q2 FY27 management extracts.",
+      "verdict": "pending"
+    },
+    {
+      "quarter": "Q1 FY27",
+      "promise": "Maintain an 11% center of gravity for Jewellery division EBIT margin for the full year.",
+      "source": "Q1 FY27 concall",
+      "delivered": "Management reiterated the 11% margin target in Q2 FY27 concall; consolidated OPM stood at 14% in Jun 2026 and 14% in Sep 2026, with full-year FY27 still underway.",
+      "verdict": "pending"
+    },
+    {
+      "quarter": "Q1 FY27",
+      "promise": "Achieve double-digit aggressive growth in the jewellery division over the medium to long term (FY30).",
+      "source": "Q1 FY27 concall",
+      "delivered": "Consolidated sales grew +29% YoY in Jun 2026 (Rs 21,356 cr vs Rs 16,523 cr in Jun 2025) and +10% YoY in Sep 2026 (Rs 20,614 cr vs Rs 18,725 cr in Sep 2025).",
+      "verdict": "pending"
+    },
+    {
+      "quarter": "Q1 FY27",
+      "promise": "Overall international portfolio expected to turn out positive EBIT performance for the full year.",
+      "source": "Q1 FY27 concall",
+      "delivered": "Damas faced losses in Q1 FY27 due to war-related drop in footfalls and ticket sizes; full-year performance outcome is still pending.",
+      "verdict": "pending"
+    },
+    {
+      "quarter": "Q1 FY27",
+      "promise": "CaratLane normal trajectory should be towards a 10% double-digit EBIT margin.",
+      "source": "Q1 FY27 concall",
+      "delivered": "In Q2 FY27 concall, management reported CaratLane margin faced pressure coming down from 10.2% to 6.5%, though H1 EBIT margin was tracking towards 8% to 9%.",
+      "verdict": "partly"
+    }
+  ],
+  "narrative_vs_numbers": [
+    {
+      "claim": "Business grew 48% y/y to ₹16,047 crores recording one of its best quarterly performances in Q4 FY26.",
+      "numbers": "Consolidated Sales reached Rs 26,920 crore in Mar 2026, up +80% YoY from Rs 14,916 crore in Mar 2025, corroborating strong quarterly expansion.",
+      "agrees": true
+    },
+    {
+      "claim": "The second quarter saw fantastic growth at a consolidated level across most brands and businesses.",
+      "numbers": "Consolidated YoY Sales growth slowed down to +10% in Sep 2026 (Rs 20,614 crore) from +29% in Jun 2026 (Rs 21,356 crore) and +80% in Mar 2026 (Rs 26,920 crore).",
+      "agrees": false
+    },
+    {
+      "claim": "Customs duty rate increase resulted in inventory realization gains totaling ₹407 crores at a consolidated level in Q1 FY27.",
+      "numbers": "Operating Profit expanded to Rs 2,890 crore in Jun 2026 with OPM expanding to 14% (up from 7% in Mar 2026 and 11% in Jun 2025), and Net Profit rose to Rs 1,777 crore.",
+      "agrees": true
+    },
+    {
+      "claim": "Buyer growth resurged in Q4 FY26 to 8% versus flattish growth in the preceding period.",
+      "numbers": "Sales in Mar 2026 reached Rs 26,920 crore, representing an +80% YoY growth over Mar 2025 (Rs 14,916 crore).",
+      "agrees": true
+    }
+  ],
+  "guidance": [
+    {
+      "metric": "titan jewellery business margin",
+      "guide": "Anchor margin target at around 11% for FY27 while keeping growth as a priority.",
+      "source": "Q2 FY27 concall"
+    },
+    {
+      "metric": "Jewellery division growth",
+      "guide": "Targeting double-digit aggressive growth in the jewellery business over the medium to long term (FY30).",
+      "source": "Q1 FY27 concall"
+    },
+    {
+      "metric": "International business EBIT performance",
+      "guide": "Overall international portfolio expected to turn out positive EBIT performance for the full year FY27.",
+      "source": "Q1 FY27 concall"
+    },
+    {
+      "metric": "TEAL normalized margin",
+      "guide": "Normalized margin expected to gradually gravitate towards 12% to 15%, 16% over the long term.",
+      "source": "Q1 FY27 concall"
+    },
+    {
+      "metric": "CaratLane EBIT margin",
+      "guide": "Normal trajectory should stabilize towards a 10% double-digit EBIT margin in the medium term.",
+      "source": "Q1 FY27 concall"
+    }
+  ],
+  "bull": [
+    "Operating profitability improved to historic highs with OPM expanding to 14% in both Jun 2026 and Sep 2026, lifting Net Profit to Rs 2,393 crore in Sep 2026.",
+    "Management reported three consecutive quarters of strong studded jewellery demand continuing into the festive season, supported by the Festival of Diamonds campaign.",
+    "Titan gained approximately 50 to 60 basis points of market share in the jewellery division in FY26 over FY25, while analog watches grew c.15% YoY driven by premiumization."
+  ],
+  "bear": [
+    "Sales growth decelerated markedly to +10% YoY in Sep 2026 (Rs 20,614 crore) compared to +29% in Jun 2026 (Rs 21,356 crore) and +80% in Mar 2026 (Rs 26,920 crore).",
+    "Interest expenses escalated sharply to Rs 536 crore in Sep 2026 and Rs 353 crore in Jun 2026, up from Rs 277 crore in Sep 2025 and Rs 240 crore in Sep 2024.",
+    "Regional conflicts created headwinds for the international Damas business leading to losses from lower footfalls and ticket sizes, while CaratLane margins fell from 10.2% to 6.5% in Q2 FY27."
+  ]
+}

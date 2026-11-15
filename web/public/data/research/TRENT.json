@@ -1,0 +1,112 @@
+{
+  "symbol": "TRENT",
+  "model": "gemini-3.5-flash-lite (extract) → gemini-3.8-flash (reconcile)",
+  "generated_at": "2026-11-15T17:31:39+00:00",
+  "business": {
+    "summary": "TRENT operates a retail portfolio spanning fashion, general merchandise, and food/grocery retail through brands including Westside, with digital presence expanded via its proprietary online channel and the Tata Neu platform. The business operates across multiple product categories including General Merchandise & Apparel, Staples, FMCG, and Fresh. Technology and automation investments across operations have supported manpower optimization and stable operating economics.",
+    "segments": [
+      {
+        "name": "General Merchandise & Apparel",
+        "share_pct": 32
+      },
+      {
+        "name": "Staples",
+        "share_pct": 24
+      },
+      {
+        "name": "FMCG",
+        "share_pct": 24
+      },
+      {
+        "name": "Fresh",
+        "share_pct": 19
+      }
+    ]
+  },
+  "promises": [
+    {
+      "quarter": "Q2 FY26",
+      "promise": "Investments in technology and automation across multiple areas in recent years aid in delivery of stable operating economics.",
+      "source": "Q2 FY26 investor presentation",
+      "delivered": "OPM remained stable to expanding between 17% and 20% in subsequent quarters (17% in Sep 2025, 20% in Dec 2025, 18% in Mar 2026, 19% in Jun 2026, and 18% in Sep 2026), with Operating Profit growing from Rs 816 cr in Sep 2025 to Rs 1,119 cr in Jun 2026.",
+      "verdict": "kept"
+    },
+    {
+      "quarter": "Q2 FY26",
+      "promise": "Westside online revenues expand and maintain a meaningful share of Westside sales.",
+      "source": "Q2 FY26 investor presentation",
+      "delivered": "In Q3 FY26, Westside online revenues grew by 38% and continued to contribute over 6% of Westside revenues; in Q1 FY27 management noted online proposition continues to witness traction and grow profitably.",
+      "verdict": "kept"
+    },
+    {
+      "quarter": "Q4 FY26",
+      "promise": "Structurally the demand levels and the underlying market opportunities remain strong.",
+      "source": "Q4 FY26 investor presentation",
+      "delivered": "Consolidated Sales increased from Rs 5,028 cr in Mar 2026 to Rs 5,755 cr in Jun 2026 and Rs 5,873 cr in Sep 2026, with YoY growth accelerating from +18% to +22%.",
+      "verdict": "kept"
+    },
+    {
+      "quarter": "Q4 FY26",
+      "promise": "Operating performance including return on capital employed continues to remain accretive.",
+      "source": "Q4 FY26 investor presentation",
+      "delivered": "Operating Profit rose from Rs 911 cr in Mar 2026 to Rs 1,119 cr in Jun 2026 and Rs 1,057 cr in Sep 2026, while Net Profit rose from Rs 413 cr in Mar 2026 to Rs 518 cr in Jun 2026 and Rs 468 cr in Sep 2026.",
+      "verdict": "kept"
+    },
+    {
+      "quarter": "Q1 FY27",
+      "promise": "On an annual basis we expect the trajectory of new store openings to remain broadly consistent in line with the outlook shared by the Chairman in the shareholders meeting.",
+      "source": "Q1 FY27 investor presentation",
+      "delivered": "Store opening count is not disclosed in the quarterly financial table or the available Q2 FY27 extracts, and the annual horizon for FY27 is incomplete.",
+      "verdict": "pending"
+    }
+  ],
+  "narrative_vs_numbers": [
+    {
+      "claim": "The consumer sentiment in the second quarter was relatively muted and we also witnessed headwinds given unseasonal rains.",
+      "numbers": "YoY Sales growth in Sep 2025 decelerated to +16% (Sales Rs 4,818 cr) compared to +19% in Jun 2025 (Sales Rs 4,883 cr) and +39% in Sep 2024 (Sales Rs 4,157 cr).",
+      "agrees": true
+    },
+    {
+      "claim": "Investments in technology and automation across multiple areas in the recent years has aided in delivery of stable operating economics.",
+      "numbers": "OPM stayed resilient at 17% in Sep 2025, 20% in Dec 2025, 18% in Mar 2026, 19% in Jun 2026, and 18% in Sep 2026, while Operating Profit expanded from Rs 816 cr in Sep 2025 to Rs 1,119 cr in Jun 2026.",
+      "agrees": true
+    },
+    {
+      "claim": "Like for like growth for our fashion portfolio in Q2FY26 was in low single digits.",
+      "numbers": "Consolidated YoY Sales growth for Sep 2025 was +16% (Sales Rs 4,818 cr), substantially outpacing low single-digit LFL growth, indicating top-line was driven by new store expansion rather than mature store productivity.",
+      "agrees": true
+    },
+    {
+      "claim": "Structurally the demand levels and the underlying market opportunities remain strong.",
+      "numbers": "Sales increased sequentially and YoY in following quarters: Rs 5,755 cr (+18% YoY) in Jun 2026 and Rs 5,873 cr (+22% YoY) in Sep 2026 vs Rs 5,028 cr (+19% YoY) in Mar 2026.",
+      "agrees": true
+    }
+  ],
+  "guidance": [
+    {
+      "metric": "new store openings",
+      "guide": "On an annual basis we expect the trajectory of new store openings to remain broadly consistent in line with the outlook shared by the Chairman in the shareholders meeting.",
+      "source": "Q1 FY27 investor presentation"
+    },
+    {
+      "metric": "pricing strategy",
+      "guide": "Our pricing has remained stable and is not used as a short-term demand management lever.",
+      "source": "Q4 FY26 investor presentation"
+    },
+    {
+      "metric": "online channel profitability",
+      "guide": "Westside online together with our proposition on the Tata Neu platform continues to witness traction and grow profitably.",
+      "source": "Q1 FY27 investor presentation"
+    }
+  ],
+  "bull": [
+    "Sales momentum showed re-acceleration to +22% YoY growth in Sep 2026 (Sales Rs 5,873 cr) from +15% YoY in Dec 2025 (Sales Rs 5,345 cr).",
+    "Operating profitability has structurally improved, with OPM reaching 18%-20% across Dec 2025 to Sep 2026 compared to 15%-16% in Jun-Sep 2024, supported by technology and automation-driven manpower optimization.",
+    "Westside online channel continues to deliver high growth, recording +56% growth in Q2 FY26 and +38% in Q3 FY26, consistently contributing over 6% of Westside revenues while growing profitably on Tata Neu."
+  ],
+  "bear": [
+    "Fashion portfolio like-for-like (LFL) growth was in the low single digits in both Q2 FY26 and Q1 FY27, signaling muted organic throughput in existing fashion stores.",
+    "Depreciation has risen sharply from Rs 181 cr in Jun 2024 to Rs 420 cr in Sep 2026 alongside rising interest costs (Rs 32 cr in Jun 2024 to Rs 44 cr in Sep 2026), creating fixed-cost drag that caused Net Profit to drop from Rs 518 cr in Jun 2026 to Rs 468 cr in Sep 2026.",
+    "Annual top-line growth has moderated significantly from earlier peaks (+56% YoY in Jun 2024 and +39% in Sep 2024) down to the 15%-22% range across FY26 and FY27 amid periods of muted consumer sentiment."
+  ]
+}

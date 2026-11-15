@@ -1,0 +1,100 @@
+{
+  "symbol": "MARUTI",
+  "model": "gemini-3.5-flash-lite (extract) → gemini-3.8-flash (reconcile)",
+  "generated_at": "2026-11-15T17:29:41+00:00",
+  "business": {
+    "summary": "Maruti Suzuki is an automotive manufacturer targeting domestic and global export markets, contributing 49% of India's total passenger vehicle exports. The company is actively expanding its capacity toward 4 million units per annum while developing a lineup of SUVs and an EV charging infrastructure network.",
+    "segments": []
+  },
+  "promises": [
+    {
+      "quarter": "Q3 FY26",
+      "promise": "Target around 4 million units annual production capacity to meet demand in India and expand as global exports hub after FY2030.",
+      "source": "Q3 FY26 investor presentation",
+      "delivered": "Capacity plans remain in execution with plans put in place to expand capacity in the medium term and Kharkhoda/Hansalpur expansions coming in FY27.",
+      "verdict": "pending"
+    },
+    {
+      "quarter": "Q3 FY26",
+      "promise": "Introduce 7 new SUVs in the next 5-6 years.",
+      "source": "Q3 FY26 investor presentation",
+      "delivered": "Multi-year product introduction pipeline across the 5-6 year horizon is underway.",
+      "verdict": "pending"
+    },
+    {
+      "quarter": "Q4 FY26",
+      "promise": "Full-year FY27 capex of INR 14,000 crores.",
+      "source": "Q4 FY26 concall",
+      "delivered": "Depreciation reached Rs 1,780 cr in Jun 2026 and Rs 1,960 cr in Sep 2026, while FY27 execution continues.",
+      "verdict": "pending"
+    },
+    {
+      "quarter": "Q4 FY26",
+      "promise": "Sales volume growth of over 10% in FY27 as compared to last year.",
+      "source": "Q4 FY26 concall",
+      "delivered": "Sales reached Rs 52,470 cr in Jun 2026 (+36% YoY) and Rs 53,356 cr in Sep 2026 (+26% YoY).",
+      "verdict": "kept"
+    },
+    {
+      "quarter": "Q4 FY26",
+      "promise": "Second plant at Kharkhoda facility and fourth production line at Hansalpur facility in Gujarat to become operational within FY27.",
+      "source": "Q4 FY26 concall",
+      "delivered": "Operationalization expected within the financial year FY27.",
+      "verdict": "pending"
+    }
+  ],
+  "narrative_vs_numbers": [
+    {
+      "claim": "Passenger vehicles performed well post-GST reforms after September 22nd, gaining market share of 40.7%.",
+      "numbers": "Sales grew +29% YoY to Rs 49,904 cr in Dec 2025 and +28% YoY to Rs 52,462 cr in Mar 2026, compared to Rs 38,764 cr in Dec 2024 and Rs 40,920 cr in Mar 2025.",
+      "agrees": true
+    },
+    {
+      "claim": "Growth of over 10% expected for FY27.",
+      "numbers": "YoY Sales growth stood at +36% in Jun 2026 (Sales Rs 52,470 cr) and +26% in Sep 2026 (Sales Rs 53,356 cr).",
+      "agrees": true
+    },
+    {
+      "claim": "Domestic sales volume growth was constrained by production capacity with around 190,000 customer orders unserved at fiscal year-end.",
+      "numbers": "Sales expansion continued sequentially at a slower pace from Rs 52,462 cr in Mar 2026 to Rs 52,470 cr in Jun 2026, while Expenses climbed from Rs 46,304 cr to Rs 48,156 cr.",
+      "agrees": true
+    }
+  ],
+  "guidance": [
+    {
+      "metric": "Sales Volume Growth",
+      "guide": "Growth of over 10% this year (FY27) as compared to the last year",
+      "source": "Q4 FY26 concall"
+    },
+    {
+      "metric": "Capital Expenditure",
+      "guide": "INR 14,000 crores capex for the full year FY 26-27",
+      "source": "Q4 FY26 concall"
+    },
+    {
+      "metric": "Capacity Expansion",
+      "guide": "Second plant at Kharkhoda facility and fourth production line at Hansalpur facility in Gujarat operational within FY27",
+      "source": "Q4 FY26 concall"
+    },
+    {
+      "metric": "Production Capacity",
+      "guide": "Increase production capacity to 4 million units per annum in the medium term",
+      "source": "Q4 FY26 concall"
+    },
+    {
+      "metric": "EV Charging Infrastructure",
+      "guide": "Enable a network of over 1 lakh charging points across India by 2030",
+      "source": "Q4 FY26 concall"
+    }
+  ],
+  "bull": [
+    "Revenue expanded strongly to Rs 53,356 crore in Sep 2026 and Rs 52,470 crore in Jun 2026, delivering YoY growth of 26% and 36% respectively.",
+    "Order backlog remains healthy with 190,000 customer orders unserved at the end of FY26 due to production constraints.",
+    "Export leadership is firmly established, with the company contributing a 49% share of India's total passenger vehicle exports."
+  ],
+  "bear": [
+    "Operating Profit Margin (OPM %) compressed significantly to 8% in Jun 2026 and 9% in Sep 2026, down from 12% in Mar 2026 and 14% in Jun 2024.",
+    "Net Profit dropped sharply to Rs 2,466 crore in Sep 2026 from Rs 3,447 crore in Jun 2026 and Rs 3,659 crore in Mar 2026, pulling EPS down to Rs 78.44.",
+    "Depreciation has risen from Rs 1,332 crore in Jun 2024 to Rs 1,960 crore in Sep 2026, adding fixed cost pressure alongside an INR 14,000 crore capex plan for FY 26-27."
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "symbol": "IRCTC",
+  "model": "gemini-3.5-flash-lite (extract) → gemini-3.8-flash (reconcile)",
+  "generated_at": "2026-11-15T17:30:41+00:00",
+  "business": {
+    "summary": "IRCTC operates as the digital ticketing, catering, packaged drinking water (Rail Neer), and travel and tourism arm of Indian Railways. The company commands an 89% market share in reserved Indian Railways ticket bookings, with its internet ticketing segment generating an EBITDA margin in excess of 80%. As of Q1 FY27, Catering is the largest revenue contributor at 53.43%, followed by Internet Ticketing at 26.35%, Tourism at 12.26%, and Rail Neer at 7.96%.",
+    "segments": [
+      {
+        "name": "Catering",
+        "share_pct": 53.43
+      },
+      {
+        "name": "Internet Ticketing",
+        "share_pct": 26.35
+      },
+      {
+        "name": "Tourism",
+        "share_pct": 12.26
+      },
+      {
+        "name": "Rail Neer",
+        "share_pct": 7.96
+      }
+    ]
+  },
+  "promises": [
+    {
+      "quarter": "Q2 FY26",
+      "promise": "Submit final RBI payment aggregator proposal application by end of January.",
+      "source": "Q2 FY26 concall",
+      "delivered": "Later concalls do not state whether the final RBI application was formally submitted by January, though Q4 FY26 noted ongoing work on iPay and unified portal.",
+      "verdict": "pending"
+    },
+    {
+      "quarter": "Q2 FY26",
+      "promise": "Enhance capacity of Danapur and Ambernath Rail Neer plants from 1 lakh bottles to 3 lakh bottles each.",
+      "source": "Q2 FY26 concall",
+      "delivered": "In Q1 FY27 concall, management adjusted the Danapur expansion target to 2 lakh bottles (from 1 lakh) and maintained Ambernath expansion to 3 lakh bottles, targeting finalization by FY27.",
+      "verdict": "partly"
+    },
+    {
+      "quarter": "Q2 FY26",
+      "promise": "Full rollout of billing process automation linked with HST by the end of next financial year (FY27).",
+      "source": "Q2 FY26 concall",
+      "delivered": "FY27 has not concluded (data available through Sep 2026 / Q2 FY27), and subsequent concalls provide no rollout update.",
+      "verdict": "pending"
+    },
+    {
+      "quarter": "Q3 FY26",
+      "promise": "Achieve 15% sustainable growth in FY26.",
+      "source": "Q3 FY26 concall",
+      "delivered": "Sales in FY26 totaled Rs 5,215 cr (Jun 2025: 1,160, Sep 2025: 1,146, Dec 2025: 1,449, Mar 2026: 1,460) vs Rs 4,676 cr in FY25, representing full-year growth of 11.53%, below the 15% target despite quarterly YoY growths of +18% in Dec 2025 and +15% in Mar 2026.",
+      "verdict": "partly"
+    },
+    {
+      "quarter": "Q4 FY26",
+      "promise": "Maintain EBITDA margin around 30%.",
+      "source": "Q4 FY26 concall",
+      "delivered": "OPM % stood at 28% in Jun 2026 and 31% in Sep 2026, averaging close to the 30% threshold.",
+      "verdict": "kept"
+    }
+  ],
+  "narrative_vs_numbers": [
+    {
+      "claim": "Profit after tax grew by 11% year-on-year to reach Rs. 342 crores in Q2 FY26.",
+      "numbers": "Table reports Sep 2025 Net Profit of Rs 342 cr compared to Rs 308 cr in Sep 2024, reflecting a YoY growth of 11.04%.",
+      "agrees": true
+    },
+    {
+      "claim": "Revenue from operations increased to INR1,449 crores reflecting a growth of 18.2% in Q3 FY26.",
+      "numbers": "Table shows Dec 2025 Sales of Rs 1,449 cr compared to Rs 1,225 cr in Dec 2024, representing an 18.29% YoY increase (+18% reported).",
+      "agrees": true
+    },
+    {
+      "claim": "Q4 FY26 revenue from operations reached the highest ever level in the company's history in absolute terms.",
+      "numbers": "Table reports Mar 2026 Sales of Rs 1,460 cr, surpassing the previous record of Rs 1,449 cr in Dec 2025 and all other historical quarters in the dataset.",
+      "agrees": true
+    },
+    {
+      "claim": "Revenue from operations increased by 18.10% year-on-year to INR1,370 crores in Q1 FY27.",
+      "numbers": "Table shows Jun 2026 Sales of Rs 1,370 cr compared to Rs 1,160 cr in Jun 2025, which represents an exact YoY increase of 18.10%.",
+      "agrees": true
+    }
+  ],
+  "guidance": [
+    {
+      "metric": "Catering Revenue Growth",
+      "guide": "Expected to maintain revenue growth around 15% going forward.",
+      "source": "Q4 FY26 concall"
+    },
+    {
+      "metric": "Tourism Revenue Growth",
+      "guide": "Targeting revenue growth to continue around 20% in FY27.",
+      "source": "Q4 FY26 concall"
+    },
+    {
+      "metric": "Internet Ticketing Revenue Growth",
+      "guide": "Targeting around 10% revenue growth by increasing non-convenience fee revenue via unified portal and iPay.",
+      "source": "Q4 FY26 concall"
+    },
+    {
+      "metric": "EBITDA Margin",
+      "guide": "Aspires to maintain EBITDA margins around 30% over the long term.",
+      "source": "Q4 FY26 concall"
+    },
+    {
+      "metric": "Rail Neer Capacity Augmentation",
+      "guide": "Finalize capacity additions in FY27 at Ambernath (from 2 lakh to 3 lakh bottles/day) and Danapur (from 1 lakh to 2 lakh bottles/day).",
+      "source": "Q1 FY27 concall"
+    },
+    {
+      "metric": "Vande Bharat Sleeper Trains",
+      "guide": "Expectation of around 20 Vande Bharat sleeper trains introduced in FY27 or within the next one year.",
+      "source": "Q1 FY27 concall"
+    }
+  ],
+  "bull": [
+    "High market dominance in digital booking with an 89% market share of reserved Indian Railways tickets and an internet ticketing EBITDA margin exceeding 80%.",
+    "Robust tourism performance delivering 19.46% revenue growth to Rs 890 cr in FY 2025-26 with a 36.17% growth in segment profits, followed by 13.5% YoY revenue growth and EBITDA margin improvement to 11.31% in Q1 FY27.",
+    "Structural volume expansion drivers underway, including Rail Neer plant augmentations at Danapur and Ambernath and the expected introduction of around 20 Vande Bharat sleeper trains in FY27."
+  ],
+  "bear": [
+    "Profitability contracted sharply in Q2 FY27 (Sep 2026), where Net Profit fell to Rs 264 cr from Rs 342 cr in Sep 2025 and Rs 330 cr in Jun 2026, dragged down by negative Other Income of Rs -36 cr.",
+    "Operating margins show volatility and touched lows below the 30% target, recording an OPM of 27% in Mar 2026 and 28% in Jun 2026.",
+    "Internet ticketing top-line growth has decelerated to low single digits (reported at 4% YoY in Q2 FY26 and base growth cited at 7% in Q4 FY26 concall), making future segment acceleration heavily dependent on unproven non-convenience fee initiatives."
+  ]
+}

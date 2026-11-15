@@ -1,0 +1,116 @@
+{
+  "symbol": "HAL",
+  "model": "gemini-3.5-flash-lite (extract) → gemini-3.8-flash (reconcile)",
+  "generated_at": "2026-11-15T17:33:08+00:00",
+  "business": {
+    "summary": "Hindustan Aeronautics Limited (HAL) is an aerospace and defense company engaged in the manufacturing and repair and overhaul of aircraft and helicopters. As of Q4 FY26, Repair & Overhaul accounts for 62% of revenue, while Manufacturing accounts for 28%. The company holds a massive order book of INR 2,54,538 crores and has outlined medium-term capital investment plans across its production infrastructure.",
+    "segments": [
+      {
+        "name": "repair and overhaul",
+        "share_pct": 62
+      },
+      {
+        "name": "manufacturing",
+        "share_pct": 28
+      }
+    ]
+  },
+  "promises": [
+    {
+      "quarter": "Q4 FY23",
+      "promise": "Double-digit revenue growth from FY25 onwards",
+      "source": "Q4 FY23 concall",
+      "delivered": "In FY25, YoY sales growth was +11% in Jun 2024, +6% in Sep 2024, +15% in Dec 2024, and -7% in Mar 2025. In the Q4 FY25 concall, management reported turnover increased by 7% over the previous year.",
+      "verdict": "partly"
+    },
+    {
+      "quarter": "Q4 FY23",
+      "promise": "Awaiting one breakthrough export order in the next 1 year timeframe",
+      "source": "Q4 FY23 concall",
+      "delivered": "No breakthrough export order was reported or confirmed in the subsequent Q4 FY24 concall extracts.",
+      "verdict": "missed"
+    },
+    {
+      "quarter": "Q4 FY24",
+      "promise": "Outstanding order book position expected to reach around INR 1,20,000 crores by March 31, 2025",
+      "source": "Q4 FY24 concall",
+      "delivered": "In the Q4 FY25 concall, management reported that the order book expanded significantly to Rs. 1,89,300 crores as of March 31, 2025.",
+      "verdict": "kept"
+    },
+    {
+      "quarter": "Q4 FY24",
+      "promise": "Capex plan for the next 5 years estimated between INR 14,000 to 15,000 crores (average ~3,000 crores annually)",
+      "source": "Q4 FY24 concall",
+      "delivered": "Reiterated in Q4 FY25 concall as Rs. 14,000 to Rs. 15,000 crores over 5 years, and in Q4 FY26 concall as INR 12,000 crores by 2030; five-year horizon remains ongoing.",
+      "verdict": "pending"
+    },
+    {
+      "quarter": "Q4 FY25",
+      "promise": "Guidance of 8% to 10% top line revenue growth for FY26",
+      "source": "Q4 FY25 concall",
+      "delivered": "In the Q4 FY26 concall, management reported revenue from operations increased by 7% in FY25-26 to INR 33,050 crores from INR 30,981 crores. In the quarterly table, YoY sales grew +11% in Jun 2025, +11% in Sep 2025, +11% in Dec 2025, and +2% in Mar 2026.",
+      "verdict": "partly"
+    },
+    {
+      "quarter": "Q4 FY25",
+      "promise": "Maintain operating EBITDA margin at around 31% and operating profit to revenue at 27%",
+      "source": "Q4 FY25 concall",
+      "delivered": "In FY26 quarterly numbers, OPM was 27% in Jun 2025, 24% in Sep 2025, 24% in Dec 2025, and 36% in Mar 2026. Management confirmed in Q4 FY26 that EBITDA margin was maintained around 30% to 31%.",
+      "verdict": "kept"
+    }
+  ],
+  "narrative_vs_numbers": [
+    {
+      "claim": "Revenue from operations increased by 7% in FY25-26 to INR 33,050 crores from INR 30,981 crores in FY24-25.",
+      "numbers": "Sum of quarterly sales for FY25 (Jun 2024 to Mar 2025) is 4,348 + 5,976 + 6,957 + 13,700 = Rs 30,981 crore. Sum of quarterly sales for FY26 (Jun 2025 to Mar 2026) is 4,819 + 6,629 + 7,699 + 13,942 = Rs 33,089 crore, reflecting a ~6.8% increase.",
+      "agrees": true
+    },
+    {
+      "claim": "Management in Q4 FY24 stated confidence in sustaining double-digit growth consistently.",
+      "numbers": "Quarterly YoY sales growth was +11% in Jun 2024, +6% in Sep 2024, +15% in Dec 2024, -7% in Mar 2025, and +2% in Mar 2026, demonstrating inconsistent double-digit growth.",
+      "agrees": false
+    },
+    {
+      "claim": "Management in Q4 FY25 guided to maintain operating profit to revenue at 27%.",
+      "numbers": "In FY26, OPM was 27% in Jun 2025, 24% in Sep 2025, 24% in Dec 2025, and 36% in Mar 2026, delivering an annual average operating profit margin close to 27%.",
+      "agrees": true
+    },
+    {
+      "claim": "Management in Q4 FY26 expects double-digit revenue growth in the range of 10% to 12% minimum for FY27.",
+      "numbers": "In early FY27, Sales grew +14% YoY in Jun 2026 (Rs 5,515 crore) and +15% YoY in Sep 2026 (Rs 7,613 crore), matching and exceeding the 10% to 12% range.",
+      "agrees": true
+    }
+  ],
+  "guidance": [
+    {
+      "metric": "revenue growth",
+      "guide": "Double-digit revenue growth in the range of 10% to 12% minimum for the current financial year '26-'27",
+      "source": "Q4 FY26 concall"
+    },
+    {
+      "metric": "EBITDA margin",
+      "guide": "EBITDA margin expected to be maintained around 30% to 31%",
+      "source": "Q4 FY26 concall"
+    },
+    {
+      "metric": "order inflow",
+      "guide": "Expects to receive orders of INR 90,000 crores, including ROH orders, during the next 2 years",
+      "source": "Q4 FY26 concall"
+    },
+    {
+      "metric": "capex",
+      "guide": "Plans to invest around INR 12,000 crores in manufacturing infrastructure and development projects by 2030",
+      "source": "Q4 FY26 concall"
+    }
+  ],
+  "bull": [
+    "The order book has expanded substantially from INR 82,000 crores in FY23 to INR 1,89,300 crores in FY25, and further to INR 2,54,538 crores in FY26.",
+    "Revenue growth accelerated in the first half of FY27, with sales growing +14% YoY to Rs 5,515 crore in Jun 2026 and +15% YoY to Rs 7,613 crore in Sep 2026.",
+    "Strong profitability and non-operating income, with EBITDA reaching INR 13,472 crores in FY26 (+11% YoY) and Other Income remaining high at Rs 1,164 crore in Mar 2026 and Rs 1,085 crore in Sep 2026."
+  ],
+  "bear": [
+    "Revenues show severe quarterly lumpiness, with Q4 generating Rs 13,700 crore in Mar 2025 and Rs 13,942 crore in Mar 2026 compared to Q1 revenues of Rs 4,348 crore in Jun 2024 and Rs 4,819 crore in Jun 2025.",
+    "Full-year revenue growth fell short of double-digit guidance in FY25 (reported at 7%) and FY26 (reported at 7% vs 8%-10% guidance), impacted by global aerospace supply chain disruptions.",
+    "Non-Q4 operating margins experience compression, dropping to 23% in Jun 2024, 24% in Sep 2025, 24% in Dec 2025, and 23% in Sep 2026, well below peak Q4 levels of 39% in Mar 2025 and 36% in Mar 2026."
+  ]
+}

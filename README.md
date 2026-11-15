@@ -49,6 +49,16 @@ GitHub Actions: deploy on push; end-of-day pipeline cron on weekdays after marke
 
 **Data source choice.** BSE, NSE and Yahoo block automated clients (Akamai 403s / 429s). screener.in republishes the same BSE filings (same PDF links), EOD price/volume and standardised financials, so one reliable source replaces three fragile ones.
 
+**What the research run actually cost** (all 17 Gemini-researched Holdings):
+
+| Step | Model | Calls | Tokens |
+|---|---|---|---|
+| Extract (per document) | gemini-3.5-flash-lite | 62 | 877k |
+| Reconcile (per company) | gemini-3.8-flash | 16 | 134k (incl. 45k thinking) |
+| **Total** | | **78** | **~1.0M — ₹0 on the free tier** |
+
+87% of tokens go through the cheapest model; the strong model sees only compact extracts. 3–13% of extracted quotes failed the verbatim check and were dropped rather than shown. A rerun costs nothing (prompt-hash cache). Four companies (POLYCAB, KPITTECH, DIXON, PIDILITIND) were researched at build time with Claude as a quality benchmark for the Gemini pipeline; each Dossier names the model that produced it.
+
 ## Run locally
 
 ```bash
