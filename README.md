@@ -101,7 +101,7 @@ cd web && npm i && npm run dev                      # http://localhost:5173/finn
 Live LLM calls from the deployed app (static hosting, no exposed keys), real push notifications, intraday data, auth, LinkedIn scraping.
 
 ## Next
-Web push from the scheduled pipeline; cheap-model fallback for ambiguous press releases; incremental research refresh when a new transcript lands; a "what changed in the thesis" diff per quarter; a spoken morning Brief.
+Notifications straight from the browser without a separate app; smarter sorting of press releases; refreshing the research automatically when a new earnings call is published; a spoken morning summary.
 
 ## Repo map
 - `CONTEXT.md` — domain glossary (Brief, Card, Holding, Filing, Dossier, Ask, Watch rule…)
