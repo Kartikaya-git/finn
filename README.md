@@ -101,6 +101,7 @@ cd web && npm i && npm run dev                      # http://localhost:5173/finn
 
 | Next step | Why it matters |
 |---|---|
+| **AI chatbot inside the app** | Lets you ask follow-up questions in your own words ("why did margins fall this quarter?") and get answers grounded in the company's own filings and transcripts, with sources cited. It would run through a small server that keeps the API key hidden, use the stored transcript passages as its only evidence, and cache common questions to keep costs near zero. |
 | **Notifications straight from the browser** (web push) | Today alerts need the free ntfy app. Web push would remove that install step, and it needs only a small server to hold subscriptions. |
 | **AI help for unclear press releases** | Rules handle most filings well, but a press release can hide a big order win or a minor update behind the same wording. A cheap model reading only those few unclear filings would sharpen the ranking at very little cost. |
 | **Refresh the research when a new earnings call lands** | Research is rebuilt manually today. Detecting a new transcript and re-running only that company would keep the promises verdict current within a day of each call. |
