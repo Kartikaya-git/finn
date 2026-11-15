@@ -1,0 +1,409 @@
+{
+ "symbol": "CDSL",
+ "name": "Central Depository Services (India) Ltd",
+ "generated_at": "2026-11-15T17:25:04+00:00",
+ "about": "Central Depository Services Limited is a Market Infrastructure Institution (MII), part of the capital market structure, providing services to all market participants - exchanges, clearing corporations, depository participants (DPs), issuers and investors. It is a facilitator for holding of securities in the dematerialised form and an enabler for securities transactions.",
+ "sector": "Capital Markets",
+ "price": {
+  "close": 1447.0,
+  "change_pct": -0.5,
+  "mcap_cr": 30242.0,
+  "pe": 59.9,
+  "roce": 32.0,
+  "roe": 24.5
+ },
+ "quarters": [
+  {
+   "period": "Dec 2023",
+   "revenue": 214.0,
+   "ebitda": 130.0,
+   "pbt": 145.0,
+   "pat": 107.0,
+   "opm": 61.0
+  },
+  {
+   "period": "Mar 2024",
+   "revenue": 241.0,
+   "ebitda": 148.0,
+   "pbt": 168.0,
+   "pat": 129.0,
+   "opm": 61.0
+  },
+  {
+   "period": "Jun 2024",
+   "revenue": 257.0,
+   "ebitda": 154.0,
+   "pbt": 175.0,
+   "pat": 134.0,
+   "opm": 60.0
+  },
+  {
+   "period": "Sep 2024",
+   "revenue": 322.0,
+   "ebitda": 200.0,
+   "pbt": 225.0,
+   "pat": 162.0,
+   "opm": 62.0
+  },
+  {
+   "period": "Dec 2024",
+   "revenue": 278.0,
+   "ebitda": 161.0,
+   "pbt": 168.0,
+   "pat": 130.0,
+   "opm": 58.0
+  },
+  {
+   "period": "Mar 2025",
+   "revenue": 224.0,
+   "ebitda": 109.0,
+   "pbt": 127.0,
+   "pat": 100.0,
+   "opm": 49.0
+  },
+  {
+   "period": "Jun 2025",
+   "revenue": 259.0,
+   "ebitda": 130.0,
+   "pbt": 151.0,
+   "pat": 102.0,
+   "opm": 50.0
+  },
+  {
+   "period": "Sep 2025",
+   "revenue": 319.0,
+   "ebitda": 176.0,
+   "pbt": 183.0,
+   "pat": 140.0,
+   "opm": 55.0
+  },
+  {
+   "period": "Dec 2025",
+   "revenue": 304.0,
+   "ebitda": 160.0,
+   "pbt": 172.0,
+   "pat": 133.0,
+   "opm": 52.0
+  },
+  {
+   "period": "Mar 2026",
+   "revenue": 263.0,
+   "ebitda": 116.0,
+   "pbt": 103.0,
+   "pat": 80.0,
+   "opm": 44.0
+  },
+  {
+   "period": "Jun 2026",
+   "revenue": 293.0,
+   "ebitda": 138.0,
+   "pbt": 167.0,
+   "pat": 118.0,
+   "opm": 47.0
+  },
+  {
+   "period": "Sep 2026",
+   "revenue": 394.0,
+   "ebitda": 228.0,
+   "pbt": 230.0,
+   "pat": 173.0,
+   "opm": 58.0
+  }
+ ],
+ "annual": [
+  {
+   "year": "Mar 2015",
+   "revenue": 105.0,
+   "ebitda": 45.0,
+   "pat": 43.0,
+   "opm": 43.0,
+   "cfo": 43.0,
+   "capex": 3.0,
+   "fcf": 40.0,
+   "debt": 0.0,
+   "equity": 369.0
+  },
+  {
+   "year": "Mar 2016",
+   "revenue": 123.0,
+   "ebitda": 64.0,
+   "pat": 91.0,
+   "opm": 52.0,
+   "cfo": 28.0,
+   "capex": 1.0,
+   "fcf": 27.0,
+   "debt": 0.0,
+   "equity": 479.0
+  },
+  {
+   "year": "Mar 2017",
+   "revenue": 146.0,
+   "ebitda": 79.0,
+   "pat": 87.0,
+   "opm": 54.0,
+   "cfo": 43.0,
+   "capex": 6.0,
+   "fcf": 37.0,
+   "debt": 0.0,
+   "equity": 533.0
+  },
+  {
+   "year": "Mar 2018",
+   "revenue": 188.0,
+   "ebitda": 110.0,
+   "pat": 104.0,
+   "opm": 59.0,
+   "cfo": 79.0,
+   "capex": 76.0,
+   "fcf": 3.0,
+   "debt": 0.0,
+   "equity": 598.0
+  },
+  {
+   "year": "Mar 2019",
+   "revenue": 196.0,
+   "ebitda": 109.0,
+   "pat": 115.0,
+   "opm": 56.0,
+   "cfo": 86.0,
+   "capex": 12.0,
+   "fcf": 74.0,
+   "debt": 0.0,
+   "equity": 668.0
+  },
+  {
+   "year": "Mar 2020",
+   "revenue": 225.0,
+   "ebitda": 89.0,
+   "pat": 107.0,
+   "opm": 40.0,
+   "cfo": 82.0,
+   "capex": 9.0,
+   "fcf": 73.0,
+   "debt": 0.0,
+   "equity": 723.0
+  },
+  {
+   "year": "Mar 2021",
+   "revenue": 344.0,
+   "ebitda": 212.0,
+   "pat": 201.0,
+   "opm": 62.0,
+   "cfo": 193.0,
+   "capex": 18.0,
+   "fcf": 175.0,
+   "debt": 0.0,
+   "equity": 877.0
+  },
+  {
+   "year": "Mar 2022",
+   "revenue": 551.0,
+   "ebitda": 365.0,
+   "pat": 312.0,
+   "opm": 66.0,
+   "cfo": 283.0,
+   "capex": 25.0,
+   "fcf": 258.0,
+   "debt": 0.0,
+   "equity": 1092.0
+  },
+  {
+   "year": "Mar 2023",
+   "revenue": 555.0,
+   "ebitda": 319.0,
+   "pat": 276.0,
+   "opm": 57.0,
+   "cfo": 249.0,
+   "capex": 205.0,
+   "fcf": 44.0,
+   "debt": 2.0,
+   "equity": 1213.0
+  },
+  {
+   "year": "Mar 2024",
+   "revenue": 812.0,
+   "ebitda": 488.0,
+   "pat": 420.0,
+   "opm": 60.0,
+   "cfo": 386.0,
+   "capex": 73.0,
+   "fcf": 313.0,
+   "debt": 1.0,
+   "equity": 1463.0
+  },
+  {
+   "year": "Mar 2025",
+   "revenue": 1082.0,
+   "ebitda": 625.0,
+   "pat": 526.0,
+   "opm": 58.0,
+   "cfo": 543.0,
+   "capex": 155.0,
+   "fcf": 388.0,
+   "debt": 3.0,
+   "equity": 1760.0
+  },
+  {
+   "year": "Mar 2026",
+   "revenue": 1145.0,
+   "ebitda": 582.0,
+   "pat": 455.0,
+   "opm": 51.0,
+   "cfo": 467.0,
+   "capex": 121.0,
+   "fcf": 346.0,
+   "debt": 2.0,
+   "equity": 1960.0
+  }
+ ],
+ "computed": {
+  "revenue_cagr_3y": 27.3,
+  "revenue_cagr_5y": 27.2,
+  "pat_cagr_3y": 18.1,
+  "pat_cagr_5y": 17.8,
+  "opm_trend": "compressing",
+  "de_ratio": 0.0,
+  "debt_trend": "flat",
+  "cfo_to_pat_5y": 0.97,
+  "fcf_5y_cr": 1349,
+  "ccc_days": 21.0,
+  "ccc_trend": "stable"
+ },
+ "flags": [
+  {
+   "level": "good",
+   "text": "CFO/PAT over 5y is 0.97 — profits backed by cash"
+  },
+  {
+   "level": "good",
+   "text": "Debt/equity is 0.00 — virtually debt-free"
+  },
+  {
+   "level": "good",
+   "text": "Revenue 5y CAGR is 27.2%"
+  },
+  {
+   "level": "watch",
+   "text": "PAT 5y CAGR 17.8% lags revenue CAGR 27.2% — margins leaking"
+  },
+  {
+   "level": "watch",
+   "text": "Operating margin compressing: 57% → 51% over 3 years"
+  },
+  {
+   "level": "good",
+   "text": "ROCE is 32.0%"
+  },
+  {
+   "level": "good",
+   "text": "Latest quarter PAT up 23.6% YoY (Sep 2026)"
+  }
+ ],
+ "sources": [
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Nov 2026",
+   "url": "https://nsearchives.nseindia.com/corporate/CDSL_05112026164633_NSEIntimationTranscript02112026Sd.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Nov 2026",
+   "url": "https://nsearchives.nseindia.com/corporate/CDSL_31102026155542_CDSL_InvestorPresentation_Signed.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Aug 2026",
+   "url": "https://nsearchives.nseindia.com/corporate/CDSL_07082026155803_NSEintimationtranscript.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Aug 2026",
+   "url": "https://nsearchives.nseindia.com/corporate/CDSL_01082026134647_NSEIntimation_InvestorPresentation.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · May 2026",
+   "url": "https://nsearchives.nseindia.com/corporate/CDSL_07052026193244_NSEintimationtranscript_Sign.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · May 2026",
+   "url": "https://nsearchives.nseindia.com/corporate/CDSL_02052026161257_NSEIntimation_InvestorPresentation.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Feb 2026",
+   "url": "https://nsearchives.nseindia.com/corporate/CDSL_06022026152040_NSEintimationtranscriptSigned.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Feb 2026",
+   "url": "https://nsearchives.nseindia.com/corporate/CDSL_31012026152749_InvestorpresentationSD_02012026.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Nov 2025",
+   "url": "https://nsearchives.nseindia.com/corporate/CDSL_06112025192633_NSEintimationtranscript_03112025_Signed.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Nov 2025",
+   "url": "https://nsearchives.nseindia.com/corporate/CDSL_01112025150330_InvestorPresentationFinal_Signed.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Aug 2025",
+   "url": "https://nsearchives.nseindia.com/corporate/CDSL_01082025164114_NSEIntimationConcallTranscript.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Aug 2025",
+   "url": "https://nsearchives.nseindia.com/corporate/CDSL_26072025144746_IntimationInvestorPresentation.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · May 2025",
+   "url": "https://nsearchives.nseindia.com/corporate/CDSL_08052025203322_NSEintimationtranscript_05052025.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · May 2025",
+   "url": "https://nsearchives.nseindia.com/corporate/CDSL_03052025153948_Investor_Presentation_03052024.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jan 2025",
+   "url": "https://nsearchives.nseindia.com/corporate/CDSL_30012025185400_NSEintimationtranscript27012025.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jan 2025",
+   "url": "https://nsearchives.nseindia.com/corporate/CDSL_25012025150650_NSEinvestor_presentationQ3.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://archives.nseindia.com/annual_reports/AR_29665_CDSL_2025_2026_A_15773086_08072026190152.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2025",
+   "url": "https://archives.nseindia.com/annual_reports/AR_27085_CDSL_2024_2025_A_23072025183612.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2024",
+   "url": "https://archives.nseindia.com/annual_reports/AR_24667_CDSL_2023_2024_2607202411473.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2023",
+   "url": "https://archives.nseindia.com/annual_reports/AR_22694_CDSL_2022_2023_08082023182850.zip"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2022",
+   "url": "https://archives.nseindia.com/annual_reports/AR_21450_CDSL_2021_2022_06092022122308.zip"
+  }
+ ]
+}

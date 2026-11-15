@@ -1,0 +1,90 @@
+{
+  "symbol": "PIDILITIND",
+  "model": "claude (build-time, cached)",
+  "generated_at": "2026-11-15T12:00:00+05:30",
+  "business": {
+    "summary": "Adhesives and construction/specialty chemicals leader (Fevicol, Dr. Fixit, tile adhesives). Reports Consumer & Bazaar (C&B) and B2B; key input is VAM. FY26 consolidated revenue ₹14,553 Cr (+11.1%), FY26 UVG 11.1% (Q4 FY26 concall). Steers to an EBITDA corridor of 20-24% and double-digit underlying volume growth (UVG).",
+    "segments": [
+      { "name": "Consumer & Bazaar (C&B)", "share_pct": null },
+      { "name": "Business-to-Business (B2B, incl. exports)", "share_pct": null },
+      { "name": "Domestic & international subsidiaries", "share_pct": null }
+    ]
+  },
+  "promises": [
+    {
+      "quarter": "Q4 FY26",
+      "promise": "Hold EBITDA in the 20-24% corridor despite 40-50% inflation in the RM basket, via 12-15% price hikes (Apr-May 2026).",
+      "source": "Q4 FY26 concall",
+      "delivered": "Standalone EBITDA 26.4% (Q1 FY27), 20.4% (Q2 FY27); H1 23.5% (Q1, Q2 FY27 concalls). Consolidated OPM 26% → 20% (results).",
+      "verdict": "kept"
+    },
+    {
+      "quarter": "Q1 FY27",
+      "promise": "FY27 margin could be 'middle to higher end of the band, easily'.",
+      "source": "Q1 FY27 concall",
+      "delivered": "Q2 FY27 fell to 20.4%, the lower end, as VAM consumption hit $1,630 (vs $1,370 in Q1); gross margin -720 bps YoY.",
+      "verdict": "partly"
+    },
+    {
+      "quarter": "Q4 FY26",
+      "promise": "Double-digit UVG sustainable at 6-6.5% real GDP, even with price hikes.",
+      "source": "Q4 FY26 concall",
+      "delivered": "UVG 11.3% (Q1 FY27), 10.7% (Q2 FY27); C&B 12.2% / 11.1%.",
+      "verdict": "kept"
+    },
+    {
+      "quarter": "Q3 FY26",
+      "promise": "UVG momentum (9.8% for 9M FY26) to continue.",
+      "source": "Q3 FY26 concall",
+      "delivered": "Q4 FY26 UVG 15.3% (C&B 15.4%, B2B 14.8%); FY26 11.1%.",
+      "verdict": "kept"
+    },
+    {
+      "quarter": "Q1 FY27",
+      "promise": "B2B weakness (exports UVG -8.4%) is temporary.",
+      "source": "Q1 FY27 concall",
+      "delivered": "B2B UVG 7.3% (Q1) → 9.2% (Q2 FY27).",
+      "verdict": "partly"
+    },
+    {
+      "quarter": "Q2 FY27",
+      "promise": "H2 FY27 EBITDA within 20-24%, ideally at the slightly higher end, with VAM ~$1,200.",
+      "source": "Q2 FY27 concall",
+      "delivered": "Not yet reported.",
+      "verdict": "pending"
+    }
+  ],
+  "narrative_vs_numbers": [
+    {
+      "claim": "Price hikes have not hurt volume; double-digit UVG for 8 of the last 10 quarters (Q2 FY27 concall).",
+      "numbers": "Standalone revenue +21.7% with UVG 10.7% in Q2 FY27; +22.2% with 11.3% UVG in Q1 FY27.",
+      "agrees": true
+    },
+    {
+      "claim": "Margin corridor of 20-24% is robust through the RM cycle.",
+      "numbers": "Consolidated OPM swung 26% (Jun-26) → 20% (Sep-26) in one quarter — at the floor; gross margin -720 bps YoY in Q2 FY27.",
+      "agrees": true
+    },
+    {
+      "claim": "Operating leverage cushions RM inflation (Q2 FY27 concall).",
+      "numbers": "720 bps gross-margin hit translated into a 430 bps EBITDA decline; PAT ₹626 Cr vs ₹585 Cr YoY (+7%) on +21% sales.",
+      "agrees": true
+    }
+  ],
+  "guidance": [
+    { "metric": "EBITDA margin", "guide": "20-24% corridor; H2 FY27 at the slightly higher end", "source": "Q2 FY27 concall" },
+    { "metric": "Underlying volume growth", "guide": "Double-digit, aiming to inch up, at 6.5-7% real GDP", "source": "Q2 FY27 concall" },
+    { "metric": "Growth categories", "guide": "2-4x GDP for core growth categories", "source": "Q1 FY27 concall" },
+    { "metric": "Pricing", "guide": "~12-15% cumulative hikes taken; partial rebates as VAM eases", "source": "Q1 FY27 concall" }
+  ],
+  "bull": [
+    "Double-digit UVG through 12-15% price hikes: 11.3% (Q1) and 10.7% (Q2 FY27) (Q1, Q2 FY27 concalls).",
+    "H1 FY27 EBITDA 23.5%, near the top of the corridor despite VAM nearly doubling (Q2 FY27 concall).",
+    "Domestic subsidiaries +22% in Q2 FY27, with C&B and B2B both +22% (Q2 FY27 concall)."
+  ],
+  "bear": [
+    "VAM at $1,630 in Q2 FY27 vs ~$800-900 in FY26; Q2 EBITDA fell to the 20.4% floor (Q2 FY27 concall).",
+    "Large paint competitor has built VAM/VAE capacity; Pidilite has repeatedly chosen not to integrate (Q1, Q2 FY27 concalls).",
+    "Q2 FY27 PAT +7% YoY on +21% sales — earnings lag revenue while RM stays volatile (results filings)."
+  ]
+}

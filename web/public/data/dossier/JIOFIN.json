@@ -1,0 +1,285 @@
+{
+ "symbol": "JIOFIN",
+ "name": "Jio Financial Services Ltd",
+ "generated_at": "2026-11-15T17:25:06+00:00",
+ "about": "JFSL was originally incorporated as Reliance Strategic Investments Private Limited in July, 1999 under the Companies Act 1956. Jio Financial Services Limited was incorporated in July, 23. JFSL is a NBFC-ND-SI registered with RBI. The company is a holding company and will operate its financial services business through its consumer-facing subsidiaries namely Jio Finance Limited (JFL), Jio Insurance Broking Limited (JIBL), and Jio Payment Solutions Limited (JPSL) and joint venture namely Jio Payments Bank Limited (JPBL).",
+ "sector": "Finance",
+ "price": {
+  "close": 227.5,
+  "change_pct": -1.6,
+  "mcap_cr": 155909.0,
+  "pe": 91.1,
+  "roce": 1.86,
+  "roe": 1.19
+ },
+ "quarters": [
+  {
+   "period": "Dec 2023",
+   "revenue": 414.0,
+   "ebitda": 320.0,
+   "pbt": 381.0,
+   "pat": 294.0,
+   "opm": 77.0
+  },
+  {
+   "period": "Mar 2024",
+   "revenue": 418.0,
+   "ebitda": 320.0,
+   "pbt": 393.0,
+   "pat": 311.0,
+   "opm": 77.0
+  },
+  {
+   "period": "Jun 2024",
+   "revenue": 418.0,
+   "ebitda": 344.0,
+   "pbt": 400.0,
+   "pat": 313.0,
+   "opm": 82.0
+  },
+  {
+   "period": "Sep 2024",
+   "revenue": 694.0,
+   "ebitda": 553.0,
+   "pbt": 773.0,
+   "pat": 689.0,
+   "opm": 80.0
+  },
+  {
+   "period": "Dec 2024",
+   "revenue": 438.0,
+   "ebitda": 313.0,
+   "pbt": 377.0,
+   "pat": 295.0,
+   "opm": 71.0
+  },
+  {
+   "period": "Mar 2025",
+   "revenue": 493.0,
+   "ebitda": 338.0,
+   "pbt": 396.0,
+   "pat": 316.0,
+   "opm": 69.0
+  },
+  {
+   "period": "Jun 2025",
+   "revenue": 612.0,
+   "ebitda": 457.0,
+   "pbt": 419.0,
+   "pat": 325.0,
+   "opm": 75.0
+  },
+  {
+   "period": "Sep 2025",
+   "revenue": 981.0,
+   "ebitda": 688.0,
+   "pbt": 783.0,
+   "pat": 695.0,
+   "opm": 70.0
+  },
+  {
+   "period": "Dec 2025",
+   "revenue": 901.0,
+   "ebitda": 555.0,
+   "pbt": 371.0,
+   "pat": 269.0,
+   "opm": 62.0
+  },
+  {
+   "period": "Mar 2026",
+   "revenue": 1019.0,
+   "ebitda": 605.0,
+   "pbt": 339.0,
+   "pat": 272.0,
+   "opm": 59.0
+  },
+  {
+   "period": "Jun 2026",
+   "revenue": 2004.0,
+   "ebitda": 1397.0,
+   "pbt": 970.0,
+   "pat": 830.0,
+   "opm": 70.0
+  },
+  {
+   "period": "Sep 2026",
+   "revenue": 1699.0,
+   "ebitda": 1078.0,
+   "pbt": 489.0,
+   "pat": 340.0,
+   "opm": 63.0
+  }
+ ],
+ "annual": [
+  {
+   "year": "Mar 2023",
+   "revenue": 45.0,
+   "ebitda": 39.0,
+   "pat": 31.0,
+   "opm": 88.0,
+   "cfo": 2055.0,
+   "capex": 0.0,
+   "fcf": 2055.0,
+   "debt": 743.0,
+   "equity": 114120.0
+  },
+  {
+   "year": "Mar 2024",
+   "revenue": 1855.0,
+   "ebitda": 1559.0,
+   "pat": 1605.0,
+   "opm": 84.0,
+   "cfo": -678.0,
+   "capex": 0.0,
+   "fcf": -678.0,
+   "debt": 0.0,
+   "equity": 139147.0
+  },
+  {
+   "year": "Mar 2025",
+   "revenue": 2043.0,
+   "ebitda": 1549.0,
+   "pat": 1613.0,
+   "opm": 76.0,
+   "cfo": -10089.0,
+   "capex": 0.0,
+   "fcf": -10089.0,
+   "debt": 3970.0,
+   "equity": 123496.0
+  },
+  {
+   "year": "Mar 2026",
+   "revenue": 3521.0,
+   "ebitda": 2312.0,
+   "pat": 1561.0,
+   "opm": 66.0,
+   "cfo": -15439.0,
+   "capex": 0.0,
+   "fcf": -15439.0,
+   "debt": 21768.0,
+   "equity": 133853.0
+  }
+ ],
+ "computed": {
+  "revenue_cagr_3y": 327.7,
+  "revenue_cagr_5y": null,
+  "pat_cagr_3y": 269.3,
+  "pat_cagr_5y": null,
+  "opm_trend": "compressing",
+  "de_ratio": 0.16,
+  "debt_trend": "rising",
+  "cfo_to_pat_5y": null,
+  "fcf_5y_cr": null,
+  "ccc_days": 6.0,
+  "ccc_trend": "shortening"
+ },
+ "flags": [
+  {
+   "level": "watch",
+   "text": "Borrowings rose from ₹743 Cr to ₹21,768 Cr over 3 years"
+  },
+  {
+   "level": "watch",
+   "text": "Operating margin compressing: 88% → 66% over 3 years"
+  },
+  {
+   "level": "good",
+   "text": "Cash conversion cycle shortened from 113 to 6 days"
+  },
+  {
+   "level": "watch",
+   "text": "ROCE is 1.9% — below cost of capital"
+  },
+  {
+   "level": "bad",
+   "text": "Latest quarter PAT down 51.1% YoY (Sep 2026)"
+  }
+ ],
+ "sources": [
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Oct 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=07ce63e3-07d3-4b0b-988b-53f339356094.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Oct 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8b06e656-9995-4c35-b84c-3455a9314416.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c18cc26c-af73-4c98-bb2f-500c896112ce.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=03719cdd-5b01-497a-85f8-577c640fca2e.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Apr 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=acc63602-ca98-4278-945c-05825e6f7118.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Apr 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5209e648-ae3d-4bfe-b83d-3f769de140e7.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jan 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4d7e4dcc-8aed-46e8-aa65-15d3eb5e94ee.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jan 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=640533d2-4384-4b44-91bc-ce9a7a98fcff.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Nov 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=534a6235-d2cf-4e2d-a36f-b2f432291b32.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Oct 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d41f06fd-0ecd-4311-847e-7827d35512ad.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jul 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4616b44e-9537-4b8e-83d3-1145defe744b.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jul 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=cbe4718c-43a8-4dcc-a97c-cbb795673925.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Apr 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4363eba7-1dcc-4105-bc48-9d80e78c2de2.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Apr 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9b266e43-df20-4a36-a702-7a7b2ae4582f.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/158fc548-0512-416f-9667-89ca35117647.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/9729ee6d-93d4-4f64-b5d9-f7294df8a8e9.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2024",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/511d1e68-17fd-49f6-b7de-e77bea8325b9.pdf"
+  }
+ ]
+}

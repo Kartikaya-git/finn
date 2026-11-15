@@ -1,0 +1,391 @@
+{
+ "symbol": "MARUTI",
+ "name": "Maruti Suzuki India Ltd",
+ "generated_at": "2026-11-15T17:25:04+00:00",
+ "about": "The Company was established in 1981. A joint venture agreement was signed between the Government of India and Suzuki Motor Corporation (SMC), Japan in 1982. The Company became a subsidiary of SMC in 2002.It is the market leader in passenger vehicle segment in India. In terms of production volume and sales, the Company is now SMC’s largest subsidiary. SMC currently holds 56.28% of its equity stake. The principal activities of the Company are manufacturing, purchase and sale of motor vehicles, components and spare parts.",
+ "sector": "Automobiles",
+ "price": {
+  "close": 12854.0,
+  "change_pct": -1.3,
+  "mcap_cr": 404133.0,
+  "pe": 30.0,
+  "roce": 18.9,
+  "roe": 14.3
+ },
+ "quarters": [
+  {
+   "period": "Dec 2023",
+   "revenue": 33513.0,
+   "ebitda": 4440.0,
+   "pbt": 4156.0,
+   "pat": 3207.0,
+   "opm": 13.0
+  },
+  {
+   "period": "Mar 2024",
+   "revenue": 38471.0,
+   "ebitda": 5221.0,
+   "pbt": 5108.0,
+   "pat": 3952.0,
+   "opm": 14.0
+  },
+  {
+   "period": "Jun 2024",
+   "revenue": 35779.0,
+   "ebitda": 5107.0,
+   "pbt": 4836.0,
+   "pat": 3760.0,
+   "opm": 14.0
+  },
+  {
+   "period": "Sep 2024",
+   "revenue": 37449.0,
+   "ebitda": 4999.0,
+   "pbt": 5141.0,
+   "pat": 3102.0,
+   "opm": 13.0
+  },
+  {
+   "period": "Dec 2024",
+   "revenue": 38764.0,
+   "ebitda": 5076.0,
+   "pbt": 4726.0,
+   "pat": 3727.0,
+   "opm": 13.0
+  },
+  {
+   "period": "Mar 2025",
+   "revenue": 40920.0,
+   "ebitda": 4844.0,
+   "pbt": 4918.0,
+   "pat": 3911.0,
+   "opm": 12.0
+  },
+  {
+   "period": "Jun 2025",
+   "revenue": 38605.0,
+   "ebitda": 4623.0,
+   "pbt": 4944.0,
+   "pat": 3792.0,
+   "opm": 12.0
+  },
+  {
+   "period": "Sep 2025",
+   "revenue": 42344.0,
+   "ebitda": 5086.0,
+   "pbt": 4339.0,
+   "pat": 3349.0,
+   "opm": 12.0
+  },
+  {
+   "period": "Dec 2025",
+   "revenue": 49904.0,
+   "ebitda": 5573.0,
+   "pbt": 4917.0,
+   "pat": 3879.0,
+   "opm": 11.0
+  },
+  {
+   "period": "Mar 2026",
+   "revenue": 52462.0,
+   "ebitda": 6158.0,
+   "pbt": 4918.0,
+   "pat": 3659.0,
+   "opm": 12.0
+  },
+  {
+   "period": "Jun 2026",
+   "revenue": 52470.0,
+   "ebitda": 4313.0,
+   "pbt": 4441.0,
+   "pat": 3447.0,
+   "opm": 8.0
+  },
+  {
+   "period": "Sep 2026",
+   "revenue": 53356.0,
+   "ebitda": 4764.0,
+   "pbt": 3219.0,
+   "pat": 2466.0,
+   "opm": 9.0
+  }
+ ],
+ "annual": [
+  {
+   "year": "Mar 2015",
+   "revenue": 50801.0,
+   "ebitda": 6892.0,
+   "pat": 3809.0,
+   "opm": 14.0,
+   "cfo": 6449.0,
+   "capex": 3041.0,
+   "fcf": 3408.0,
+   "debt": 666.0,
+   "equity": 24318.0
+  },
+  {
+   "year": "Mar 2016",
+   "revenue": 57589.0,
+   "ebitda": 9024.0,
+   "pat": 5497.0,
+   "opm": 16.0,
+   "cfo": 8482.0,
+   "capex": 2456.0,
+   "fcf": 6026.0,
+   "debt": 231.0,
+   "equity": 30616.0
+  },
+  {
+   "year": "Mar 2017",
+   "revenue": 68085.0,
+   "ebitda": 10421.0,
+   "pat": 7511.0,
+   "opm": 15.0,
+   "cfo": 10282.0,
+   "capex": 3375.0,
+   "fcf": 6907.0,
+   "debt": 484.0,
+   "equity": 37075.0
+  },
+  {
+   "year": "Mar 2018",
+   "revenue": 79809.0,
+   "ebitda": 12118.0,
+   "pat": 7881.0,
+   "opm": 15.0,
+   "cfo": 11788.0,
+   "capex": 3885.0,
+   "fcf": 7903.0,
+   "debt": 121.0,
+   "equity": 42559.0
+  },
+  {
+   "year": "Mar 2019",
+   "revenue": 86068.0,
+   "ebitda": 11056.0,
+   "pat": 7651.0,
+   "opm": 13.0,
+   "cfo": 6601.0,
+   "capex": 4702.0,
+   "fcf": 1899.0,
+   "debt": 160.0,
+   "equity": 47092.0
+  },
+  {
+   "year": "Mar 2020",
+   "revenue": 75660.0,
+   "ebitda": 7355.0,
+   "pat": 5678.0,
+   "opm": 10.0,
+   "cfo": 3496.0,
+   "capex": 3400.0,
+   "fcf": 96.0,
+   "debt": 184.0,
+   "equity": 49413.0
+  },
+  {
+   "year": "Mar 2021",
+   "revenue": 70372.0,
+   "ebitda": 5411.0,
+   "pat": 4389.0,
+   "opm": 8.0,
+   "cfo": 8856.0,
+   "capex": 2328.0,
+   "fcf": 6528.0,
+   "debt": 541.0,
+   "equity": 52501.0
+  },
+  {
+   "year": "Mar 2022",
+   "revenue": 88330.0,
+   "ebitda": 5752.0,
+   "pat": 3880.0,
+   "opm": 7.0,
+   "cfo": 1840.0,
+   "capex": 3323.0,
+   "fcf": -1483.0,
+   "debt": 426.0,
+   "equity": 55333.0
+  },
+  {
+   "year": "Mar 2023",
+   "revenue": 118410.0,
+   "ebitda": 13122.0,
+   "pat": 8264.0,
+   "opm": 11.0,
+   "cfo": 10815.0,
+   "capex": 7957.0,
+   "fcf": 2858.0,
+   "debt": 1248.0,
+   "equity": 74600.0
+  },
+  {
+   "year": "Mar 2024",
+   "revenue": 141858.0,
+   "ebitda": 18626.0,
+   "pat": 13488.0,
+   "opm": 13.0,
+   "cfo": 16801.0,
+   "capex": 9155.0,
+   "fcf": 7646.0,
+   "debt": 119.0,
+   "equity": 85636.0
+  },
+  {
+   "year": "Mar 2025",
+   "revenue": 152913.0,
+   "ebitda": 20224.0,
+   "pat": 14500.0,
+   "opm": 13.0,
+   "cfo": 16180.0,
+   "capex": 10579.0,
+   "fcf": 5601.0,
+   "debt": 87.0,
+   "equity": 96240.0
+  },
+  {
+   "year": "Mar 2026",
+   "revenue": 183316.0,
+   "ebitda": 21530.0,
+   "pat": 14680.0,
+   "opm": 12.0,
+   "cfo": 19100.0,
+   "capex": 10346.0,
+   "fcf": 8754.0,
+   "debt": 102.0,
+   "equity": 107156.0
+  }
+ ],
+ "computed": {
+  "revenue_cagr_3y": 15.7,
+  "revenue_cagr_5y": 21.1,
+  "pat_cagr_3y": 21.1,
+  "pat_cagr_5y": 27.3,
+  "opm_trend": "expanding",
+  "de_ratio": 0.0,
+  "debt_trend": "falling",
+  "cfo_to_pat_5y": 1.18,
+  "fcf_5y_cr": 23376,
+  "ccc_days": -19.0,
+  "ccc_trend": "stable"
+ },
+ "flags": [
+  {
+   "level": "good",
+   "text": "CFO/PAT over 5y is 1.18 — profits backed by cash"
+  },
+  {
+   "level": "good",
+   "text": "Debt/equity is 0.00 — virtually debt-free"
+  },
+  {
+   "level": "good",
+   "text": "Revenue 5y CAGR is 21.1%"
+  },
+  {
+   "level": "good",
+   "text": "Operating margin expanding: 11% → 12% over 3 years"
+  },
+  {
+   "level": "bad",
+   "text": "Latest quarter PAT down 26.4% YoY (Sep 2026)"
+  }
+ ],
+ "sources": [
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Oct 2026",
+   "url": "https://www.marutisuzuki.com/pdf-viewer?pdf=%2Fcontent%2Fdam%2Farena-eds%2Fcorporate%2Fpdf%2Fcompany-reports%2F2026-2027%2FTranscript_earnings_call_Maruti_Suzuki_Q2_FY_27.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jul 2026",
+   "url": "https://www.marutisuzuki.com/pdf-viewer?pdf=%2Fcontent%2Fdam%2Farena-eds%2Fcorporate%2Fpdf%2Fcompany-reports%2F2026-2027%2FTranscript_earnings_call_Maruti_Suzuki_Q1_FY_27.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4b7f0db8-b33e-4a14-bb96-542978860d78.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Apr 2026",
+   "url": "https://az-ci-afde-prd-arena-03-efddeyfchzf9akbb.z01.azurefd.net/msilintiwebpdfcopyfromdefault/Transcript_earnings_call_Maruti_Suzuki_Q4_FY_26.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Apr 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b8ced1ab-d385-4f8c-bcc9-90a186b40275.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Mar 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5e535086-f03f-40be-97bd-e966c116c483.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jan 2026",
+   "url": "https://marutistoragenew.blob.core.windows.net/msilintiwebpdf/Transcript_earnings_call_Maruti_Suzuki_Q3_FY_26.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jan 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7d203cd4-51c6-4795-a58f-b784adfca9a0.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Oct 2025",
+   "url": "https://marutistoragenew.blob.core.windows.net/msilintiwebpdf/Transcript_earnings_call_Maruti_Suzuki_Q2_FY_26.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Oct 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=de8ce513-a808-453e-9b3b-94328ebe6e0c.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Aug 2025",
+   "url": "https://marutistoragenew.blob.core.windows.net/msilintiwebpdf/Transcript_earnings_call_Maruti_Suzuki_Q1_FY_26.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Aug 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fb1d3824-d661-4143-b061-9964bf79d1b3.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · May 2025",
+   "url": "https://marutistoragenew.blob.core.windows.net/msilintiwebpdf/Transcript_earnings_call_Maruti_Suzuki_Q4_FY_25.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · May 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fe4b9735-c370-47bc-b884-b16ba0b45689.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/09d38ee6-9c30-4892-b483-8d7c34697a7a.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b6b3feef-628a-443c-9e63-665a5e057547.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2024",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4b14c577-1d8d-4eb0-a79e-f94640af8a67.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2023",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/68f18376-59dd-4bc2-9aee-48e50ec97f27.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2022",
+   "url": "https://www.bseindia.com/bseplus/AnnualReport/532500/74208532500.pdf"
+  }
+ ]
+}

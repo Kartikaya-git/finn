@@ -1,0 +1,13 @@
+[project]
+name = "finn-research"
+version = "0.1.0"
+description = "Generalised primary-source research engine for FINN (any NSE ticker)"
+requires-python = ">=3.10"
+dependencies = ["requests", "beautifulsoup4", "lxml", "pypdf"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["finn_research"]

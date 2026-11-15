@@ -1,0 +1,373 @@
+{
+ "symbol": "BAJAJ-AUTO",
+ "name": "Bajaj Auto Ltd",
+ "generated_at": "2026-11-15T17:25:05+00:00",
+ "about": "Bajaj Auto, the flagship company of Bajaj Group, is a two-wheeler and three-wheeler manufacturing company that exports to 79 countries across several countries in Latin America, Southeast Asia, and many more. Its headquarter is in Pune, India. The company has acquired 76% of the KTM Brand which manufactures sports and super sports two-wheelers, which was 14% in 2007 when the company first acquired KTM.",
+ "sector": "Automobiles",
+ "price": {
+  "close": 10850.0,
+  "change_pct": -0.9,
+  "mcap_cr": 298162.0,
+  "pe": 22.8,
+  "roce": 28.2,
+  "roe": 29.2
+ },
+ "quarters": [
+  {
+   "period": "Dec 2023",
+   "revenue": 12165.0,
+   "ebitda": 2415.0,
+   "pbt": 2666.0,
+   "pat": 2033.0,
+   "opm": 20.0
+  },
+  {
+   "period": "Mar 2024",
+   "revenue": 11555.0,
+   "ebitda": 2284.0,
+   "pbt": 2606.0,
+   "pat": 2011.0,
+   "opm": 20.0
+  },
+  {
+   "period": "Jun 2024",
+   "revenue": 11932.0,
+   "ebitda": 2370.0,
+   "pbt": 2564.0,
+   "pat": 1942.0,
+   "opm": 20.0
+  },
+  {
+   "period": "Sep 2024",
+   "revenue": 13247.0,
+   "ebitda": 2073.0,
+   "pbt": 2299.0,
+   "pat": 1385.0,
+   "opm": 16.0
+  },
+  {
+   "period": "Dec 2024",
+   "revenue": 13169.0,
+   "ebitda": 2751.0,
+   "pbt": 2876.0,
+   "pat": 2196.0,
+   "opm": 21.0
+  },
+  {
+   "period": "Mar 2025",
+   "revenue": 12646.0,
+   "ebitda": 2358.0,
+   "pbt": 2484.0,
+   "pat": 1802.0,
+   "opm": 19.0
+  },
+  {
+   "period": "Jun 2025",
+   "revenue": 13133.0,
+   "ebitda": 2793.0,
+   "pbt": 2961.0,
+   "pat": 2210.0,
+   "opm": 21.0
+  },
+  {
+   "period": "Sep 2025",
+   "revenue": 15735.0,
+   "ebitda": 2829.0,
+   "pbt": 2999.0,
+   "pat": 2122.0,
+   "opm": 18.0
+  },
+  {
+   "period": "Dec 2025",
+   "revenue": 16204.0,
+   "ebitda": 3730.0,
+   "pbt": 3656.0,
+   "pat": 2750.0,
+   "opm": 23.0
+  },
+  {
+   "period": "Mar 2026",
+   "revenue": 17832.0,
+   "ebitda": 3075.0,
+   "pbt": 4336.0,
+   "pat": 3492.0,
+   "opm": 17.0
+  },
+  {
+   "period": "Jun 2026",
+   "revenue": 21689.0,
+   "ebitda": 4528.0,
+   "pbt": 4423.0,
+   "pat": 3189.0,
+   "opm": 21.0
+  },
+  {
+   "period": "Sep 2026",
+   "revenue": 25126.0,
+   "ebitda": 4896.0,
+   "pbt": 4610.0,
+   "pat": 3384.0,
+   "opm": 19.0
+  }
+ ],
+ "annual": [
+  {
+   "year": "Mar 2015",
+   "revenue": 21595.0,
+   "ebitda": 4128.0,
+   "pat": 3026.0,
+   "opm": 19.0,
+   "cfo": 2114.0,
+   "capex": 295.0,
+   "fcf": 1819.0,
+   "debt": 112.0,
+   "equity": 11095.0
+  },
+  {
+   "year": "Mar 2016",
+   "revenue": 22574.0,
+   "ebitda": 4793.0,
+   "pat": 4061.0,
+   "opm": 21.0,
+   "cfo": 3690.0,
+   "capex": 271.0,
+   "fcf": 3419.0,
+   "debt": 118.0,
+   "equity": 14020.0
+  },
+  {
+   "year": "Mar 2017",
+   "revenue": 21755.0,
+   "ebitda": 4429.0,
+   "pat": 4079.0,
+   "opm": 20.0,
+   "cfo": 3267.0,
+   "capex": 197.0,
+   "fcf": 3070.0,
+   "debt": 120.0,
+   "equity": 17856.0
+  },
+  {
+   "year": "Mar 2018",
+   "revenue": 25210.0,
+   "ebitda": 4846.0,
+   "pat": 4219.0,
+   "opm": 19.0,
+   "cfo": 4328.0,
+   "capex": 183.0,
+   "fcf": 4145.0,
+   "debt": 121.0,
+   "equity": 20425.0
+  },
+  {
+   "year": "Mar 2019",
+   "revenue": 30358.0,
+   "ebitda": 5198.0,
+   "pat": 4928.0,
+   "opm": 17.0,
+   "cfo": 2487.0,
+   "capex": 108.0,
+   "fcf": 2379.0,
+   "debt": 125.0,
+   "equity": 23233.0
+  },
+  {
+   "year": "Mar 2020",
+   "revenue": 29919.0,
+   "ebitda": 5109.0,
+   "pat": 5212.0,
+   "opm": 17.0,
+   "cfo": 3850.0,
+   "capex": 280.0,
+   "fcf": 3570.0,
+   "debt": 126.0,
+   "equity": 21662.0
+  },
+  {
+   "year": "Mar 2021",
+   "revenue": 27741.0,
+   "ebitda": 4938.0,
+   "pat": 4857.0,
+   "opm": 18.0,
+   "cfo": 3120.0,
+   "capex": 254.0,
+   "fcf": 2866.0,
+   "debt": 121.0,
+   "equity": 27273.0
+  },
+  {
+   "year": "Mar 2022",
+   "revenue": 33145.0,
+   "ebitda": 5259.0,
+   "pat": 6166.0,
+   "opm": 16.0,
+   "cfo": 4197.0,
+   "capex": 517.0,
+   "fcf": 3680.0,
+   "debt": 123.0,
+   "equity": 29859.0
+  },
+  {
+   "year": "Mar 2023",
+   "revenue": 36455.0,
+   "ebitda": 6465.0,
+   "pat": 6060.0,
+   "opm": 18.0,
+   "cfo": 5277.0,
+   "capex": 973.0,
+   "fcf": 4304.0,
+   "debt": 124.0,
+   "equity": 29362.0
+  },
+  {
+   "year": "Mar 2024",
+   "revenue": 44870.0,
+   "ebitda": 8765.0,
+   "pat": 7708.0,
+   "opm": 20.0,
+   "cfo": 6558.0,
+   "capex": 711.0,
+   "fcf": 5847.0,
+   "debt": 1912.0,
+   "equity": 28962.0
+  },
+  {
+   "year": "Mar 2025",
+   "revenue": 50995.0,
+   "ebitda": 9555.0,
+   "pat": 7325.0,
+   "opm": 19.0,
+   "cfo": -1406.0,
+   "capex": 867.0,
+   "fcf": -2273.0,
+   "debt": 9364.0,
+   "equity": 35188.0
+  },
+  {
+   "year": "Mar 2026",
+   "revenue": 62905.0,
+   "ebitda": 13097.0,
+   "pat": 10574.0,
+   "opm": 21.0,
+   "cfo": 2597.0,
+   "capex": 712.0,
+   "fcf": 1885.0,
+   "debt": 22713.0,
+   "equity": 38832.0
+  }
+ ],
+ "computed": {
+  "revenue_cagr_3y": 19.9,
+  "revenue_cagr_5y": 17.8,
+  "pat_cagr_3y": 20.4,
+  "pat_cagr_5y": 16.8,
+  "opm_trend": "expanding",
+  "de_ratio": 0.58,
+  "debt_trend": "rising",
+  "cfo_to_pat_5y": 0.46,
+  "fcf_5y_cr": 13443,
+  "ccc_days": -1.0,
+  "ccc_trend": "lengthening"
+ },
+ "flags": [
+  {
+   "level": "bad",
+   "text": "CFO/PAT over 5y is 0.46 — profits not turning into cash"
+  },
+  {
+   "level": "watch",
+   "text": "Debt/equity is 0.58"
+  },
+  {
+   "level": "watch",
+   "text": "Borrowings rose from ₹124 Cr to ₹22,713 Cr over 3 years"
+  },
+  {
+   "level": "good",
+   "text": "Revenue 5y CAGR is 17.8%"
+  },
+  {
+   "level": "good",
+   "text": "Operating margin expanding: 18% → 21% over 3 years"
+  },
+  {
+   "level": "watch",
+   "text": "Cash conversion cycle lengthened from -18 to -1 days"
+  },
+  {
+   "level": "good",
+   "text": "ROCE is 28.2%"
+  },
+  {
+   "level": "good",
+   "text": "Latest quarter PAT up 59.5% YoY (Sep 2026)"
+  }
+ ],
+ "sources": [
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Nov 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c7171a79-5c93-47e1-b324-9056d5abea0e.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8490aae2-16b7-41b1-a0a3-de3e86380cf9.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=cbc90a41-3f6e-4dcb-b47c-36dc70b66634.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Feb 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8874f8f9-b675-43ce-ad9c-6ed3bfffeb9a.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Nov 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6beac10f-a781-42da-b71b-38ad4dd37e78.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Aug 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=53f9f85f-418e-4842-9bd2-725b8e4cf77f.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jun 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=741b3731-4eae-432f-b9dc-217f029f1ad2.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Feb 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ed39806e-1d29-4635-8ec4-740fc940bd4d.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/5cfa2fc3-ea76-452d-a3a9-71d3c9bf5ad6.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/5b564ba4-e324-4e91-a177-fb272352f81d.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2024",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/e10ea05d-5083-4c0b-b9d4-dd38508602d4.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2023",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/a1461b35-3d93-4cea-9ce0-6b4003c27d31.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2022",
+   "url": "https://www.bseindia.com/bseplus/AnnualReport/532977/73451532977.pdf"
+  }
+ ]
+}

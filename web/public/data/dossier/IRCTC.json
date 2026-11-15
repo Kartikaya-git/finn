@@ -1,0 +1,265 @@
+{
+ "symbol": "IRCTC",
+ "name": "Indian Railway Catering & Tourism Corporation Ltd",
+ "generated_at": "2026-11-15T17:25:04+00:00",
+ "about": "Incorporated in 1999, IRCTC is a Navratna (Category 1, Central Public Sector Enterprises ) and the only company authorized by the Indian government to provide online railway tickets, catering services, and packaged drinking water at railway stations and trains in India",
+ "sector": "Leisure Services",
+ "price": {
+  "close": 457.7,
+  "change_pct": -2.8,
+  "mcap_cr": 36616.0,
+  "pe": 26.6,
+  "roce": 46.1,
+  "roe": 34.7
+ },
+ "quarters": [
+  {
+   "period": "Dec 2023",
+   "revenue": 1118.0,
+   "ebitda": 394.0,
+   "pbt": 406.0,
+   "pat": 300.0,
+   "opm": 35.0
+  },
+  {
+   "period": "Mar 2024",
+   "revenue": 1155.0,
+   "ebitda": 362.0,
+   "pbt": 382.0,
+   "pat": 284.0,
+   "opm": 31.0
+  },
+  {
+   "period": "Jun 2024",
+   "revenue": 1118.0,
+   "ebitda": 375.0,
+   "pbt": 412.0,
+   "pat": 308.0,
+   "opm": 34.0
+  },
+  {
+   "period": "Sep 2024",
+   "revenue": 1064.0,
+   "ebitda": 373.0,
+   "pbt": 417.0,
+   "pat": 308.0,
+   "opm": 35.0
+  },
+  {
+   "period": "Dec 2024",
+   "revenue": 1225.0,
+   "ebitda": 417.0,
+   "pbt": 457.0,
+   "pat": 341.0,
+   "opm": 34.0
+  },
+  {
+   "period": "Mar 2025",
+   "revenue": 1269.0,
+   "ebitda": 385.0,
+   "pbt": 472.0,
+   "pat": 358.0,
+   "opm": 30.0
+  },
+  {
+   "period": "Jun 2025",
+   "revenue": 1160.0,
+   "ebitda": 397.0,
+   "pbt": 442.0,
+   "pat": 331.0,
+   "opm": 34.0
+  },
+  {
+   "period": "Sep 2025",
+   "revenue": 1146.0,
+   "ebitda": 404.0,
+   "pbt": 457.0,
+   "pat": 342.0,
+   "opm": 35.0
+  },
+  {
+   "period": "Dec 2025",
+   "revenue": 1449.0,
+   "ebitda": 465.0,
+   "pbt": 529.0,
+   "pat": 394.0,
+   "opm": 32.0
+  },
+  {
+   "period": "Mar 2026",
+   "revenue": 1460.0,
+   "ebitda": 399.0,
+   "pbt": 447.0,
+   "pat": 326.0,
+   "opm": 27.0
+  },
+  {
+   "period": "Jun 2026",
+   "revenue": 1370.0,
+   "ebitda": 387.0,
+   "pbt": 442.0,
+   "pat": 330.0,
+   "opm": 28.0
+  },
+  {
+   "period": "Sep 2026",
+   "revenue": 1333.0,
+   "ebitda": 408.0,
+   "pbt": 356.0,
+   "pat": 264.0,
+   "opm": 31.0
+  }
+ ],
+ "annual": [
+  {
+   "year": "Mar 2023",
+   "revenue": 3541.0,
+   "ebitda": 1276.0,
+   "pat": 1006.0,
+   "opm": 36.0,
+   "cfo": 812.0,
+   "capex": 68.0,
+   "fcf": 744.0,
+   "debt": 84.0,
+   "equity": 2478.0
+  },
+  {
+   "year": "Mar 2024",
+   "revenue": 4260.0,
+   "ebitda": 1466.0,
+   "pat": 1111.0,
+   "opm": 34.0,
+   "cfo": 882.0,
+   "capex": 232.0,
+   "fcf": 650.0,
+   "debt": 60.0,
+   "equity": 3230.0
+  },
+  {
+   "year": "Mar 2025",
+   "revenue": 4675.0,
+   "ebitda": 1551.0,
+   "pat": 1315.0,
+   "opm": 33.0,
+   "cfo": 833.0,
+   "capex": 47.0,
+   "fcf": 786.0,
+   "debt": 90.0,
+   "equity": 3663.0
+  },
+  {
+   "year": "Mar 2026",
+   "revenue": 5215.0,
+   "ebitda": 1666.0,
+   "pat": 1393.0,
+   "opm": 32.0,
+   "cfo": 1273.0,
+   "capex": 77.0,
+   "fcf": 1196.0,
+   "debt": 81.0,
+   "equity": 4309.0
+  }
+ ],
+ "computed": {
+  "revenue_cagr_3y": 13.8,
+  "revenue_cagr_5y": null,
+  "pat_cagr_3y": 11.5,
+  "pat_cagr_5y": null,
+  "opm_trend": "compressing",
+  "de_ratio": 0.02,
+  "debt_trend": "flat",
+  "cfo_to_pat_5y": null,
+  "fcf_5y_cr": null,
+  "ccc_days": 132.0,
+  "ccc_trend": "lengthening"
+ },
+ "flags": [
+  {
+   "level": "good",
+   "text": "Debt/equity is 0.02 — virtually debt-free"
+  },
+  {
+   "level": "watch",
+   "text": "Operating margin compressing: 36% → 32% over 3 years"
+  },
+  {
+   "level": "watch",
+   "text": "Cash conversion cycle lengthened from -1459 to 132 days"
+  },
+  {
+   "level": "good",
+   "text": "ROCE is 46.1%"
+  },
+  {
+   "level": "bad",
+   "text": "Latest quarter PAT down 22.8% YoY (Sep 2026)"
+  }
+ ],
+ "sources": [
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=87a3947a-975c-43aa-b153-218d6518615c.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0b914f14-22d6-44be-b3bb-8d31b83e4499.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Feb 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1cfad47d-e4a8-47fe-a883-38462f3036c3.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Nov 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2ce0acc5-6b05-46de-9e10-a8c90fd96325.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Aug 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ab8bd110-7b37-4135-a173-0d2583128e77.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jun 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9ae80d12-da6e-4c6f-9df5-3fe897e96bdd.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Feb 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=44fac9bf-a4a0-4a02-afce-86505132e76c.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Aug 2024",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=90abbfb6-15c7-4716-bd85-16437ccddda6.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/677a48a0-7237-4f0c-bb99-06c3edfb1d4c.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/0f308951-ede2-47e2-a259-2695355d2ef4.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2024",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/fdc59c22-152c-4d71-9bfb-65166a8dbe5b.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2023",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/cf716791-aa6e-4131-8a84-706f16e4b970.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2022",
+   "url": "https://www.bseindia.com/bseplus/AnnualReport/542830/74028542830.pdf"
+  }
+ ]
+}

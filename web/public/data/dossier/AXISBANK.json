@@ -1,0 +1,388 @@
+{
+ "symbol": "AXISBANK",
+ "name": "Axis Bank Ltd",
+ "generated_at": "2026-11-15T17:25:05+00:00",
+ "about": "Incorporated in December 1993, Axis Bank Limited is a private sector bank.It has the third-largest network of branches among private sector banks and an international presence through branches in DIFC (Dubai) and Singapore along with representative offices in Abu Dhabi, Sharjah, Dhaka and Dubai and an offshore banking unit in GIFT City.",
+ "sector": "Banks",
+ "price": {
+  "close": 1331.0,
+  "change_pct": -0.9,
+  "mcap_cr": 414537.0,
+  "pe": 13.8,
+  "roce": 6.24,
+  "roe": 13.1
+ },
+ "quarters": [
+  {
+   "period": "Dec 2023",
+   "revenue": 28865.0,
+   "ebitda": 2416.0,
+   "pbt": 8688.0,
+   "pat": 6520.0,
+   "opm": 8.0
+  },
+  {
+   "period": "Mar 2024",
+   "revenue": 30231.0,
+   "ebitda": 2379.0,
+   "pbt": 9985.0,
+   "pat": 7630.0,
+   "opm": 8.0
+  },
+  {
+   "period": "Jun 2024",
+   "revenue": 31159.0,
+   "ebitda": 2006.0,
+   "pbt": 8643.0,
+   "pat": 6467.0,
+   "opm": 6.0
+  },
+  {
+   "period": "Sep 2024",
+   "revenue": 31601.0,
+   "ebitda": 1575.0,
+   "pbt": 9177.0,
+   "pat": 7436.0,
+   "opm": 5.0
+  },
+  {
+   "period": "Dec 2024",
+   "revenue": 32162.0,
+   "ebitda": 2210.0,
+   "pbt": 9007.0,
+   "pat": 6779.0,
+   "opm": 7.0
+  },
+  {
+   "period": "Mar 2025",
+   "revenue": 32452.0,
+   "ebitda": 2389.0,
+   "pbt": 9895.0,
+   "pat": 7509.0,
+   "opm": 7.0
+  },
+  {
+   "period": "Jun 2025",
+   "revenue": 32348.0,
+   "ebitda": 127.0,
+   "pbt": 8180.0,
+   "pat": 6279.0,
+   "opm": 0.0
+  },
+  {
+   "period": "Sep 2025",
+   "revenue": 32310.0,
+   "ebitda": 36.0,
+   "pbt": 7496.0,
+   "pat": 5567.0,
+   "opm": 0.0
+  },
+  {
+   "period": "Dec 2025",
+   "revenue": 33709.0,
+   "ebitda": 2181.0,
+   "pbt": 9371.0,
+   "pat": 7060.0,
+   "opm": 6.0
+  },
+  {
+   "period": "Mar 2026",
+   "revenue": 34171.0,
+   "ebitda": 275.0,
+   "pbt": 7247.0,
+   "pat": 7642.0,
+   "opm": 1.0
+  },
+  {
+   "period": "Jun 2026",
+   "revenue": 35542.0,
+   "ebitda": 2490.0,
+   "pbt": 10161.0,
+   "pat": 7670.0,
+   "opm": 7.0
+  },
+  {
+   "period": "Sep 2026",
+   "revenue": 38087.0,
+   "ebitda": 2765.0,
+   "pbt": 10352.0,
+   "pat": 7666.0,
+   "opm": 7.0
+  }
+ ],
+ "annual": [
+  {
+   "year": "Mar 2015",
+   "revenue": 35727.0,
+   "ebitda": 2865.0,
+   "pat": 7450.0,
+   "opm": 8.0,
+   "cfo": -15162.0,
+   "capex": 529.0,
+   "fcf": -15691.0,
+   "debt": 84394.0,
+   "equity": 44949.0
+  },
+  {
+   "year": "Mar 2016",
+   "revenue": 41409.0,
+   "ebitda": 3196.0,
+   "pat": 8358.0,
+   "opm": 8.0,
+   "cfo": -34495.0,
+   "capex": 1475.0,
+   "fcf": -35970.0,
+   "debt": 113848.0,
+   "equity": 53559.0
+  },
+  {
+   "year": "Mar 2017",
+   "revenue": 45175.0,
+   "ebitda": -5941.0,
+   "pat": 3967.0,
+   "opm": -13.0,
+   "cfo": 32209.0,
+   "capex": 768.0,
+   "fcf": 31441.0,
+   "debt": 112455.0,
+   "equity": 56380.0
+  },
+  {
+   "year": "Mar 2018",
+   "revenue": 46614.0,
+   "ebitda": -10706.0,
+   "pat": 464.0,
+   "opm": -23.0,
+   "cfo": -38390.0,
+   "capex": 843.0,
+   "fcf": -39233.0,
+   "debt": 155767.0,
+   "equity": 64207.0
+  },
+  {
+   "year": "Mar 2019",
+   "revenue": 56044.0,
+   "ebitda": -5860.0,
+   "pat": 5047.0,
+   "opm": -10.0,
+   "cfo": 37125.0,
+   "capex": 825.0,
+   "fcf": 36300.0,
+   "debt": 161250.0,
+   "equity": 67802.0
+  },
+  {
+   "year": "Mar 2020",
+   "revenue": 63716.0,
+   "ebitda": -10256.0,
+   "pat": 1879.0,
+   "opm": -16.0,
+   "cfo": 30416.0,
+   "capex": 1077.0,
+   "fcf": 29339.0,
+   "debt": 155180.0,
+   "equity": 86340.0
+  },
+  {
+   "year": "Mar 2021",
+   "revenue": 64397.0,
+   "ebitda": -2851.0,
+   "pat": 7252.0,
+   "opm": -4.0,
+   "cfo": 12633.0,
+   "capex": 925.0,
+   "fcf": 11708.0,
+   "debt": 152249.0,
+   "equity": 103594.0
+  },
+  {
+   "year": "Mar 2022",
+   "revenue": 68846.0,
+   "ebitda": 2707.0,
+   "pat": 14207.0,
+   "opm": 4.0,
+   "cfo": 28137.0,
+   "capex": 1401.0,
+   "fcf": 26736.0,
+   "debt": 199778.0,
+   "equity": 118261.0
+  },
+  {
+   "year": "Mar 2023",
+   "revenue": 87448.0,
+   "ebitda": 13416.0,
+   "pat": 10919.0,
+   "opm": 15.0,
+   "cfo": 22075.0,
+   "capex": 1378.0,
+   "fcf": 20697.0,
+   "debt": 206214.0,
+   "equity": 129781.0
+  },
+  {
+   "year": "Mar 2024",
+   "revenue": 112759.0,
+   "ebitda": 11333.0,
+   "pat": 26492.0,
+   "opm": 10.0,
+   "cfo": -5555.0,
+   "capex": 2376.0,
+   "fcf": -7931.0,
+   "debt": 228200.0,
+   "equity": 157023.0
+  },
+  {
+   "year": "Mar 2025",
+   "revenue": 127374.0,
+   "ebitda": 9943.0,
+   "pat": 28191.0,
+   "opm": 8.0,
+   "cfo": 44384.0,
+   "capex": 2433.0,
+   "fcf": 41951.0,
+   "debt": 220687.0,
+   "equity": 187235.0
+  },
+  {
+   "year": "Mar 2026",
+   "revenue": 132538.0,
+   "ebitda": 4509.0,
+   "pat": 26548.0,
+   "opm": 3.0,
+   "cfo": -8637.0,
+   "capex": 2160.0,
+   "fcf": -10797.0,
+   "debt": 280511.0,
+   "equity": 215036.0
+  }
+ ],
+ "computed": {
+  "revenue_cagr_3y": 14.9,
+  "revenue_cagr_5y": 15.5,
+  "pat_cagr_3y": 34.5,
+  "pat_cagr_5y": 29.6,
+  "opm_trend": "compressing",
+  "de_ratio": 1.3,
+  "debt_trend": "rising",
+  "cfo_to_pat_5y": 0.76,
+  "fcf_5y_cr": 70656,
+  "ccc_days": null,
+  "ccc_trend": null
+ },
+ "flags": [
+  {
+   "level": "good",
+   "text": "Revenue 5y CAGR is 15.5%"
+  },
+  {
+   "level": "good",
+   "text": "ROE is 13.1%"
+  },
+  {
+   "level": "good",
+   "text": "Latest quarter PAT up 37.7% YoY (Sep 2026)"
+  }
+ ],
+ "sources": [
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Oct 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f9b91f3f-2ad7-4dfd-8b9a-493256ebd3b3.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jul 2026",
+   "url": "https://www.axis.bank.in/docs/default-source/shareholders/financial-results-and-other-information/call-transcript/2026-2027/q1fy27-earnings-call.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6c62a24e-0200-4b59-a93e-684cdb47f923.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Apr 2026",
+   "url": "https://www.axis.bank.in/docs/default-source/shareholders/financial-results-and-other-information/call-transcript/2025-2026/q4fy26-earnings-call.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Apr 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=40069350-77ce-40d5-8148-9556a268f1dc.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jan 2026",
+   "url": "https://www.axis.bank.in/docs/default-source/shareholders/financial-results-and-other-information/call-transcript/2025-2026/q3fy26-earnings-call-transcript.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jan 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a97d40c6-e5e8-4c35-9456-ac476aece97e.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Oct 2025",
+   "url": "https://www.axisbank.com/docs/default-source/call-transcript/q2fy26-media-conference-call-transcript.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Oct 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=27cd59c0-8697-4e71-9838-88d1ddd2a40d.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jul 2025",
+   "url": "https://www.axisbank.com/docs/default-source/call-transcript/q1fy26-media-conference-call-transcript.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jul 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b437b7ef-89ba-40b8-9e0e-25dcbb671e48.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Apr 2025",
+   "url": "https://www.axisbank.com/docs/default-source/call-transcript/q4fy25-earnings-call-transcript.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Apr 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b419c3d1-1979-49e1-933f-f610e9832cff.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jan 2025",
+   "url": "https://www.axisbank.com/docs/default-source/call-transcript/q3fy25-earnings-call-transcript.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jan 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d687ec0f-daf8-4e57-b936-2e671481c15b.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/854bc96b-9951-492e-ad95-d44fcc856195.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/9144823a-85ee-4db6-a75f-fba16387ce0a.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2024",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/93457ea2-9cfe-4d6c-98ec-12e62c07ff0b.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2023",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/90b930a8-4c38-4490-afd8-3eb51a9331c8.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2022",
+   "url": "https://www.bseindia.com/bseplus/AnnualReport/532215/73342532215.pdf"
+  }
+ ]
+}

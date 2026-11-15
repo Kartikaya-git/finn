@@ -1,0 +1,367 @@
+{
+ "symbol": "DMART",
+ "name": "Avenue Supermarts Ltd",
+ "generated_at": "2026-11-15T17:25:04+00:00",
+ "about": "Avenue Supermarts Limited (DMart) is a national supermarket chain, with a focus on value-retailing. We offer a wide range of products with a focus on the Foods, Non-Foods (FMCG) and General Merchandise & Apparel product categories.",
+ "sector": "Retailing",
+ "price": {
+  "close": 3439.3,
+  "change_pct": -0.4,
+  "mcap_cr": 224349.0,
+  "pe": 72.0,
+  "roce": 17.2,
+  "roe": 12.9
+ },
+ "quarters": [
+  {
+   "period": "Dec 2023",
+   "revenue": 13572.0,
+   "ebitda": 1120.0,
+   "pbt": 949.0,
+   "pat": 690.0,
+   "opm": 8.0
+  },
+  {
+   "period": "Mar 2024",
+   "revenue": 12727.0,
+   "ebitda": 944.0,
+   "pbt": 763.0,
+   "pat": 563.0,
+   "opm": 7.0
+  },
+  {
+   "period": "Jun 2024",
+   "revenue": 14069.0,
+   "ebitda": 1221.0,
+   "pbt": 1054.0,
+   "pat": 774.0,
+   "opm": 9.0
+  },
+  {
+   "period": "Sep 2024",
+   "revenue": 14444.0,
+   "ebitda": 1094.0,
+   "pbt": 903.0,
+   "pat": 659.0,
+   "opm": 8.0
+  },
+  {
+   "period": "Dec 2024",
+   "revenue": 15973.0,
+   "ebitda": 1217.0,
+   "pbt": 995.0,
+   "pat": 724.0,
+   "opm": 8.0
+  },
+  {
+   "period": "Mar 2025",
+   "revenue": 14872.0,
+   "ebitda": 955.0,
+   "pbt": 720.0,
+   "pat": 551.0,
+   "opm": 6.0
+  },
+  {
+   "period": "Jun 2025",
+   "revenue": 16360.0,
+   "ebitda": 1299.0,
+   "pbt": 1057.0,
+   "pat": 773.0,
+   "opm": 8.0
+  },
+  {
+   "period": "Sep 2025",
+   "revenue": 16676.0,
+   "ebitda": 1214.0,
+   "pbt": 945.0,
+   "pat": 685.0,
+   "opm": 7.0
+  },
+  {
+   "period": "Dec 2025",
+   "revenue": 18101.0,
+   "ebitda": 1463.0,
+   "pbt": 1175.0,
+   "pat": 856.0,
+   "opm": 8.0
+  },
+  {
+   "period": "Mar 2026",
+   "revenue": 17684.0,
+   "ebitda": 1211.0,
+   "pbt": 904.0,
+   "pat": 656.0,
+   "opm": 7.0
+  },
+  {
+   "period": "Jun 2026",
+   "revenue": 18795.0,
+   "ebitda": 1499.0,
+   "pbt": 1183.0,
+   "pat": 860.0,
+   "opm": 8.0
+  },
+  {
+   "period": "Sep 2026",
+   "revenue": 19644.0,
+   "ebitda": 1393.0,
+   "pbt": 1025.0,
+   "pat": 743.0,
+   "opm": 7.0
+  }
+ ],
+ "annual": [
+  {
+   "year": "Mar 2015",
+   "revenue": 6439.0,
+   "ebitda": 456.0,
+   "pat": 212.0,
+   "opm": 7.0,
+   "cfo": 222.0,
+   "capex": 477.0,
+   "fcf": -255.0,
+   "debt": 904.0,
+   "equity": 1200.0
+  },
+  {
+   "year": "Mar 2016",
+   "revenue": 8584.0,
+   "ebitda": 664.0,
+   "pat": 320.0,
+   "opm": 8.0,
+   "cfo": 433.0,
+   "capex": -2.0,
+   "fcf": 435.0,
+   "debt": 1192.0,
+   "equity": 1521.0
+  },
+  {
+   "year": "Mar 2017",
+   "revenue": 11898.0,
+   "ebitda": 969.0,
+   "pat": 479.0,
+   "opm": 8.0,
+   "cfo": 455.0,
+   "capex": 635.0,
+   "fcf": -180.0,
+   "debt": 1497.0,
+   "equity": 3842.0
+  },
+  {
+   "year": "Mar 2018",
+   "revenue": 15033.0,
+   "ebitda": 1353.0,
+   "pat": 806.0,
+   "opm": 9.0,
+   "cfo": 730.0,
+   "capex": 909.0,
+   "fcf": -179.0,
+   "debt": 439.0,
+   "equity": 4669.0
+  },
+  {
+   "year": "Mar 2019",
+   "revenue": 20005.0,
+   "ebitda": 1633.0,
+   "pat": 902.0,
+   "opm": 8.0,
+   "cfo": 807.0,
+   "capex": 1409.0,
+   "fcf": -602.0,
+   "debt": 700.0,
+   "equity": 5587.0
+  },
+  {
+   "year": "Mar 2020",
+   "revenue": 24870.0,
+   "ebitda": 2128.0,
+   "pat": 1301.0,
+   "opm": 9.0,
+   "cfo": 1280.0,
+   "capex": 1706.0,
+   "fcf": -426.0,
+   "debt": 333.0,
+   "equity": 11080.0
+  },
+  {
+   "year": "Mar 2021",
+   "revenue": 24143.0,
+   "ebitda": 1745.0,
+   "pat": 1099.0,
+   "opm": 7.0,
+   "cfo": 1375.0,
+   "capex": 2027.0,
+   "fcf": -652.0,
+   "debt": 393.0,
+   "equity": 12184.0
+  },
+  {
+   "year": "Mar 2022",
+   "revenue": 30976.0,
+   "ebitda": 2502.0,
+   "pat": 1492.0,
+   "opm": 8.0,
+   "cfo": 1372.0,
+   "capex": 2389.0,
+   "fcf": -1017.0,
+   "debt": 647.0,
+   "equity": 13678.0
+  },
+  {
+   "year": "Mar 2023",
+   "revenue": 42840.0,
+   "ebitda": 3639.0,
+   "pat": 2378.0,
+   "opm": 8.0,
+   "cfo": 2630.0,
+   "capex": 2206.0,
+   "fcf": 424.0,
+   "debt": 643.0,
+   "equity": 16078.0
+  },
+  {
+   "year": "Mar 2024",
+   "revenue": 50789.0,
+   "ebitda": 4106.0,
+   "pat": 2536.0,
+   "opm": 8.0,
+   "cfo": 2746.0,
+   "capex": 2722.0,
+   "fcf": 24.0,
+   "debt": 592.0,
+   "equity": 18698.0
+  },
+  {
+   "year": "Mar 2025",
+   "revenue": 59358.0,
+   "ebitda": 4495.0,
+   "pat": 2707.0,
+   "opm": 8.0,
+   "cfo": 2463.0,
+   "capex": 3417.0,
+   "fcf": -954.0,
+   "debt": 820.0,
+   "equity": 21428.0
+  },
+  {
+   "year": "Mar 2026",
+   "revenue": 68821.0,
+   "ebitda": 5189.0,
+   "pat": 2970.0,
+   "opm": 8.0,
+   "cfo": 3467.0,
+   "capex": 4113.0,
+   "fcf": -646.0,
+   "debt": 2425.0,
+   "equity": 24464.0
+  }
+ ],
+ "computed": {
+  "revenue_cagr_3y": 17.1,
+  "revenue_cagr_5y": 23.3,
+  "pat_cagr_3y": 7.7,
+  "pat_cagr_5y": 22.0,
+  "opm_trend": "stable",
+  "de_ratio": 0.1,
+  "debt_trend": "rising",
+  "cfo_to_pat_5y": 1.05,
+  "fcf_5y_cr": -2169,
+  "ccc_days": 29.0,
+  "ccc_trend": "stable"
+ },
+ "flags": [
+  {
+   "level": "good",
+   "text": "CFO/PAT over 5y is 1.05 — profits backed by cash"
+  },
+  {
+   "level": "watch",
+   "text": "Cumulative 5y free cash flow is ₹-2,169 Cr — growth is consuming cash"
+  },
+  {
+   "level": "watch",
+   "text": "Borrowings rose from ₹643 Cr to ₹2,425 Cr over 3 years"
+  },
+  {
+   "level": "good",
+   "text": "Revenue 5y CAGR is 23.3%"
+  }
+ ],
+ "sources": [
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Oct 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=28519d83-e15b-41c1-842c-b589621d6439.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=deef7a97-c6ee-4727-804d-f00f23f54f71.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=58e61774-8375-4458-836d-a52d044bec77.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6d3e35b8-b792-4f29-b7be-b46dfed23928.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=41f9f4a8-9c40-484c-a705-25c0bf4b96d3.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jan 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4070c208-aa9a-4c54-8c74-a8702b4cf9ef.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Oct 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=94760836-1e44-4f83-b725-9020ff441562.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Aug 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e4cebd20-3888-45ae-8c70-85fd68d60a74.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Aug 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0ac2602a-a013-427e-a6ae-9dfd03857ad0.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jul 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=63d4219e-f2ca-4637-892e-756c02a3df7a.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b496eda6-102e-4914-9a09-ce1e7f66c8b9.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/6796ce24-465d-4198-b3dc-8387b19b1cef.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2024",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/14f569a2-0850-4e73-aa38-69494b1142cb.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2023",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/73ffab69-cd41-4f5d-a4d4-0c1894813d31.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2022",
+   "url": "https://www.bseindia.com/bseplus/AnnualReport/540376/73891540376.pdf"
+  }
+ ]
+}

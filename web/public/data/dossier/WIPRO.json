@@ -1,0 +1,384 @@
+{
+ "symbol": "WIPRO",
+ "name": "Wipro Ltd",
+ "generated_at": "2026-11-15T17:25:07+00:00",
+ "about": "Wipro Ltd is a global Information technology, consulting and business process services (BPS) company.",
+ "sector": "IT - Software",
+ "price": {
+  "close": 194.6,
+  "change_pct": -0.8,
+  "mcap_cr": 192766.0,
+  "pe": 14.6,
+  "roce": 17.8,
+  "roe": 15.5
+ },
+ "quarters": [
+  {
+   "period": "Dec 2023",
+   "revenue": 22205.0,
+   "ebitda": 4198.0,
+   "pbt": 3552.0,
+   "pat": 2701.0,
+   "opm": 19.0
+  },
+  {
+   "period": "Mar 2024",
+   "revenue": 22208.0,
+   "ebitda": 4381.0,
+   "pbt": 3862.0,
+   "pat": 2858.0,
+   "opm": 20.0
+  },
+  {
+   "period": "Jun 2024",
+   "revenue": 21964.0,
+   "ebitda": 4350.0,
+   "pbt": 4022.0,
+   "pat": 3037.0,
+   "opm": 20.0
+  },
+  {
+   "period": "Sep 2024",
+   "revenue": 22302.0,
+   "ebitda": 4503.0,
+   "pbt": 4278.0,
+   "pat": 3227.0,
+   "opm": 20.0
+  },
+  {
+   "period": "Dec 2024",
+   "revenue": 22319.0,
+   "ebitda": 4540.0,
+   "pbt": 4453.0,
+   "pat": 3367.0,
+   "opm": 20.0
+  },
+  {
+   "period": "Mar 2025",
+   "revenue": 22504.0,
+   "ebitda": 4624.0,
+   "pbt": 4743.0,
+   "pat": 3588.0,
+   "opm": 21.0
+  },
+  {
+   "period": "Jun 2025",
+   "revenue": 22135.0,
+   "ebitda": 4233.0,
+   "pbt": 4258.0,
+   "pat": 3336.0,
+   "opm": 19.0
+  },
+  {
+   "period": "Sep 2025",
+   "revenue": 22697.0,
+   "ebitda": 4372.0,
+   "pbt": 4282.0,
+   "pat": 3262.0,
+   "opm": 19.0
+  },
+  {
+   "period": "Dec 2025",
+   "revenue": 23556.0,
+   "ebitda": 4296.0,
+   "pbt": 4134.0,
+   "pat": 3145.0,
+   "opm": 18.0
+  },
+  {
+   "period": "Mar 2026",
+   "revenue": 24236.0,
+   "ebitda": 4909.0,
+   "pbt": 4668.0,
+   "pat": 3522.0,
+   "opm": 20.0
+  },
+  {
+   "period": "Jun 2026",
+   "revenue": 24479.0,
+   "ebitda": 4633.0,
+   "pbt": 4334.0,
+   "pat": 3356.0,
+   "opm": 19.0
+  },
+  {
+   "period": "Sep 2026",
+   "revenue": 24753.0,
+   "ebitda": 4863.0,
+   "pbt": 4205.0,
+   "pat": 3200.0,
+   "opm": 20.0
+  }
+ ],
+ "annual": [
+  {
+   "year": "Mar 2015",
+   "revenue": 46951.0,
+   "ebitda": 10299.0,
+   "pat": 8714.0,
+   "opm": 22.0,
+   "cfo": 7840.0,
+   "capex": 1141.0,
+   "fcf": 6699.0,
+   "debt": 7891.0,
+   "equity": 37092.0
+  },
+  {
+   "year": "Mar 2016",
+   "revenue": 51244.0,
+   "ebitda": 10796.0,
+   "pat": 8957.0,
+   "opm": 21.0,
+   "cfo": 7887.0,
+   "capex": 1317.0,
+   "fcf": 6570.0,
+   "debt": 12522.0,
+   "equity": 46145.0
+  },
+  {
+   "year": "Mar 2017",
+   "revenue": 55448.0,
+   "ebitda": 11321.0,
+   "pat": 8518.0,
+   "opm": 20.0,
+   "cfo": 9277.0,
+   "capex": 1527.0,
+   "fcf": 7750.0,
+   "debt": 14241.0,
+   "equity": 51670.0
+  },
+  {
+   "year": "Mar 2018",
+   "revenue": 54487.0,
+   "ebitda": 10387.0,
+   "pat": 8003.0,
+   "opm": 19.0,
+   "cfo": 8423.0,
+   "capex": 2070.0,
+   "fcf": 6353.0,
+   "debt": 13901.0,
+   "equity": 47927.0
+  },
+  {
+   "year": "Mar 2019",
+   "revenue": 59019.0,
+   "ebitda": 11613.0,
+   "pat": 9018.0,
+   "opm": 20.0,
+   "cfo": 11632.0,
+   "capex": 2084.0,
+   "fcf": 9548.0,
+   "debt": 9947.0,
+   "equity": 56423.0
+  },
+  {
+   "year": "Mar 2020",
+   "revenue": 61138.0,
+   "ebitda": 12342.0,
+   "pat": 9772.0,
+   "opm": 20.0,
+   "cfo": 10064.0,
+   "capex": 2222.0,
+   "fcf": 7842.0,
+   "debt": 9724.0,
+   "equity": 55322.0
+  },
+  {
+   "year": "Mar 2021",
+   "revenue": 61935.0,
+   "ebitda": 14771.0,
+   "pat": 10868.0,
+   "opm": 24.0,
+   "cfo": 14755.0,
+   "capex": 1882.0,
+   "fcf": 12873.0,
+   "debt": 10451.0,
+   "equity": 54901.0
+  },
+  {
+   "year": "Mar 2022",
+   "revenue": 79312.0,
+   "ebitda": 16684.0,
+   "pat": 12243.0,
+   "opm": 21.0,
+   "cfo": 11080.0,
+   "capex": 1942.0,
+   "fcf": 9138.0,
+   "debt": 17593.0,
+   "equity": 65403.0
+  },
+  {
+   "year": "Mar 2023",
+   "revenue": 90488.0,
+   "ebitda": 16839.0,
+   "pat": 11366.0,
+   "opm": 19.0,
+   "cfo": 13060.0,
+   "capex": 1429.0,
+   "fcf": 11631.0,
+   "debt": 17467.0,
+   "equity": 77668.0
+  },
+  {
+   "year": "Mar 2024",
+   "revenue": 89760.0,
+   "ebitda": 16752.0,
+   "pat": 11112.0,
+   "opm": 19.0,
+   "cfo": 17622.0,
+   "capex": 649.0,
+   "fcf": 16973.0,
+   "debt": 16465.0,
+   "equity": 74533.0
+  },
+  {
+   "year": "Mar 2025",
+   "revenue": 89088.0,
+   "ebitda": 18021.0,
+   "pat": 13218.0,
+   "opm": 20.0,
+   "cfo": 16943.0,
+   "capex": 1322.0,
+   "fcf": 15621.0,
+   "debt": 19204.0,
+   "equity": 82364.0
+  },
+  {
+   "year": "Mar 2026",
+   "revenue": 92624.0,
+   "ebitda": 17811.0,
+   "pat": 13266.0,
+   "opm": 19.0,
+   "cfo": 14932.0,
+   "capex": 1485.0,
+   "fcf": 13447.0,
+   "debt": 20291.0,
+   "equity": 88019.0
+  }
+ ],
+ "computed": {
+  "revenue_cagr_3y": 0.8,
+  "revenue_cagr_5y": 8.4,
+  "pat_cagr_3y": 5.3,
+  "pat_cagr_5y": 4.1,
+  "opm_trend": "stable",
+  "de_ratio": 0.23,
+  "debt_trend": "rising",
+  "cfo_to_pat_5y": 1.2,
+  "fcf_5y_cr": 66810,
+  "ccc_days": 54.0,
+  "ccc_trend": "stable"
+ },
+ "flags": [
+  {
+   "level": "good",
+   "text": "CFO/PAT over 5y is 1.20 — profits backed by cash"
+  },
+  {
+   "level": "watch",
+   "text": "Borrowings rose from ₹17,467 Cr to ₹20,291 Cr over 3 years"
+  }
+ ],
+ "sources": [
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Oct 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6b741bc5-7ed0-4223-900a-412aaf529820.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Oct 2026",
+   "url": "https://www.wipro.com/content/dam/nexus/en/investor/quarterly-results/2026-2027/q2fy27/wipro-investor-ppt-q2fy27.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=36342956-3182-4962-a695-068bbafdb263.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jul 2026",
+   "url": "https://www.wipro.com/content/dam/nexus/en/investor/quarterly-results/2026-2027/q1fy27/wipro-investor-ppt-q1fy27.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Apr 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=78fab9a0-4864-4470-be49-3544e57f1c49.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Apr 2026",
+   "url": "https://www.wipro.com/content/dam/nexus/en/investor/quarterly-results/2025-2026/q4fy26/wipro-investor-ppt-q4fy26.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jan 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a3dbcb44-8526-45a3-ac61-152710230060.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jan 2026",
+   "url": "https://www.wipro.com/content/dam/nexus/en/investor/quarterly-results/2025-2026/q3fy26/wipro-investor-ppt-q3fy26.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jan 2026",
+   "url": "https://www.wipro.com/content/dam/nexus/en/investor/quarterly-results/2025-2026/q3fy26/q3fy26-earnings-transcript.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Oct 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6e5df188-864a-4c7e-98bb-9a66a7844b7a.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Oct 2025",
+   "url": "https://www.wipro.com/content/dam/nexus/en/investor/quarterly-results/2025-2026/q2fy26/wipro-investor-ppt-q2fy26.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jul 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ea1716d9-c63b-46b0-91f8-549a98c742f6.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jul 2025",
+   "url": "https://www.wipro.com/content/dam/nexus/en/investor/quarterly-results/2025-2026/q1fy26/wipro-investor-ppt-q1fy26.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Apr 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3aa50722-240f-4b06-8be1-d37a0026f8c5.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Apr 2025",
+   "url": "https://www.wipro.com/content/dam/nexus/en/investor/quarterly-results/2024-2025/q4fy25/datasheet-q4fy25.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/d4ffaa08-a47a-487b-b136-eb4f26c1bace.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/bad4d97f-e94b-486a-b1ab-c50cd7ae0c75.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2024",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/53cec073-5278-4dcd-9066-2fd101023af5.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2023",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ea6ff555-0162-4acf-98b2-0ef7a7a26699.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2022",
+   "url": "https://www.bseindia.com/bseplus/AnnualReport/507685/73311507685.pdf"
+  }
+ ]
+}

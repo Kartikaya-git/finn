@@ -1,0 +1,365 @@
+{
+ "symbol": "ITC",
+ "name": "ITC Ltd",
+ "generated_at": "2026-11-15T17:25:04+00:00",
+ "about": "Established in 1910, ITC is the largest cigarette manufacturer and seller in the country. ITC operates in four business segments at present — FMCG Cigarettes, FMCG Others, Paperboards, Paper and Packaging, and Agri Business.",
+ "sector": "Diversified FMCG",
+ "price": {
+  "close": 285.0,
+  "change_pct": 0.3,
+  "mcap_cr": 357160.0,
+  "pe": 18.9,
+  "roce": 38.9,
+  "roe": 29.3
+ },
+ "quarters": [
+  {
+   "period": "Dec 2023",
+   "revenue": 17195.0,
+   "ebitda": 6210.0,
+   "pbt": 6635.0,
+   "pat": 5407.0,
+   "opm": 36.0
+  },
+  {
+   "period": "Mar 2024",
+   "revenue": 17038.0,
+   "ebitda": 6302.0,
+   "pbt": 6774.0,
+   "pat": 5191.0,
+   "opm": 37.0
+  },
+  {
+   "period": "Jun 2024",
+   "revenue": 17778.0,
+   "ebitda": 6545.0,
+   "pbt": 6903.0,
+   "pat": 5177.0,
+   "opm": 37.0
+  },
+  {
+   "period": "Sep 2024",
+   "revenue": 19990.0,
+   "ebitda": 6552.0,
+   "pbt": 6811.0,
+   "pat": 5054.0,
+   "opm": 33.0
+  },
+  {
+   "period": "Dec 2024",
+   "revenue": 18790.0,
+   "ebitda": 6362.0,
+   "pbt": 6740.0,
+   "pat": 5013.0,
+   "opm": 34.0
+  },
+  {
+   "period": "Mar 2025",
+   "revenue": 18765.0,
+   "ebitda": 6519.0,
+   "pbt": 21489.0,
+   "pat": 19808.0,
+   "opm": 35.0
+  },
+  {
+   "period": "Jun 2025",
+   "revenue": 21495.0,
+   "ebitda": 6816.0,
+   "pbt": 7128.0,
+   "pat": 5343.0,
+   "opm": 32.0
+  },
+  {
+   "period": "Sep 2025",
+   "revenue": 19502.0,
+   "ebitda": 6695.0,
+   "pbt": 6979.0,
+   "pat": 5187.0,
+   "opm": 34.0
+  },
+  {
+   "period": "Dec 2025",
+   "revenue": 20047.0,
+   "ebitda": 6883.0,
+   "pbt": 6754.0,
+   "pat": 5018.0,
+   "opm": 34.0
+  },
+  {
+   "period": "Mar 2026",
+   "revenue": 17825.0,
+   "ebitda": 6924.0,
+   "pbt": 7173.0,
+   "pat": 5470.0,
+   "opm": 39.0
+  },
+  {
+   "period": "Jun 2026",
+   "revenue": 19114.0,
+   "ebitda": 5181.0,
+   "pbt": 5861.0,
+   "pat": 4509.0,
+   "opm": 27.0
+  },
+  {
+   "period": "Sep 2026",
+   "revenue": 20269.0,
+   "ebitda": 5645.0,
+   "pbt": 5695.0,
+   "pat": 4229.0,
+   "opm": 28.0
+  }
+ ],
+ "annual": [
+  {
+   "year": "Mar 2015",
+   "revenue": 38817.0,
+   "ebitda": 14252.0,
+   "pat": 9779.0,
+   "opm": 37.0,
+   "cfo": 9843.0,
+   "capex": 3291.0,
+   "fcf": 6552.0,
+   "debt": 269.0,
+   "equity": 31736.0
+  },
+  {
+   "year": "Mar 2016",
+   "revenue": 39192.0,
+   "ebitda": 14531.0,
+   "pat": 9501.0,
+   "opm": 37.0,
+   "cfo": 9799.0,
+   "capex": 2340.0,
+   "fcf": 7459.0,
+   "debt": 84.0,
+   "equity": 42680.0
+  },
+  {
+   "year": "Mar 2017",
+   "revenue": 42768.0,
+   "ebitda": 15470.0,
+   "pat": 10477.0,
+   "opm": 36.0,
+   "cfo": 10627.0,
+   "capex": 3071.0,
+   "fcf": 7556.0,
+   "debt": 46.0,
+   "equity": 46413.0
+  },
+  {
+   "year": "Mar 2018",
+   "revenue": 43449.0,
+   "ebitda": 16521.0,
+   "pat": 11493.0,
+   "opm": 38.0,
+   "cfo": 13169.0,
+   "capex": 2798.0,
+   "fcf": 10371.0,
+   "debt": 36.0,
+   "equity": 52510.0
+  },
+  {
+   "year": "Mar 2019",
+   "revenue": 48340.0,
+   "ebitda": 18537.0,
+   "pat": 12836.0,
+   "opm": 38.0,
+   "cfo": 12583.0,
+   "capex": 3141.0,
+   "fcf": 9442.0,
+   "debt": 13.0,
+   "equity": 59141.0
+  },
+  {
+   "year": "Mar 2020",
+   "revenue": 49388.0,
+   "ebitda": 19344.0,
+   "pat": 15593.0,
+   "opm": 39.0,
+   "cfo": 14690.0,
+   "capex": 2414.0,
+   "fcf": 12276.0,
+   "debt": 277.0,
+   "equity": 65273.0
+  },
+  {
+   "year": "Mar 2021",
+   "revenue": 49257.0,
+   "ebitda": 17065.0,
+   "pat": 13383.0,
+   "opm": 35.0,
+   "cfo": 12527.0,
+   "capex": 1834.0,
+   "fcf": 10693.0,
+   "debt": 271.0,
+   "equity": 60347.0
+  },
+  {
+   "year": "Mar 2022",
+   "revenue": 60645.0,
+   "ebitda": 20623.0,
+   "pat": 15503.0,
+   "opm": 34.0,
+   "cfo": 15776.0,
+   "capex": 2009.0,
+   "fcf": 13767.0,
+   "debt": 249.0,
+   "equity": 62455.0
+  },
+  {
+   "year": "Mar 2023",
+   "revenue": 70919.0,
+   "ebitda": 25704.0,
+   "pat": 19477.0,
+   "opm": 36.0,
+   "cfo": 18878.0,
+   "capex": 2694.0,
+   "fcf": 16184.0,
+   "debt": 306.0,
+   "equity": 69155.0
+  },
+  {
+   "year": "Mar 2024",
+   "revenue": 67932.0,
+   "ebitda": 25188.0,
+   "pat": 20751.0,
+   "opm": 37.0,
+   "cfo": 17179.0,
+   "capex": 3455.0,
+   "fcf": 13724.0,
+   "debt": 303.0,
+   "equity": 74507.0
+  },
+  {
+   "year": "Mar 2025",
+   "revenue": 75323.0,
+   "ebitda": 25832.0,
+   "pat": 35052.0,
+   "opm": 34.0,
+   "cfo": 17627.0,
+   "capex": 2103.0,
+   "fcf": 15524.0,
+   "debt": 285.0,
+   "equity": 70030.0
+  },
+  {
+   "year": "Mar 2026",
+   "revenue": 78868.0,
+   "ebitda": 27306.0,
+   "pat": 21018.0,
+   "opm": 35.0,
+   "cfo": 18464.0,
+   "capex": 2132.0,
+   "fcf": 16332.0,
+   "debt": 2399.0,
+   "equity": 72507.0
+  }
+ ],
+ "computed": {
+  "revenue_cagr_3y": 3.6,
+  "revenue_cagr_5y": 9.9,
+  "pat_cagr_3y": 2.6,
+  "pat_cagr_5y": 9.4,
+  "opm_trend": "stable",
+  "de_ratio": 0.03,
+  "debt_trend": "rising",
+  "cfo_to_pat_5y": 0.79,
+  "fcf_5y_cr": 75531,
+  "ccc_days": 164.0,
+  "ccc_trend": "lengthening"
+ },
+ "flags": [
+  {
+   "level": "watch",
+   "text": "CFO/PAT over 5y is 0.79 — cash conversion a bit soft"
+  },
+  {
+   "level": "good",
+   "text": "Debt/equity is 0.03 — virtually debt-free"
+  },
+  {
+   "level": "watch",
+   "text": "Borrowings rose from ₹306 Cr to ₹2,399 Cr over 3 years"
+  },
+  {
+   "level": "watch",
+   "text": "Cash conversion cycle lengthened from 105 to 164 days"
+  },
+  {
+   "level": "good",
+   "text": "ROCE is 38.9%"
+  },
+  {
+   "level": "bad",
+   "text": "Latest quarter PAT down 18.5% YoY (Sep 2026)"
+  }
+ ],
+ "sources": [
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=20b685f4-2aec-4887-bb2a-eaf9fd999da2.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7ed30323-0ded-4685-b1b4-fd441908505c.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jan 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9f154edb-b1e2-43fa-98af-04d0a1c49062.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Oct 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5822a588-ec86-4294-909b-875e4062acea.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Aug 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0c251f7d-9278-4673-a72a-b44867704934.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · May 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3f080690-3c12-43b7-81b5-49b477522dca.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Apr 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=eb24ba27-a9eb-42ca-b4dd-29312337bdcf.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Mar 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=65b2ed41-0032-4f8f-a4b2-686ac5ea9431.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/590b42ae-15c9-44cf-be69-e58053128a6b.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/8ba4a189-5fd2-4851-af6f-ec365f7edea2.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2024",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/f0d1e906-3c13-4993-ad06-e04ad1d3edf9.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2023",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/139aec7a-7a7c-458f-ac5a-29f6dbe67c93.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2022",
+   "url": "https://www.bseindia.com/bseplus/AnnualReport/500875/73265500875.pdf"
+  }
+ ]
+}

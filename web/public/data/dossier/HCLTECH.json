@@ -1,0 +1,392 @@
+{
+ "symbol": "HCLTECH",
+ "name": "HCL Technologies Ltd",
+ "generated_at": "2026-11-15T17:25:05+00:00",
+ "about": "HCL Tech is a leading global IT services company, which is ranked amongst the top five Indian IT services companies in terms of revenues. Since its inception into the global landscape after its IPO in 1999, HCL Tech has focused on transformational outsourcing, and offers an integrated portfolio of services including software-led IT solutions, remote infrastructure management, engineering and R&D services and BPO. The company leverages its extensive global offshore infrastructure and network of offices in 46 countries to provide multi-service delivery in key industry verticals.",
+ "sector": "IT - Software",
+ "price": {
+  "close": 1378.0,
+  "change_pct": -0.2,
+  "mcap_cr": 373943.0,
+  "pe": 19.6,
+  "roce": 30.4,
+  "roe": 23.8
+ },
+ "quarters": [
+  {
+   "period": "Dec 2023",
+   "revenue": 28446.0,
+   "ebitda": 6787.0,
+   "pbt": 5874.0,
+   "pat": 4351.0,
+   "opm": 24.0
+  },
+  {
+   "period": "Mar 2024",
+   "revenue": 28499.0,
+   "ebitda": 6117.0,
+   "pbt": 5269.0,
+   "pat": 3995.0,
+   "opm": 21.0
+  },
+  {
+   "period": "Jun 2024",
+   "revenue": 28057.0,
+   "ebitda": 5793.0,
+   "pbt": 5707.0,
+   "pat": 4259.0,
+   "opm": 21.0
+  },
+  {
+   "period": "Sep 2024",
+   "revenue": 28862.0,
+   "ebitda": 6369.0,
+   "pbt": 5687.0,
+   "pat": 4237.0,
+   "opm": 22.0
+  },
+  {
+   "period": "Dec 2024",
+   "revenue": 29890.0,
+   "ebitda": 6860.0,
+   "pbt": 6132.0,
+   "pat": 4594.0,
+   "opm": 23.0
+  },
+  {
+   "period": "Mar 2025",
+   "revenue": 30246.0,
+   "ebitda": 6482.0,
+   "pbt": 5735.0,
+   "pat": 4309.0,
+   "opm": 21.0
+  },
+  {
+   "period": "Jun 2025",
+   "revenue": 30349.0,
+   "ebitda": 6035.0,
+   "pbt": 5189.0,
+   "pat": 3844.0,
+   "opm": 20.0
+  },
+  {
+   "period": "Sep 2025",
+   "revenue": 31942.0,
+   "ebitda": 6545.0,
+   "pbt": 5702.0,
+   "pat": 4236.0,
+   "opm": 20.0
+  },
+  {
+   "period": "Dec 2025",
+   "revenue": 33872.0,
+   "ebitda": 7412.0,
+   "pbt": 5509.0,
+   "pat": 4082.0,
+   "opm": 22.0
+  },
+  {
+   "period": "Mar 2026",
+   "revenue": 33981.0,
+   "ebitda": 6712.0,
+   "pbt": 5702.0,
+   "pat": 4490.0,
+   "opm": 20.0
+  },
+  {
+   "period": "Jun 2026",
+   "revenue": 34579.0,
+   "ebitda": 6870.0,
+   "pbt": 6108.0,
+   "pat": 4626.0,
+   "opm": 20.0
+  },
+  {
+   "period": "Sep 2026",
+   "revenue": 35620.0,
+   "ebitda": 7439.0,
+   "pbt": 6467.0,
+   "pat": 5132.0,
+   "opm": 21.0
+  }
+ ],
+ "annual": [
+  {
+   "year": "Jun 2015",
+   "revenue": 36701.0,
+   "ebitda": 8486.0,
+   "pat": 7342.0,
+   "opm": 23.0,
+   "cfo": 5539.0,
+   "capex": 1201.0,
+   "fcf": 4338.0,
+   "debt": 648.0,
+   "equity": 24224.0
+  },
+  {
+   "year": "Mar 2016 9m",
+   "revenue": 31136.0,
+   "ebitda": 6654.0,
+   "pat": 5602.0,
+   "opm": 21.0,
+   "cfo": null,
+   "capex": null,
+   "fcf": null,
+   "debt": null,
+   "equity": null
+  },
+  {
+   "year": "Mar 2017",
+   "revenue": 47568.0,
+   "ebitda": 10390.0,
+   "pat": 8606.0,
+   "opm": 22.0,
+   "cfo": 8995.0,
+   "capex": 3811.0,
+   "fcf": 5184.0,
+   "debt": 582.0,
+   "equity": 32949.0
+  },
+  {
+   "year": "Mar 2018",
+   "revenue": 50569.0,
+   "ebitda": 11246.0,
+   "pat": 8722.0,
+   "opm": 22.0,
+   "cfo": 8328.0,
+   "capex": 5321.0,
+   "fcf": 3007.0,
+   "debt": 557.0,
+   "equity": 36386.0
+  },
+  {
+   "year": "Mar 2019",
+   "revenue": 60427.0,
+   "ebitda": 13926.0,
+   "pat": 10120.0,
+   "opm": 23.0,
+   "cfo": 8971.0,
+   "capex": 3434.0,
+   "fcf": 5537.0,
+   "debt": 4195.0,
+   "equity": 41366.0
+  },
+  {
+   "year": "Mar 2020",
+   "revenue": 70676.0,
+   "ebitda": 17316.0,
+   "pat": 11057.0,
+   "opm": 24.0,
+   "cfo": 13359.0,
+   "capex": 1829.0,
+   "fcf": 11530.0,
+   "debt": 7986.0,
+   "equity": 51267.0
+  },
+  {
+   "year": "Mar 2021",
+   "revenue": 75379.0,
+   "ebitda": 20048.0,
+   "pat": 11169.0,
+   "opm": 27.0,
+   "cfo": 19618.0,
+   "capex": 1753.0,
+   "fcf": 17865.0,
+   "debt": 6864.0,
+   "equity": 59913.0
+  },
+  {
+   "year": "Mar 2022",
+   "revenue": 85651.0,
+   "ebitda": 20529.0,
+   "pat": 13523.0,
+   "opm": 24.0,
+   "cfo": 16900.0,
+   "capex": 1555.0,
+   "fcf": 15345.0,
+   "debt": 6343.0,
+   "equity": 61914.0
+  },
+  {
+   "year": "Mar 2023",
+   "revenue": 101456.0,
+   "ebitda": 22628.0,
+   "pat": 14845.0,
+   "opm": 22.0,
+   "cfo": 18009.0,
+   "capex": 1444.0,
+   "fcf": 16565.0,
+   "debt": 4794.0,
+   "equity": 65405.0
+  },
+  {
+   "year": "Mar 2024",
+   "revenue": 109913.0,
+   "ebitda": 24198.0,
+   "pat": 15710.0,
+   "opm": 22.0,
+   "cfo": 22448.0,
+   "capex": 1016.0,
+   "fcf": 21432.0,
+   "debt": 5756.0,
+   "equity": 68263.0
+  },
+  {
+   "year": "Mar 2025",
+   "revenue": 117055.0,
+   "ebitda": 25504.0,
+   "pat": 17399.0,
+   "opm": 22.0,
+   "cfo": 22261.0,
+   "capex": 1083.0,
+   "fcf": 21178.0,
+   "debt": 6276.0,
+   "equity": 69655.0
+  },
+  {
+   "year": "Mar 2026",
+   "revenue": 130144.0,
+   "ebitda": 26752.0,
+   "pat": 16652.0,
+   "opm": 21.0,
+   "cfo": 19975.0,
+   "capex": 1399.0,
+   "fcf": 18576.0,
+   "debt": 5215.0,
+   "equity": 75165.0
+  }
+ ],
+ "computed": {
+  "revenue_cagr_3y": 8.7,
+  "revenue_cagr_5y": 11.5,
+  "pat_cagr_3y": 3.9,
+  "pat_cagr_5y": 8.3,
+  "opm_trend": "stable",
+  "de_ratio": 0.07,
+  "debt_trend": "flat",
+  "cfo_to_pat_5y": 1.27,
+  "fcf_5y_cr": 93096,
+  "ccc_days": 88.0,
+  "ccc_trend": "stable"
+ },
+ "flags": [
+  {
+   "level": "good",
+   "text": "CFO/PAT over 5y is 1.27 — profits backed by cash"
+  },
+  {
+   "level": "good",
+   "text": "Debt/equity is 0.07 — virtually debt-free"
+  },
+  {
+   "level": "good",
+   "text": "ROCE is 30.4%"
+  },
+  {
+   "level": "good",
+   "text": "Latest quarter PAT up 21.2% YoY (Sep 2026)"
+  }
+ ],
+ "sources": [
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Oct 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ccce0001-ff5d-4875-b1e5-5c558669f49c.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Oct 2026",
+   "url": "https://nsearchives.nseindia.com/corporate/HCLTECH_12102026170757_InvestorRelease_5.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=11be9fba-0308-4756-a474-e4f2903fdaac.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=94fbf3ba-0db4-4384-b65d-db8289bcdb37.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Apr 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=48f5d6fd-b499-45da-bc6d-2e0439495ec2.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Apr 2026",
+   "url": "https://www.hcltech.com/sites/default/files/en/investorrelease.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jan 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=08d64f75-ab38-4158-8b8a-0d933bc007d3.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Oct 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=172ac7e9-7ce4-4c53-9e40-8b70187da3f9.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Oct 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=756af123-0a39-4e9a-96ed-3f4be47d9010.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jul 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=70e8e2f8-36ca-4816-9bce-5587cead0c23.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jul 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=724303f2-2a7f-4800-ad45-4e6d6a84f848.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Apr 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d64686fb-2ee7-40fc-a0ae-93ecd0dcc725.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Apr 2025",
+   "url": "https://stockdiscovery.s3.amazonaws.com/insight/india/4298/Investor%20Presentation/IP-Apr25.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jan 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=62047a72-1071-449c-8e13-47d3054a4c7e.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jan 2025",
+   "url": "https://www.hcltech.com/sites/default/files/documents/investor-reports/HCL_Tech_Q3_FY25_Investor_Release_0.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4bc45f66-7fb5-4fab-a87a-b32321b63059.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ddf08009-d43c-4949-b149-643731211e1d.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2024",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ea5d9753-2bef-4e01-a344-51e7f5506153.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2023",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/e7b8d757-92a5-423c-a450-3d4fb68e6b6e.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2022",
+   "url": "https://www.bseindia.com/bseplus/AnnualReport/532281/73863532281.pdf"
+  }
+ ]
+}

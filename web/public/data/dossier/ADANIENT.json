@@ -1,0 +1,401 @@
+{
+ "symbol": "ADANIENT",
+ "name": "Adani Enterprises Ltd",
+ "generated_at": "2026-11-15T17:25:05+00:00",
+ "about": "Adani Enterprises Ltd has business interests in various economic areas such as mining, integrated resources management (IRM), infrastructure such as airports, roads, rail/ metro, water, data centres, solar manufacturing, agro and defence.",
+ "sector": "Metals & Minerals Trading",
+ "price": {
+  "close": 2688.0,
+  "change_pct": -2.0,
+  "mcap_cr": 363802.0,
+  "pe": 113.0,
+  "roce": 5.8,
+  "roe": 4.48
+ },
+ "quarters": [
+  {
+   "period": "Dec 2023",
+   "revenue": 25050.0,
+   "ebitda": 3226.0,
+   "pbt": 2361.0,
+   "pat": 1973.0,
+   "opm": 13.0
+  },
+  {
+   "period": "Mar 2024",
+   "revenue": 29180.0,
+   "ebitda": 3195.0,
+   "pbt": 696.0,
+   "pat": 352.0,
+   "opm": 11.0
+  },
+  {
+   "period": "Jun 2024",
+   "revenue": 25472.0,
+   "ebitda": 3706.0,
+   "pbt": 2232.0,
+   "pat": 1772.0,
+   "opm": 15.0
+  },
+  {
+   "period": "Sep 2024",
+   "revenue": 22608.0,
+   "ebitda": 3766.0,
+   "pbt": 2403.0,
+   "pat": 1989.0,
+   "opm": 17.0
+  },
+  {
+   "period": "Dec 2024",
+   "revenue": 22848.0,
+   "ebitda": 3070.0,
+   "pbt": 572.0,
+   "pat": 229.0,
+   "opm": 13.0
+  },
+  {
+   "period": "Mar 2025",
+   "revenue": 26966.0,
+   "ebitda": 3710.0,
+   "pbt": 5259.0,
+   "pat": 4015.0,
+   "opm": 14.0
+  },
+  {
+   "period": "Jun 2025",
+   "revenue": 21961.0,
+   "ebitda": 3310.0,
+   "pbt": 1466.0,
+   "pat": 976.0,
+   "opm": 15.0
+  },
+  {
+   "period": "Sep 2025",
+   "revenue": 21249.0,
+   "ebitda": 3307.0,
+   "pbt": 4398.0,
+   "pat": 3414.0,
+   "opm": 16.0
+  },
+  {
+   "period": "Dec 2025",
+   "revenue": 24820.0,
+   "ebitda": 3642.0,
+   "pbt": 6932.0,
+   "pat": 5727.0,
+   "opm": 15.0
+  },
+  {
+   "period": "Mar 2026",
+   "revenue": 32439.0,
+   "ebitda": 3731.0,
+   "pbt": 729.0,
+   "pat": -167.0,
+   "opm": 12.0
+  },
+  {
+   "period": "Jun 2026",
+   "revenue": 32924.0,
+   "ebitda": 5019.0,
+   "pbt": -1349.0,
+   "pat": -1462.0,
+   "opm": 15.0
+  },
+  {
+   "period": "Sep 2026",
+   "revenue": 37216.0,
+   "ebitda": 5509.0,
+   "pbt": 2002.0,
+   "pat": 1221.0,
+   "opm": 15.0
+  }
+ ],
+ "annual": [
+  {
+   "year": "Mar 2015",
+   "revenue": 64465.0,
+   "ebitda": 12450.0,
+   "pat": 2298.0,
+   "opm": 19.0,
+   "cfo": 8532.0,
+   "capex": 9153.0,
+   "fcf": -621.0,
+   "debt": 83571.0,
+   "equity": 25728.0
+  },
+  {
+   "year": "Mar 2016",
+   "revenue": 34008.0,
+   "ebitda": 1684.0,
+   "pat": 1000.0,
+   "opm": 5.0,
+   "cfo": 5112.0,
+   "capex": 5890.0,
+   "fcf": -778.0,
+   "debt": 19169.0,
+   "equity": 13378.0
+  },
+  {
+   "year": "Mar 2017",
+   "revenue": 36533.0,
+   "ebitda": 1902.0,
+   "pat": 925.0,
+   "opm": 5.0,
+   "cfo": 774.0,
+   "capex": 4147.0,
+   "fcf": -3373.0,
+   "debt": 20846.0,
+   "equity": 14136.0
+  },
+  {
+   "year": "Mar 2018",
+   "revenue": 35924.0,
+   "ebitda": 2038.0,
+   "pat": 594.0,
+   "opm": 6.0,
+   "cfo": 2942.0,
+   "capex": 7294.0,
+   "fcf": -4352.0,
+   "debt": 17637.0,
+   "equity": 15089.0
+  },
+  {
+   "year": "Mar 2019",
+   "revenue": 40379.0,
+   "ebitda": 1969.0,
+   "pat": 506.0,
+   "opm": 4.9,
+   "cfo": 3236.0,
+   "capex": 1765.0,
+   "fcf": 1471.0,
+   "debt": 11243.0,
+   "equity": 14756.0
+  },
+  {
+   "year": "Mar 2020",
+   "revenue": 43403.0,
+   "ebitda": 2294.0,
+   "pat": 1040.0,
+   "opm": 5.0,
+   "cfo": 2454.0,
+   "capex": 2722.0,
+   "fcf": -268.0,
+   "debt": 12419.0,
+   "equity": 16947.0
+  },
+  {
+   "year": "Mar 2021",
+   "revenue": 39537.0,
+   "ebitda": 2506.0,
+   "pat": 1046.0,
+   "opm": 6.0,
+   "cfo": 4043.0,
+   "capex": 3359.0,
+   "fcf": 684.0,
+   "debt": 16227.0,
+   "equity": 17159.0
+  },
+  {
+   "year": "Mar 2022",
+   "revenue": 69420.0,
+   "ebitda": 3714.0,
+   "pat": 788.0,
+   "opm": 5.0,
+   "cfo": 1385.0,
+   "capex": 11645.0,
+   "fcf": -10260.0,
+   "debt": 41604.0,
+   "equity": 22257.0
+  },
+  {
+   "year": "Mar 2023",
+   "revenue": 127540.0,
+   "ebitda": 8818.0,
+   "pat": 2422.0,
+   "opm": 7.0,
+   "cfo": 17626.0,
+   "capex": 14654.0,
+   "fcf": 2972.0,
+   "debt": 53200.0,
+   "equity": 33051.0
+  },
+  {
+   "year": "Mar 2024",
+   "revenue": 96421.0,
+   "ebitda": 11377.0,
+   "pat": 3335.0,
+   "opm": 12.0,
+   "cfo": 10312.0,
+   "capex": 22246.0,
+   "fcf": -11934.0,
+   "debt": 65310.0,
+   "equity": 39076.0
+  },
+  {
+   "year": "Mar 2025",
+   "revenue": 97895.0,
+   "ebitda": 14252.0,
+   "pat": 8005.0,
+   "opm": 15.0,
+   "cfo": 4513.0,
+   "capex": 29515.0,
+   "fcf": -25002.0,
+   "debt": 91473.0,
+   "equity": 50314.0
+  },
+  {
+   "year": "Mar 2026",
+   "revenue": 100469.0,
+   "ebitda": 13991.0,
+   "pat": 9951.0,
+   "opm": 14.0,
+   "cfo": 2357.0,
+   "capex": 33350.0,
+   "fcf": -30993.0,
+   "debt": 106622.0,
+   "equity": 80926.0
+  }
+ ],
+ "computed": {
+  "revenue_cagr_3y": -7.6,
+  "revenue_cagr_5y": 20.5,
+  "pat_cagr_3y": 60.2,
+  "pat_cagr_5y": 56.9,
+  "opm_trend": "expanding",
+  "de_ratio": 1.32,
+  "debt_trend": "rising",
+  "cfo_to_pat_5y": 1.48,
+  "fcf_5y_cr": -75217,
+  "ccc_days": -13.0,
+  "ccc_trend": "lengthening"
+ },
+ "flags": [
+  {
+   "level": "good",
+   "text": "CFO/PAT over 5y is 1.48 — profits backed by cash"
+  },
+  {
+   "level": "watch",
+   "text": "Cumulative 5y free cash flow is ₹-75,217 Cr — growth is consuming cash"
+  },
+  {
+   "level": "bad",
+   "text": "Debt/equity is 1.32 — leveraged balance sheet"
+  },
+  {
+   "level": "watch",
+   "text": "Borrowings rose from ₹53,200 Cr to ₹106,622 Cr over 3 years"
+  },
+  {
+   "level": "good",
+   "text": "Revenue 5y CAGR is 20.5%"
+  },
+  {
+   "level": "good",
+   "text": "Operating margin expanding: 7% → 14% over 3 years"
+  },
+  {
+   "level": "watch",
+   "text": "Cash conversion cycle lengthened from -49 to -13 days"
+  },
+  {
+   "level": "watch",
+   "text": "ROCE is 5.8% — below cost of capital"
+  },
+  {
+   "level": "watch",
+   "text": "Promoter holding fell from 74.0% to 72.0% in 4 quarters"
+  },
+  {
+   "level": "bad",
+   "text": "Latest quarter PAT down 64.2% YoY (Sep 2026)"
+  }
+ ],
+ "sources": [
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=87f9b62b-f36b-448a-8882-f051473798ea.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Apr 2026",
+   "url": "https://www.adanienterprises.com/-/media/Project/Enterprises/Investors/Investor-Downloads/Results-Conference-Call-Transcripts/Q4-FY26-AEL_Earnings-Call_Transcript.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Apr 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=09cd12e0-1a3e-4e0c-bcf7-689499810230.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Feb 2026",
+   "url": "https://www.adanienterprises.com/-/media/Project/Enterprises/Investors/Investor-Downloads/Results-Conference-Call-Transcripts/Q3-FY26-AEL_Earnings-Call_Transcript.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Feb 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=12695f71-eddd-4327-be95-2fb2f2f44ffe.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Nov 2025",
+   "url": "https://www.adanienterprises.com/-/media/Project/Enterprises/Investors/Investor-Downloads/Results-Conference-Call-Transcripts/Q2-FY26-AEL_Earnings-Call-Transcript-v1.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Nov 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8de70047-ce26-4a8e-b11f-7621bc26af13.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jul 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=51e2e786-7289-44df-95f4-781f4fe5935a.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · May 2025",
+   "url": "https://www.adanienterprises.com/-/media/Project/Enterprises/Investors/Investor-Downloads/Results-Conference-Call-Transcripts/Q4-FY25-Earnings-Call-Transcript.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · May 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=93fe9e4c-2225-468c-87d6-5b5e0b9e2dba.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jan 2025",
+   "url": "https://www.adanienterprises.com/-/media/Project/Enterprises/Investors/Investor-Downloads/Results-Conference-Call-Transcripts/Q3-FY25-Earnings-Call-Transcript.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jan 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b57a1eaa-8b60-4fd4-bf3f-c2da76f73da0.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/a859a404-0859-451c-b8aa-f163631188c3.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/731090d0-4769-4c33-be22-689ddceac71b.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2024",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/045307f4-4c12-4e61-9764-d48b84c5b233.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2023",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/5b37eb7e-c78a-431c-a8b8-03b1bbf4e1a5.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2022",
+   "url": "https://www.bseindia.com/bseplus/AnnualReport/512599/73441512599.pdf"
+  }
+ ]
+}

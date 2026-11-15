@@ -1,0 +1,379 @@
+{
+ "symbol": "HDFCBANK",
+ "name": "HDFC Bank Ltd",
+ "generated_at": "2026-11-15T17:25:03+00:00",
+ "about": "HDFC Bank Limited (also known as HDFC) is an Indian banking and financial services company headquartered in Mumbai. It is India's largest private sector bank by assets and the world's tenth-largest bank by market capitalization as of May 2024. As of April 2024, HDFC Bank has a market capitalization of $145 billion, making it the third-largest company on the Indian stock exchanges.",
+ "sector": "Banks",
+ "price": {
+  "close": 804.0,
+  "change_pct": -1.0,
+  "mcap_cr": 1240766.0,
+  "pe": 15.5,
+  "roce": 7.02,
+  "roe": 13.6
+ },
+ "quarters": [
+  {
+   "period": "Dec 2023",
+   "revenue": 78008.0,
+   "ebitda": -15764.0,
+   "pbt": 21243.0,
+   "pat": 17718.0,
+   "opm": -20.0
+  },
+  {
+   "period": "Mar 2024",
+   "revenue": 79434.0,
+   "ebitda": -27196.0,
+   "pbt": 17761.0,
+   "pat": 18013.0,
+   "opm": -34.0
+  },
+  {
+   "period": "Jun 2024",
+   "revenue": 81546.0,
+   "ebitda": -12723.0,
+   "pbt": 22727.0,
+   "pat": 17188.0,
+   "opm": -16.0
+  },
+  {
+   "period": "Sep 2024",
+   "revenue": 83002.0,
+   "ebitda": -14487.0,
+   "pbt": 23968.0,
+   "pat": 18627.0,
+   "opm": -17.0
+  },
+  {
+   "period": "Dec 2024",
+   "revenue": 85040.0,
+   "ebitda": -3181.0,
+   "pbt": 23973.0,
+   "pat": 18340.0,
+   "opm": -4.0
+  },
+  {
+   "period": "Mar 2025",
+   "revenue": 86779.0,
+   "ebitda": -7916.0,
+   "pbt": 25573.0,
+   "pat": 19285.0,
+   "opm": -9.0
+  },
+  {
+   "period": "Jun 2025",
+   "revenue": 87372.0,
+   "ebitda": -24833.0,
+   "pbt": 20850.0,
+   "pat": 17090.0,
+   "opm": -28.0
+  },
+  {
+   "period": "Sep 2025",
+   "revenue": 86994.0,
+   "ebitda": -4908.0,
+   "pbt": 26659.0,
+   "pat": 20364.0,
+   "opm": -6.0
+  },
+  {
+   "period": "Dec 2025",
+   "revenue": 87067.0,
+   "ebitda": -12899.0,
+   "pbt": 26961.0,
+   "pat": 20691.0,
+   "opm": -15.0
+  },
+  {
+   "period": "Mar 2026",
+   "revenue": 87182.0,
+   "ebitda": -2066.0,
+   "pbt": 27672.0,
+   "pat": 21074.0,
+   "opm": -2.0
+  },
+  {
+   "period": "Jun 2026",
+   "revenue": 90575.0,
+   "ebitda": -15342.0,
+   "pbt": 27193.0,
+   "pat": 20383.0,
+   "opm": -17.0
+  },
+  {
+   "period": "Sep 2026",
+   "revenue": 95132.0,
+   "ebitda": -5565.0,
+   "pbt": 28663.0,
+   "pat": 21537.0,
+   "opm": -6.0
+  }
+ ],
+ "annual": [
+  {
+   "year": "Mar 2015",
+   "revenue": 50666.0,
+   "ebitda": 7214.0,
+   "pat": 10703.0,
+   "opm": 14.0,
+   "cfo": -21281.0,
+   "capex": 739.0,
+   "fcf": -22020.0,
+   "debt": 59478.0,
+   "equity": 63154.0
+  },
+  {
+   "year": "Mar 2016",
+   "revenue": 63162.0,
+   "ebitda": 9037.0,
+   "pat": 12821.0,
+   "opm": 14.0,
+   "cfo": -34435.0,
+   "capex": 866.0,
+   "fcf": -35301.0,
+   "debt": 103714.0,
+   "equity": 74304.0
+  },
+  {
+   "year": "Mar 2017",
+   "revenue": 73271.0,
+   "ebitda": 11374.0,
+   "pat": 15317.0,
+   "opm": 16.0,
+   "cfo": 17282.0,
+   "capex": 1148.0,
+   "fcf": 16134.0,
+   "debt": 98416.0,
+   "equity": 91794.0
+  },
+  {
+   "year": "Mar 2018",
+   "revenue": 85288.0,
+   "ebitda": 13374.0,
+   "pat": 18561.0,
+   "opm": 16.0,
+   "cfo": 17214.0,
+   "capex": 837.0,
+   "fcf": 16377.0,
+   "debt": 156442.0,
+   "equity": 109599.0
+  },
+  {
+   "year": "Mar 2019",
+   "revenue": 105161.0,
+   "ebitda": 16592.0,
+   "pat": 22446.0,
+   "opm": 16.0,
+   "cfo": -62872.0,
+   "capex": 1598.0,
+   "fcf": -64470.0,
+   "debt": 157733.0,
+   "equity": 153673.0
+  },
+  {
+   "year": "Mar 2020",
+   "revenue": 122189.0,
+   "ebitda": 14593.0,
+   "pat": 27296.0,
+   "opm": 12.0,
+   "cfo": -16869.0,
+   "capex": 1617.0,
+   "fcf": -18486.0,
+   "debt": 186834.0,
+   "equity": 176358.0
+  },
+  {
+   "year": "Mar 2021",
+   "revenue": 128552.0,
+   "ebitda": 16848.0,
+   "pat": 31857.0,
+   "opm": 13.0,
+   "cfo": 42476.0,
+   "capex": 1680.0,
+   "fcf": 40796.0,
+   "debt": 177697.0,
+   "equity": 209810.0
+  },
+  {
+   "year": "Mar 2022",
+   "revenue": 135936.0,
+   "ebitda": 20795.0,
+   "pat": 38151.0,
+   "opm": 15.0,
+   "cfo": -11960.0,
+   "capex": 2216.0,
+   "fcf": -14176.0,
+   "debt": 226966.0,
+   "equity": 247327.0
+  },
+  {
+   "year": "Mar 2023",
+   "revenue": 170754.0,
+   "ebitda": 29932.0,
+   "pat": 46149.0,
+   "opm": 18.0,
+   "cfo": 20814.0,
+   "capex": 3424.0,
+   "fcf": 17390.0,
+   "debt": 256549.0,
+   "equity": 289438.0
+  },
+  {
+   "year": "Mar 2024",
+   "revenue": 283649.0,
+   "ebitda": -44685.0,
+   "pat": 65446.0,
+   "opm": -16.0,
+   "cfo": 19069.0,
+   "capex": 4187.0,
+   "fcf": 14882.0,
+   "debt": 730615.0,
+   "equity": 456396.0
+  },
+  {
+   "year": "Mar 2025",
+   "revenue": 336367.0,
+   "ebitda": -34501.0,
+   "pat": 73440.0,
+   "opm": -10.0,
+   "cfo": 127242.0,
+   "capex": 3975.0,
+   "fcf": 123267.0,
+   "debt": 634606.0,
+   "equity": 521789.0
+  },
+  {
+   "year": "Mar 2026",
+   "revenue": 348615.0,
+   "ebitda": -40511.0,
+   "pat": 79219.0,
+   "opm": -12.0,
+   "cfo": 113506.0,
+   "capex": 3362.0,
+   "fcf": 110144.0,
+   "debt": 588485.0,
+   "equity": 586059.0
+  }
+ ],
+ "computed": {
+  "revenue_cagr_3y": 26.9,
+  "revenue_cagr_5y": 22.1,
+  "pat_cagr_3y": 19.7,
+  "pat_cagr_5y": 20.0,
+  "opm_trend": "compressing",
+  "de_ratio": 1.0,
+  "debt_trend": "rising",
+  "cfo_to_pat_5y": 0.89,
+  "fcf_5y_cr": 251507,
+  "ccc_days": null,
+  "ccc_trend": null
+ },
+ "flags": [
+  {
+   "level": "good",
+   "text": "Revenue 5y CAGR is 22.1%"
+  },
+  {
+   "level": "good",
+   "text": "ROE is 13.6%"
+  }
+ ],
+ "sources": [
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Oct 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d7e45614-ae12-4bb9-b92d-623b3a63f166.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Oct 2026",
+   "url": "https://www.hdfc.bank.in/content/dam/hdfcbankpws/in/en/pdf/about-us/financial-results/2026-2027/quarter-2/q2fy27-earnings-presentation.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=509cc499-6cb1-4d9f-8de9-9c7de6c70eef.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jul 2026",
+   "url": "https://www.hdfc.bank.in/content/dam/hdfcbankpws/in/en/pdf/about-us/financial-results/2026-2027/quarter-1/q1fy27-earnings-presentation.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Apr 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a77abbbb-954a-4221-8240-67bf0da6ba1c.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Apr 2026",
+   "url": "https://www.hdfc.bank.in/content/dam/hdfcbankpws/in/en/pdf/about-us/financial-results/2025-2026/quarter-4/q4fy26-earnings-presentation.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Mar 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=56739132-e21e-4503-aeb6-85f4f53c1244.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jan 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6e45f8a0-0fe6-40a3-8e5a-51c53713e6f0.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jan 2026",
+   "url": "https://www.hdfc.bank.in/content/dam/hdfcbankpws/in/en/pdf/financial-results/2025-2026/quarter-3/Q3FY26-earnings-presentation.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Oct 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=145964f9-580c-4d3f-b239-759f7b6a7a28.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Oct 2025",
+   "url": "http://www.hdfcbank.com/content/bbp/repositories/723fb80a-2dde-42a3-9793-7ae1be57c87f/?path=/Footer/About%20Us/Investor%20Relation/Detail%20PAges/financial%20results/PDFs/2025/oct/Q2FY26-Earnings-Presentation.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Oct 2025",
+   "url": "https://www.hdfcbank.com/content/bbp/repositories/723fb80a-2dde-42a3-9793-7ae1be57c87f/?path=/Footer/About%20Us/Investor%20Relation/Detail%20PAges/financial%20results/PDFs/2025/oct/Q2FY26-Earnings-Presentation.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jul 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d1268138-e288-4335-9764-7a944dfa3570.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jul 2025",
+   "url": "http://www.hdfcbank.com/content/bbp/repositories/723fb80a-2dde-42a3-9793-7ae1be57c87f/?path=/Footer/About%20Us/Investor%20Relation/Detail%20PAges/financial%20results/PDFs/2025/jul/Q1FY26-Earnings-Presentation.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/7d621500-082a-4342-b98d-ba677d3890c5.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/411e22d2-0720-4cec-b659-9ccd639f0f1a.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2024",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/2160dea5-d49e-4409-83a4-c2b111a3bd12.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2023",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/0fb0e6bd-7110-44c3-a750-76933ddf105c.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2022",
+   "url": "https://www.bseindia.com/bseplus/AnnualReport/500180/73256500180.pdf"
+  }
+ ]
+}

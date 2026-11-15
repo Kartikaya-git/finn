@@ -1,0 +1,368 @@
+{
+ "symbol": "ETERNAL",
+ "name": "Eternal Ltd",
+ "generated_at": "2026-11-15T17:25:04+00:00",
+ "about": "Incorporated in 2010, Eternal Limited (previously Zomato Limited) is one of the leading online Food Service platforms in terms of the value of food sold. Its offerings include food delivery, dining-out services, Loyalty programs, and others.",
+ "sector": "Retailing",
+ "price": {
+  "close": 363.65,
+  "change_pct": -0.2,
+  "mcap_cr": 350935.0,
+  "pe": 712.0,
+  "roce": 2.48,
+  "roe": 0.94
+ },
+ "quarters": [
+  {
+   "period": "Dec 2023",
+   "revenue": 3288.0,
+   "ebitda": 51.0,
+   "pbt": 124.0,
+   "pat": 138.0,
+   "opm": 1.6
+  },
+  {
+   "period": "Mar 2024",
+   "revenue": 3562.0,
+   "ebitda": 86.0,
+   "pbt": 161.0,
+   "pat": 175.0,
+   "opm": 2.4
+  },
+  {
+   "period": "Jun 2024",
+   "revenue": 4206.0,
+   "ebitda": 177.0,
+   "pbt": 239.0,
+   "pat": 253.0,
+   "opm": 4.2
+  },
+  {
+   "period": "Sep 2024",
+   "revenue": 4799.0,
+   "ebitda": 226.0,
+   "pbt": 237.0,
+   "pat": 176.0,
+   "opm": 4.7
+  },
+  {
+   "period": "Dec 2024",
+   "revenue": 5405.0,
+   "ebitda": 162.0,
+   "pbt": 124.0,
+   "pat": 59.0,
+   "opm": 3.0
+  },
+  {
+   "period": "Mar 2025",
+   "revenue": 5833.0,
+   "ebitda": 72.0,
+   "pbt": 97.0,
+   "pat": 39.0,
+   "opm": 1.2
+  },
+  {
+   "period": "Jun 2025",
+   "revenue": 7167.0,
+   "ebitda": 115.0,
+   "pbt": 88.0,
+   "pat": 25.0,
+   "opm": 1.6
+  },
+  {
+   "period": "Sep 2025",
+   "revenue": 13590.0,
+   "ebitda": 239.0,
+   "pbt": 129.0,
+   "pat": 65.0,
+   "opm": 1.8
+  },
+  {
+   "period": "Dec 2025",
+   "revenue": 16315.0,
+   "ebitda": 368.0,
+   "pbt": 170.0,
+   "pat": 102.0,
+   "opm": 2.3
+  },
+  {
+   "period": "Mar 2026",
+   "revenue": 17292.0,
+   "ebitda": 486.0,
+   "pbt": 228.0,
+   "pat": 174.0,
+   "opm": 2.8
+  },
+  {
+   "period": "Jun 2026",
+   "revenue": 20211.0,
+   "ebitda": 594.0,
+   "pbt": 272.0,
+   "pat": 92.0,
+   "opm": 2.9
+  },
+  {
+   "period": "Sep 2026",
+   "revenue": 24138.0,
+   "ebitda": 752.0,
+   "pbt": 323.0,
+   "pat": 125.0,
+   "opm": 3.1
+  }
+ ],
+ "annual": [
+  {
+   "year": "Mar 2018",
+   "revenue": 466.0,
+   "ebitda": -92.0,
+   "pat": -107.0,
+   "opm": -20.0,
+   "cfo": null,
+   "capex": null,
+   "fcf": null,
+   "debt": 186.0,
+   "equity": 1036.03
+  },
+  {
+   "year": "Mar 2019",
+   "revenue": 1313.0,
+   "ebitda": -2243.0,
+   "pat": -1010.0,
+   "opm": -171.0,
+   "cfo": null,
+   "capex": null,
+   "fcf": null,
+   "debt": 348.0,
+   "equity": 2356.03
+  },
+  {
+   "year": "Mar 2020",
+   "revenue": 2605.0,
+   "ebitda": -2305.0,
+   "pat": -2386.0,
+   "opm": -88.0,
+   "cfo": -2144.0,
+   "capex": 21.0,
+   "fcf": -2165.0,
+   "debt": 326.0,
+   "equity": 457.03
+  },
+  {
+   "year": "Mar 2021",
+   "revenue": 1994.0,
+   "ebitda": -467.0,
+   "pat": -816.0,
+   "opm": -23.0,
+   "cfo": -1018.0,
+   "capex": 10.0,
+   "fcf": -1028.0,
+   "debt": 527.0,
+   "equity": 7644.0
+  },
+  {
+   "year": "Mar 2022",
+   "revenue": 4192.0,
+   "ebitda": -1851.0,
+   "pat": -1222.0,
+   "opm": -44.0,
+   "cfo": -693.0,
+   "capex": 57.0,
+   "fcf": -750.0,
+   "debt": 70.0,
+   "equity": 16505.0
+  },
+  {
+   "year": "Mar 2023",
+   "revenue": 7079.0,
+   "ebitda": -1211.0,
+   "pat": -971.0,
+   "opm": -17.0,
+   "cfo": -844.0,
+   "capex": 101.0,
+   "fcf": -945.0,
+   "debt": 507.0,
+   "equity": 19460.0
+  },
+  {
+   "year": "Mar 2024",
+   "revenue": 12114.0,
+   "ebitda": 43.0,
+   "pat": 351.0,
+   "opm": 0.3,
+   "cfo": 646.0,
+   "capex": 202.0,
+   "fcf": 444.0,
+   "debt": 749.0,
+   "equity": 20413.0
+  },
+  {
+   "year": "Mar 2025",
+   "revenue": 20243.0,
+   "ebitda": 637.0,
+   "pat": 527.0,
+   "opm": 3.1,
+   "cfo": 308.0,
+   "capex": 931.0,
+   "fcf": -623.0,
+   "debt": 2045.0,
+   "equity": 30317.0
+  },
+  {
+   "year": "Mar 2026",
+   "revenue": 54364.0,
+   "ebitda": 1208.0,
+   "pat": 366.0,
+   "opm": 2.2,
+   "cfo": 632.0,
+   "capex": 1746.0,
+   "fcf": -1114.0,
+   "debt": 4592.0,
+   "equity": 30980.0
+  }
+ ],
+ "computed": {
+  "revenue_cagr_3y": 97.3,
+  "revenue_cagr_5y": 93.7,
+  "pat_cagr_3y": null,
+  "pat_cagr_5y": null,
+  "opm_trend": "expanding",
+  "de_ratio": 0.15,
+  "debt_trend": "rising",
+  "cfo_to_pat_5y": null,
+  "fcf_5y_cr": -2988,
+  "ccc_days": 2.0,
+  "ccc_trend": "lengthening"
+ },
+ "flags": [
+  {
+   "level": "watch",
+   "text": "Cumulative 5y free cash flow is ₹-2,988 Cr — growth is consuming cash"
+  },
+  {
+   "level": "watch",
+   "text": "Borrowings rose from ₹507 Cr to ₹4,592 Cr over 3 years"
+  },
+  {
+   "level": "good",
+   "text": "Revenue 5y CAGR is 93.7%"
+  },
+  {
+   "level": "good",
+   "text": "Operating margin expanding: -17% → 2% over 3 years"
+  },
+  {
+   "level": "watch",
+   "text": "Cash conversion cycle lengthened from -132 to 2 days"
+  },
+  {
+   "level": "watch",
+   "text": "ROCE is 2.5% — below cost of capital"
+  },
+  {
+   "level": "good",
+   "text": "Latest quarter PAT up 92.3% YoY (Sep 2026)"
+  }
+ ],
+ "sources": [
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Oct 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=64f36e3b-87e9-426e-be3e-515dca4525d2.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Oct 2026",
+   "url": "https://b.zmtcdn.com/investor-relations/Eternal_Limited_Shareholders_Letter_Q2FY27_Results.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=faa4f0f7-06e4-4066-9d68-3da95dfe02d9.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jul 2026",
+   "url": "https://b.zmtcdn.com/investor-relations/Eternal_Limited_Shareholders_Letter_Q1FY27_Results.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=60af607c-5f1b-4d5d-8425-4929efa6aad1.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · May 2026",
+   "url": "https://b.zmtcdn.com/investor-relations/Eternal_Shareholders_Letter_Q4FY26_Results.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jan 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=91f3f29f-c5c0-49b5-b425-a22374bf08ad.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jan 2026",
+   "url": "https://b.zmtcdn.com/investor-relations/Q3FY26-earnings-call-transcript.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jan 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=bf94ed1c-0352-41a3-a9af-ae5c9d568ff6.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Oct 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=69f3f58b-c856-4abf-9548-ab8c8f1a398e.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Oct 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=60824ca7-d07d-40a8-9e5d-5298e8eb5c4c.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jul 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7a528517-1eca-4556-8423-87220bf57373.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jul 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8f0d6136-6ea6-4a11-83c3-6af52d8e8b25.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · May 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=33ef27d3-1271-48fa-9ab9-89c6f96c833b.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · May 2025",
+   "url": "https://b.zmtcdn.com/investor-relations/Eternal_Ltd_Company_overview_April_2025.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4b6a4218-6bde-4c99-b10c-39ec7553cc42.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/e2687a83-7148-436f-9c29-f2d06f912134.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2024",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/629bfe24-4e55-4b14-957e-8c8bc5828ff0.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2023",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/0e0e9b68-2d04-41bf-9f59-fb539e330baf.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2022",
+   "url": "https://www.bseindia.com/bseplus/AnnualReport/543320/74160543320.pdf"
+  }
+ ]
+}

@@ -1,0 +1,99 @@
+{
+  "symbol": "DIXON",
+  "model": "claude (build-time, cached)",
+  "generated_at": "2026-11-15T12:00:00+05:30",
+  "business": {
+    "summary": "India's largest EMS company; mobile phones dominate. Q2 FY27 revenue ₹21,794 Cr: Mobile & EMS ₹20,093 Cr (op. profit ₹509 Cr), Consumer Electronics ₹1,115 Cr, Home Appliances ₹586 Cr (Q2 FY27 concall). Strategy is backward integration into components (Q Tech camera modules, HKC display JV, Gemtek optical JV) plus a Vivo manufacturing JV to lift volumes and the ~3% margin.",
+    "segments": [
+      { "name": "Mobile & other EMS (incl. telecom, IT hardware)", "share_pct": 92 },
+      { "name": "Consumer Electronics (LED TV, refrigerators)", "share_pct": 5 },
+      { "name": "Home Appliances (washing machines)", "share_pct": 3 }
+    ]
+  },
+  "promises": [
+    {
+      "quarter": "Q4 FY26",
+      "promise": "Sequential volume/revenue growth of at least 12-15% into FY27 after a flat Q4.",
+      "source": "Q4 FY26 concall",
+      "delivered": "Revenue ₹10,511 → ₹15,548 Cr (+48% QoQ) in Q1 FY27; mgmt said volumes beat guidance (Q1 FY27 concall).",
+      "verdict": "kept"
+    },
+    {
+      "quarter": "Q1 FY27",
+      "promise": "Q2 to grow 20-25% over Q1 (ex-Vivo).",
+      "source": "Q1 FY27 concall",
+      "delivered": "Revenue ₹21,794 Cr, +40% QoQ — but mgmt attributes mobile/IT growth largely to higher selling prices from memory inflation (Q2 FY27 concall).",
+      "verdict": "kept"
+    },
+    {
+      "quarter": "Q1 FY27",
+      "promise": "Margin profile to stabilise and then improve; exit better as components come in.",
+      "source": "Q1 FY27 concall",
+      "delivered": "OPM 3.9% (Q4 FY26) → 3.0% (Q1 FY27) → 2.7% (Q2 FY27); washing machine margin compressed to 8.6% from 10.5-11%.",
+      "verdict": "missed"
+    },
+    {
+      "quarter": "Q1 FY27",
+      "promise": "Vivo JV transaction to be concluded within the next two months.",
+      "source": "Q1 FY27 concall",
+      "delivered": "At Q2 FY27, commercials 'still being finalized'; consolidation now expected from Q4 FY27.",
+      "verdict": "missed"
+    },
+    {
+      "quarter": "Q4 FY26",
+      "promise": "Display modules with HKC to start from end-Q3 / beginning-Q4 FY27.",
+      "source": "Q4 FY26 concall",
+      "delivered": "Q2 FY27: auto/notebook trials in Q3, mobile display trials in Q4, mass production 'from next fiscal' — slipped to FY28.",
+      "verdict": "partly"
+    },
+    {
+      "quarter": "Q2 FY27",
+      "promise": "FY27 smartphone volumes 33-34M ex-Vivo; 55-60M including Vivo; exports 3.5-4M.",
+      "source": "Q2 FY27 concall",
+      "delivered": "Not yet testable; Vivo consolidation only from Q4.",
+      "verdict": "pending"
+    },
+    {
+      "quarter": "Q2 FY27",
+      "promise": "Display + camera modules to add 80-100 bps to margin over 2 years; display ₹6,000-7,000 Cr revenue potential on ~₹1,000 Cr capex.",
+      "source": "Q2 FY27 concall",
+      "delivered": "Display not yet in production; Q Tech H1 FY27 revenue flat YoY and its margin fell ~450 bps in FY26.",
+      "verdict": "pending"
+    }
+  ],
+  "narrative_vs_numbers": [
+    {
+      "claim": "Strong volume momentum and order book drive growth (Q1, Q2 FY27 concalls).",
+      "numbers": "Revenue +47% YoY in Q2 FY27, but mgmt concedes the mobile/IT growth is 'basically because the selling prices have gone up' on memory costs.",
+      "agrees": false
+    },
+    {
+      "claim": "Backward integration is margin accretive.",
+      "numbers": "OPM drifted 3.8-3.9% (FY26) → 2.7% (Q2 FY27); component revenue still minimal; Q Tech margin down ~450 bps in FY26.",
+      "agrees": false
+    },
+    {
+      "claim": "Reported profit is lumpy due to a non-operating gain.",
+      "numbers": "Other income ₹497 Cr (Q2 FY26) and ₹537 Cr (Q1 FY27) vs ₹72 Cr (Q2 FY27) — fair-value gains on the Aditya Infotech stake; ex-gain Q2 FY27 EBITDA ₹609 Cr, PAT ₹293 Cr.",
+      "agrees": true
+    }
+  ],
+  "guidance": [
+    { "metric": "Smartphone volumes FY27", "guide": "33-34M ex-Vivo; 55-60M with Vivo", "source": "Q2 FY27 concall" },
+    { "metric": "Vivo JV", "guide": "Consolidation from Q4 FY27; ~20-21M units/yr; capex ₹300-350 Cr", "source": "Q2 FY27 concall" },
+    { "metric": "Display JV (HKC)", "guide": "Trials Q3/Q4 FY27, mass production FY28; ~₹1,000 Cr capex; 25-30% of ₹7,000 Cr potential in FY28", "source": "Q2 FY27 concall" },
+    { "metric": "Margin", "guide": "+80-100 bps over 2 years from display + camera modules", "source": "Q2 FY27 concall" },
+    { "metric": "Camera module capacity", "guide": "120M → 180-190M units by next fiscal", "source": "Q2 FY27 concall" },
+    { "metric": "IT hardware", "guide": "~1.8-2M units next year", "source": "Q2 FY27 concall" }
+  ],
+  "bull": [
+    "Revenue ₹21,794 Cr in Q2 FY27, +47% YoY, beating the 20-25% QoQ guide (Q1, Q2 FY27 concalls; results).",
+    "Vivo JV adds ~20M units/yr from Q4 FY27, taking volumes toward 55-60M (Q2 FY27 concall).",
+    "Component play (display, camera, optical JV) targets +80-100 bps margin in 2 years (Q2 FY27 concall)."
+  ],
+  "bear": [
+    "Margins going the wrong way: OPM 3.9% → 2.7% despite the 'stabilise and improve' promise (Q1 FY27 concall; results).",
+    "Execution timelines slip: Vivo close (promised ~Sep-26) and display start (promised Q3/Q4) both pushed out (Q1, Q4 FY26, Q2 FY27 concalls).",
+    "Growth is partly price, not volume — memory inflation inflates revenue (Q2 FY27 concall)."
+  ]
+}

@@ -1,0 +1,274 @@
+{
+ "symbol": "NESTLEIND",
+ "name": "Nestle India Ltd",
+ "generated_at": "2026-11-15T17:25:06+00:00",
+ "about": "Nestle India Limited is a subsidiary of Nestle which is a Swiss MNC. The company operates in the Food segment.",
+ "sector": "Food Products",
+ "price": {
+  "close": 1263.2,
+  "change_pct": 0.2,
+  "mcap_cr": 243585.0,
+  "pe": 61.3,
+  "roce": 85.3,
+  "roe": 74.2
+ },
+ "quarters": [
+  {
+   "period": "Dec 2023",
+   "revenue": 4600.0,
+   "ebitda": 1095.0,
+   "pbt": 886.0,
+   "pat": 656.0,
+   "opm": 24.0
+  },
+  {
+   "period": "Jun 2024",
+   "revenue": 4814.0,
+   "ebitda": 1114.0,
+   "pbt": 1009.0,
+   "pat": 747.0,
+   "opm": 23.0
+  },
+  {
+   "period": "Sep 2024",
+   "revenue": 5104.0,
+   "ebitda": 1164.0,
+   "pbt": 1200.0,
+   "pat": 899.0,
+   "opm": 23.0
+  },
+  {
+   "period": "Dec 2024",
+   "revenue": 4780.0,
+   "ebitda": 1095.0,
+   "pbt": 914.0,
+   "pat": 688.0,
+   "opm": 23.0
+  },
+  {
+   "period": "Mar 2025",
+   "revenue": 5504.0,
+   "ebitda": 1376.0,
+   "pbt": 1192.0,
+   "pat": 873.0,
+   "opm": 25.0
+  },
+  {
+   "period": "Jun 2025",
+   "revenue": 5096.0,
+   "ebitda": 1087.0,
+   "pbt": 888.0,
+   "pat": 647.0,
+   "opm": 21.0
+  },
+  {
+   "period": "Sep 2025",
+   "revenue": 5644.0,
+   "ebitda": 1223.0,
+   "pbt": 1018.0,
+   "pat": 743.0,
+   "opm": 22.0
+  },
+  {
+   "period": "Dec 2025",
+   "revenue": 5667.0,
+   "ebitda": 1181.0,
+   "pbt": 1148.0,
+   "pat": 998.0,
+   "opm": 21.0
+  },
+  {
+   "period": "Mar 2026",
+   "revenue": 6748.0,
+   "ebitda": 1768.0,
+   "pbt": 1509.0,
+   "pat": 1111.0,
+   "opm": 26.0
+  },
+  {
+   "period": "Jun 2026",
+   "revenue": 6378.0,
+   "ebitda": 1522.0,
+   "pbt": 1308.0,
+   "pat": 959.0,
+   "opm": 24.0
+  },
+  {
+   "period": "Sep 2026",
+   "revenue": 6788.0,
+   "ebitda": 1598.0,
+   "pbt": 1382.0,
+   "pat": 1010.0,
+   "opm": 24.0
+  }
+ ],
+ "annual": [
+  {
+   "year": "Dec 2023",
+   "revenue": 19126.0,
+   "ebitda": 4471.0,
+   "pat": 2999.0,
+   "opm": 23.0,
+   "cfo": null,
+   "capex": null,
+   "fcf": null,
+   "debt": null,
+   "equity": null
+  },
+  {
+   "year": "Mar 2024 15m",
+   "revenue": 24394.0,
+   "ebitda": 5843.0,
+   "pat": 3933.0,
+   "opm": 24.0,
+   "cfo": null,
+   "capex": null,
+   "fcf": null,
+   "debt": null,
+   "equity": null
+  },
+  {
+   "year": "Mar 2025",
+   "revenue": 20202.0,
+   "ebitda": 4747.0,
+   "pat": 3208.0,
+   "opm": 24.0,
+   "cfo": 2936.0,
+   "capex": 2004.0,
+   "fcf": 932.0,
+   "debt": 1167.0,
+   "equity": 4010.0
+  },
+  {
+   "year": "Mar 2026",
+   "revenue": 23155.0,
+   "ebitda": 5261.0,
+   "pat": 3499.0,
+   "opm": 23.0,
+   "cfo": 5048.0,
+   "capex": 827.0,
+   "fcf": 4221.0,
+   "debt": 444.0,
+   "equity": 5157.0
+  }
+ ],
+ "computed": {
+  "revenue_cagr_3y": 6.6,
+  "revenue_cagr_5y": null,
+  "pat_cagr_3y": 5.3,
+  "pat_cagr_5y": null,
+  "opm_trend": "stable",
+  "de_ratio": 0.09,
+  "debt_trend": "flat",
+  "cfo_to_pat_5y": null,
+  "fcf_5y_cr": null,
+  "ccc_days": -19.0,
+  "ccc_trend": null
+ },
+ "flags": [
+  {
+   "level": "good",
+   "text": "Debt/equity is 0.09 — virtually debt-free"
+  },
+  {
+   "level": "good",
+   "text": "ROCE is 85.3%"
+  },
+  {
+   "level": "good",
+   "text": "Latest quarter PAT up 35.9% YoY (Sep 2026)"
+  }
+ ],
+ "sources": [
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=97e83f21-9f3c-47c2-ba36-2a29fe44a380.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ac0cae38-27ed-4886-af33-f88442d4988c.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Feb 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=cce29c06-5e1f-4c2a-9585-327e6d47710c.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Feb 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=08e73837-f86e-4a9d-8464-27d8b6750cbe.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Apr 2024",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c7a9fd0e-2d40-4a71-b421-2882033e2aea.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Oct 2023",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=51f589ba-8cc4-4dc1-8483-5790d410f3c1.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Oct 2023",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e48bae9f-fa72-4f7d-900f-687c082effb4.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Feb 2023",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=57b18a55-2938-4a2d-be61-e5c4f0cbc195.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Feb 2023",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=bfb3adce-5439-4e83-9837-40c9b163d4f9.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Aug 2022",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c76ed253-7075-4364-97ae-7040bd89009a.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Aug 2022",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e4beaa19-b51e-4730-af28-3add53d61528.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Feb 2022",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2a7e2d99-1b7b-4105-ade8-c861660ea776.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Aug 2019",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6daa0869-6102-480c-a5ed-6989f1a5ac5a.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/65cd4ca1-41a5-4526-b920-66b4133a4e5a.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/e5d14b70-7e0c-4ecc-8a8e-74ccd0214e39.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2024",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/9e88129a-3672-4a4b-b840-a88568c49369.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2022",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/e4b5f094-a03f-4989-9447-52a43d69ecb8.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2021",
+   "url": "https://www.bseindia.com/bseplus/AnnualReport/500790/72944500790.pdf"
+  }
+ ]
+}

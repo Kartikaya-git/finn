@@ -1,0 +1,382 @@
+{
+ "symbol": "DRREDDY",
+ "name": "Dr Reddys Laboratories Ltd",
+ "generated_at": "2026-11-15T17:25:05+00:00",
+ "about": "Dr. Reddy's Laboratories Ltd is a leading India-based pharmaceutical company which offers a portfolio of products and services, including Active Pharmaceutical Ingredients (APIs), Custom Pharmaceutical services (CPS), generics, biosimilars and differentiated formulations.",
+ "sector": "Pharmaceuticals & Biotechnology",
+ "price": {
+  "close": 1380.0,
+  "change_pct": -0.5,
+  "mcap_cr": 115267.0,
+  "pe": 41.2,
+  "roce": 13.0,
+  "roe": 11.2
+ },
+ "quarters": [
+  {
+   "period": "Dec 2023",
+   "revenue": 7237.0,
+   "ebitda": 2023.0,
+   "pbt": 1829.0,
+   "pat": 1381.0,
+   "opm": 28.0
+  },
+  {
+   "period": "Mar 2024",
+   "revenue": 7114.0,
+   "ebitda": 1831.0,
+   "pbt": 1605.0,
+   "pat": 1310.0,
+   "opm": 26.0
+  },
+  {
+   "period": "Jun 2024",
+   "revenue": 7696.0,
+   "ebitda": 2130.0,
+   "pbt": 1883.0,
+   "pat": 1392.0,
+   "opm": 28.0
+  },
+  {
+   "period": "Sep 2024",
+   "revenue": 8038.0,
+   "ebitda": 2076.0,
+   "pbt": 1917.0,
+   "pat": 1342.0,
+   "opm": 26.0
+  },
+  {
+   "period": "Dec 2024",
+   "revenue": 8381.0,
+   "ebitda": 2273.0,
+   "pbt": 1874.0,
+   "pat": 1404.0,
+   "opm": 27.0
+  },
+  {
+   "period": "Mar 2025",
+   "revenue": 8528.0,
+   "ebitda": 1998.0,
+   "pbt": 2005.0,
+   "pat": 1587.0,
+   "opm": 23.0
+  },
+  {
+   "period": "Jun 2025",
+   "revenue": 8572.0,
+   "ebitda": 2174.0,
+   "pbt": 1905.0,
+   "pat": 1410.0,
+   "opm": 25.0
+  },
+  {
+   "period": "Sep 2025",
+   "revenue": 8828.0,
+   "ebitda": 2010.0,
+   "pbt": 1745.0,
+   "pat": 1337.0,
+   "opm": 23.0
+  },
+  {
+   "period": "Dec 2025",
+   "revenue": 8753.0,
+   "ebitda": 1888.0,
+   "pbt": 1543.0,
+   "pat": 1190.0,
+   "opm": 22.0
+  },
+  {
+   "period": "Mar 2026",
+   "revenue": 7546.0,
+   "ebitda": 382.0,
+   "pbt": 200.0,
+   "pat": 221.0,
+   "opm": 5.0
+  },
+  {
+   "period": "Jun 2026",
+   "revenue": 8100.0,
+   "ebitda": 860.0,
+   "pbt": 553.0,
+   "pat": 436.0,
+   "opm": 11.0
+  },
+  {
+   "period": "Sep 2026",
+   "revenue": 8698.0,
+   "ebitda": 1723.0,
+   "pbt": 1228.0,
+   "pat": 913.0,
+   "opm": 20.0
+  }
+ ],
+ "annual": [
+  {
+   "year": "Mar 2015",
+   "revenue": 15023.0,
+   "ebitda": 3508.0,
+   "pat": 2336.0,
+   "opm": 23.0,
+   "cfo": 2524.0,
+   "capex": 1515.0,
+   "fcf": 1009.0,
+   "debt": 4314.0,
+   "equity": 9853.0
+  },
+  {
+   "year": "Mar 2016",
+   "revenue": 15568.0,
+   "ebitda": 3585.0,
+   "pat": 2131.0,
+   "opm": 23.0,
+   "cfo": 3263.0,
+   "capex": 1198.0,
+   "fcf": 2065.0,
+   "debt": 3352.0,
+   "equity": 12569.0
+  },
+  {
+   "year": "Mar 2017",
+   "revenue": 14196.0,
+   "ebitda": 2472.0,
+   "pat": 1292.0,
+   "opm": 17.0,
+   "cfo": 2144.0,
+   "capex": 1218.0,
+   "fcf": 926.0,
+   "debt": 4918.0,
+   "equity": 12262.0
+  },
+  {
+   "year": "Mar 2018",
+   "revenue": 14281.0,
+   "ebitda": 2351.0,
+   "pat": 947.0,
+   "opm": 16.0,
+   "cfo": 1803.0,
+   "capex": 1090.0,
+   "fcf": 713.0,
+   "debt": 5071.0,
+   "equity": 12572.0
+  },
+  {
+   "year": "Mar 2019",
+   "revenue": 15448.0,
+   "ebitda": 3178.0,
+   "pat": 1950.0,
+   "opm": 21.0,
+   "cfo": 2870.0,
+   "capex": 622.0,
+   "fcf": 2248.0,
+   "debt": 3838.0,
+   "equity": 14024.0
+  },
+  {
+   "year": "Mar 2020",
+   "revenue": 17517.0,
+   "ebitda": 2477.0,
+   "pat": 2026.0,
+   "opm": 14.0,
+   "cfo": 2984.0,
+   "capex": 572.0,
+   "fcf": 2412.0,
+   "debt": 2210.0,
+   "equity": 15599.0
+  },
+  {
+   "year": "Mar 2021",
+   "revenue": 19048.0,
+   "ebitda": 3874.0,
+   "pat": 1952.0,
+   "opm": 20.0,
+   "cfo": 3570.0,
+   "capex": 1247.0,
+   "fcf": 2323.0,
+   "debt": 3031.0,
+   "equity": 17641.0
+  },
+  {
+   "year": "Mar 2022",
+   "revenue": 21545.0,
+   "ebitda": 3768.0,
+   "pat": 2182.0,
+   "opm": 17.0,
+   "cfo": 2811.0,
+   "capex": 1573.0,
+   "fcf": 1238.0,
+   "debt": 3384.0,
+   "equity": 19212.0
+  },
+  {
+   "year": "Mar 2023",
+   "revenue": 24670.0,
+   "ebitda": 6470.0,
+   "pat": 4507.0,
+   "opm": 26.0,
+   "cfo": 5888.0,
+   "capex": 1879.0,
+   "fcf": 4009.0,
+   "debt": 1347.0,
+   "equity": 23286.0
+  },
+  {
+   "year": "Mar 2024",
+   "revenue": 28011.0,
+   "ebitda": 7933.0,
+   "pat": 5578.0,
+   "opm": 28.0,
+   "cfo": 4543.0,
+   "capex": 2635.0,
+   "fcf": 1908.0,
+   "debt": 2002.0,
+   "equity": 28254.0
+  },
+  {
+   "year": "Mar 2025",
+   "revenue": 32644.0,
+   "ebitda": 8547.0,
+   "pat": 5725.0,
+   "opm": 26.0,
+   "cfo": 4643.0,
+   "capex": 3316.0,
+   "fcf": 1327.0,
+   "debt": 4677.0,
+   "equity": 33549.0
+  },
+  {
+   "year": "Mar 2026",
+   "revenue": 33700.0,
+   "ebitda": 6454.0,
+   "pat": 4158.0,
+   "opm": 19.0,
+   "cfo": 5674.0,
+   "capex": 3670.0,
+   "fcf": 2004.0,
+   "debt": 7734.0,
+   "equity": 37892.0
+  }
+ ],
+ "computed": {
+  "revenue_cagr_3y": 11.0,
+  "revenue_cagr_5y": 12.1,
+  "pat_cagr_3y": -2.7,
+  "pat_cagr_5y": 16.3,
+  "opm_trend": "stable",
+  "de_ratio": 0.2,
+  "debt_trend": "rising",
+  "cfo_to_pat_5y": 1.06,
+  "fcf_5y_cr": 10486,
+  "ccc_days": 247.0,
+  "ccc_trend": "lengthening"
+ },
+ "flags": [
+  {
+   "level": "good",
+   "text": "CFO/PAT over 5y is 1.06 — profits backed by cash"
+  },
+  {
+   "level": "watch",
+   "text": "Borrowings rose from ₹1,347 Cr to ₹7,734 Cr over 3 years"
+  },
+  {
+   "level": "watch",
+   "text": "Cash conversion cycle lengthened from 231 to 247 days"
+  },
+  {
+   "level": "bad",
+   "text": "Latest quarter PAT down 31.7% YoY (Sep 2026)"
+  }
+ ],
+ "sources": [
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Oct 2026",
+   "url": "https://www.drreddys.com/cms/sites/default/files/2026-10/EarningsCallTranscriptQ2FY27.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Oct 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3787a62c-6056-45bf-a566-3851ca03f88c.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=23b55ad8-a0ce-4573-b27a-d0d83f618ae5.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d701ba41-32c6-4fe6-989d-94e734ec10a7.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=974a472a-c74c-4d8e-9572-168c04c00281.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · May 2026",
+   "url": "https://www.drreddys.com/cms/sites/default/files/2026-05/DRL_Q4FY26EarningsCall%20Transcript_12May2026.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=95588392-8071-413a-9d78-991bd1d87d4a.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9156ec0d-1f58-4ef7-b858-4e7239bf1dfc.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jan 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=30a818a1-d382-4917-8a76-46f67c4f6d9a.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jan 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ef2cbf94-0330-4ecd-a526-e5efc3b673b3.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jan 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ef2cbf94-0330-4ecd-a526-e5efc3b673b3.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Oct 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0953e6da-232b-4a0b-94ed-5348b8e2987d.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Oct 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=45e836ba-e747-490e-b57b-d4562e283952.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b4d586a3-1dea-4aca-9bdc-143fa8564ad1.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/709c0d0e-a7a2-4c2a-a123-b09227a7f3f6.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2024",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/cb3e5286-9df0-4e11-a250-fa17688f8266.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2023",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/e6b6312d-b8a3-4af8-958b-2564271685e7.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2022",
+   "url": "https://www.bseindia.com/bseplus/AnnualReport/500124/73517500124.pdf"
+  }
+ ]
+}

@@ -1,0 +1,365 @@
+{
+ "symbol": "TRENT",
+ "name": "Trent Ltd",
+ "generated_at": "2026-11-15T17:25:04+00:00",
+ "about": "Trent Ltd is engaged in retailing of apparels, footwear, accessories, toys, games, food, grocery & non food products through various of its retail formats/ concepts.",
+ "sector": "Retailing",
+ "price": {
+  "close": 3165.2,
+  "change_pct": -0.5,
+  "mcap_cr": 168779.0,
+  "pe": 88.1,
+  "roce": 28.3,
+  "roe": 27.7
+ },
+ "quarters": [
+  {
+   "period": "Dec 2023",
+   "revenue": 3467.0,
+   "ebitda": 629.0,
+   "pbt": 475.0,
+   "pat": 371.0,
+   "opm": 18.0
+  },
+  {
+   "period": "Mar 2024",
+   "revenue": 3298.0,
+   "ebitda": 470.0,
+   "pbt": 919.0,
+   "pat": 712.0,
+   "opm": 14.0
+  },
+  {
+   "period": "Jun 2024",
+   "revenue": 4104.0,
+   "ebitda": 613.0,
+   "pbt": 501.0,
+   "pat": 391.0,
+   "opm": 15.0
+  },
+  {
+   "period": "Sep 2024",
+   "revenue": 4157.0,
+   "ebitda": 646.0,
+   "pbt": 467.0,
+   "pat": 335.0,
+   "opm": 16.0
+  },
+  {
+   "period": "Dec 2024",
+   "revenue": 4657.0,
+   "ebitda": 847.0,
+   "pbt": 646.0,
+   "pat": 497.0,
+   "opm": 18.0
+  },
+  {
+   "period": "Mar 2025",
+   "revenue": 4217.0,
+   "ebitda": 651.0,
+   "pbt": 416.0,
+   "pat": 312.0,
+   "opm": 15.0
+  },
+  {
+   "period": "Jun 2025",
+   "revenue": 4883.0,
+   "ebitda": 848.0,
+   "pbt": 565.0,
+   "pat": 425.0,
+   "opm": 17.0
+  },
+  {
+   "period": "Sep 2025",
+   "revenue": 4818.0,
+   "ebitda": 816.0,
+   "pbt": 477.0,
+   "pat": 373.0,
+   "opm": 17.0
+  },
+  {
+   "period": "Dec 2025",
+   "revenue": 5345.0,
+   "ebitda": 1081.0,
+   "pbt": 676.0,
+   "pat": 510.0,
+   "opm": 20.0
+  },
+  {
+   "period": "Mar 2026",
+   "revenue": 5028.0,
+   "ebitda": 911.0,
+   "pbt": 519.0,
+   "pat": 413.0,
+   "opm": 18.0
+  },
+  {
+   "period": "Jun 2026",
+   "revenue": 5755.0,
+   "ebitda": 1119.0,
+   "pbt": 692.0,
+   "pat": 518.0,
+   "opm": 19.0
+  },
+  {
+   "period": "Sep 2026",
+   "revenue": 5873.0,
+   "ebitda": 1057.0,
+   "pbt": 619.0,
+   "pat": 468.0,
+   "opm": 18.0
+  }
+ ],
+ "annual": [
+  {
+   "year": "Mar 2015",
+   "revenue": 2284.0,
+   "ebitda": 88.0,
+   "pat": 129.0,
+   "opm": 3.8,
+   "cfo": -10.0,
+   "capex": 156.0,
+   "fcf": -166.0,
+   "debt": 267.0,
+   "equity": 1422.0
+  },
+  {
+   "year": "Mar 2016",
+   "revenue": 1686.0,
+   "ebitda": 90.0,
+   "pat": 55.0,
+   "opm": 5.0,
+   "cfo": 109.0,
+   "capex": 130.0,
+   "fcf": -21.0,
+   "debt": 400.0,
+   "equity": 1464.0
+  },
+  {
+   "year": "Mar 2017",
+   "revenue": 1812.0,
+   "ebitda": 134.0,
+   "pat": 85.0,
+   "opm": 7.0,
+   "cfo": 102.0,
+   "capex": 68.0,
+   "fcf": 34.0,
+   "debt": 392.0,
+   "equity": 1547.0
+  },
+  {
+   "year": "Mar 2018",
+   "revenue": 2157.0,
+   "ebitda": 208.0,
+   "pat": 87.0,
+   "opm": 10.0,
+   "cfo": 77.0,
+   "capex": 107.0,
+   "fcf": -30.0,
+   "debt": 391.0,
+   "equity": 1595.0
+  },
+  {
+   "year": "Mar 2019",
+   "revenue": 2630.0,
+   "ebitda": 241.0,
+   "pat": 95.0,
+   "opm": 9.0,
+   "cfo": 21.0,
+   "capex": 195.0,
+   "fcf": -174.0,
+   "debt": 494.0,
+   "equity": 1646.0
+  },
+  {
+   "year": "Mar 2020",
+   "revenue": 3486.0,
+   "ebitda": 529.0,
+   "pat": 106.0,
+   "opm": 15.0,
+   "cfo": 361.0,
+   "capex": 114.0,
+   "fcf": 247.0,
+   "debt": 300.0,
+   "equity": 2388.0
+  },
+  {
+   "year": "Mar 2021",
+   "revenue": 2593.0,
+   "ebitda": 114.0,
+   "pat": -181.0,
+   "opm": 4.4,
+   "cfo": 285.0,
+   "capex": 91.0,
+   "fcf": 194.0,
+   "debt": 2964.0,
+   "equity": 2313.0
+  },
+  {
+   "year": "Mar 2022",
+   "revenue": 4498.0,
+   "ebitda": 595.0,
+   "pat": 35.0,
+   "opm": 13.0,
+   "cfo": 58.0,
+   "capex": 210.0,
+   "fcf": -152.0,
+   "debt": 4725.0,
+   "equity": 2364.0
+  },
+  {
+   "year": "Mar 2023",
+   "revenue": 8242.0,
+   "ebitda": 1114.0,
+   "pat": 394.0,
+   "opm": 14.0,
+   "cfo": 595.0,
+   "capex": 224.0,
+   "fcf": 371.0,
+   "debt": 4464.0,
+   "equity": 2596.0
+  },
+  {
+   "year": "Mar 2024",
+   "revenue": 12375.0,
+   "ebitda": 1971.0,
+   "pat": 1477.0,
+   "opm": 16.0,
+   "cfo": 1349.0,
+   "capex": 394.0,
+   "fcf": 955.0,
+   "debt": 1753.0,
+   "equity": 4068.0
+  },
+  {
+   "year": "Mar 2025",
+   "revenue": 17135.0,
+   "ebitda": 2820.0,
+   "pat": 1534.0,
+   "opm": 16.0,
+   "cfo": 1661.0,
+   "capex": 862.0,
+   "fcf": 799.0,
+   "debt": 2237.0,
+   "equity": 5462.0
+  },
+  {
+   "year": "Mar 2026",
+   "revenue": 20074.0,
+   "ebitda": 3745.0,
+   "pat": 1721.0,
+   "opm": 19.0,
+   "cfo": 2668.0,
+   "capex": 1737.0,
+   "fcf": 931.0,
+   "debt": 2561.0,
+   "equity": 6985.0
+  }
+ ],
+ "computed": {
+  "revenue_cagr_3y": 34.5,
+  "revenue_cagr_5y": 50.6,
+  "pat_cagr_3y": 63.5,
+  "pat_cagr_5y": null,
+  "opm_trend": "expanding",
+  "de_ratio": 0.37,
+  "debt_trend": "falling",
+  "cfo_to_pat_5y": 1.23,
+  "fcf_5y_cr": 2904,
+  "ccc_days": 36.0,
+  "ccc_trend": "shortening"
+ },
+ "flags": [
+  {
+   "level": "good",
+   "text": "CFO/PAT over 5y is 1.23 — profits backed by cash"
+  },
+  {
+   "level": "good",
+   "text": "Revenue 5y CAGR is 50.6%"
+  },
+  {
+   "level": "good",
+   "text": "Operating margin expanding: 14% → 19% over 3 years"
+  },
+  {
+   "level": "good",
+   "text": "Cash conversion cycle shortened from 55 to 36 days"
+  },
+  {
+   "level": "good",
+   "text": "ROCE is 28.3%"
+  },
+  {
+   "level": "good",
+   "text": "Latest quarter PAT up 25.5% YoY (Sep 2026)"
+  }
+ ],
+ "sources": [
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ffb34801-a67e-4184-897a-06bf9e8bec64.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Apr 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e08ff77d-7f68-46d2-acc6-ed26ee5c4974.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Feb 2026",
+   "url": "https://docs.trent-tata.com/Investor_Presentation_Q3FY26.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Nov 2025",
+   "url": "https://docs.trent-tata.com/Investor_Presentation_Q2_FY26.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Aug 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8b445c87-9c3c-4747-af2e-afde246c803c.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jun 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b25ff32f-40f3-4190-8525-3f53102a4938.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Apr 2025",
+   "url": "https://docs.trent-tata.com/Trent_Limited_Q4FY25_Investor_Deck_V3.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Feb 2025",
+   "url": "https://docs.trent-tata.com/Investor_presentation_Q3_FY_2025.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/c3f6fa4a-3c51-453e-b634-3c3ef98f7361.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/305e1656-360b-4f28-b00d-fd6b152723b5.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2024",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/c7330ad5-ba82-4673-baaa-b39af9c47c87.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2023",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/58357a1d-01e7-410e-a079-834f7aefce44.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2022",
+   "url": "https://www.bseindia.com/bseplus/AnnualReport/500251/72987500251.pdf"
+  }
+ ]
+}

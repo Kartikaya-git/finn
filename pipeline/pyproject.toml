@@ -1,0 +1,12 @@
+[project]
+name = "finn"
+version = "0.1.0"
+description = "FINN data pipeline: screener.in -> JSON"
+requires-python = ">=3.11"
+dependencies = ["requests", "beautifulsoup4", "lxml"]
+
+[dependency-groups]
+dev = ["pytest"]
+
+[tool.uv]
+package = false

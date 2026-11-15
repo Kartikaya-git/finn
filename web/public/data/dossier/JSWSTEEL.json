@@ -1,0 +1,404 @@
+{
+ "symbol": "JSWSTEEL",
+ "name": "JSW Steel Ltd",
+ "generated_at": "2026-11-15T17:25:06+00:00",
+ "about": "JSW Steel is primarily engaged in the business of manufacture and sale of Iron and Steel Products. It is the flagship business of the diversified, US$ 23 billion JSW Group.The Group has interests in energy, infrastructure, cement, paints, sports, and venture capital.",
+ "sector": "Ferrous Metals",
+ "price": {
+  "close": 1348.0,
+  "change_pct": -0.3,
+  "mcap_cr": 329647.0,
+  "pe": 21.0,
+  "roce": 11.0,
+  "roe": 10.2
+ },
+ "quarters": [
+  {
+   "period": "Dec 2023",
+   "revenue": 41940.0,
+   "ebitda": 7164.0,
+   "pbt": 3303.0,
+   "pat": 2450.0,
+   "opm": 17.0
+  },
+  {
+   "period": "Mar 2024",
+   "revenue": 46269.0,
+   "ebitda": 6026.0,
+   "pbt": 2012.0,
+   "pat": 1322.0,
+   "opm": 13.0
+  },
+  {
+   "period": "Jun 2024",
+   "revenue": 42943.0,
+   "ebitda": 5498.0,
+   "pbt": 1380.0,
+   "pat": 867.0,
+   "opm": 13.0
+  },
+  {
+   "period": "Sep 2024",
+   "revenue": 39684.0,
+   "ebitda": 5375.0,
+   "pbt": 789.0,
+   "pat": 404.0,
+   "opm": 14.0
+  },
+  {
+   "period": "Dec 2024",
+   "revenue": 41378.0,
+   "ebitda": 5579.0,
+   "pbt": 1178.0,
+   "pat": 719.0,
+   "opm": 13.0
+  },
+  {
+   "period": "Mar 2025",
+   "revenue": 44819.0,
+   "ebitda": 6135.0,
+   "pbt": 1730.0,
+   "pat": 1501.0,
+   "opm": 14.0
+  },
+  {
+   "period": "Jun 2025",
+   "revenue": 43147.0,
+   "ebitda": 7476.0,
+   "pbt": 3072.0,
+   "pat": 2209.0,
+   "opm": 17.0
+  },
+  {
+   "period": "Sep 2025",
+   "revenue": 45152.0,
+   "ebitda": 7027.0,
+   "pbt": 2344.0,
+   "pat": 1646.0,
+   "opm": 16.0
+  },
+  {
+   "period": "Dec 2025",
+   "revenue": 45991.0,
+   "ebitda": 6379.0,
+   "pbt": 1457.0,
+   "pat": 2410.0,
+   "opm": 14.0
+  },
+  {
+   "period": "Mar 2026",
+   "revenue": 51180.0,
+   "ebitda": 8464.0,
+   "pbt": 22377.0,
+   "pat": 19243.0,
+   "opm": 17.0
+  },
+  {
+   "period": "Jun 2026",
+   "revenue": 47364.0,
+   "ebitda": 9285.0,
+   "pbt": 6160.0,
+   "pat": 4696.0,
+   "opm": 20.0
+  },
+  {
+   "period": "Sep 2026",
+   "revenue": 54486.0,
+   "ebitda": 10120.0,
+   "pbt": 7051.0,
+   "pat": 5359.0,
+   "opm": 19.0
+  }
+ ],
+ "annual": [
+  {
+   "year": "Mar 2015",
+   "revenue": 52972.0,
+   "ebitda": 9364.0,
+   "pat": 1722.0,
+   "opm": 18.0,
+   "cfo": 7876.0,
+   "capex": 6514.0,
+   "fcf": 1362.0,
+   "debt": 38754.0,
+   "equity": 22290.0
+  },
+  {
+   "year": "Mar 2016",
+   "revenue": 41546.0,
+   "ebitda": 6422.0,
+   "pat": -481.0,
+   "opm": 15.0,
+   "cfo": 6897.0,
+   "capex": 5161.0,
+   "fcf": 1736.0,
+   "debt": 42204.0,
+   "equity": 18966.0
+  },
+  {
+   "year": "Mar 2017",
+   "revenue": 55604.0,
+   "ebitda": 12308.0,
+   "pat": 3467.0,
+   "opm": 22.0,
+   "cfo": 7888.0,
+   "capex": 4390.0,
+   "fcf": 3498.0,
+   "debt": 43334.0,
+   "equity": 22647.0
+  },
+  {
+   "year": "Mar 2018",
+   "revenue": 71933.0,
+   "ebitda": 14916.0,
+   "pat": 6113.0,
+   "opm": 21.0,
+   "cfo": 12379.0,
+   "capex": 4676.0,
+   "fcf": 7703.0,
+   "debt": 39393.0,
+   "equity": 27998.0
+  },
+  {
+   "year": "Mar 2019",
+   "revenue": 84757.0,
+   "ebitda": 18930.0,
+   "pat": 7524.0,
+   "opm": 22.0,
+   "cfo": 14633.0,
+   "capex": 10162.0,
+   "fcf": 4471.0,
+   "debt": 47396.0,
+   "equity": 34795.0
+  },
+  {
+   "year": "Mar 2020",
+   "revenue": 73326.0,
+   "ebitda": 11813.0,
+   "pat": 3919.0,
+   "opm": 16.0,
+   "cfo": 12785.0,
+   "capex": 12767.0,
+   "fcf": 18.0,
+   "debt": 61423.0,
+   "equity": 36599.0
+  },
+  {
+   "year": "Mar 2021",
+   "revenue": 79839.0,
+   "ebitda": 20178.0,
+   "pat": 7873.0,
+   "opm": 25.0,
+   "cfo": 18831.0,
+   "capex": 10915.0,
+   "fcf": 7916.0,
+   "debt": 66727.0,
+   "equity": 45610.0
+  },
+  {
+   "year": "Mar 2022",
+   "revenue": 146371.0,
+   "ebitda": 39114.0,
+   "pat": 20938.0,
+   "opm": 27.0,
+   "cfo": 26270.0,
+   "capex": 10048.0,
+   "fcf": 16222.0,
+   "debt": 72237.0,
+   "equity": 67297.0
+  },
+  {
+   "year": "Mar 2023",
+   "revenue": 165960.0,
+   "ebitda": 18470.0,
+   "pat": 4139.0,
+   "opm": 11.0,
+   "cfo": 23323.0,
+   "capex": 14749.0,
+   "fcf": 8574.0,
+   "debt": 80853.0,
+   "equity": 65695.0
+  },
+  {
+   "year": "Mar 2024",
+   "revenue": 175006.0,
+   "ebitda": 28157.0,
+   "pat": 8973.0,
+   "opm": 16.0,
+   "cfo": 12078.0,
+   "capex": 15547.0,
+   "fcf": -3469.0,
+   "debt": 87984.0,
+   "equity": 77669.0
+  },
+  {
+   "year": "Mar 2025",
+   "revenue": 168824.0,
+   "ebitda": 22725.0,
+   "pat": 3491.0,
+   "opm": 13.0,
+   "cfo": 20899.0,
+   "capex": 12635.0,
+   "fcf": 8264.0,
+   "debt": 98752.0,
+   "equity": 79496.0
+  },
+  {
+   "year": "Mar 2026",
+   "revenue": 185470.0,
+   "ebitda": 29464.0,
+   "pat": 25508.0,
+   "opm": 16.0,
+   "cfo": 25152.0,
+   "capex": 14542.0,
+   "fcf": 10610.0,
+   "debt": 99310.0,
+   "equity": 100053.0
+  }
+ ],
+ "computed": {
+  "revenue_cagr_3y": 3.8,
+  "revenue_cagr_5y": 18.4,
+  "pat_cagr_3y": 83.3,
+  "pat_cagr_5y": 26.5,
+  "opm_trend": "compressing",
+  "de_ratio": 0.99,
+  "debt_trend": "rising",
+  "cfo_to_pat_5y": 1.71,
+  "fcf_5y_cr": 40201,
+  "ccc_days": 16.0,
+  "ccc_trend": "lengthening"
+ },
+ "flags": [
+  {
+   "level": "good",
+   "text": "CFO/PAT over 5y is 1.71 — profits backed by cash"
+  },
+  {
+   "level": "watch",
+   "text": "Debt/equity is 0.99"
+  },
+  {
+   "level": "watch",
+   "text": "Borrowings rose from ₹80,853 Cr to ₹99,310 Cr over 3 years"
+  },
+  {
+   "level": "good",
+   "text": "Revenue 5y CAGR is 18.4%"
+  },
+  {
+   "level": "watch",
+   "text": "Operating margin compressing: 11% → 16% over 3 years"
+  },
+  {
+   "level": "watch",
+   "text": "Cash conversion cycle lengthened from -4 to 16 days"
+  },
+  {
+   "level": "good",
+   "text": "Latest quarter PAT up 225.6% YoY (Sep 2026)"
+  }
+ ],
+ "sources": [
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Oct 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c23ff1d1-4e97-43a3-86e9-e639e4240ff1.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jul 2026",
+   "url": "https://jsw-steel-s3.s3.ap-south-1.amazonaws.com/jsw-steel-images/uploads/2026/07/JSWSL-Q1FY27-Earnings-July17-2026.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5e49903a-7ac2-419c-bc58-d243cd6f2cd2.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · May 2026",
+   "url": "https://jsw-steel-s3.s3.ap-south-1.amazonaws.com/jsw-steel-images/uploads/2026/05/JSWSteel-Earnings-May14-2026_vF.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d50b1505-d75b-4c06-9538-889ba47106dc.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jan 2026",
+   "url": "https://www.jswsteel.in/sites/default/files/assets/industry/steel/IR/Financial%20Performance/Financials/2025-26/Q3/JSWSteel-Earnings-Con-Call-Q3FY26.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jan 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f740d774-bf25-44aa-b0f1-ee942aed74cc.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Oct 2025",
+   "url": "https://www.jswsteel.in/sites/default/files/assets/industry/steel/IR/Financial%20Performance/Financials/2025-26/Q2/JSWSteel-Earnings-Oct17-2025_vF.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Oct 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7ec449b9-3630-44bf-a6fd-07b9a6c4d7fe.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jul 2025",
+   "url": "https://www.jswsteel.in/sites/default/files/assets/industry/steel/IR/Financial%20Performance/Financials/2025-26/Q1/JSW-Steel-Call-transcript-Q1FY26.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jul 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6b4d13b6-8935-48c1-8f23-b57cbdd5c65a.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · May 2025",
+   "url": "https://www.jswsteel.in/sites/default/files/assets/industry/steel/IR/Financial%20Performance/Financials/2024-25/Q4/JSW-Steel-Call-transcript-Q4FY25.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · May 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e3cb5583-0646-4619-a648-e5350a946681.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jan 2025",
+   "url": "https://www.jswsteel.in/sites/default/files/assets/industry/steel/IR/Financial%20Performance/Financials/2024-25/Q3/JSW-Steel-Call-transcript-Q3FY25.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jan 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=70f498d7-0e66-4aad-bf9a-28781e1e8d66.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/e44105ed-fc16-4d0a-a1a1-4521dc30b148.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/41ae1634-a35c-4d8d-871e-664c79fac0bd.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2024",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b5fea484-29c2-448d-9799-749e51d6527a.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2023",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/1a2804ad-bc66-444b-aa4a-ea2e604971f3.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2022",
+   "url": "https://www.bseindia.com/bseplus/AnnualReport/500228/73336500228.pdf"
+  }
+ ]
+}

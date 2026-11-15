@@ -1,0 +1,381 @@
+{
+ "symbol": "ADANIPORTS",
+ "name": "Adani Ports & Special Economic Zone Ltd",
+ "generated_at": "2026-11-15T17:25:05+00:00",
+ "about": "Adani Ports & Special Economic Zone is in the business of development, operations and maintenance of port infrastructure (port services and related infrastructure development) and has linked multi product Special Economic Zone (SEZ) and related infrastructure contiguous to Port at Mundra.",
+ "sector": "Transport Infrastructure",
+ "price": {
+  "close": 1903.3,
+  "change_pct": -1.4,
+  "mcap_cr": 438513.0,
+  "pe": 31.7,
+  "roce": 14.1,
+  "roe": 16.4
+ },
+ "quarters": [
+  {
+   "period": "Dec 2023",
+   "revenue": 6920.0,
+   "ebitda": 4196.0,
+   "pbt": 2741.0,
+   "pat": 2208.0,
+   "opm": 61.0
+  },
+  {
+   "period": "Mar 2024",
+   "revenue": 6896.0,
+   "ebitda": 4009.0,
+   "pbt": 2341.0,
+   "pat": 2015.0,
+   "opm": 58.0
+  },
+  {
+   "period": "Jun 2024",
+   "revenue": 7560.0,
+   "ebitda": 4739.0,
+   "pbt": 3593.0,
+   "pat": 3107.0,
+   "opm": 63.0
+  },
+  {
+   "period": "Sep 2024",
+   "revenue": 7067.0,
+   "ebitda": 4367.0,
+   "pbt": 2885.0,
+   "pat": 2413.0,
+   "opm": 62.0
+  },
+  {
+   "period": "Dec 2024",
+   "revenue": 7964.0,
+   "ebitda": 4802.0,
+   "pbt": 3020.0,
+   "pat": 2518.0,
+   "opm": 60.0
+  },
+  {
+   "period": "Mar 2025",
+   "revenue": 8488.0,
+   "ebitda": 5006.0,
+   "pbt": 3532.0,
+   "pat": 3023.0,
+   "opm": 59.0
+  },
+  {
+   "period": "Jun 2025",
+   "revenue": 9126.0,
+   "ebitda": 5495.0,
+   "pbt": 3848.0,
+   "pat": 3311.0,
+   "opm": 60.0
+  },
+  {
+   "period": "Sep 2025",
+   "revenue": 9167.0,
+   "ebitda": 5340.0,
+   "pbt": 3690.0,
+   "pat": 3120.0,
+   "opm": 58.0
+  },
+  {
+   "period": "Dec 2025",
+   "revenue": 9705.0,
+   "ebitda": 5786.0,
+   "pbt": 3611.0,
+   "pat": 3043.0,
+   "opm": 60.0
+  },
+  {
+   "period": "Mar 2026",
+   "revenue": 10738.0,
+   "ebitda": 6020.0,
+   "pbt": 3700.0,
+   "pat": 3308.0,
+   "opm": 56.0
+  },
+  {
+   "period": "Jun 2026",
+   "revenue": 10821.0,
+   "ebitda": 6253.0,
+   "pbt": 4307.0,
+   "pat": 3650.0,
+   "opm": 58.0
+  },
+  {
+   "period": "Sep 2026",
+   "revenue": 11340.0,
+   "ebitda": 6807.0,
+   "pbt": 4466.0,
+   "pat": 3682.0,
+   "opm": 60.0
+  }
+ ],
+ "annual": [
+  {
+   "year": "Mar 2015",
+   "revenue": 6152.0,
+   "ebitda": 3902.0,
+   "pat": 2324.0,
+   "opm": 63.0,
+   "cfo": 3057.0,
+   "capex": 1229.0,
+   "fcf": 1828.0,
+   "debt": 17776.0,
+   "equity": 10765.0
+  },
+  {
+   "year": "Mar 2016",
+   "revenue": 7109.0,
+   "ebitda": 4577.0,
+   "pat": 2856.0,
+   "opm": 64.0,
+   "cfo": 2381.0,
+   "capex": 2111.0,
+   "fcf": 270.0,
+   "debt": 22342.0,
+   "equity": 13505.0
+  },
+  {
+   "year": "Mar 2017",
+   "revenue": 8439.0,
+   "ebitda": 5418.0,
+   "pat": 3902.0,
+   "opm": 64.0,
+   "cfo": 4063.0,
+   "capex": 3748.0,
+   "fcf": 315.0,
+   "debt": 22214.0,
+   "equity": 17526.0
+  },
+  {
+   "year": "Mar 2018",
+   "revenue": 11323.0,
+   "ebitda": 7157.0,
+   "pat": 3690.0,
+   "opm": 63.0,
+   "cfo": 5608.0,
+   "capex": 2698.0,
+   "fcf": 2910.0,
+   "debt": 22370.0,
+   "equity": 20903.0
+  },
+  {
+   "year": "Mar 2019",
+   "revenue": 10925.0,
+   "ebitda": 6596.0,
+   "pat": 4045.0,
+   "opm": 60.0,
+   "cfo": 6029.0,
+   "capex": 2886.0,
+   "fcf": 3143.0,
+   "debt": 27712.0,
+   "equity": 24372.0
+  },
+  {
+   "year": "Mar 2020",
+   "revenue": 11873.0,
+   "ebitda": 5947.0,
+   "pat": 3785.0,
+   "opm": 50.0,
+   "cfo": 7402.0,
+   "capex": 3559.0,
+   "fcf": 3843.0,
+   "debt": 30242.0,
+   "equity": 25457.0
+  },
+  {
+   "year": "Mar 2021",
+   "revenue": 12550.0,
+   "ebitda": 8688.0,
+   "pat": 5049.0,
+   "opm": 69.0,
+   "cfo": 7556.0,
+   "capex": 2348.0,
+   "fcf": 5208.0,
+   "debt": 35855.0,
+   "equity": 30441.0
+  },
+  {
+   "year": "Mar 2022",
+   "revenue": 17119.0,
+   "ebitda": 9528.0,
+   "pat": 4953.0,
+   "opm": 56.0,
+   "cfo": 10420.0,
+   "capex": 3646.0,
+   "fcf": 6774.0,
+   "debt": 47935.0,
+   "equity": 41821.0
+  },
+  {
+   "year": "Mar 2023",
+   "revenue": 20852.0,
+   "ebitda": 10947.0,
+   "pat": 5391.0,
+   "opm": 52.0,
+   "cfo": 11900.0,
+   "capex": 8938.0,
+   "fcf": 2962.0,
+   "debt": 53434.0,
+   "equity": 45389.0
+  },
+  {
+   "year": "Mar 2024",
+   "revenue": 26711.0,
+   "ebitda": 15589.0,
+   "pat": 8104.0,
+   "opm": 58.0,
+   "cfo": 15018.0,
+   "capex": 7390.0,
+   "fcf": 7628.0,
+   "debt": 49470.0,
+   "equity": 52778.0
+  },
+  {
+   "year": "Mar 2025",
+   "revenue": 30475.0,
+   "ebitda": 18421.0,
+   "pat": 11061.0,
+   "opm": 60.0,
+   "cfo": 17226.0,
+   "capex": 7998.0,
+   "fcf": 9228.0,
+   "debt": 51621.0,
+   "equity": 62269.0
+  },
+  {
+   "year": "Mar 2026",
+   "revenue": 38736.0,
+   "ebitda": 22868.0,
+   "pat": 12782.0,
+   "opm": 59.0,
+   "cfo": 20356.0,
+   "capex": 15282.0,
+   "fcf": 5074.0,
+   "debt": 63566.0,
+   "equity": 95959.0
+  }
+ ],
+ "computed": {
+  "revenue_cagr_3y": 22.9,
+  "revenue_cagr_5y": 25.3,
+  "pat_cagr_3y": 33.3,
+  "pat_cagr_5y": 20.4,
+  "opm_trend": "expanding",
+  "de_ratio": 0.66,
+  "debt_trend": "rising",
+  "cfo_to_pat_5y": 1.77,
+  "fcf_5y_cr": 31666,
+  "ccc_days": 60.0,
+  "ccc_trend": "stable"
+ },
+ "flags": [
+  {
+   "level": "good",
+   "text": "CFO/PAT over 5y is 1.77 — profits backed by cash"
+  },
+  {
+   "level": "watch",
+   "text": "Debt/equity is 0.66"
+  },
+  {
+   "level": "watch",
+   "text": "Borrowings rose from ₹53,434 Cr to ₹63,566 Cr over 3 years"
+  },
+  {
+   "level": "good",
+   "text": "Revenue 5y CAGR is 25.3%"
+  },
+  {
+   "level": "good",
+   "text": "Operating margin expanding: 52% → 59% over 3 years"
+  }
+ ],
+ "sources": [
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Oct 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=69b72943-f598-4937-8f18-084f50001c04.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jul 2026",
+   "url": "https://www.adaniports.com/-/media/project/ports/investor/transcripts/transcript.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=28ee5493-d5bf-4bba-b34e-7b5022c6d663.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=93044df8-18d9-4030-bf77-eff67a67e993.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Apr 2026",
+   "url": "https://www.adaniports.com/-/media/project/ports/investor/transcripts/apsez-q4fy26-earnings-conference-call_transcript.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Apr 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=872a9876-e6af-4d7c-964a-3ccacf26f2d4.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Feb 2026",
+   "url": "https://www.adaniports.com/-/media/Project/Ports/Investor/Transcripts/Q3--9M-FY26-earnings-call-transcript-UPDATED.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Feb 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c9f3ad1a-a702-4e31-a4f0-56c7b818d47b.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Nov 2025",
+   "url": "https://www.adaniports.com/-/media/Project/Ports/Investor/Transcripts/Transcript-InvestecQ2--H1-FY26--Updated.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Nov 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5a76c41a-fca9-4c0c-9711-f105c8e6bd23.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Aug 2025",
+   "url": "https://www.adaniports.com/-/media/Project/Ports/Investor/Transcripts/Q1-FY26-"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Aug 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=22c2027b-75c8-47fa-9280-396b7fd5273e.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/aaa81a60-9ae5-42c6-870c-2abb13d032bb.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/f434460b-fc13-4cca-88ca-89d960a38b63.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2024",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/c3aba93e-4577-41bf-9623-f711be83882b.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2023",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/fa93bdec-70e9-4c68-8978-c2add3549e79.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2022",
+   "url": "https://www.bseindia.com/bseplus/AnnualReport/532921/73447532921.pdf"
+  }
+ ]
+}

@@ -1,0 +1,362 @@
+{
+ "symbol": "BHARTIARTL",
+ "name": "Bharti Airtel Ltd",
+ "generated_at": "2026-11-15T17:25:05+00:00",
+ "about": "Bharti Airtel Ltd is one of the world’s leading providers of telecommunication services with presence in 18 countries representing India, Sri Lanka, 14 countries in Africa.",
+ "sector": "Telecom - Services",
+ "price": {
+  "close": 2106.0,
+  "change_pct": 0.5,
+  "mcap_cr": 1314484.0,
+  "pe": 39.3,
+  "roce": 17.6,
+  "roe": 20.3
+ },
+ "quarters": [
+  {
+   "period": "Dec 2023",
+   "revenue": 37900.0,
+   "ebitda": 19815.0,
+   "pbt": 4108.0,
+   "pat": 2876.0,
+   "opm": 52.0
+  },
+  {
+   "period": "Mar 2024",
+   "revenue": 37599.0,
+   "ebitda": 19365.0,
+   "pbt": 2778.0,
+   "pat": 2068.0,
+   "opm": 52.0
+  },
+  {
+   "period": "Jun 2024",
+   "revenue": 38506.0,
+   "ebitda": 19708.0,
+   "pbt": 6025.0,
+   "pat": 4718.0,
+   "opm": 51.0
+  },
+  {
+   "period": "Sep 2024",
+   "revenue": 41473.0,
+   "ebitda": 21846.0,
+   "pbt": 5897.0,
+   "pat": 4153.0,
+   "opm": 53.0
+  },
+  {
+   "period": "Dec 2024",
+   "revenue": 45129.0,
+   "ebitda": 24597.0,
+   "pbt": 16892.0,
+   "pat": 16135.0,
+   "opm": 54.0
+  },
+  {
+   "period": "Mar 2025",
+   "revenue": 47876.0,
+   "ebitda": 27009.0,
+   "pbt": 9584.0,
+   "pat": 12476.0,
+   "opm": 56.0
+  },
+  {
+   "period": "Jun 2025",
+   "revenue": 49463.0,
+   "ebitda": 27839.0,
+   "pbt": 10504.0,
+   "pat": 7422.0,
+   "opm": 56.0
+  },
+  {
+   "period": "Sep 2025",
+   "revenue": 52145.0,
+   "ebitda": 29561.0,
+   "pbt": 12322.0,
+   "pat": 8651.0,
+   "opm": 57.0
+  },
+  {
+   "period": "Dec 2025",
+   "revenue": 53982.0,
+   "ebitda": 30783.0,
+   "pbt": 12301.0,
+   "pat": 8503.0,
+   "opm": 57.0
+  },
+  {
+   "period": "Mar 2026",
+   "revenue": 55383.0,
+   "ebitda": 31492.0,
+   "pbt": 10045.0,
+   "pat": 9247.0,
+   "opm": 57.0
+  },
+  {
+   "period": "Jun 2026",
+   "revenue": 58539.0,
+   "ebitda": 33303.0,
+   "pbt": 13773.0,
+   "pat": 10012.0,
+   "opm": 57.0
+  },
+  {
+   "period": "Sep 2026",
+   "revenue": 60878.0,
+   "ebitda": 34946.0,
+   "pbt": 15428.0,
+   "pat": 10710.0,
+   "opm": 57.0
+  }
+ ],
+ "annual": [
+  {
+   "year": "Mar 2015",
+   "revenue": 96101.0,
+   "ebitda": 33602.0,
+   "pat": 5048.0,
+   "opm": 35.0,
+   "cfo": 28059.0,
+   "capex": 15193.0,
+   "fcf": 12866.0,
+   "debt": 83415.0,
+   "equity": 39777.0
+  },
+  {
+   "year": "Mar 2016",
+   "revenue": 96532.0,
+   "ebitda": 33984.0,
+   "pat": 6893.0,
+   "opm": 35.0,
+   "cfo": 27942.0,
+   "capex": 18951.0,
+   "fcf": 8991.0,
+   "debt": 100646.0,
+   "equity": 66770.0
+  },
+  {
+   "year": "Mar 2017",
+   "revenue": 95468.0,
+   "ebitda": 35330.0,
+   "pat": 4241.0,
+   "opm": 37.0,
+   "cfo": 28280.0,
+   "capex": 36712.0,
+   "fcf": -8432.0,
+   "debt": 107288.0,
+   "equity": 67457.0
+  },
+  {
+   "year": "Mar 2018",
+   "revenue": 82639.0,
+   "ebitda": 30079.0,
+   "pat": 2184.0,
+   "opm": 36.0,
+   "cfo": 29854.0,
+   "capex": 25249.0,
+   "fcf": 4605.0,
+   "debt": 111334.0,
+   "equity": 69535.0
+  },
+  {
+   "year": "Mar 2019",
+   "revenue": 80780.0,
+   "ebitda": 25764.0,
+   "pat": 1688.0,
+   "opm": 32.0,
+   "cfo": 20070.0,
+   "capex": 29050.0,
+   "fcf": -8980.0,
+   "debt": 125428.0,
+   "equity": 71423.0
+  },
+  {
+   "year": "Mar 2020",
+   "revenue": 87539.0,
+   "ebitda": 36610.0,
+   "pat": -30664.0,
+   "opm": 42.0,
+   "cfo": 18129.0,
+   "capex": 20585.0,
+   "fcf": -2456.0,
+   "debt": 148228.0,
+   "equity": 77145.0
+  },
+  {
+   "year": "Mar 2021",
+   "revenue": 100616.0,
+   "ebitda": 45279.0,
+   "pat": -12364.0,
+   "opm": 45.0,
+   "cfo": 48205.0,
+   "capex": 27114.0,
+   "fcf": 21091.0,
+   "debt": 162785.0,
+   "equity": 58953.0
+  },
+  {
+   "year": "Mar 2022",
+   "revenue": 116547.0,
+   "ebitda": 57534.0,
+   "pat": 8305.0,
+   "opm": 49.0,
+   "cfo": 55017.0,
+   "capex": 26021.0,
+   "fcf": 28996.0,
+   "debt": 169678.0,
+   "equity": 66554.0
+  },
+  {
+   "year": "Mar 2023",
+   "revenue": 139145.0,
+   "ebitda": 71274.0,
+   "pat": 12287.0,
+   "opm": 51.0,
+   "cfo": 65325.0,
+   "capex": 26450.0,
+   "fcf": 38875.0,
+   "debt": 226020.0,
+   "equity": 77563.0
+  },
+  {
+   "year": "Mar 2024",
+   "revenue": 149982.0,
+   "ebitda": 77893.0,
+   "pat": 8558.0,
+   "opm": 52.0,
+   "cfo": 78898.0,
+   "capex": 39928.0,
+   "fcf": 38970.0,
+   "debt": 215592.0,
+   "equity": 82019.0
+  },
+  {
+   "year": "Mar 2025",
+   "revenue": 172985.0,
+   "ebitda": 85060.0,
+   "pat": 37481.0,
+   "opm": 49.0,
+   "cfo": 98332.0,
+   "capex": 39342.0,
+   "fcf": 58990.0,
+   "debt": 213642.0,
+   "equity": 113672.0
+  },
+  {
+   "year": "Mar 2026",
+   "revenue": 210973.0,
+   "ebitda": 116514.0,
+   "pat": 33823.0,
+   "opm": 55.0,
+   "cfo": 122230.0,
+   "capex": 45547.0,
+   "fcf": 76683.0,
+   "debt": 195412.0,
+   "equity": 149057.0
+  }
+ ],
+ "computed": {
+  "revenue_cagr_3y": 14.9,
+  "revenue_cagr_5y": 16.0,
+  "pat_cagr_3y": 40.1,
+  "pat_cagr_5y": null,
+  "opm_trend": "stable",
+  "de_ratio": 1.31,
+  "debt_trend": "flat",
+  "cfo_to_pat_5y": 4.18,
+  "fcf_5y_cr": 242514,
+  "ccc_days": 14.0,
+  "ccc_trend": "stable"
+ },
+ "flags": [
+  {
+   "level": "good",
+   "text": "CFO/PAT over 5y is 4.18 — profits backed by cash"
+  },
+  {
+   "level": "bad",
+   "text": "Debt/equity is 1.31 — leveraged balance sheet"
+  },
+  {
+   "level": "good",
+   "text": "Revenue 5y CAGR is 16.0%"
+  },
+  {
+   "level": "good",
+   "text": "Latest quarter PAT up 23.8% YoY (Sep 2026)"
+  }
+ ],
+ "sources": [
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Nov 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1ff3e14f-7e97-4074-89c7-049408721c5e.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ca87613b-39c3-4571-8ea9-8f77df1b6428.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e76d0ca2-740a-4e0f-986a-2ad0ad39d515.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Feb 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1fbe1f35-07ac-4458-9799-d075511bcd53.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Nov 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b8f70dc5-c46b-481a-961c-ecbd39a6f45d.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Nov 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=584560c2-e9d6-4895-b6a9-3ba4beb21dfb.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Aug 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e7bdada9-733e-41a6-bdd9-f61d71d30335.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · May 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=75c7f6b8-2b0d-4c5f-9404-f1778e5acab2.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Feb 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=25774a12-2089-4653-9e26-972643e5fe4c.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/f8f6a174-8601-4747-9d0d-bd6b85fe53fc.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/c2194c0b-bec7-42ba-9675-afdf7a9e7e9c.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2024",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/f345c17e-4d3c-4347-ad15-54a33f8aab05.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2023",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/c47b5c5b-4b08-48c3-801f-3be3d4646981.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2022",
+   "url": "https://www.bseindia.com/bseplus/AnnualReport/532454/73851532454.pdf"
+  }
+ ]
+}

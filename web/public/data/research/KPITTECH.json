@@ -1,0 +1,105 @@
+{
+  "symbol": "KPITTECH",
+  "model": "claude (build-time, cached)",
+  "generated_at": "2026-11-15T12:00:00+05:30",
+  "business": {
+    "summary": "Automotive software/ER&D partner to global OEMs (~$730M revenue run-rate per Q4 FY26 investor meet). Pivoting from services to solutions + products (Qorix middleware JV, Caresoft and N-Dream acquisitions, Cymotive). Two largest OEM clients (Europe and Asia passenger cars) are ramping down; CV/off-highway and products are the offsets. ~9% of revenue from 'AI-first' projects; fixed-price share ~70% (Q2 FY27 concall).",
+    "segments": [
+      { "name": "Passenger cars (down ~8% YoY in Q2 FY27)", "share_pct": null },
+      { "name": "Commercial & off-highway (+27% YoY in Q2 FY27)", "share_pct": null },
+      { "name": "Products (+25% YoY in Q2 FY27)", "share_pct": null }
+    ]
+  },
+  "promises": [
+    {
+      "quarter": "Q3 FY26",
+      "promise": "Q4 FY26 will be the highest quarterly growth of FY26.",
+      "source": "Q3 FY26 concall",
+      "delivered": "Q4 FY26 revenue ₹1,711 Cr, +5.8% QoQ vs +0.7%/+3.2%/+1.8% in Q1-Q3 — highest, though helped by a full quarter of Caresoft.",
+      "verdict": "kept"
+    },
+    {
+      "quarter": "Q3 FY26",
+      "promise": "Profitability will improve from Q3 levels in Q4 despite investments.",
+      "source": "Q3 FY26 concall",
+      "delivered": "Operating profit ₹311 → ₹317 Cr but OPM 19.2% → 18.5% (results filings); PAT rose ₹133 → ₹163 Cr mainly on other income swing (-₹26 → +₹12 Cr).",
+      "verdict": "missed"
+    },
+    {
+      "quarter": "Q3 FY26",
+      "promise": "FY27 will grow 'for sure' faster than FY26.",
+      "source": "Q3 FY26 concall",
+      "delivered": "H1 FY27 revenue ₹3,366 Cr, +7.6% YoY in INR (inorganic-aided) but CC growth ~0.1-0.2% YoY in Q1/Q2; Q1 FY27 fell 3.6% QoQ in CC (Q1, Q2 FY27 concalls).",
+      "verdict": "pending"
+    },
+    {
+      "quarter": "Q4 FY26",
+      "promise": "EBITDA margin to expand from ~20% to 22-24% via solutions/products mix.",
+      "source": "Q4 FY26 concall",
+      "delivered": "Company EBITDA 17.2% (Q1 FY27) and 17.8% (Q2 FY27); screener OPM 15-16%. Moving away from the band, not toward it.",
+      "verdict": "pending"
+    },
+    {
+      "quarter": "Q4 FY26",
+      "promise": "$950M-1B revenue in ~3 years, with $550-600M from solutions and products.",
+      "source": "Q4 FY26 concall",
+      "delivered": "Revenue flat in CC over Q1-Q2 FY27; products +25% YoY in Q2 FY27 is the only line on trajectory.",
+      "verdict": "pending"
+    },
+    {
+      "quarter": "Q1 FY27",
+      "promise": "H2 FY27 better than H1; return to growth led by Q4; margins recover with revenue.",
+      "source": "Q1 FY27 concall",
+      "delivered": "Q2 FY27 CC +0.5% QoQ, EBITDA 17.2% → 17.8%; mgmt reiterates H2 > H1 but now says growth comes back 'early part of next year' (Q2 FY27 concall).",
+      "verdict": "pending"
+    },
+    {
+      "quarter": "Q1 FY27",
+      "promise": "Two largest OEM accounts will start to stabilise in Q3 FY27; CV growth to show in Q2/Q3.",
+      "source": "Q1 FY27 concall",
+      "delivered": "CV/off-highway +27% YoY, +17.6% QoQ in Q2 (kept). But revenue from the top-2 OEMs fell >13%; consolidation now seen concluding by end-Q1 FY28 (Q2 FY27 concall).",
+      "verdict": "partly"
+    },
+    {
+      "quarter": "Q3 FY26",
+      "promise": "Qorix to win its 'fair share' as part of the EU software partnership.",
+      "source": "Q3 FY26 concall",
+      "delivered": "Qorix losses hit PAT in Q1 FY27; in Q2 FY27 mgmt said its programs 'have been pushed out by a couple of years'.",
+      "verdict": "missed"
+    }
+  ],
+  "narrative_vs_numbers": [
+    {
+      "claim": "Strong deal wins and a positive pipeline will convert to growth (Q1, Q2 FY27 concalls).",
+      "numbers": "Revenue ₹1,711 → ₹1,675 → ₹1,691 Cr over Q4 FY26-Q2 FY27; CC YoY ~0%. Deal-to-revenue conversion H1 ~57% vs 75-80% a year ago (Q2 FY27 concall).",
+      "agrees": false
+    },
+    {
+      "claim": "Mix shift to products lifts margins (Q2 FY27: EBITDA +60 bps QoQ).",
+      "numbers": "True QoQ (17.2% → 17.8%) but OPM down from 21% (Q4 FY25) to 16% (Q2 FY27) on screener; PAT ₹121 Cr vs ₹245 Cr in Q4 FY25.",
+      "agrees": false
+    },
+    {
+      "claim": "CV/off-highway is a durable offset to passenger-car weakness.",
+      "numbers": "CV/off-highway +27% YoY in Q2 FY27 while passenger cars -8% YoY (Q2 FY27 concall).",
+      "agrees": true
+    }
+  ],
+  "guidance": [
+    { "metric": "Revenue trajectory", "guide": "H2 FY27 better than H1; growth returns early FY28; no numeric guide", "source": "Q2 FY27 concall" },
+    { "metric": "EBITDA margin", "guide": "Expand to 22-24% medium term (from ~20%)", "source": "Q4 FY26 concall" },
+    { "metric": "Revenue scale", "guide": "$950M-1B in ~3 years, $550-600M from solutions + products", "source": "Q4 FY26 concall" },
+    { "metric": "Top-2 OEM consolidation", "guide": "Meaningfully concluded by end of Q1 FY28", "source": "Q2 FY27 concall" },
+    { "metric": "FY28 framework", "guide": "Detailed parameters (incl. products reporting) to be given with Q4 FY27", "source": "Q2 FY27 concall" }
+  ],
+  "bull": [
+    "CV/off-highway +27% YoY and products +25% YoY in Q2 FY27 — the diversification away from 2 large PV clients is working (Q2 FY27 concall).",
+    "89% of wins from target accounts; fixed-price ~70-71% of revenue and ~9% from AI-first projects (Q2 FY27 concall).",
+    "EBITDA turned up 60 bps QoQ to 17.8% on mix, before any revenue recovery (Q2 FY27 concall)."
+  ],
+  "bear": [
+    "Growth promise kept slipping: 'better FY27' (Q3 FY26) → 'growth by Q4' (Q1 FY27) → 'early next year' (Q2 FY27).",
+    "Margin target 22-24% (Q4 FY26) vs delivered 17.2-17.8%; PAT ₹121 Cr in Q2 FY27 vs ₹169 Cr a year earlier (results filings).",
+    "Top-2 OEM revenue down >13%; Qorix programs pushed out by ~2 years with ongoing share of losses (Q2 FY27 concall)."
+  ]
+}

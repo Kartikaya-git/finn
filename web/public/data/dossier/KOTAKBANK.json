@@ -1,0 +1,378 @@
+{
+ "symbol": "KOTAKBANK",
+ "name": "Kotak Mahindra Bank Ltd",
+ "generated_at": "2026-11-15T17:25:06+00:00",
+ "about": "Kotak Mahindra Bank is a diversified financial services group providing a wide range of banking and financial services including Retail Banking, Treasury and Corporate Banking, Investment Banking, Stock Broking, Vehicle Finance, Advisory services, Asset Management, Life Insurance and General Insurance.",
+ "sector": "Banks",
+ "price": {
+  "close": 488.55,
+  "change_pct": -0.4,
+  "mcap_cr": 486027.0,
+  "pe": 22.9,
+  "roce": 6.98,
+  "roe": 11.4
+ },
+ "quarters": [
+  {
+   "period": "Dec 2023",
+   "revenue": 14495.0,
+   "ebitda": -3975.0,
+   "pbt": 5614.0,
+   "pat": 4265.0,
+   "opm": -27.0
+  },
+  {
+   "period": "Mar 2024",
+   "revenue": 15156.0,
+   "ebitda": -5976.0,
+   "pbt": 6775.0,
+   "pat": 5337.0,
+   "opm": -39.0
+  },
+  {
+   "period": "Jun 2024",
+   "revenue": 15837.0,
+   "ebitda": -3231.0,
+   "pbt": 9811.0,
+   "pat": 7448.0,
+   "opm": -20.0
+  },
+  {
+   "period": "Sep 2024",
+   "revenue": 16427.0,
+   "ebitda": -3806.0,
+   "pbt": 6647.0,
+   "pat": 5044.0,
+   "opm": -23.0
+  },
+  {
+   "period": "Dec 2024",
+   "revenue": 16633.0,
+   "ebitda": -1133.0,
+   "pbt": 6180.0,
+   "pat": 4701.0,
+   "opm": -7.0
+  },
+  {
+   "period": "Mar 2025",
+   "revenue": 16772.0,
+   "ebitda": -4051.0,
+   "pbt": 6351.0,
+   "pat": 4933.0,
+   "opm": -24.0
+  },
+  {
+   "period": "Jun 2025",
+   "revenue": 17248.0,
+   "ebitda": -3402.0,
+   "pbt": 6053.0,
+   "pat": 4472.0,
+   "opm": -20.0
+  },
+  {
+   "period": "Sep 2025",
+   "revenue": 17199.0,
+   "ebitda": -1740.0,
+   "pbt": 5963.0,
+   "pat": 4468.0,
+   "opm": -10.0
+  },
+  {
+   "period": "Dec 2025",
+   "revenue": 17507.0,
+   "ebitda": -3811.0,
+   "pbt": 6533.0,
+   "pat": 4924.0,
+   "opm": -22.0
+  },
+  {
+   "period": "Mar 2026",
+   "revenue": 17827.0,
+   "ebitda": -3205.0,
+   "pbt": 7443.0,
+   "pat": 5423.0,
+   "opm": -18.0
+  },
+  {
+   "period": "Jun 2026",
+   "revenue": 18355.0,
+   "ebitda": -4205.0,
+   "pbt": 7509.0,
+   "pat": 5480.0,
+   "opm": -23.0
+  },
+  {
+   "period": "Sep 2026",
+   "revenue": 19856.0,
+   "ebitda": -2041.0,
+   "pbt": 7530.0,
+   "pat": 5645.0,
+   "opm": -10.0
+  }
+ ],
+ "annual": [
+  {
+   "year": "Mar 2015",
+   "revenue": 13319.0,
+   "ebitda": -3366.0,
+   "pat": 3105.0,
+   "opm": -25.0,
+   "cfo": 2302.0,
+   "capex": 268.0,
+   "fcf": 2034.0,
+   "debt": 31415.0,
+   "equity": 22156.0
+  },
+  {
+   "year": "Mar 2016",
+   "revenue": 20402.0,
+   "ebitda": -2263.0,
+   "pat": 3524.0,
+   "opm": -11.0,
+   "cfo": 5025.0,
+   "capex": 311.0,
+   "fcf": 4714.0,
+   "debt": 43730.0,
+   "equity": 33364.0
+  },
+  {
+   "year": "Mar 2017",
+   "revenue": 22324.0,
+   "ebitda": -3965.0,
+   "pat": 5019.0,
+   "opm": -18.0,
+   "cfo": 13222.0,
+   "capex": 382.0,
+   "fcf": 12840.0,
+   "debt": 49690.0,
+   "equity": 38492.0
+  },
+  {
+   "year": "Mar 2018",
+   "revenue": 25131.0,
+   "ebitda": -4141.0,
+   "pat": 6258.0,
+   "opm": -16.0,
+   "cfo": -10392.0,
+   "capex": 366.0,
+   "fcf": -10758.0,
+   "debt": 58604.0,
+   "equity": 50488.0
+  },
+  {
+   "year": "Mar 2019",
+   "revenue": 29831.0,
+   "ebitda": -5114.0,
+   "pat": 7204.0,
+   "opm": -17.0,
+   "cfo": 1822.0,
+   "capex": 491.0,
+   "fcf": 1331.0,
+   "debt": 66939.0,
+   "equity": 57781.0
+  },
+  {
+   "year": "Mar 2020",
+   "revenue": 33474.0,
+   "ebitda": -5005.0,
+   "pat": 8593.0,
+   "opm": -15.0,
+   "cfo": 46619.0,
+   "capex": 413.0,
+   "fcf": 46206.0,
+   "debt": 66077.0,
+   "equity": 66637.0
+  },
+  {
+   "year": "Mar 2021",
+   "revenue": 32820.0,
+   "ebitda": -9958.0,
+   "pat": 9990.0,
+   "opm": -30.0,
+   "cfo": 4881.0,
+   "capex": 300.0,
+   "fcf": 4581.0,
+   "debt": 48239.0,
+   "equity": 84339.0
+  },
+  {
+   "year": "Mar 2022",
+   "revenue": 33740.0,
+   "ebitda": -8882.0,
+   "pat": 12089.0,
+   "opm": -26.0,
+   "cfo": 8418.0,
+   "capex": 633.0,
+   "fcf": 7785.0,
+   "debt": 55648.0,
+   "equity": 96665.0
+  },
+  {
+   "year": "Mar 2023",
+   "revenue": 42151.0,
+   "ebitda": -5746.0,
+   "pat": 14925.0,
+   "opm": -14.0,
+   "cfo": -1242.0,
+   "capex": 961.0,
+   "fcf": -2203.0,
+   "debt": 57534.0,
+   "equity": 111814.0
+  },
+  {
+   "year": "Mar 2024",
+   "revenue": 56237.0,
+   "ebitda": -13382.0,
+   "pat": 18213.0,
+   "opm": -24.0,
+   "cfo": 15685.0,
+   "capex": 1092.0,
+   "fcf": 14593.0,
+   "debt": 75106.0,
+   "equity": 129972.0
+  },
+  {
+   "year": "Mar 2025",
+   "revenue": 65669.0,
+   "ebitda": -11303.0,
+   "pat": 22126.0,
+   "opm": -17.0,
+   "cfo": 16916.0,
+   "capex": 1148.0,
+   "fcf": 15768.0,
+   "debt": 97622.0,
+   "equity": 157489.0
+  },
+  {
+   "year": "Mar 2026",
+   "revenue": 69781.0,
+   "ebitda": -11142.0,
+   "pat": 19288.0,
+   "opm": -16.0,
+   "cfo": 41727.0,
+   "capex": 1037.0,
+   "fcf": 40690.0,
+   "debt": 95394.0,
+   "equity": 181226.0
+  }
+ ],
+ "computed": {
+  "revenue_cagr_3y": 18.3,
+  "revenue_cagr_5y": 16.3,
+  "pat_cagr_3y": 8.9,
+  "pat_cagr_5y": 14.1,
+  "opm_trend": "expanding",
+  "de_ratio": 0.53,
+  "debt_trend": "rising",
+  "cfo_to_pat_5y": 0.94,
+  "fcf_5y_cr": 76633,
+  "ccc_days": null,
+  "ccc_trend": null
+ },
+ "flags": [
+  {
+   "level": "good",
+   "text": "Revenue 5y CAGR is 16.3%"
+  },
+  {
+   "level": "good",
+   "text": "ROE is 11.4%"
+  },
+  {
+   "level": "good",
+   "text": "Latest quarter PAT up 26.3% YoY (Sep 2026)"
+  }
+ ],
+ "sources": [
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Oct 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a42db0c9-4d36-4233-8f0a-89f08607d5aa.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Aug 2026",
+   "url": "https://www.kotak.bank.in/content/dam/Kotak/investor-relation/Financial-Result/QuarterlyReport/FY-2027/q1/transcript/Q1FY27-Transcript.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8280fcad-9ecd-4468-a9b7-3af201f86b97.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6518e4b9-f5e7-41e4-bd5d-bd20afb40543.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · May 2026",
+   "url": "https://www.kotak.bank.in/content/dam/Kotak/investor-relation/Financial-Result/QuarterlyReport/FY-2026/q4/transcript/Q4FY26-Transcript.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=36649cef-6051-4bda-9d40-51b9c465e376.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jan 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7d257f09-c8cf-40a9-b37b-4fc3fe3e29d5.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jan 2026",
+   "url": "https://www.kotak.bank.in/content/dam/Kotak/investor-relation/Financial-Result/QuarterlyReport/FY-2026/q3/transcript/Q3FY26-Transcript.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jan 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=87e9bb65-68a0-4c25-b401-a5e00eb72109.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Oct 2025",
+   "url": "https://www.kotak.bank.in/content/dam/Kotak/investor-relation/Financial-Result/QuarterlyReport/FY-2026/q2/Transcript/Q2FY26-Transcript.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Oct 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=03a28f46-5ebf-49a0-b186-4e8cd8bf3a22.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Aug 2025",
+   "url": "https://www.kotak.com/content/dam/Kotak/investor-relation/Financial-Result/QuarterlyReport/FY-2026/q1/transcript/Q1FY26-Transcript.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Aug 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3f9c851e-8b0d-4260-9eb9-c9d40bd2723e.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/c1b719fb-23e9-4cb8-b303-720eb0e31cc4.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/16d6f679-14fe-444e-8ff6-8ee3bd68bd08.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2024",
+   "url": "https://www.kotak.com/content/dam/Kotak/investor-relation/Financial-Result/Annual-Reports/FY-2024/kotak-mahindra-bank/Error-Clarification-Integrated-Annual-Report-2023-24.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2023",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b9e0c871-3353-4ef4-855e-069bcfd848e1.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2022",
+   "url": "https://www.bseindia.com/bseplus/AnnualReport/500247/73932500247.pdf"
+  }
+ ]
+}

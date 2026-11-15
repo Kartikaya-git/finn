@@ -1,0 +1,400 @@
+{
+ "symbol": "LT",
+ "name": "Larsen & Toubro Ltd",
+ "generated_at": "2026-11-15T17:25:04+00:00",
+ "about": "Larsen & Toubro Ltd is a multinational conglomerate which is primarily engaged in providing engineering, procurement and construction (EPC) solutions in key sectors such as Infrastructure, Hydrocarbon, Power, Process Industries and Defence, Information Technology and Financial Services in domestic and international markets.",
+ "sector": "Construction",
+ "price": {
+  "close": 4143.8,
+  "change_pct": -0.4,
+  "mcap_cr": 570152.0,
+  "pe": 30.2,
+  "roce": 14.6,
+  "roe": 15.9
+ },
+ "quarters": [
+  {
+   "period": "Dec 2023",
+   "revenue": 55128.0,
+   "ebitda": 7199.0,
+   "pbt": 4772.0,
+   "pat": 3593.0,
+   "opm": 13.0
+  },
+  {
+   "period": "Mar 2024",
+   "revenue": 67079.0,
+   "ebitda": 8653.0,
+   "pbt": 6422.0,
+   "pat": 5013.0,
+   "opm": 13.0
+  },
+  {
+   "period": "Jun 2024",
+   "revenue": 55120.0,
+   "ebitda": 7046.0,
+   "pbt": 4677.0,
+   "pat": 3445.0,
+   "opm": 13.0
+  },
+  {
+   "period": "Sep 2024",
+   "revenue": 61555.0,
+   "ebitda": 7917.0,
+   "pbt": 5555.0,
+   "pat": 4099.0,
+   "opm": 13.0
+  },
+  {
+   "period": "Dec 2024",
+   "revenue": 64668.0,
+   "ebitda": 7898.0,
+   "pbt": 5333.0,
+   "pat": 3974.0,
+   "opm": 12.0
+  },
+  {
+   "period": "Mar 2025",
+   "revenue": 74392.0,
+   "ebitda": 9876.0,
+   "pbt": 8014.0,
+   "pat": 6156.0,
+   "opm": 13.0
+  },
+  {
+   "period": "Jun 2025",
+   "revenue": 63679.0,
+   "ebitda": 8024.0,
+   "pbt": 5860.0,
+   "pat": 4318.0,
+   "opm": 13.0
+  },
+  {
+   "period": "Sep 2025",
+   "revenue": 67984.0,
+   "ebitda": 8513.0,
+   "pbt": 6336.0,
+   "pat": 4678.0,
+   "opm": 13.0
+  },
+  {
+   "period": "Dec 2025",
+   "revenue": 71450.0,
+   "ebitda": 9190.0,
+   "pbt": 5370.0,
+   "pat": 3825.0,
+   "opm": 13.0
+  },
+  {
+   "period": "Mar 2026",
+   "revenue": 82762.0,
+   "ebitda": 10419.0,
+   "pbt": 8410.0,
+   "pat": 6133.0,
+   "opm": 13.0
+  },
+  {
+   "period": "Jun 2026",
+   "revenue": 67942.0,
+   "ebitda": 8149.0,
+   "pbt": 6922.0,
+   "pat": 4988.0,
+   "opm": 12.0
+  },
+  {
+   "period": "Sep 2026",
+   "revenue": 78750.0,
+   "ebitda": 8814.0,
+   "pbt": 7641.0,
+   "pat": 5949.0,
+   "opm": 11.0
+  }
+ ],
+ "annual": [
+  {
+   "year": "Mar 2015",
+   "revenue": 91929.0,
+   "ebitda": 15684.0,
+   "pat": 4966.0,
+   "opm": 17.0,
+   "cfo": -1365.0,
+   "capex": 6095.0,
+   "fcf": -7460.0,
+   "debt": 93630.0,
+   "equity": 40909.0
+  },
+  {
+   "year": "Mar 2016",
+   "revenue": 101122.0,
+   "ebitda": 15486.0,
+   "pat": 4592.0,
+   "opm": 15.0,
+   "cfo": -3240.0,
+   "capex": 4123.0,
+   "fcf": -7363.0,
+   "debt": 88135.0,
+   "equity": 44180.0
+  },
+  {
+   "year": "Mar 2017",
+   "revenue": 109312.0,
+   "ebitda": 16620.0,
+   "pat": 6486.0,
+   "opm": 15.0,
+   "cfo": 6655.0,
+   "capex": 2821.0,
+   "fcf": 3834.0,
+   "debt": 93954.0,
+   "equity": 50217.0
+  },
+  {
+   "year": "Mar 2018",
+   "revenue": 119683.0,
+   "ebitda": 20111.0,
+   "pat": 8004.0,
+   "opm": 17.0,
+   "cfo": -10031.0,
+   "capex": 2015.0,
+   "fcf": -12046.0,
+   "debt": 107524.0,
+   "equity": 54903.0
+  },
+  {
+   "year": "Mar 2019",
+   "revenue": 135220.0,
+   "ebitda": 22866.0,
+   "pat": 10217.0,
+   "opm": 17.0,
+   "cfo": -4756.0,
+   "capex": 3499.0,
+   "fcf": -8255.0,
+   "debt": 125555.0,
+   "equity": 62375.0
+  },
+  {
+   "year": "Mar 2020",
+   "revenue": 145452.0,
+   "ebitda": 24553.0,
+   "pat": 10894.0,
+   "opm": 17.0,
+   "cfo": 6694.0,
+   "capex": 3300.0,
+   "fcf": 3394.0,
+   "debt": 143174.0,
+   "equity": 66723.0
+  },
+  {
+   "year": "Mar 2021",
+   "revenue": 135979.0,
+   "ebitda": 23460.0,
+   "pat": 12921.0,
+   "opm": 17.0,
+   "cfo": 23074.0,
+   "capex": 923.0,
+   "fcf": 22151.0,
+   "debt": 134629.0,
+   "equity": 75869.0
+  },
+  {
+   "year": "Mar 2022",
+   "revenue": 156521.0,
+   "ebitda": 24314.0,
+   "pat": 10419.0,
+   "opm": 16.0,
+   "cfo": 19164.0,
+   "capex": 3040.0,
+   "fcf": 16124.0,
+   "debt": 125508.0,
+   "equity": 82408.0
+  },
+  {
+   "year": "Mar 2023",
+   "revenue": 183341.0,
+   "ebitda": 27166.0,
+   "pat": 12531.0,
+   "opm": 15.0,
+   "cfo": 22777.0,
+   "capex": 3793.0,
+   "fcf": 18984.0,
+   "debt": 120650.0,
+   "equity": 89326.0
+  },
+  {
+   "year": "Mar 2024",
+   "revenue": 221113.0,
+   "ebitda": 28758.0,
+   "pat": 15547.0,
+   "opm": 13.0,
+   "cfo": 18266.0,
+   "capex": 4210.0,
+   "fcf": 14056.0,
+   "debt": 116322.0,
+   "equity": 86359.0
+  },
+  {
+   "year": "Mar 2025",
+   "revenue": 255734.0,
+   "ebitda": 34551.0,
+   "pat": 17673.0,
+   "opm": 14.0,
+   "cfo": 9151.0,
+   "capex": 3540.0,
+   "fcf": 5611.0,
+   "debt": 132409.0,
+   "equity": 97656.0
+  },
+  {
+   "year": "Mar 2026",
+   "revenue": 285874.0,
+   "ebitda": 36345.0,
+   "pat": 18954.0,
+   "opm": 13.0,
+   "cfo": 16741.0,
+   "capex": 4469.0,
+   "fcf": 12272.0,
+   "debt": 125497.0,
+   "equity": 109290.0
+  }
+ ],
+ "computed": {
+  "revenue_cagr_3y": 16.0,
+  "revenue_cagr_5y": 16.0,
+  "pat_cagr_3y": 14.8,
+  "pat_cagr_5y": 8.0,
+  "opm_trend": "stable",
+  "de_ratio": 1.15,
+  "debt_trend": "flat",
+  "cfo_to_pat_5y": 1.15,
+  "fcf_5y_cr": 67047,
+  "ccc_days": -151.0,
+  "ccc_trend": "lengthening"
+ },
+ "flags": [
+  {
+   "level": "good",
+   "text": "CFO/PAT over 5y is 1.15 — profits backed by cash"
+  },
+  {
+   "level": "bad",
+   "text": "Debt/equity is 1.15 — leveraged balance sheet"
+  },
+  {
+   "level": "good",
+   "text": "Revenue 5y CAGR is 16.0%"
+  },
+  {
+   "level": "watch",
+   "text": "PAT 5y CAGR 8.0% lags revenue CAGR 16.0% — margins leaking"
+  },
+  {
+   "level": "watch",
+   "text": "Cash conversion cycle lengthened from -172 to -151 days"
+  },
+  {
+   "level": "good",
+   "text": "Latest quarter PAT up 27.2% YoY (Sep 2026)"
+  }
+ ],
+ "sources": [
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Oct 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4c027e30-6b95-4915-9843-bd4e4c437bb1.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jul 2026",
+   "url": "https://investors.larsentoubro.com/upload/Analysttrans/FY2027AnalysttransL&T-Earnings-Jul28-2026.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a4d1bc4e-1492-4448-b203-5d6041b48a0e.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · May 2026",
+   "url": "https://investors.larsentoubro.com/upload/Analysttrans/FY2026AnalysttransL&T%20Q4%20FY26%20Earnings%20Call%20Transcript.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d2095c57-89e5-4a19-adb3-0d074ac96126.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jan 2026",
+   "url": "https://investors.larsentoubro.com/upload/Analysttrans/FY2026AnalysttransL&T%20Transcript%20Q3FY26.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jan 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d35018aa-6e52-4d2f-a36e-82205456c0de.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Oct 2025",
+   "url": "https://investors.larsentoubro.com/upload/Analysttrans/FY2026AnalysttransL&T%20Q2FY26%20Earnings%20Call%20Transcript%20.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Oct 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=79d47adc-e94d-4ae2-9f11-2053b053b389.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jul 2025",
+   "url": "https://investors.larsentoubro.com/upload/Analysttrans/FY2026AnalysttransL&T%20Earnings%20Call%20Transcript%20Q1FY26.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jul 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ce24f0b7-3769-4f7f-ba0b-8b700d2de060.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · May 2025",
+   "url": "https://investors.larsentoubro.com/upload/Analysttrans/FY2025AnalysttransL&T%20Q4FY25%20Earnings%20Call%20Transcript.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · May 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d4a102eb-f822-40cd-b836-0590ea3f2229.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jan 2025",
+   "url": "https://investors.larsentoubro.com/upload/Analysttrans/FY2025AnalysttransL&T%20Transcript%20Q3FY25.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jan 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a5fbd50b-3ef9-4665-a5f4-ac0325850446.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/825f9859-e7f2-4e90-8583-01a38850f795.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/63959ce8-b641-4bd4-9a62-43ab52301856.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2024",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b59765b4-ed42-48bd-afad-7caa4417d85d.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2023",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/cb93406e-57ff-4d53-b6cc-41a58cb89fd1.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2022",
+   "url": "https://www.bseindia.com/bseplus/AnnualReport/500510/73655500510.pdf"
+  }
+ ]
+}

@@ -1,0 +1,106 @@
+{
+  "symbol": "POLYCAB",
+  "model": "claude (build-time, cached)",
+  "generated_at": "2026-11-15T12:00:00+05:30",
+  "business": {
+    "summary": "India's largest wires & cables maker (domestic organised share 30-31%, up from 18-19% in FY19 per Q4 FY26 concall), plus a fast-scaling FMEG arm (solar is the largest FMEG category, <50% of it) and an EPC arm (BharatNet). Strategy runs under 'Project Spring' to FY30: grow 1.5-2x industry, W&C EBITDA 11-13%, FMEG EBITDA 8-10%, exports >10% of revenue, ₹60-80bn capex funded internally. Net cash ₹45.2bn at Sep-26.",
+    "segments": [
+      { "name": "Wires & Cables (incl. exports ~5% of group)", "share_pct": null },
+      { "name": "FMEG (solar, fans, lighting, switches)", "share_pct": null },
+      { "name": "EPC (incl. BharatNet) — ₹617 Cr of ₹9,899 Cr in Q2 FY27", "share_pct": 6 }
+    ]
+  },
+  "promises": [
+    {
+      "quarter": "Q3 FY26",
+      "promise": "Q3 margin dip (12.7%) was a one-off: ex ~₹22 Cr labour-code gratuity charge, EBITDA margin ~13%.",
+      "source": "Q3 FY26 concall",
+      "delivered": "OPM recovered: 13.1% (Q4 FY26), 13.8% (Q1 FY27), 14.4% (Q2 FY27) per results filings.",
+      "verdict": "kept"
+    },
+    {
+      "quarter": "Q3 FY26",
+      "promise": "Capex of ₹12-16bn every year through FY30.",
+      "source": "Q3 FY26 concall",
+      "delivered": "FY26 capex ₹14.8bn — first year above ₹14.5bn, mid-band (Q4 FY26 concall).",
+      "verdict": "kept"
+    },
+    {
+      "quarter": "Q3 FY26",
+      "promise": "FMEG to reach 8-10% EBITDA margin by FY30 while growing 1.5-2x industry.",
+      "source": "Q3 FY26 concall",
+      "delivered": "FMEG EBIT 4.1% (Q4 FY26) → 8% (Q1 FY27) → 10.1% (Q2 FY27) on 71% and 124% YoY growth. Band hit 3+ years early, but driven by solar.",
+      "verdict": "kept"
+    },
+    {
+      "quarter": "Q4 FY26",
+      "promise": "W&C long-term EBITDA margin 11-13%.",
+      "source": "Q4 FY26 concall",
+      "delivered": "W&C EBIT 13.1% (Q4 FY26), 13.3% (Q1 FY27), 14.2% (Q2 FY27) — at/above the top of the band; mgmt still refuses to raise it (Q2 FY27 concall).",
+      "verdict": "kept"
+    },
+    {
+      "quarter": "Q4 FY26",
+      "promise": "Exports to exceed 10% of revenue by FY30; exports 'a big lever of growth'.",
+      "source": "Q4 FY26 concall",
+      "delivered": "Export share 8.3% (Q3 FY25) → 6% (Q3 FY26) → 4.4% (Q4 FY26) → 5.4% for FY26. Q1 FY27 exports fell YoY (West Asia); Q2 FY27 +17% YoY but still lagging 50% domestic growth.",
+      "verdict": "pending"
+    },
+    {
+      "quarter": "Q4 FY26",
+      "promise": "Working capital cycle (25 days, flattered by LC payables) to revert to 45-50 days.",
+      "source": "Q4 FY26 concall",
+      "delivered": "Went the other way: 15 days (Q1 FY27), 11 days (Q2 FY27); mgmt still says it will trend to 45-50 days (Q2 FY27 concall).",
+      "verdict": "pending"
+    },
+    {
+      "quarter": "Q1 FY27",
+      "promise": "W&C to grow 1.5x market growth through FY30.",
+      "source": "Q1 FY27 concall",
+      "delivered": "W&C revenue +39% (Q1 FY27) and +47% YoY (Q2 FY27); domestic +43%/+50%. Part of this is copper pass-through ('favourable commodity-linked realizations'); industry growth not disclosed in sources.",
+      "verdict": "kept"
+    }
+  ],
+  "narrative_vs_numbers": [
+    {
+      "claim": "Margins are 'far above' guidance, yet the 11-13% W&C band is held to FY30 (Q2 FY27 concall).",
+      "numbers": "Consolidated OPM 12.7% → 13.1% → 13.8% → 14.4% over Q3 FY26-Q2 FY27; W&C EBIT 14.2% in Q2 FY27. Guidance is deliberately conservative.",
+      "agrees": true
+    },
+    {
+      "claim": "Growth reflects robust demand and execution (all four concalls).",
+      "numbers": "Q3 FY26 domestic W&C +59% in value but ~40% in volume — roughly a third of growth was copper inflation. Mgmt declines to guide revenue because 'it's anyone's guess how copper price is going to be' (Q2 FY27).",
+      "agrees": false
+    },
+    {
+      "claim": "Working capital efficiency is improving (Q2 FY27 concall: 11 days).",
+      "numbers": "Improvement is from temporary LC-backed payables (Q4 FY26, Q1 FY27 concalls); mgmt itself expects 45-50 days. Net cash ₹29.4bn → ₹45.2bn YoY partly reverses when payables normalise.",
+      "agrees": false
+    },
+    {
+      "claim": "Exports are a key growth lever with >10% contribution targeted by FY30.",
+      "numbers": "Export share fell from 8.3% (Q3 FY25) to 4.4% (Q4 FY26); FY26 at 5.4%.",
+      "agrees": false
+    }
+  ],
+  "guidance": [
+    { "metric": "W&C EBITDA margin", "guide": "11-13% medium-to-long term (to FY30)", "source": "Q2 FY27 concall" },
+    { "metric": "FMEG EBITDA margin", "guide": "8-10% by FY30", "source": "Q1 FY27 concall" },
+    { "metric": "Growth", "guide": "1.5x market growth in W&C; 1.5-2x industry in FMEG, to FY30", "source": "Q1 FY27 concall" },
+    { "metric": "Capex", "guide": "₹12-16bn/yr; ₹60-80bn cumulative to FY30, ~90% into W&C capacity", "source": "Q4 FY26 concall" },
+    { "metric": "Exports", "guide": ">10% of revenue by FY30", "source": "Q4 FY26 concall" },
+    { "metric": "Working capital", "guide": "45-50 days steady state", "source": "Q2 FY27 concall" },
+    { "metric": "Dividend payout", "guide": "30% payout ratio by FY30", "source": "Q4 FY26 concall" },
+    { "metric": "EPC / BharatNet margin", "guide": "High single digit", "source": "Q1 FY27 concall" }
+  ],
+  "bull": [
+    "Q2 FY27: revenue +53% YoY, EBITDA +39%, OPM 14.4% — margins above the W&C band while growing at 1.5x+ (Q2 FY27 concall, results).",
+    "FMEG has turned: EBIT 4.1% (Q4 FY26) → 10.1% (Q2 FY27) on 124% growth — FY30 target reached early (Q4 FY26, Q2 FY27 concalls).",
+    "Net cash ₹45.2bn (Sep-26) funds the ₹60-80bn capex plan internally and a rising payout (Q2 FY27, Q4 FY26 concalls)."
+  ],
+  "bear": [
+    "Copper-driven top line: Q3 FY26 value growth 59% vs ~40% volume; mgmt won't guide revenue because of copper (Q3 FY26, Q2 FY27 concalls).",
+    "Exports moving away from target: 8.3% → 4.4-6% of revenue vs >10% FY30 goal (Q3 FY26, Q4 FY26 concalls).",
+    "Cash flattered by LC payables: 11-day working capital vs 45-50 day normal — a reversal would absorb cash (Q2 FY27 concall)."
+  ]
+}

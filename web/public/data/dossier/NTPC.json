@@ -1,0 +1,391 @@
+{
+ "symbol": "NTPC",
+ "name": "NTPC Ltd",
+ "generated_at": "2026-11-15T17:25:06+00:00",
+ "about": "NTPC (National Thermal Power Corporation) Ltd along with its subsidiaries/ associates & JVs is primarily involved in generation and sale of bulk power to State power utilities. Other business of the group includes providing consultancy, project management & supervision, energy trading, oil & gas exploration and coal mining.",
+ "sector": "Power",
+ "price": {
+  "close": 319.1,
+  "change_pct": -1.2,
+  "mcap_cr": 309421.0,
+  "pe": 10.4,
+  "roce": 8.92,
+  "roe": 15.1
+ },
+ "quarters": [
+  {
+   "period": "Dec 2023",
+   "revenue": 42820.0,
+   "ebitda": 11362.0,
+   "pbt": 6571.0,
+   "pat": 5209.0,
+   "opm": 27.0
+  },
+  {
+   "period": "Mar 2024",
+   "revenue": 47628.0,
+   "ebitda": 13990.0,
+   "pbt": 8164.0,
+   "pat": 6490.0,
+   "opm": 29.0
+  },
+  {
+   "period": "Jun 2024",
+   "revenue": 48529.0,
+   "ebitda": 13438.0,
+   "pbt": 7284.0,
+   "pat": 5506.0,
+   "opm": 28.0
+  },
+  {
+   "period": "Sep 2024",
+   "revenue": 44706.0,
+   "ebitda": 11665.0,
+   "pbt": 7046.0,
+   "pat": 5380.0,
+   "opm": 26.0
+  },
+  {
+   "period": "Dec 2024",
+   "revenue": 45069.0,
+   "ebitda": 13341.0,
+   "pbt": 7245.0,
+   "pat": 5170.0,
+   "opm": 30.0
+  },
+  {
+   "period": "Mar 2025",
+   "revenue": 49834.0,
+   "ebitda": 14754.0,
+   "pbt": 10623.0,
+   "pat": 7897.0,
+   "opm": 30.0
+  },
+  {
+   "period": "Jun 2025",
+   "revenue": 47064.0,
+   "ebitda": 12579.0,
+   "pbt": 7765.0,
+   "pat": 6108.0,
+   "opm": 27.0
+  },
+  {
+   "period": "Sep 2025",
+   "revenue": 44784.0,
+   "ebitda": 12814.0,
+   "pbt": 7301.0,
+   "pat": 5225.0,
+   "opm": 29.0
+  },
+  {
+   "period": "Dec 2025",
+   "revenue": 45846.0,
+   "ebitda": 14570.0,
+   "pbt": 8050.0,
+   "pat": 5597.0,
+   "opm": 32.0
+  },
+  {
+   "period": "Mar 2026",
+   "revenue": 49686.0,
+   "ebitda": 8505.0,
+   "pbt": 1553.0,
+   "pat": 10615.0,
+   "opm": 17.0
+  },
+  {
+   "period": "Jun 2026",
+   "revenue": 50741.0,
+   "ebitda": 16231.0,
+   "pbt": 9160.0,
+   "pat": 6896.0,
+   "opm": 32.0
+  },
+  {
+   "period": "Sep 2026",
+   "revenue": 54270.0,
+   "ebitda": 15627.0,
+   "pbt": 9218.0,
+   "pat": 7351.0,
+   "opm": 29.0
+  }
+ ],
+ "annual": [
+  {
+   "year": "Mar 2015",
+   "revenue": 79957.0,
+   "ebitda": 17352.0,
+   "pat": 9992.0,
+   "opm": 22.0,
+   "cfo": 14889.0,
+   "capex": 19320.0,
+   "fcf": -4431.0,
+   "debt": 102252.0,
+   "equity": 82094.0
+  },
+  {
+   "year": "Mar 2016",
+   "revenue": 73396.0,
+   "ebitda": 18568.0,
+   "pat": 10781.0,
+   "opm": 25.0,
+   "cfo": 24125.0,
+   "capex": 21015.0,
+   "fcf": 3110.0,
+   "debt": 99424.0,
+   "equity": 91575.0
+  },
+  {
+   "year": "Mar 2017",
+   "revenue": 82042.0,
+   "ebitda": 21598.0,
+   "pat": 10714.0,
+   "opm": 26.0,
+   "cfo": 20167.0,
+   "capex": 24328.0,
+   "fcf": -4161.0,
+   "debt": 113773.0,
+   "equity": 97838.0
+  },
+  {
+   "year": "Mar 2018",
+   "revenue": 88083.0,
+   "ebitda": 22485.0,
+   "pat": 10502.0,
+   "opm": 26.0,
+   "cfo": 19670.0,
+   "capex": 18758.0,
+   "fcf": 912.0,
+   "debt": 130049.0,
+   "equity": 103563.0
+  },
+  {
+   "year": "Mar 2019",
+   "revenue": 100287.0,
+   "ebitda": 22710.0,
+   "pat": 14034.0,
+   "opm": 23.0,
+   "cfo": 18686.0,
+   "capex": 21528.0,
+   "fcf": -2842.0,
+   "debt": 173058.0,
+   "equity": 111357.0
+  },
+  {
+   "year": "Mar 2020",
+   "revenue": 109464.0,
+   "ebitda": 31586.0,
+   "pat": 11902.0,
+   "opm": 29.0,
+   "cfo": 24583.0,
+   "capex": 18062.0,
+   "fcf": 6521.0,
+   "debt": 200630.0,
+   "equity": 118840.0
+  },
+  {
+   "year": "Mar 2021",
+   "revenue": 111531.0,
+   "ebitda": 34044.0,
+   "pat": 14969.0,
+   "opm": 31.0,
+   "cfo": 32444.0,
+   "capex": 23282.0,
+   "fcf": 9162.0,
+   "debt": 210208.0,
+   "equity": 125739.0
+  },
+  {
+   "year": "Mar 2022",
+   "revenue": 132669.0,
+   "ebitda": 40362.0,
+   "pat": 16960.0,
+   "opm": 30.0,
+   "cfo": 41788.0,
+   "capex": 24331.0,
+   "fcf": 17457.0,
+   "debt": 210707.0,
+   "equity": 135374.0
+  },
+  {
+   "year": "Mar 2023",
+   "revenue": 176207.0,
+   "ebitda": 47596.0,
+   "pat": 17121.0,
+   "opm": 27.0,
+   "cfo": 47152.0,
+   "capex": 24720.0,
+   "fcf": 22432.0,
+   "debt": 222913.0,
+   "equity": 147023.0
+  },
+  {
+   "year": "Mar 2024",
+   "revenue": 178525.0,
+   "ebitda": 51469.0,
+   "pat": 21332.0,
+   "opm": 29.0,
+   "cfo": 40099.0,
+   "capex": 30741.0,
+   "fcf": 9358.0,
+   "debt": 237131.0,
+   "equity": 160710.0
+  },
+  {
+   "year": "Mar 2025",
+   "revenue": 188138.0,
+   "ebitda": 54355.0,
+   "pat": 23953.0,
+   "opm": 29.0,
+   "cfo": 50488.0,
+   "capex": 41057.0,
+   "fcf": 9431.0,
+   "debt": 250096.0,
+   "equity": 184071.0
+  },
+  {
+   "year": "Mar 2026",
+   "revenue": 187385.0,
+   "ebitda": 55438.0,
+   "pat": 27546.0,
+   "opm": 30.0,
+   "cfo": 50902.0,
+   "capex": 44007.0,
+   "fcf": 6895.0,
+   "debt": 271005.0,
+   "equity": 203176.0
+  }
+ ],
+ "computed": {
+  "revenue_cagr_3y": 2.1,
+  "revenue_cagr_5y": 10.9,
+  "pat_cagr_3y": 17.2,
+  "pat_cagr_5y": 13.0,
+  "opm_trend": "stable",
+  "de_ratio": 1.33,
+  "debt_trend": "rising",
+  "cfo_to_pat_5y": 2.16,
+  "fcf_5y_cr": 65573,
+  "ccc_days": 71.0,
+  "ccc_trend": "stable"
+ },
+ "flags": [
+  {
+   "level": "good",
+   "text": "CFO/PAT over 5y is 2.16 — profits backed by cash"
+  },
+  {
+   "level": "bad",
+   "text": "Debt/equity is 1.33 — leveraged balance sheet"
+  },
+  {
+   "level": "watch",
+   "text": "Borrowings rose from ₹222,913 Cr to ₹271,005 Cr over 3 years"
+  },
+  {
+   "level": "watch",
+   "text": "ROCE is 8.9% — below cost of capital"
+  },
+  {
+   "level": "good",
+   "text": "Latest quarter PAT up 40.7% YoY (Sep 2026)"
+  }
+ ],
+ "sources": [
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Nov 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4d962dc4-6133-4998-8d2e-9fa5fec441f5.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Nov 2026",
+   "url": "https://ntpc.co.in/sites/default/files/conference_call/2026/NTPC_OFS_30.09.2026.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e33897c7-dc88-4321-8509-24d5a43a21d1.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=16d1bb8f-e344-4bc6-93b4-5380812bbcdc.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jul 2026",
+   "url": "https://ntpc.co.in/sites/default/files/conference_call/2026/OFS_Q1_FY27.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d2a690dd-c88b-4131-ae93-58eace85d36c.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · May 2026",
+   "url": "https://ntpc.co.in/sites/default/files/conference_call/2026/NTPC_OFS_31032026.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Feb 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a34b65bf-06e8-4d67-b630-5dd881ccf2a0.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Feb 2026",
+   "url": "https://www.ntpc.co.in/sites/default/files/inline-files/OFS%20Q3FY26%20for%20upload_0.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Nov 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=73638cb2-aa32-49e8-91ce-6f452625f693.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Aug 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=293230fa-9f9f-49b0-b470-98641c90f216.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Aug 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2ea7ff14-0ada-4016-a07a-64c09ab62b14.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · May 2025",
+   "url": "https://ntpc.co.in/sites/default/files/inline-files/REVTranscriptConcall24052025.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · May 2025",
+   "url": "https://ntpc.co.in/sites/default/files/inline-files/Operational%20%26%20Financial%20Snapshot_Q4FY25.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/dbc69766-f1e1-4ecc-9fa9-7599477167db.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ba273826-d8ae-4bf6-b346-31875690c34b.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2024",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/39e0cfa7-a5b9-4ef4-9802-ba4248ad306d.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2023",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/da3b3d90-81a9-4839-9a4c-3caedb6497f4.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2022",
+   "url": "https://www.bseindia.com/bseplus/AnnualReport/532555/74152532555.pdf"
+  }
+ ]
+}

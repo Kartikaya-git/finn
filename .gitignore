@@ -1,0 +1,9 @@
+*.pdf
+.DS_Store
+node_modules/
+dist/
+.venv/
+__pycache__/
+pipeline/.cache/
+.env
+SUBMISSION.md

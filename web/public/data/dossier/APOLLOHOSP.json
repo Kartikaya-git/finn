@@ -1,0 +1,395 @@
+{
+ "symbol": "APOLLOHOSP",
+ "name": "Apollo Hospitals Enterprise Ltd",
+ "generated_at": "2026-11-15T17:25:05+00:00",
+ "about": "Apollo Hospitals was established in 1983 by Dr. Prathap C Reddy, renowned architect of modern healthcare in India. As the nation’s first corporate hospital, Apollo Hospitals is acclaimed for pioneering the private healthcare revolution in the country.",
+ "sector": "Healthcare Services",
+ "price": {
+  "close": 8526.0,
+  "change_pct": 0.1,
+  "mcap_cr": 122591.0,
+  "pe": 54.2,
+  "roce": 17.4,
+  "roe": 21.5
+ },
+ "quarters": [
+  {
+   "period": "Dec 2023",
+   "revenue": 4851.0,
+   "ebitda": 614.0,
+   "pbt": 363.0,
+   "pat": 254.0,
+   "opm": 13.0
+  },
+  {
+   "period": "Mar 2024",
+   "revenue": 4944.0,
+   "ebitda": 640.0,
+   "pbt": 368.0,
+   "pat": 258.0,
+   "opm": 13.0
+  },
+  {
+   "period": "Jun 2024",
+   "revenue": 5086.0,
+   "ebitda": 675.0,
+   "pbt": 430.0,
+   "pat": 316.0,
+   "opm": 13.0
+  },
+  {
+   "period": "Sep 2024",
+   "revenue": 5589.0,
+   "ebitda": 816.0,
+   "pbt": 557.0,
+   "pat": 396.0,
+   "opm": 15.0
+  },
+  {
+   "period": "Dec 2024",
+   "revenue": 5527.0,
+   "ebitda": 762.0,
+   "pbt": 536.0,
+   "pat": 379.0,
+   "opm": 14.0
+  },
+  {
+   "period": "Mar 2025",
+   "revenue": 5592.0,
+   "ebitda": 770.0,
+   "pbt": 516.0,
+   "pat": 414.0,
+   "opm": 14.0
+  },
+  {
+   "period": "Jun 2025",
+   "revenue": 5842.0,
+   "ebitda": 852.0,
+   "pbt": 583.0,
+   "pat": 441.0,
+   "opm": 15.0
+  },
+  {
+   "period": "Sep 2025",
+   "revenue": 6189.0,
+   "ebitda": 924.0,
+   "pbt": 675.0,
+   "pat": 494.0,
+   "opm": 15.0
+  },
+  {
+   "period": "Dec 2025",
+   "revenue": 6477.0,
+   "ebitda": 965.0,
+   "pbt": 682.0,
+   "pat": 516.0,
+   "opm": 15.0
+  },
+  {
+   "period": "Mar 2026",
+   "revenue": 6606.0,
+   "ebitda": 1011.0,
+   "pbt": 722.0,
+   "pat": 551.0,
+   "opm": 15.0
+  },
+  {
+   "period": "Jun 2026",
+   "revenue": 6932.0,
+   "ebitda": 1077.0,
+   "pbt": 799.0,
+   "pat": 610.0,
+   "opm": 16.0
+  },
+  {
+   "period": "Sep 2026",
+   "revenue": 7615.0,
+   "ebitda": 1191.0,
+   "pbt": 904.0,
+   "pat": 660.0,
+   "opm": 16.0
+  }
+ ],
+ "annual": [
+  {
+   "year": "Mar 2015",
+   "revenue": 5129.0,
+   "ebitda": 737.0,
+   "pat": 335.0,
+   "opm": 14.0,
+   "cfo": 470.0,
+   "capex": 866.0,
+   "fcf": -396.0,
+   "debt": 1992.0,
+   "equity": 3172.0
+  },
+  {
+   "year": "Mar 2016",
+   "revenue": 6150.0,
+   "ebitda": 684.0,
+   "pat": 235.0,
+   "opm": 11.0,
+   "cfo": 597.0,
+   "capex": 990.0,
+   "fcf": -393.0,
+   "debt": 2834.0,
+   "equity": 3332.0
+  },
+  {
+   "year": "Mar 2017",
+   "revenue": 7256.0,
+   "ebitda": 734.0,
+   "pat": 131.0,
+   "opm": 10.0,
+   "cfo": 623.0,
+   "capex": 669.0,
+   "fcf": -46.0,
+   "debt": 3125.0,
+   "equity": 3314.0
+  },
+  {
+   "year": "Mar 2018",
+   "revenue": 8243.0,
+   "ebitda": 801.0,
+   "pat": 60.0,
+   "opm": 10.0,
+   "cfo": 537.0,
+   "capex": 621.0,
+   "fcf": -84.0,
+   "debt": 3427.0,
+   "equity": 3252.0
+  },
+  {
+   "year": "Mar 2019",
+   "revenue": 9617.0,
+   "ebitda": 1070.0,
+   "pat": 200.0,
+   "opm": 11.0,
+   "cfo": 905.0,
+   "capex": 672.0,
+   "fcf": 233.0,
+   "debt": 3673.0,
+   "equity": 3334.0
+  },
+  {
+   "year": "Mar 2020",
+   "revenue": 11247.0,
+   "ebitda": 1591.0,
+   "pat": 432.0,
+   "opm": 14.0,
+   "cfo": 1293.0,
+   "capex": 511.0,
+   "fcf": 782.0,
+   "debt": 3596.0,
+   "equity": 3340.0
+  },
+  {
+   "year": "Mar 2021",
+   "revenue": 10560.0,
+   "ebitda": 1140.0,
+   "pat": 137.0,
+   "opm": 11.0,
+   "cfo": 1265.0,
+   "capex": 281.0,
+   "fcf": 984.0,
+   "debt": 4160.0,
+   "equity": 4603.0
+  },
+  {
+   "year": "Mar 2022",
+   "revenue": 14663.0,
+   "ebitda": 2189.0,
+   "pat": 1108.0,
+   "opm": 15.0,
+   "cfo": 1696.0,
+   "capex": 652.0,
+   "fcf": 1044.0,
+   "debt": 4068.0,
+   "equity": 5623.0
+  },
+  {
+   "year": "Mar 2023",
+   "revenue": 16612.0,
+   "ebitda": 2065.0,
+   "pat": 844.0,
+   "opm": 12.0,
+   "cfo": 1377.0,
+   "capex": 1125.0,
+   "fcf": 252.0,
+   "debt": 4332.0,
+   "equity": 6198.0
+  },
+  {
+   "year": "Mar 2024",
+   "revenue": 19059.0,
+   "ebitda": 2394.0,
+   "pat": 935.0,
+   "opm": 13.0,
+   "cfo": 1920.0,
+   "capex": 1135.0,
+   "fcf": 785.0,
+   "debt": 5333.0,
+   "equity": 6936.0
+  },
+  {
+   "year": "Mar 2025",
+   "revenue": 21794.0,
+   "ebitda": 3033.0,
+   "pat": 1505.0,
+   "opm": 14.0,
+   "cfo": 2136.0,
+   "capex": 1697.0,
+   "fcf": 439.0,
+   "debt": 7864.0,
+   "equity": 8212.0
+  },
+  {
+   "year": "Mar 2026",
+   "revenue": 25228.0,
+   "ebitda": 3779.0,
+   "pat": 2003.0,
+   "opm": 15.0,
+   "cfo": 2856.0,
+   "capex": 1931.0,
+   "fcf": 925.0,
+   "debt": 8493.0,
+   "equity": 9480.0
+  }
+ ],
+ "computed": {
+  "revenue_cagr_3y": 14.9,
+  "revenue_cagr_5y": 19.0,
+  "pat_cagr_3y": 33.4,
+  "pat_cagr_5y": 71.0,
+  "opm_trend": "stable",
+  "de_ratio": 0.9,
+  "debt_trend": "rising",
+  "cfo_to_pat_5y": 1.56,
+  "fcf_5y_cr": 3445,
+  "ccc_days": 3.0,
+  "ccc_trend": "lengthening"
+ },
+ "flags": [
+  {
+   "level": "good",
+   "text": "CFO/PAT over 5y is 1.56 — profits backed by cash"
+  },
+  {
+   "level": "watch",
+   "text": "Debt/equity is 0.90"
+  },
+  {
+   "level": "watch",
+   "text": "Borrowings rose from ₹4,332 Cr to ₹8,493 Cr over 3 years"
+  },
+  {
+   "level": "good",
+   "text": "Revenue 5y CAGR is 19.0%"
+  },
+  {
+   "level": "watch",
+   "text": "Cash conversion cycle lengthened from -16 to 3 days"
+  },
+  {
+   "level": "good",
+   "text": "Latest quarter PAT up 33.6% YoY (Sep 2026)"
+  }
+ ],
+ "sources": [
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Nov 2026",
+   "url": "https://www.apollohospitals.com/sites/default/files/2026-11/transcript-of-apollo-hospitals---q2-fy27-earnings-call.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Aug 2026",
+   "url": "https://www.apollohospitals.com/sites/default/files/2026-08/transcript-of-apollo-hospitals---q1-fy27-earnings-call.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0a967b34-eaeb-44d0-82d8-5ff46e9b171f.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · May 2026",
+   "url": "https://www.apollohospitals.com/sites/default/files/2026-05/transcript-of-apollo-hospitals---q4-fy26-earnings-call.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7cfb1747-054b-47c2-8073-a98cba8daca0.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Feb 2026",
+   "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2026-02/transcript-of-ahel-q3fy26-concall_11feb2026.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Feb 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2256258c-6663-42bc-866c-402f5dcc1cae.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Nov 2025",
+   "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2025-11/transcript-of-apollo-hospitals---q2-fy26-earnings-call---7-november-2025....pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Nov 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4430a828-14c2-4c64-8cff-b68f1a2904f1.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Aug 2025",
+   "url": "https://www.apollohospitals.com/sites/default/files/2025-08/transcript-of-apollo-hospitals---q1-fy26-earnings-call---13-august-2025.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Aug 2025",
+   "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2025-08/ahel-q1fy26-earnings-update.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jun 2025",
+   "url": "https://www.apollohospitals.com/sites/default/files/2025-06/transcript-of-apollo-hospitals---q4-fy25-earnings-call---1-.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jun 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f30907dc-d76c-4a3b-bbf9-7a8b5121223c.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · May 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b850535c-b6c7-417c-9899-007a8bd0d2c8.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/f9b40997-8116-48ba-949a-ca2e7775e3c2.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/330724b4-fb72-4577-beb0-598b4672f77a.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2024",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/93fc23fd-104c-47e7-bfc9-cf91d3d41e33.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2023",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/30d2900c-1d8f-4110-abf9-5e477e6ace9e.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2022",
+   "url": "https://www.bseindia.com/bseplus/AnnualReport/508869/74069508869.pdf"
+  }
+ ]
+}
