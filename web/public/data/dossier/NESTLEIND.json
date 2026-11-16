@@ -1,14 +1,14 @@
 {
  "symbol": "NESTLEIND",
  "name": "Nestle India Ltd",
- "generated_at": "2026-11-15T17:25:21+00:00",
+ "generated_at": "2026-11-16T10:33:15+00:00",
  "about": "Nestle India Limited is a subsidiary of Nestle which is a Swiss MNC. The company operates in the Food segment.",
  "sector": "Food Products",
  "price": {
-  "close": 1263.2,
-  "change_pct": 0.2,
-  "mcap_cr": 243585.0,
-  "pe": 61.3,
+  "close": 1297.0,
+  "change_pct": 2.7,
+  "mcap_cr": 249736.0,
+  "pe": 62.8,
   "roce": 85.3,
   "roe": 74.2
  },

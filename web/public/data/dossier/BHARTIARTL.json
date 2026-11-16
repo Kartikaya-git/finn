@@ -1,14 +1,14 @@
 {
  "symbol": "BHARTIARTL",
  "name": "Bharti Airtel Ltd",
- "generated_at": "2026-11-15T17:25:20+00:00",
+ "generated_at": "2026-11-16T10:32:41+00:00",
  "about": "Bharti Airtel Ltd is one of the world’s leading providers of telecommunication services with presence in 18 countries representing India, Sri Lanka, 14 countries in Africa.",
  "sector": "Telecom - Services",
  "price": {
-  "close": 2106.0,
-  "change_pct": 0.5,
-  "mcap_cr": 1314484.0,
-  "pe": 39.3,
+  "close": 2146.1,
+  "change_pct": 1.9,
+  "mcap_cr": 1343196.0,
+  "pe": 40.2,
   "roce": 17.6,
   "roe": 20.3
  },

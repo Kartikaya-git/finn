@@ -1,16 +1,11 @@
 {
- "generated_at": "2026-11-15T17:25:22+00:00",
+ "generated_at": "2026-11-16T10:33:42+00:00",
  "holdings": [
   {
    "symbol": "RELIANCE",
    "name": "Reliance Industries Ltd",
    "sector": "Petroleum Products",
    "series": [
-    [
-     "2026-07-08",
-     1275.9,
-     20800260
-    ],
     [
      "2026-07-09",
      1279.8,
@@ -455,6 +450,11 @@
      "2026-11-13",
      1339.7,
      15309782
+    ],
+    [
+     "2026-11-16",
+     1344.8,
+     8041095
     ]
    ],
    "filings": [
@@ -520,11 +520,6 @@
    "name": "HDFC Bank Ltd",
    "sector": "Banks",
    "series": [
-    [
-     "2026-07-08",
-     810.3,
-     39728227
-    ],
     [
      "2026-07-09",
      817.55,
@@ -969,6 +964,11 @@
      "2026-11-13",
      804.0,
      24185221
+    ],
+    [
+     "2026-11-16",
+     816.5,
+     28661092
     ]
    ],
    "filings": [
@@ -1034,11 +1034,6 @@
    "name": "Infosys Ltd",
    "sector": "IT - Software",
    "series": [
-    [
-     "2026-07-08",
-     1069.3,
-     13637846
-    ],
     [
      "2026-07-09",
      1050.8,
@@ -1483,6 +1478,11 @@
      "2026-11-13",
      1141.5,
      6157396
+    ],
+    [
+     "2026-11-16",
+     1145.1,
+     5099699
     ]
    ],
    "filings": [
@@ -1537,11 +1537,6 @@
    "name": "ITC Ltd",
    "sector": "Diversified FMCG",
    "series": [
-    [
-     "2026-07-08",
-     280.65,
-     22800601
-    ],
     [
      "2026-07-09",
      282.05,
@@ -1986,6 +1981,11 @@
      "2026-11-13",
      285.0,
      9032987
+    ],
+    [
+     "2026-11-16",
+     294.8,
+     50790929
     ]
    ],
    "filings": [
@@ -2079,11 +2079,6 @@
    "name": "Larsen & Toubro Ltd",
    "sector": "Construction",
    "series": [
-    [
-     "2026-07-08",
-     3892.1,
-     2342255
-    ],
     [
      "2026-07-09",
      3886.0,
@@ -2528,6 +2523,11 @@
      "2026-11-13",
      4143.8,
      1918346
+    ],
+    [
+     "2026-11-16",
+     4127.1,
+     1119611
     ]
    ],
    "filings": [
@@ -2582,11 +2582,6 @@
    "name": "Bajaj Finance Ltd",
    "sector": "Finance",
    "series": [
-    [
-     "2026-07-08",
-     1010.4,
-     9099188
-    ],
     [
      "2026-07-09",
      1003.8,
@@ -3031,6 +3026,11 @@
      "2026-11-13",
      1117.0,
      12614191
+    ],
+    [
+     "2026-11-16",
+     1110.0,
+     8326230
     ]
    ],
    "filings": [
@@ -3096,11 +3096,6 @@
    "name": "Asian Paints Ltd",
    "sector": "Consumer Durables",
    "series": [
-    [
-     "2026-07-08",
-     2665.9,
-     1626415
-    ],
     [
      "2026-07-09",
      2673.8,
@@ -3545,6 +3540,11 @@
      "2026-11-13",
      2550.0,
      638338
+    ],
+    [
+     "2026-11-16",
+     2572.9,
+     1181768
     ]
    ],
    "filings": [
@@ -3588,11 +3588,6 @@
    "name": "Titan Company Ltd",
    "sector": "Consumer Durables",
    "series": [
-    [
-     "2026-07-08",
-     4586.4,
-     1103396
-    ],
     [
      "2026-07-09",
      4555.8,
@@ -4037,6 +4032,11 @@
      "2026-11-13",
      4844.9,
      655370
+    ],
+    [
+     "2026-11-16",
+     4901.2,
+     895564
     ]
    ],
    "filings": [
@@ -4069,11 +4069,6 @@
    "name": "Sun Pharmaceutical Industries Ltd",
    "sector": "Pharmaceuticals & Biotechnology",
    "series": [
-    [
-     "2026-07-08",
-     1888.2,
-     2859123
-    ],
     [
      "2026-07-09",
      1938.7,
@@ -4518,6 +4513,11 @@
      "2026-11-13",
      1880.0,
      2103807
+    ],
+    [
+     "2026-11-16",
+     1864.5,
+     1227376
     ]
    ],
    "filings": [
@@ -4561,11 +4561,6 @@
    "name": "Maruti Suzuki India Ltd",
    "sector": "Automobiles",
    "series": [
-    [
-     "2026-07-08",
-     13951.0,
-     526308
-    ],
     [
      "2026-07-09",
      13728.0,
@@ -5010,6 +5005,11 @@
      "2026-11-13",
      12854.0,
      545491
+    ],
+    [
+     "2026-11-16",
+     12571.0,
+     683245
     ]
    ],
    "filings": [
@@ -5053,11 +5053,6 @@
    "name": "Avenue Supermarts Ltd",
    "sector": "Retailing",
    "series": [
-    [
-     "2026-07-08",
-     4038.6,
-     245953
-    ],
     [
      "2026-07-09",
      4079.4,
@@ -5502,6 +5497,11 @@
      "2026-11-13",
      3439.3,
      161292
+    ],
+    [
+     "2026-11-16",
+     3457.6,
+     229045
     ]
    ],
    "filings": [
@@ -5567,11 +5567,6 @@
    "name": "Eternal Ltd",
    "sector": "Retailing",
    "series": [
-    [
-     "2026-07-08",
-     286.7,
-     62293765
-    ],
     [
      "2026-07-09",
      292.45,
@@ -6016,6 +6011,11 @@
      "2026-11-13",
      363.65,
      14343128
+    ],
+    [
+     "2026-11-16",
+     369.9,
+     24050044
     ]
    ],
    "filings": [
@@ -6120,11 +6120,6 @@
    "name": "Polycab India Ltd",
    "sector": "Industrial Products",
    "series": [
-    [
-     "2026-07-08",
-     9234.0,
-     290215
-    ],
     [
      "2026-07-09",
      9074.0,
@@ -6569,9 +6564,25 @@
      "2026-11-13",
      7904.0,
      444768
+    ],
+    [
+     "2026-11-16",
+     7939.5,
+     75552
     ]
    ],
    "filings": [
+    {
+     "id": "f7ba9968610e",
+     "symbol": "POLYCAB",
+     "title": "Announcement Under Regulation 30 (LODR) - Analyst(S) / Investor(S) Meet - Intimation",
+     "summary": "Polycab India schedules investor meetings with GIC and BNP Paribas on November 20, 2026.",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a5d2906c-bc39-4fc9-8d6c-821f2f1c8789.pdf",
+     "ts": "2026-11-16T11:25:15+05:30",
+     "category": "investor_meetings",
+     "tier": "routine",
+     "why": "Investor meeting schedule"
+    },
     {
      "id": "49dd872b165a",
      "symbol": "POLYCAB",
@@ -6604,17 +6615,6 @@
      "category": "investor_meetings",
      "tier": "routine",
      "why": "Investor meeting schedule"
-    },
-    {
-     "id": "e3e78e70475f",
-     "symbol": "POLYCAB",
-     "title": "Corporate Insolvency Resolution Process (CIRP)-Updates - Corporate Insolvency Resolution Process (CIRP)",
-     "summary": "NCLAT ordered MSCI not to delist Polycab until order pronouncement, dated October 27, 2026.",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ead5c0dc-e464-4e53-8006-b861205174a9.pdf",
-     "ts": "2026-10-28T10:21:03+05:30",
-     "category": "litigation",
-     "tier": "card",
-     "why": "Legal / regulatory action"
     }
    ]
   },
@@ -6623,11 +6623,6 @@
    "name": "Dixon Technologies (India) Ltd",
    "sector": "Consumer Durables",
    "series": [
-    [
-     "2026-07-08",
-     12934.0,
-     590092
-    ],
     [
      "2026-07-09",
      13477.0,
@@ -7072,6 +7067,11 @@
      "2026-11-13",
      12798.0,
      214226
+    ],
+    [
+     "2026-11-16",
+     12890.0,
+     241952
     ]
    ],
    "filings": [
@@ -7176,11 +7176,6 @@
    "name": "KPIT Technologies Ltd",
    "sector": "IT - Software",
    "series": [
-    [
-     "2026-07-08",
-     554.6,
-     3312235
-    ],
     [
      "2026-07-09",
      548.15,
@@ -7625,6 +7620,11 @@
      "2026-11-13",
      552.0,
      1244348
+    ],
+    [
+     "2026-11-16",
+     536.3,
+     1242302
     ]
    ],
    "filings": [
@@ -7690,11 +7690,6 @@
    "name": "Indian Railway Catering & Tourism Corporation Ltd",
    "sector": "Leisure Services",
    "series": [
-    [
-     "2026-07-08",
-     498.5,
-     943091
-    ],
     [
      "2026-07-09",
      496.5,
@@ -8139,6 +8134,11 @@
      "2026-11-13",
      457.7,
      1901435
+    ],
+    [
+     "2026-11-16",
+     451.25,
+     906271
     ]
    ],
    "filings": [
@@ -8232,11 +8232,6 @@
    "name": "Trent Ltd",
    "sector": "Retailing",
    "series": [
-    [
-     "2026-07-08",
-     2924.0,
-     2941616
-    ],
     [
      "2026-07-09",
      2904.1,
@@ -8681,6 +8676,11 @@
      "2026-11-13",
      3165.2,
      612541
+    ],
+    [
+     "2026-11-16",
+     3191.3,
+     437081
     ]
    ],
    "filings": [
@@ -8785,11 +8785,6 @@
    "name": "Deepak Nitrite Ltd",
    "sector": "Chemicals & Petrochemicals",
    "series": [
-    [
-     "2026-07-08",
-     1571.3,
-     211743
-    ],
     [
      "2026-07-09",
      1621.2,
@@ -9234,6 +9229,11 @@
      "2026-11-13",
      1594.4,
      128498
+    ],
+    [
+     "2026-11-16",
+     1594.9,
+     143219
     ]
    ],
    "filings": [
@@ -9316,11 +9316,6 @@
    "name": "Central Depository Services (India) Ltd",
    "sector": "Capital Markets",
    "series": [
-    [
-     "2026-07-08",
-     1311.4,
-     1820046
-    ],
     [
      "2026-07-09",
      1346.5,
@@ -9765,6 +9760,11 @@
      "2026-11-13",
      1447.0,
      2925722
+    ],
+    [
+     "2026-11-16",
+     1430.4,
+     11828
     ]
    ],
    "filings": [
@@ -9830,11 +9830,6 @@
    "name": "Hindustan Aeronautics Ltd",
    "sector": "Aerospace & Defense",
    "series": [
-    [
-     "2026-07-08",
-     4364.7,
-     1119216
-    ],
     [
      "2026-07-09",
      4378.9,
@@ -10279,6 +10274,11 @@
      "2026-11-13",
      4809.8,
      957240
+    ],
+    [
+     "2026-11-16",
+     4789.0,
+     487714
     ]
    ],
    "filings": [

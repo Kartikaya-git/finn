@@ -1,14 +1,14 @@
 {
  "symbol": "ETERNAL",
  "name": "Eternal Ltd",
- "generated_at": "2026-11-15T17:25:19+00:00",
+ "generated_at": "2026-11-16T10:31:49+00:00",
  "about": "Incorporated in 2010, Eternal Limited (previously Zomato Limited) is one of the leading online Food Service platforms in terms of the value of food sold. Its offerings include food delivery, dining-out services, Loyalty programs, and others.",
  "sector": "Retailing",
  "price": {
-  "close": 363.65,
-  "change_pct": -0.2,
-  "mcap_cr": 350935.0,
-  "pe": 712.0,
+  "close": 369.9,
+  "change_pct": 1.7,
+  "mcap_cr": 357883.0,
+  "pe": 726.0,
   "roce": 2.48,
   "roe": 0.94
  },

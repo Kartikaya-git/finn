@@ -1,14 +1,14 @@
 {
  "symbol": "HDFCLIFE",
  "name": "HDFC Life Insurance Company Ltd",
- "generated_at": "2026-11-15T17:25:21+00:00",
+ "generated_at": "2026-11-16T10:32:55+00:00",
  "about": "HDFC Life Insurance Company is engaged in carrying on the business of life insurance. The Company offers a range of individual and group insurance solutions. The portfolio comprises of various insurance and investment products such as Protection, Pension, Savings,(Source : 202003 Annual Report Page No: 175)",
  "sector": "Insurance",
  "price": {
-  "close": 592.25,
-  "change_pct": -0.9,
-  "mcap_cr": 128672.0,
-  "pe": 62.8,
+  "close": 604.5,
+  "change_pct": 2.1,
+  "mcap_cr": 131333.0,
+  "pe": 64.2,
   "roce": 10.3,
   "roe": 11.3
  },
@@ -120,7 +120,7 @@
    "cfo": 4459.0,
    "capex": 107.0,
    "fcf": 4352.0,
-   "debt": -0.0,
+   "debt": 0.0,
    "equity": 2541.0
   },
   {
@@ -132,7 +132,7 @@
    "cfo": 5687.0,
    "capex": 33.0,
    "fcf": 5654.0,
-   "debt": -0.0,
+   "debt": 0.0,
    "equity": 3103.0
   },
   {
@@ -144,7 +144,7 @@
    "cfo": 6230.0,
    "capex": 47.0,
    "fcf": 6183.0,
-   "debt": -0.0,
+   "debt": 0.0,
    "equity": 3826.0
   },
   {
@@ -156,7 +156,7 @@
    "cfo": 6739.0,
    "capex": 33.0,
    "fcf": 6706.0,
-   "debt": -0.0,
+   "debt": 0.0,
    "equity": 4705.0
   },
   {
@@ -168,7 +168,7 @@
    "cfo": 9868.0,
    "capex": 43.0,
    "fcf": 9825.0,
-   "debt": -0.0,
+   "debt": 0.0,
    "equity": 5642.0
   },
   {
@@ -180,7 +180,7 @@
    "cfo": 7388.0,
    "capex": 37.0,
    "fcf": 7351.0,
-   "debt": -0.0,
+   "debt": 0.0,
    "equity": 6807.0
   },
   {
@@ -266,7 +266,7 @@
   "debt_trend": "rising",
   "cfo_to_pat_5y": 7.73,
   "fcf_5y_cr": 60912,
-  "ccc_days": -0.0,
+  "ccc_days": 0.0,
   "ccc_trend": "stable"
  },
  "flags": [

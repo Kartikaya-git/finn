@@ -1,14 +1,14 @@
 {
  "symbol": "HDFCBANK",
  "name": "HDFC Bank Ltd",
- "generated_at": "2026-11-15T17:25:19+00:00",
+ "generated_at": "2026-11-16T10:31:09+00:00",
  "about": "HDFC Bank Limited (also known as HDFC) is an Indian banking and financial services company headquartered in Mumbai. It is India's largest private sector bank by assets and the world's tenth-largest bank by market capitalization as of May 2024. As of April 2024, HDFC Bank has a market capitalization of $145 billion, making it the third-largest company on the Indian stock exchanges.",
  "sector": "Banks",
  "price": {
-  "close": 804.0,
-  "change_pct": -1.0,
-  "mcap_cr": 1240766.0,
-  "pe": 15.5,
+  "close": 816.5,
+  "change_pct": 1.6,
+  "mcap_cr": 1259285.0,
+  "pe": 15.6,
   "roce": 7.02,
   "roe": 13.6
  },

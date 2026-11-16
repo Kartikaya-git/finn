@@ -1,14 +1,14 @@
 {
  "symbol": "NTPC",
  "name": "NTPC Ltd",
- "generated_at": "2026-11-15T17:25:21+00:00",
+ "generated_at": "2026-11-16T10:33:17+00:00",
  "about": "NTPC (National Thermal Power Corporation) Ltd along with its subsidiaries/ associates & JVs is primarily involved in generation and sale of bulk power to State power utilities. Other business of the group includes providing consultancy, project management & supervision, energy trading, oil & gas exploration and coal mining.",
  "sector": "Power",
  "price": {
-  "close": 319.1,
-  "change_pct": -1.2,
-  "mcap_cr": 309421.0,
-  "pe": 10.4,
+  "close": 321.25,
+  "change_pct": 0.7,
+  "mcap_cr": 311263.0,
+  "pe": 10.5,
   "roce": 8.92,
   "roe": 15.1
  },

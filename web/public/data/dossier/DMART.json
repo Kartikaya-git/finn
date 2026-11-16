@@ -1,14 +1,14 @@
 {
  "symbol": "DMART",
  "name": "Avenue Supermarts Ltd",
- "generated_at": "2026-11-15T17:25:19+00:00",
+ "generated_at": "2026-11-16T10:31:45+00:00",
  "about": "Avenue Supermarts Limited (DMart) is a national supermarket chain, with a focus on value-retailing. We offer a wide range of products with a focus on the Foods, Non-Foods (FMCG) and General Merchandise & Apparel product categories.",
  "sector": "Retailing",
  "price": {
-  "close": 3439.3,
-  "change_pct": -0.4,
-  "mcap_cr": 224349.0,
-  "pe": 72.0,
+  "close": 3457.6,
+  "change_pct": 0.5,
+  "mcap_cr": 225373.0,
+  "pe": 72.3,
   "roce": 17.2,
   "roe": 12.9
  },

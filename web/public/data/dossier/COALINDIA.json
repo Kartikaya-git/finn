@@ -1,14 +1,14 @@
 {
  "symbol": "COALINDIA",
  "name": "Coal India Ltd",
- "generated_at": "2026-11-15T17:25:20+00:00",
+ "generated_at": "2026-11-16T10:32:45+00:00",
  "about": "Coal India Ltd is mainly engaged in mining and production of Coal and also operates Coal washeries. The major consumers of the company are power and steel sectors. Consumers from other sectors include cement, fertilizers, brick kilns",
  "sector": "Consumable Fuels",
  "price": {
-  "close": 403.5,
-  "change_pct": -0.2,
-  "mcap_cr": 248666.0,
-  "pe": 7.45,
+  "close": 397.5,
+  "change_pct": -1.5,
+  "mcap_cr": 245276.0,
+  "pe": 7.3,
   "roce": 35.0,
   "roe": 28.2
  },

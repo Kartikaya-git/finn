@@ -1,14 +1,14 @@
 {
  "symbol": "CDSL",
  "name": "Central Depository Services (India) Ltd",
- "generated_at": "2026-11-15T17:25:20+00:00",
+ "generated_at": "2026-11-16T10:32:17+00:00",
  "about": "Central Depository Services Limited is a Market Infrastructure Institution (MII), part of the capital market structure, providing services to all market participants - exchanges, clearing corporations, depository participants (DPs), issuers and investors. It is a facilitator for holding of securities in the dematerialised form and an enabler for securities transactions.",
  "sector": "Capital Markets",
  "price": {
-  "close": 1447.0,
-  "change_pct": -0.5,
-  "mcap_cr": 30242.0,
-  "pe": 59.9,
+  "close": 1430.4,
+  "change_pct": -1.1,
+  "mcap_cr": 29969.0,
+  "pe": 59.3,
   "roce": 32.0,
   "roe": 24.5
  },
