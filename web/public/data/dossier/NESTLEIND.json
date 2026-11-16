@@ -1,18 +1,26 @@
 {
  "symbol": "NESTLEIND",
  "name": "Nestle India Ltd",
- "generated_at": "2026-11-16T10:33:15+00:00",
+ "generated_at": "2026-11-16T20:47:55+00:00",
  "about": "Nestle India Limited is a subsidiary of Nestle which is a Swiss MNC. The company operates in the Food segment.",
  "sector": "Food Products",
  "price": {
   "close": 1297.0,
   "change_pct": 2.7,
-  "mcap_cr": 249736.0,
+  "mcap_cr": 249845.0,
   "pe": 62.8,
   "roce": 85.3,
   "roe": 74.2
  },
  "quarters": [
+  {
+   "period": "Sep 2023\n            \n            (S)",
+   "revenue": 5037.0,
+   "ebitda": 1225.0,
+   "pbt": 1222.0,
+   "pat": 908.0,
+   "opm": 24.0
+  },
   {
    "period": "Dec 2023",
    "revenue": 4600.0,
@@ -104,6 +112,102 @@
  ],
  "annual": [
   {
+   "year": "Dec 2015\n            \n            (S)",
+   "revenue": 8175.0,
+   "ebitda": 1555.0,
+   "pat": 563.0,
+   "opm": 19.0,
+   "cfo": 1098.0,
+   "capex": 149.0,
+   "fcf": 949.0,
+   "debt": 18.0,
+   "equity": 2817.0
+  },
+  {
+   "year": "Dec 2016\n            \n            (S)",
+   "revenue": 9141.0,
+   "ebitda": 1850.0,
+   "pat": 1001.0,
+   "opm": 20.0,
+   "cfo": 1466.0,
+   "capex": 113.0,
+   "fcf": 1353.0,
+   "debt": 33.0,
+   "equity": 3282.0
+  },
+  {
+   "year": "Dec 2017\n            \n            (S)",
+   "revenue": 10010.0,
+   "ebitda": 2097.0,
+   "pat": 1225.0,
+   "opm": 21.0,
+   "cfo": 1818.0,
+   "capex": 196.0,
+   "fcf": 1622.0,
+   "debt": 35.0,
+   "equity": 3420.0
+  },
+  {
+   "year": "Dec 2018\n            \n            (S)",
+   "revenue": 11292.0,
+   "ebitda": 2618.0,
+   "pat": 1607.0,
+   "opm": 23.0,
+   "cfo": 2052.0,
+   "capex": 162.0,
+   "fcf": 1890.0,
+   "debt": 35.0,
+   "equity": 3673.0
+  },
+  {
+   "year": "Dec 2019\n            \n            (S)",
+   "revenue": 12369.0,
+   "ebitda": 2926.0,
+   "pat": 1968.0,
+   "opm": 24.0,
+   "cfo": 2295.0,
+   "capex": 152.0,
+   "fcf": 2143.0,
+   "debt": 189.0,
+   "equity": 1918.0
+  },
+  {
+   "year": "Dec 2020\n            \n            (S)",
+   "revenue": 13350.0,
+   "ebitda": 3202.0,
+   "pat": 2082.0,
+   "opm": 24.0,
+   "cfo": 2454.0,
+   "capex": 474.0,
+   "fcf": 1980.0,
+   "debt": 147.0,
+   "equity": 2019.0
+  },
+  {
+   "year": "Dec 2021\n            \n            (S)",
+   "revenue": 14741.0,
+   "ebitda": 3562.0,
+   "pat": 2118.0,
+   "opm": 24.0,
+   "cfo": 2236.0,
+   "capex": 731.0,
+   "fcf": 1505.0,
+   "debt": 266.0,
+   "equity": 1946.0
+  },
+  {
+   "year": "Dec 2022\n            \n            (S)",
+   "revenue": 16897.0,
+   "ebitda": 3706.0,
+   "pat": 2391.0,
+   "opm": 22.0,
+   "cfo": 2737.0,
+   "capex": 540.0,
+   "fcf": 2197.0,
+   "debt": 271.0,
+   "equity": 2459.0
+  },
+  {
    "year": "Dec 2023",
    "revenue": 19126.0,
    "ebitda": 4471.0,
@@ -154,21 +258,25 @@
  ],
  "computed": {
   "revenue_cagr_3y": 6.6,
-  "revenue_cagr_5y": null,
+  "revenue_cagr_5y": 9.5,
   "pat_cagr_3y": 5.3,
-  "pat_cagr_5y": null,
+  "pat_cagr_5y": 10.6,
   "opm_trend": "stable",
   "de_ratio": 0.09,
-  "debt_trend": "flat",
+  "debt_trend": "rising",
   "cfo_to_pat_5y": null,
   "fcf_5y_cr": null,
   "ccc_days": -19.0,
-  "ccc_trend": null
+  "ccc_trend": "shortening"
  },
  "flags": [
   {
    "level": "good",
    "text": "Debt/equity is 0.09 — virtually debt-free"
+  },
+  {
+   "level": "good",
+   "text": "Cash conversion cycle shortened from -7 to -19 days"
   },
   {
    "level": "good",

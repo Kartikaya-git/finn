@@ -1,13 +1,13 @@
 {
  "symbol": "INDIGO",
  "name": "Interglobe Aviation Ltd",
- "generated_at": "2026-11-16T10:33:03+00:00",
+ "generated_at": "2026-11-16T20:47:43+00:00",
  "about": "Interglobe Aviation Ltd (Indigo) is India’s largest passenger airline operating as a low-cost carrier. Serving 86 destinations including 24 international destinations, it provides passengers with a simple, unbundled product, fulfilling its singular brand promise of providing “low fares, on-time flights, and a courteous and hassle-free service” to its customers. IndiGo commenced operations in August 2006 with a single aircraft and has grown its fleet to 262 aircrafts.",
  "sector": "Transport Services",
  "price": {
   "close": 5544.0,
   "change_pct": -0.8,
-  "mcap_cr": 214059.0,
+  "mcap_cr": 213896.0,
   "pe": null,
   "roce": 5.24,
   "roe": -27.1
@@ -111,6 +111,30 @@
   }
  ],
  "annual": [
+  {
+   "year": "Mar 2015\n            \n            (S)",
+   "revenue": 13925.0,
+   "ebitda": 1904.0,
+   "pat": 1304.0,
+   "opm": 14.0,
+   "cfo": 2384.0,
+   "capex": 1017.0,
+   "fcf": 1367.0,
+   "debt": 3930.0,
+   "equity": 417.0
+  },
+  {
+   "year": "Mar 2016\n            \n            (S)",
+   "revenue": 16140.0,
+   "ebitda": 3164.0,
+   "pat": 1986.0,
+   "opm": 20.0,
+   "cfo": 3116.0,
+   "capex": 249.0,
+   "fcf": 2867.0,
+   "debt": 3245.0,
+   "equity": 2723.0
+  },
   {
    "year": "Mar 2017",
    "revenue": 18580.0,

@@ -1,14 +1,14 @@
 {
  "symbol": "LT",
  "name": "Larsen & Toubro Ltd",
- "generated_at": "2026-11-16T10:31:21+00:00",
+ "generated_at": "2026-11-16T20:46:01+00:00",
  "about": "Larsen & Toubro Ltd is a multinational conglomerate which is primarily engaged in providing engineering, procurement and construction (EPC) solutions in key sectors such as Infrastructure, Hydrocarbon, Power, Process Industries and Defence, Information Technology and Financial Services in domestic and international markets.",
  "sector": "Construction",
  "price": {
-  "close": 4127.1,
-  "change_pct": -0.4,
-  "mcap_cr": 569327.0,
-  "pe": 30.1,
+  "close": 4140.0,
+  "change_pct": -0.1,
+  "mcap_cr": 570290.0,
+  "pe": 30.2,
   "roce": 14.6,
   "roe": 15.9
  },

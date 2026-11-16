@@ -1,14 +1,14 @@
 {
  "symbol": "MARUTI",
  "name": "Maruti Suzuki India Ltd",
- "generated_at": "2026-11-16T10:31:41+00:00",
+ "generated_at": "2026-11-16T20:46:21+00:00",
  "about": "The Company was established in 1981. A joint venture agreement was signed between the Government of India and Suzuki Motor Corporation (SMC), Japan in 1982. The Company became a subsidiary of SMC in 2002.It is the market leader in passenger vehicle segment in India. In terms of production volume and sales, the Company is now SMC’s largest subsidiary. SMC currently holds 56.28% of its equity stake. The principal activities of the Company are manufacturing, purchase and sale of motor vehicles, components and spare parts.",
  "sector": "Automobiles",
  "price": {
   "close": 12571.0,
   "change_pct": -2.2,
-  "mcap_cr": 395322.0,
-  "pe": 29.4,
+  "mcap_cr": 394499.0,
+  "pe": 29.3,
   "roce": 18.9,
   "roe": 14.3
  },

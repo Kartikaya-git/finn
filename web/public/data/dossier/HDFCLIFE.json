@@ -1,14 +1,14 @@
 {
  "symbol": "HDFCLIFE",
  "name": "HDFC Life Insurance Company Ltd",
- "generated_at": "2026-11-16T10:32:55+00:00",
+ "generated_at": "2026-11-16T20:47:35+00:00",
  "about": "HDFC Life Insurance Company is engaged in carrying on the business of life insurance. The Company offers a range of individual and group insurance solutions. The portfolio comprises of various insurance and investment products such as Protection, Pension, Savings,(Source : 202003 Annual Report Page No: 175)",
  "sector": "Insurance",
  "price": {
   "close": 604.5,
   "change_pct": 2.1,
-  "mcap_cr": 131333.0,
-  "pe": 64.2,
+  "mcap_cr": 131388.0,
+  "pe": 64.1,
   "roce": 10.3,
   "roe": 11.3
  },

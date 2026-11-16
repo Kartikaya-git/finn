@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T10:33:42+00:00",
+ "generated_at": "2026-11-16T20:48:21+00:00",
  "holdings": [
   {
    "symbol": "RELIANCE",
@@ -454,10 +454,21 @@
     [
      "2026-11-16",
      1344.8,
-     8041095
+     8041608
     ]
    ],
    "filings": [
+    {
+     "id": "ce534c684f21",
+     "symbol": "RELIANCE",
+     "title": "Update On Institutional Investors'' Meeting - CLSA India Forum",
+     "summary": "Reliance executives attended CLSA India Forum in Mumbai on November 16, 2026; no UPSI shared.",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c3e0b430-7329-4925-8c6f-a9a1967bc0f9.pdf",
+     "ts": "2026-11-16T19:23:41+05:30",
+     "category": "investor_meetings",
+     "tier": "routine",
+     "why": "Investor meeting schedule"
+    },
     {
      "id": "7f6fffe5ad77",
      "symbol": "RELIANCE",
@@ -501,17 +512,6 @@
      "category": "credit_rating",
      "tier": "routine",
      "why": "Rating reaffirmed or upgraded"
-    },
-    {
-     "id": "d1f8cdf9c921",
-     "symbol": "RELIANCE",
-     "title": "Announcement under Regulation 30 (LODR)-Earnings Call Transcript",
-     "summary": "Transcript of the discussion on the Unaudited Financial Results (Consolidated and Standalone) of the Company for the quarter and half year ended September 30, 2026, …",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8e997741-4d35-4188-933a-cf020fb9c816.pdf",
-     "ts": "2026-11-01T23:05:17+05:30",
-     "category": "earnings_call",
-     "tier": "routine",
-     "why": "Concall record, numbers already out"
     }
    ]
   },
@@ -968,7 +968,7 @@
     [
      "2026-11-16",
      816.5,
-     28661092
+     28671545
     ]
    ],
    "filings": [
@@ -1482,7 +1482,7 @@
     [
      "2026-11-16",
      1145.1,
-     5099699
+     5100188
     ]
    ],
    "filings": [
@@ -1984,8 +1984,8 @@
     ],
     [
      "2026-11-16",
-     294.8,
-     50790929
+     295.1,
+     51135086
     ]
    ],
    "filings": [
@@ -2526,8 +2526,8 @@
     ],
     [
      "2026-11-16",
-     4127.1,
-     1119611
+     4140.0,
+     1161669
     ]
    ],
    "filings": [
@@ -3030,10 +3030,21 @@
     [
      "2026-11-16",
      1110.0,
-     8326230
+     8326283
     ]
    ],
    "filings": [
+    {
+     "id": "0bb84530b84c",
+     "symbol": "BAJFINANCE",
+     "title": "Outcome Of QIP - 2026 Special Committee Meeting",
+     "summary": "Bajaj Finance closed QIP on Nov 16, 2026; allotted 114.15 million shares at ₹1,025 each.",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=95153dec-f5c7-4013-90b5-92e3c1d7c92a.pdf",
+     "ts": "2026-11-16T23:51:54+05:30",
+     "category": "fund_raise",
+     "tier": "card",
+     "why": "Capital raise"
+    },
     {
      "id": "9a8b22194d6c",
      "symbol": "BAJFINANCE",
@@ -3077,17 +3088,6 @@
      "category": "unclassified",
      "tier": "routine",
      "why": "Procedural filing"
-    },
-    {
-     "id": "5f4d5234cef0",
-     "symbol": "BAJFINANCE",
-     "title": "Board Meeting Intimation for PI 2026-Special Committee Meeting Of Board Of The Company For Determining The Price Of Warrants To Be Issued To Bajaj Finserv Ltd., Promoter And Holding Company",
-     "summary": "Committee meets 10 Nov 2026 to approve warrant price for preferential issue to Bajaj Finserv.",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=191d3534-ded0-412c-9b3e-a8fbe7c38d5a.pdf",
-     "ts": "2026-11-05T17:46:29+05:30",
-     "category": "unclassified",
-     "tier": "routine",
-     "why": "Board meeting notice"
     }
    ]
   },
@@ -3544,7 +3544,7 @@
     [
      "2026-11-16",
      2572.9,
-     1181768
+     1181823
     ]
    ],
    "filings": [
@@ -4035,8 +4035,8 @@
     ],
     [
      "2026-11-16",
-     4901.2,
-     895564
+     4910.0,
+     936491
     ]
    ],
    "filings": [
@@ -4516,8 +4516,8 @@
     ],
     [
      "2026-11-16",
-     1864.5,
-     1227376
+     1867.5,
+     1337446
     ]
    ],
    "filings": [
@@ -5009,7 +5009,7 @@
     [
      "2026-11-16",
      12571.0,
-     683245
+     683326
     ]
    ],
    "filings": [
@@ -5501,7 +5501,7 @@
     [
      "2026-11-16",
      3457.6,
-     229045
+     229069
     ]
    ],
    "filings": [
@@ -6014,8 +6014,8 @@
     ],
     [
      "2026-11-16",
-     369.9,
-     24050044
+     371.1,
+     24825417
     ]
    ],
    "filings": [
@@ -6567,8 +6567,8 @@
     ],
     [
      "2026-11-16",
-     7939.5,
-     75552
+     7955.5,
+     277777
     ]
    ],
    "filings": [
@@ -6604,17 +6604,6 @@
      "category": "litigation",
      "tier": "card",
      "why": "Legal / regulatory action"
-    },
-    {
-     "id": "378baf69d8d5",
-     "symbol": "POLYCAB",
-     "title": "Announcement Under Regulation 30 (LODR) - Analyst(S) / Investor(S) Meet - Intimation",
-     "summary": "Polycab to meet William Blair & Company on November 3, 2026, virtually in Mumbai.",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=26cdd582-7e95-4019-88b5-fdff3d5e60e1.pdf",
-     "ts": "2026-10-28T17:41:24+05:30",
-     "category": "investor_meetings",
-     "tier": "routine",
-     "why": "Investor meeting schedule"
     }
    ]
   },
@@ -7071,10 +7060,32 @@
     [
      "2026-11-16",
      12890.0,
-     241952
+     241957
     ]
    ],
    "filings": [
+    {
+     "id": "51676bd66be8",
+     "symbol": "DIXON",
+     "title": "Announcement under Regulation 30 (LODR)-Memorandum of Understanding /Agreements",
+     "summary": "Dixon signs asset purchase agreement with Vimal Plast for assets worth up to ₹49.75 crore on 16 November 2026.",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7c441734-0d84-47ac-8fef-831908ec674d.pdf",
+     "ts": "2026-11-16T20:11:55+05:30",
+     "category": "unclassified",
+     "tier": "routine",
+     "why": "Procedural filing"
+    },
+    {
+     "id": "701b643fdf2a",
+     "symbol": "DIXON",
+     "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
+     "summary": "Dixon Technologies held a one-on-one virtual investor meeting with Duro Capital on 16 November 2026.",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9f32b982-5393-4f42-a661-adcbc5db6d12.pdf",
+     "ts": "2026-11-16T17:43:16+05:30",
+     "category": "investor_meetings",
+     "tier": "routine",
+     "why": "Investor meeting schedule"
+    },
     {
      "id": "10b405daec72",
      "symbol": "DIXON",
@@ -7107,67 +7118,6 @@
      "category": "unclassified",
      "tier": "routine",
      "why": "Procedural filing"
-    },
-    {
-     "id": "c3f09d5e320e",
-     "symbol": "DIXON",
-     "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
-     "summary": "Dixon Technologies held a one-on-one virtual meeting with DSP Mutual Fund on 2 November 2026.",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=12486329-18b7-4e94-a0e6-4b851e757235.pdf",
-     "ts": "2026-11-03T11:22:54+05:30",
-     "category": "investor_meetings",
-     "tier": "routine",
-     "why": "Investor meeting schedule"
-    },
-    {
-     "id": "d3e1d267b2c7",
-     "symbol": "DIXON",
-     "title": "Announcement under Regulation 30 (LODR)-Newspaper Publication",
-     "summary": "Announcement under Regulation 30 of SEBI LODR- Copy of Newspaper publication of Un-audited Financial Results (Standalone & Consolidated) of the Company for the quarter and …",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2336e442-6dfb-4af9-81c4-09a8770d2c94.pdf",
-     "ts": "2026-10-31T19:34:28+05:30",
-     "category": "results",
-     "tier": "card",
-     "why": "Quarterly results declared",
-     "results": {
-      "period": "Sep 2026",
-      "unit": "₹ Cr",
-      "ebitda_label": "EBITDA",
-      "rows": [
-       {
-        "metric": "Revenue",
-        "cur": 21794.0,
-        "prev_q": 15548.0,
-        "prev_y": 14855.0,
-        "qoq": 40.2,
-        "yoy": 46.7
-       },
-       {
-        "metric": "EBITDA",
-        "cur": 597.0,
-        "prev_q": 463.0,
-        "prev_y": 561.0,
-        "qoq": 28.9,
-        "yoy": 6.4
-       },
-       {
-        "metric": "PBT",
-        "cur": 532.0,
-        "prev_q": 869.0,
-        "prev_y": 924.0,
-        "qoq": -38.8,
-        "yoy": -42.4
-       },
-       {
-        "metric": "PAT",
-        "cur": 411.0,
-        "prev_q": 718.0,
-        "prev_y": 746.0,
-        "qoq": -42.8,
-        "yoy": -44.9
-       }
-      ]
-     }
     }
    ]
   },
@@ -7624,10 +7574,21 @@
     [
      "2026-11-16",
      536.3,
-     1242302
+     1248383
     ]
    ],
    "filings": [
+    {
+     "id": "ee8cc939b885",
+     "symbol": "KPITTECH",
+     "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
+     "summary": "KPIT Technologies met investors at Avendus Spark INDS conference on November 16, 2026; no UPSI shared.",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fd66e516-a621-4f15-ab01-439c886c14bd.pdf",
+     "ts": "2026-11-16T20:16:16+05:30",
+     "category": "investor_meetings",
+     "tier": "routine",
+     "why": "Investor meeting schedule"
+    },
     {
      "id": "238b19d8c402",
      "symbol": "KPITTECH",
@@ -7660,17 +7621,6 @@
      "category": "insider_trading",
      "tier": "card",
      "why": "Promoter selling shares"
-    },
-    {
-     "id": "ff05aad3a89e",
-     "symbol": "KPITTECH",
-     "title": "Intimation Regarding The Change In The Address Of The Corporate Office Of The Kfin Technologies Limited, Registrar And Share Transfer Agent With Effect From December 1, 2026.",
-     "summary": "KFin Technologies’ corporate office relocates effective December 1, 2026; registered office unchanged.",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6b5ac8ab-73ab-44fe-824a-d794314fe3cd.pdf",
-     "ts": "2026-11-03T22:14:42+05:30",
-     "category": "unclassified",
-     "tier": "routine",
-     "why": "Procedural filing"
     },
     {
      "id": "64bb695d2c40",
@@ -8137,8 +8087,8 @@
     ],
     [
      "2026-11-16",
-     451.25,
-     906271
+     451.65,
+     919990
     ]
    ],
    "filings": [
@@ -8679,11 +8629,22 @@
     ],
     [
      "2026-11-16",
-     3191.3,
-     437081
+     3203.7,
+     467504
     ]
    ],
    "filings": [
+    {
+     "id": "a5b728ba5bc0",
+     "symbol": "TRENT",
+     "title": "Announcement under Regulation 30 (LODR)-Credit Rating",
+     "summary": "CARE reaffirmed Trent’s commercial paper rating A1+ on ₹750 crore limit, up from ₹500 crore, on 16 Nov 2026.",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4c31e194-fe41-4e54-9862-fdda5efccb7b.pdf",
+     "ts": "2026-11-16T16:58:41+05:30",
+     "category": "credit_rating",
+     "tier": "routine",
+     "why": "Rating reaffirmed or upgraded"
+    },
     {
      "id": "f4730124e6dd",
      "symbol": "TRENT",
@@ -8766,17 +8727,6 @@
        }
       ]
      }
-    },
-    {
-     "id": "01b3b04e659a",
-     "symbol": "TRENT",
-     "title": "Announcement under Regulation 30 (LODR)-Investor Presentation",
-     "summary": "Investors'' Presentation on Unaudited Financial Results (Standalone and Consolidated) for the second quarter and half-year ended 30th September 2026",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5634f899-a008-45ab-b930-2b74cf08e566.pdf",
-     "ts": "2026-10-29T16:39:36+05:30",
-     "category": "investor_meetings",
-     "tier": "routine",
-     "why": "Investor meeting schedule"
     }
    ]
   },
@@ -9233,7 +9183,7 @@
     [
      "2026-11-16",
      1594.9,
-     143219
+     143231
     ]
    ],
    "filings": [
@@ -9763,11 +9713,22 @@
     ],
     [
      "2026-11-16",
-     1430.4,
-     11828
+     1433.9,
+     1516983
     ]
    ],
    "filings": [
+    {
+     "id": "d2eab17661fe",
+     "symbol": "CDSL",
+     "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
+     "summary": "CDSL changed J.P. Morgan forum meeting time to 11:00 AM–1:00 PM on November 19, 2026.",
+     "url": "https://nsearchives.nseindia.in/corporate/CDSL_16112026185724_ConcallInvite_Nov19_2026_final_sd.pdf",
+     "ts": "2026-11-16T18:58:15+05:30",
+     "category": "investor_meetings",
+     "tier": "routine",
+     "why": "Investor meeting schedule"
+    },
     {
      "id": "aef3adfd503a",
      "symbol": "CDSL",
@@ -9808,17 +9769,6 @@
      "summary": "CDSL schedules a London non-deal roadshow group meeting on November 13, 2026.",
      "url": "https://nsearchives.nseindia.com/corporate/CDSL_09112026175741_ConCallInvite_Nov13_2026_sd.pdf",
      "ts": "2026-11-09T18:00:34+05:30",
-     "category": "investor_meetings",
-     "tier": "routine",
-     "why": "Investor meeting schedule"
-    },
-    {
-     "id": "a64d06d03117",
-     "symbol": "CDSL",
-     "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
-     "summary": "CDSL Q2 FY27 call: H1 income ₹685.2 crore, profit ₹307.8 crore; IPO activity and demat additions strong.",
-     "url": "https://nsearchives.nseindia.com/corporate/CDSL_05112026164633_NSEIntimationTranscript02112026Sd.pdf",
-     "ts": "2026-11-05T16:51:45+05:30",
      "category": "investor_meetings",
      "tier": "routine",
      "why": "Investor meeting schedule"
@@ -10278,7 +10228,7 @@
     [
      "2026-11-16",
      4789.0,
-     487714
+     487951
     ]
    ],
    "filings": [

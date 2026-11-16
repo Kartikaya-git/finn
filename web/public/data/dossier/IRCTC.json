@@ -1,13 +1,13 @@
 {
  "symbol": "IRCTC",
  "name": "Indian Railway Catering & Tourism Corporation Ltd",
- "generated_at": "2026-11-16T10:32:05+00:00",
+ "generated_at": "2026-11-16T20:46:45+00:00",
  "about": "Incorporated in 1999, IRCTC is a Navratna (Category 1, Central Public Sector Enterprises ) and the only company authorized by the Indian government to provide online railway tickets, catering services, and packaged drinking water at railway stations and trains in India",
  "sector": "Leisure Services",
  "price": {
-  "close": 451.25,
-  "change_pct": -1.4,
-  "mcap_cr": 36112.0,
+  "close": 451.65,
+  "change_pct": -1.3,
+  "mcap_cr": 36128.0,
   "pe": 26.2,
   "roce": 46.1,
   "roe": 34.7
@@ -112,6 +112,102 @@
  ],
  "annual": [
   {
+   "year": "Mar 2015\n            \n            (S)",
+   "revenue": 1059.0,
+   "ebitda": 152.0,
+   "pat": 131.0,
+   "opm": 14.0,
+   "cfo": 69.0,
+   "capex": 70.0,
+   "fcf": -1.0,
+   "debt": 0.0,
+   "equity": 444.0
+  },
+  {
+   "year": "Mar 2016\n            \n            (S)",
+   "revenue": 1367.0,
+   "ebitda": 190.0,
+   "pat": 189.0,
+   "opm": 14.0,
+   "cfo": 288.0,
+   "capex": 22.0,
+   "fcf": 266.0,
+   "debt": 0.0,
+   "equity": 542.0
+  },
+  {
+   "year": "Mar 2017\n            \n            (S)",
+   "revenue": 1520.0,
+   "ebitda": 314.0,
+   "pat": 229.0,
+   "opm": 21.0,
+   "cfo": 338.0,
+   "capex": 32.0,
+   "fcf": 306.0,
+   "debt": 0.0,
+   "equity": 787.0
+  },
+  {
+   "year": "Mar 2018\n            \n            (S)",
+   "revenue": 1466.0,
+   "ebitda": 274.0,
+   "pat": 221.0,
+   "opm": 19.0,
+   "cfo": 24.0,
+   "capex": 35.0,
+   "fcf": -11.0,
+   "debt": 0.0,
+   "equity": 955.0
+  },
+  {
+   "year": "Mar 2019\n            \n            (S)",
+   "revenue": 1870.0,
+   "ebitda": 383.0,
+   "pat": 309.0,
+   "opm": 20.0,
+   "cfo": 499.0,
+   "capex": 54.0,
+   "fcf": 445.0,
+   "debt": 0.0,
+   "equity": 1071.0
+  },
+  {
+   "year": "Mar 2020\n            \n            (S)",
+   "revenue": 2264.0,
+   "ebitda": 703.0,
+   "pat": 513.0,
+   "opm": 31.0,
+   "cfo": 409.0,
+   "capex": 35.0,
+   "fcf": 374.0,
+   "debt": 0.0,
+   "equity": 1314.0
+  },
+  {
+   "year": "Mar 2021\n            \n            (S)",
+   "revenue": 777.0,
+   "ebitda": 188.0,
+   "pat": 187.0,
+   "opm": 24.0,
+   "cfo": 248.0,
+   "capex": 78.0,
+   "fcf": 170.0,
+   "debt": 79.0,
+   "equity": 1456.0
+  },
+  {
+   "year": "Mar 2022\n            \n            (S)",
+   "revenue": 1879.0,
+   "ebitda": 874.0,
+   "pat": 660.0,
+   "opm": 47.0,
+   "cfo": 524.0,
+   "capex": 21.0,
+   "fcf": 503.0,
+   "debt": 105.0,
+   "equity": 1870.0
+  },
+  {
    "year": "Mar 2023",
    "revenue": 3541.0,
    "ebitda": 1276.0,
@@ -162,21 +258,29 @@
  ],
  "computed": {
   "revenue_cagr_3y": 13.8,
-  "revenue_cagr_5y": null,
+  "revenue_cagr_5y": 46.3,
   "pat_cagr_3y": 11.5,
-  "pat_cagr_5y": null,
+  "pat_cagr_5y": 49.4,
   "opm_trend": "compressing",
   "de_ratio": 0.02,
   "debt_trend": "flat",
-  "cfo_to_pat_5y": null,
-  "fcf_5y_cr": null,
+  "cfo_to_pat_5y": 0.79,
+  "fcf_5y_cr": 3879,
   "ccc_days": 132.0,
   "ccc_trend": "lengthening"
  },
  "flags": [
   {
+   "level": "watch",
+   "text": "CFO/PAT over 5y is 0.79 — cash conversion a bit soft"
+  },
+  {
    "level": "good",
    "text": "Debt/equity is 0.02 — virtually debt-free"
+  },
+  {
+   "level": "good",
+   "text": "Revenue 5y CAGR is 46.3%"
   },
   {
    "level": "watch",

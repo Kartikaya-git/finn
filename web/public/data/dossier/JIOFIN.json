@@ -1,13 +1,13 @@
 {
  "symbol": "JIOFIN",
  "name": "Jio Financial Services Ltd",
- "generated_at": "2026-11-16T10:33:05+00:00",
+ "generated_at": "2026-11-16T20:47:45+00:00",
  "about": "JFSL was originally incorporated as Reliance Strategic Investments Private Limited in July, 1999 under the Companies Act 1956. Jio Financial Services Limited was incorporated in July, 23. JFSL is a NBFC-ND-SI registered with RBI. The company is a holding company and will operate its financial services business through its consumer-facing subsidiaries namely Jio Finance Limited (JFL), Jio Insurance Broking Limited (JIBL), and Jio Payment Solutions Limited (JPSL) and joint venture namely Jio Payments Bank Limited (JPBL).",
  "sector": "Finance",
  "price": {
   "close": 226.0,
   "change_pct": -0.7,
-  "mcap_cr": 155018.0,
+  "mcap_cr": 155086.0,
   "pe": 90.6,
   "roce": 1.86,
   "roe": 1.19
@@ -112,6 +112,66 @@
  ],
  "annual": [
   {
+   "year": "Mar 2018\n            \n            (S)",
+   "revenue": 3.0,
+   "ebitda": 3.0,
+   "pat": 2.0,
+   "opm": 94.0,
+   "cfo": 2.0,
+   "capex": 0.0,
+   "fcf": 2.0,
+   "debt": 17.0,
+   "equity": 21.02
+  },
+  {
+   "year": "Mar 2019\n            \n            (S)",
+   "revenue": -105.0,
+   "ebitda": -121.0,
+   "pat": -402.0,
+   "opm": null,
+   "cfo": -1.0,
+   "capex": 0.0,
+   "fcf": -1.0,
+   "debt": 2322.0,
+   "equity": 1707.0
+  },
+  {
+   "year": "Mar 2020\n            \n            (S)",
+   "revenue": 349.0,
+   "ebitda": 322.0,
+   "pat": 230.0,
+   "opm": 92.0,
+   "cfo": -3687.0,
+   "capex": 0.0,
+   "fcf": -3687.0,
+   "debt": 2420.0,
+   "equity": 1937.0
+  },
+  {
+   "year": "Mar 2021\n            \n            (S)",
+   "revenue": 303.0,
+   "ebitda": 221.0,
+   "pat": 123.0,
+   "opm": 73.0,
+   "cfo": 2434.0,
+   "capex": 0.0,
+   "fcf": 2434.0,
+   "debt": 0.0,
+   "equity": 2060.0
+  },
+  {
+   "year": "Mar 2022\n            \n            (S)",
+   "revenue": 149.0,
+   "ebitda": 141.0,
+   "pat": 168.0,
+   "opm": 95.0,
+   "cfo": 123.0,
+   "capex": 0.0,
+   "fcf": 123.0,
+   "debt": 0.0,
+   "equity": 2228.0
+  },
+  {
    "year": "Mar 2023",
    "revenue": 45.0,
    "ebitda": 39.0,
@@ -162,21 +222,33 @@
  ],
  "computed": {
   "revenue_cagr_3y": 327.7,
-  "revenue_cagr_5y": null,
+  "revenue_cagr_5y": 63.3,
   "pat_cagr_3y": 269.3,
-  "pat_cagr_5y": null,
+  "pat_cagr_5y": 66.2,
   "opm_trend": "compressing",
   "de_ratio": 0.16,
   "debt_trend": "rising",
-  "cfo_to_pat_5y": null,
-  "fcf_5y_cr": null,
+  "cfo_to_pat_5y": -4.83,
+  "fcf_5y_cr": -24028,
   "ccc_days": 6.0,
   "ccc_trend": "shortening"
  },
  "flags": [
   {
+   "level": "bad",
+   "text": "CFO/PAT over 5y is -4.83 — profits not turning into cash"
+  },
+  {
+   "level": "watch",
+   "text": "Cumulative 5y free cash flow is ₹-24,028 Cr — growth is consuming cash"
+  },
+  {
    "level": "watch",
    "text": "Borrowings rose from ₹743 Cr to ₹21,768 Cr over 3 years"
+  },
+  {
+   "level": "good",
+   "text": "Revenue 5y CAGR is 63.3%"
   },
   {
    "level": "watch",

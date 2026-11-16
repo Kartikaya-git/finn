@@ -1,14 +1,14 @@
 {
  "symbol": "DRREDDY",
  "name": "Dr Reddys Laboratories Ltd",
- "generated_at": "2026-11-16T10:32:47+00:00",
+ "generated_at": "2026-11-16T20:47:27+00:00",
  "about": "Dr. Reddy's Laboratories Ltd is a leading India-based pharmaceutical company which offers a portfolio of products and services, including Active Pharmaceutical Ingredients (APIs), Custom Pharmaceutical services (CPS), generics, biosimilars and differentiated formulations.",
  "sector": "Pharmaceuticals & Biotechnology",
  "price": {
   "close": 1377.9,
   "change_pct": -0.2,
-  "mcap_cr": 115267.0,
-  "pe": 41.1,
+  "mcap_cr": 115343.0,
+  "pe": 41.2,
   "roce": 13.0,
   "roe": 11.2
  },
@@ -339,11 +339,6 @@
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ef2cbf94-0330-4ecd-a526-e5efc3b673b3.pdf"
   },
   {
-   "kind": "ppt",
-   "label": "Investor presentation · Jan 2026",
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ef2cbf94-0330-4ecd-a526-e5efc3b673b3.pdf"
-  },
-  {
    "kind": "concall",
    "label": "Concall transcript · Oct 2025",
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0953e6da-232b-4a0b-94ed-5348b8e2987d.pdf"
@@ -352,6 +347,16 @@
    "kind": "ppt",
    "label": "Investor presentation · Oct 2025",
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=45e836ba-e747-490e-b57b-d4562e283952.pdf"
+  },
+  {
+   "kind": "concall",
+   "label": "Concall transcript · Jul 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2ee525c4-6c8e-421d-80dd-83d134febfad.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Jul 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6446fe27-f8da-4cd3-b147-d176e57c340f.pdf"
   },
   {
    "kind": "annual_report",

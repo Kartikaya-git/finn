@@ -1,20 +1,20 @@
 {
  "symbol": "SBILIFE",
  "name": "SBI Life Insurance Company Ltd",
- "generated_at": "2026-11-16T10:33:24+00:00",
+ "generated_at": "2026-11-16T20:48:03+00:00",
  "about": "SBI Life Insurance Company Ltd is engaged in the business of life insurance and annuity. It was started as a Joint-venture between State Bank of India and BNP Paribas Cardif S.A.",
  "sector": "Insurance",
  "price": {
-  "close": 1824.1,
-  "change_pct": 1.9,
-  "mcap_cr": 183122.0,
-  "pe": 69.0,
-  "roce": 15.0,
-  "roe": 13.7
+  "close": 1827.7,
+  "change_pct": 2.1,
+  "mcap_cr": null,
+  "pe": null,
+  "roce": null,
+  "roe": null
  },
  "quarters": [
   {
-   "period": "Dec 2023",
+   "period": "Dec 2023\n            \n            (S)",
    "revenue": 39033.0,
    "ebitda": 352.0,
    "pbt": 370.0,
@@ -22,7 +22,7 @@
    "opm": 0.9
   },
   {
-   "period": "Mar 2024",
+   "period": "Mar 2024\n            \n            (S)",
    "revenue": 36255.0,
    "ebitda": -788.0,
    "pbt": 851.0,
@@ -30,7 +30,7 @@
    "opm": -2.2
   },
   {
-   "period": "Jun 2024",
+   "period": "Jun 2024\n            \n            (S)",
    "revenue": 34654.0,
    "ebitda": 594.0,
    "pbt": 597.0,
@@ -38,7 +38,7 @@
    "opm": 1.7
   },
   {
-   "period": "Sep 2024",
+   "period": "Sep 2024\n            \n            (S)",
    "revenue": 40302.0,
    "ebitda": 606.0,
    "pbt": 601.0,
@@ -46,7 +46,7 @@
    "opm": 1.5
   },
   {
-   "period": "Dec 2024",
+   "period": "Dec 2024\n            \n            (S)",
    "revenue": 18862.0,
    "ebitda": 596.0,
    "pbt": 594.0,
@@ -54,7 +54,7 @@
    "opm": 3.2
   },
   {
-   "period": "Mar 2025",
+   "period": "Mar 2025\n            \n            (S)",
    "revenue": 23071.0,
    "ebitda": -449.0,
    "pbt": 901.0,
@@ -62,7 +62,7 @@
    "opm": -1.9
   },
   {
-   "period": "Jun 2025",
+   "period": "Jun 2025\n            \n            (S)",
    "revenue": 38996.0,
    "ebitda": 664.0,
    "pbt": 656.0,
@@ -70,7 +70,7 @@
    "opm": 1.7
   },
   {
-   "period": "Sep 2025",
+   "period": "Sep 2025\n            \n            (S)",
    "revenue": 23115.0,
    "ebitda": 516.0,
    "pbt": 532.0,
@@ -78,7 +78,7 @@
    "opm": 2.2
   },
   {
-   "period": "Dec 2025",
+   "period": "Dec 2025\n            \n            (S)",
    "revenue": 46133.0,
    "ebitda": 615.0,
    "pbt": 642.0,
@@ -86,7 +86,7 @@
    "opm": 1.3
   },
   {
-   "period": "Mar 2026",
+   "period": "Mar 2026\n            \n            (S)",
    "revenue": 4071.0,
    "ebitda": -1046.0,
    "pbt": 867.0,
@@ -94,7 +94,7 @@
    "opm": -26.0
   },
   {
-   "period": "Jun 2026",
+   "period": "Jun 2026\n            \n            (S)",
    "revenue": 46337.0,
    "ebitda": 757.0,
    "pbt": 793.0,
@@ -102,7 +102,7 @@
    "opm": 1.6
   },
   {
-   "period": "Sep 2026",
+   "period": "Sep 2026\n            \n            (S)",
    "revenue": 24620.0,
    "ebitda": 562.0,
    "pbt": 590.0,
@@ -112,7 +112,7 @@
  ],
  "annual": [
   {
-   "year": "Mar 2015",
+   "year": "Mar 2015\n            \n            (S)",
    "revenue": 23299.0,
    "ebitda": 794.0,
    "pat": 815.0,
@@ -124,7 +124,7 @@
    "equity": 4056.0
   },
   {
-   "year": "Mar 2016",
+   "year": "Mar 2016\n            \n            (S)",
    "revenue": 19324.0,
    "ebitda": 920.0,
    "pat": 844.0,
@@ -136,7 +136,7 @@
    "equity": 4733.0
   },
   {
-   "year": "Mar 2017",
+   "year": "Mar 2017\n            \n            (S)",
    "revenue": 30548.0,
    "ebitda": 1068.0,
    "pat": 955.0,
@@ -148,7 +148,7 @@
    "equity": 5552.0
   },
   {
-   "year": "Mar 2018",
+   "year": "Mar 2018\n            \n            (S)",
    "revenue": 34068.0,
    "ebitda": 1332.0,
    "pat": 1150.0,
@@ -160,7 +160,7 @@
    "equity": 6528.0
   },
   {
-   "year": "Mar 2019",
+   "year": "Mar 2019\n            \n            (S)",
    "revenue": 44604.0,
    "ebitda": 1474.0,
    "pat": 1327.0,
@@ -172,7 +172,7 @@
    "equity": 7576.0
   },
   {
-   "year": "Mar 2020",
+   "year": "Mar 2020\n            \n            (S)",
    "revenue": 43798.0,
    "ebitda": 1351.0,
    "pat": 1422.0,
@@ -184,7 +184,7 @@
    "equity": 8743.0
   },
   {
-   "year": "Mar 2021",
+   "year": "Mar 2021\n            \n            (S)",
    "revenue": 81913.0,
    "ebitda": 872.0,
    "pat": 1456.0,
@@ -196,7 +196,7 @@
    "equity": 10400.0
   },
   {
-   "year": "Mar 2022",
+   "year": "Mar 2022\n            \n            (S)",
    "revenue": 82983.0,
    "ebitda": 730.0,
    "pat": 1506.0,
@@ -208,7 +208,7 @@
    "equity": 11622.0
   },
   {
-   "year": "Mar 2023",
+   "year": "Mar 2023\n            \n            (S)",
    "revenue": 80636.0,
    "ebitda": 1923.0,
    "pat": 1721.0,
@@ -220,7 +220,7 @@
    "equity": 13018.0
   },
   {
-   "year": "Mar 2024",
+   "year": "Mar 2024\n            \n            (S)",
    "revenue": 131988.0,
    "ebitda": 2104.0,
    "pat": 1894.0,
@@ -232,7 +232,7 @@
    "equity": 14908.0
   },
   {
-   "year": "Mar 2025",
+   "year": "Mar 2025\n            \n            (S)",
    "revenue": 116888.0,
    "ebitda": 1420.0,
    "pat": 2413.0,
@@ -244,7 +244,7 @@
    "equity": 16985.0
   },
   {
-   "year": "Mar 2026",
+   "year": "Mar 2026\n            \n            (S)",
    "revenue": 112315.0,
    "ebitda": 864.0,
    "pat": 2470.0,
