@@ -1,14 +1,14 @@
 {
  "symbol": "TATASTEEL",
  "name": "Tata Steel Ltd",
- "generated_at": "2026-11-16T20:48:13+00:00",
+ "generated_at": "2026-11-17T11:28:01+00:00",
  "about": "Tata Steel Ltd is Asia's first integrated private steel company setup in 1907. The company has presence across the entire value chain of steel manufacturing from mining and processing iron ore and coal to producing and distributing finished products. The company has a target to increase domestic steelmaking capacity to 30 MnTPA by 2025.",
  "sector": "Ferrous Metals",
  "price": {
-  "close": 182.26,
-  "change_pct": -2.4,
-  "mcap_cr": 227135.0,
-  "pe": 19.1,
+  "close": 181.5,
+  "change_pct": -0.4,
+  "mcap_cr": 227274.0,
+  "pe": 19.2,
   "roce": 12.5,
   "roe": 11.7
  },

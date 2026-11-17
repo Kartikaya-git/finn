@@ -1,13 +1,13 @@
 {
  "symbol": "ULTRACEMCO",
  "name": "UltraTech Cement Ltd",
- "generated_at": "2026-11-16T20:48:19+00:00",
+ "generated_at": "2026-11-17T11:28:07+00:00",
  "about": "UltraTech Cement is engaged in the manufacturing and sale of Cement and Cement related product primarily across globe.",
  "sector": "Cement & Cement Products",
  "price": {
-  "close": 12270.0,
-  "change_pct": 1.4,
-  "mcap_cr": 361631.0,
+  "close": 12290.0,
+  "change_pct": 0.2,
+  "mcap_cr": 361652.0,
   "pe": 40.7,
   "roce": 12.7,
   "roe": 11.1

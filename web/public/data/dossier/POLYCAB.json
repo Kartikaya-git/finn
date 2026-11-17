@@ -1,14 +1,14 @@
 {
  "symbol": "POLYCAB",
  "name": "Polycab India Ltd",
- "generated_at": "2026-11-16T20:46:33+00:00",
+ "generated_at": "2026-11-17T11:26:21+00:00",
  "about": "Polycab is India’s leading manufacturers of cables and wires and allied products such as uPVC conduits and lugs and glands. We have a range of cables and wires for practically every application. More recently Polycab has also launched a wide range of consumer electrical products like Fans, Switches, Switchgear, LED lights and Luminaries, Solar Inverters, and Pumps.",
  "sector": "Industrial Products",
  "price": {
-  "close": 7955.5,
-  "change_pct": 0.7,
-  "mcap_cr": 119655.0,
-  "pe": 37.9,
+  "close": 7702.0,
+  "change_pct": -3.2,
+  "mcap_cr": 116351.0,
+  "pe": 36.9,
   "roce": 33.2,
   "roe": 23.6
  },

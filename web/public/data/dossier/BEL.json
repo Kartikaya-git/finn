@@ -1,14 +1,14 @@
 {
  "symbol": "BEL",
  "name": "Bharat Electronics Ltd",
- "generated_at": "2026-11-16T20:47:19+00:00",
+ "generated_at": "2026-11-17T11:27:07+00:00",
  "about": "Incorporated in 1954, Bharat Electronics Ltd manufactures and supplies electronic equipment and systems to the defence sector. Company also has a limited presence in the civilian market",
  "sector": "Aerospace & Defense",
  "price": {
-  "close": 401.4,
-  "change_pct": 0.1,
-  "mcap_cr": 293305.0,
-  "pe": 45.8,
+  "close": 399.55,
+  "change_pct": -0.5,
+  "mcap_cr": 292134.0,
+  "pe": 45.7,
   "roce": 36.4,
   "roe": 27.5
  },
