@@ -1,14 +1,14 @@
 {
  "symbol": "TCS",
  "name": "Tata Consultancy Services Ltd",
- "generated_at": "2026-11-17T11:28:03+00:00",
+ "generated_at": "2026-11-17T19:32:58+00:00",
  "about": "Tata Consultancy Services is the flagship company and a part of Tata group. It is an IT services, consulting and business solutions organization that has been partnering with many of the world's largest businesses in their transformation journeys for over 50 years. TCS offers a consulting-led, cognitive powered, integrated portfolio of business, technology and engineering services and solutions.",
  "sector": "IT - Software",
  "price": {
   "close": 2406.6,
   "change_pct": 0.1,
-  "mcap_cr": 884647.0,
-  "pe": 16.2,
+  "mcap_cr": 872180.0,
+  "pe": 16.0,
   "roce": 63.0,
   "roe": 51.8
  },

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T11:28:09+00:00",
+ "generated_at": "2026-11-17T19:33:04+00:00",
  "holdings": [
   {
    "symbol": "RELIANCE",
@@ -459,6 +459,17 @@
    ],
    "filings": [
     {
+     "id": "d203d0e01624",
+     "symbol": "RELIANCE",
+     "title": "Update On Institutional Investors'' Meeting - JM Financial India Conference",
+     "summary": "Reliance executives attended JM Financial India Conference in Mumbai on November 17, 2026, with no UPSI shared.",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=eadec632-3d3c-49bd-8f85-6d26d79a4332.pdf",
+     "ts": "2026-11-17T18:51:02+05:30",
+     "category": "investor_meetings",
+     "tier": "routine",
+     "why": "Investor meeting schedule"
+    },
+    {
      "id": "ce534c684f21",
      "symbol": "RELIANCE",
      "title": "Update On Institutional Investors'' Meeting - CLSA India Forum",
@@ -501,17 +512,6 @@
      "category": "investor_meetings",
      "tier": "routine",
      "why": "Investor meeting schedule"
-    },
-    {
-     "id": "f85ebc62caa8",
-     "symbol": "RELIANCE",
-     "title": "Announcement under Regulation 30 (LODR)-Credit Rating",
-     "summary": "S&P reaffirmed Reliance’s A- stable rating for senior unsecured US$ notes on November 3, 2026.",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9a4b00d7-4978-4c75-beb2-78403163cb8e.pdf",
-     "ts": "2026-11-04T20:47:09+05:30",
-     "category": "credit_rating",
-     "tier": "routine",
-     "why": "Rating reaffirmed or upgraded"
     }
    ]
   },
@@ -9680,6 +9680,17 @@
    ],
    "filings": [
     {
+     "id": "0418e7cd1e8c",
+     "symbol": "CDSL",
+     "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
+     "summary": "CDSL schedules one-on-one investor meeting with Comgest in Mumbai on November 20, 2026.",
+     "url": "https://nsearchives.nseindia.in/corporate/CDSL_17112026182705_ConCallInvite_Nov20_2026_Signed.pdf",
+     "ts": "2026-11-17T18:31:32+05:30",
+     "category": "investor_meetings",
+     "tier": "routine",
+     "why": "Investor meeting schedule"
+    },
+    {
      "id": "d2eab17661fe",
      "symbol": "CDSL",
      "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
@@ -9708,17 +9719,6 @@
      "summary": "CDSL schedules Avendus Spark INDX annual investor conference on November 18, 2026, in Mumbai.",
      "url": "https://nsearchives.nseindia.com/corporate/CDSL_09112026180456_ConCallInvite_Nov18_2026_Sd.pdf",
      "ts": "2026-11-09T18:05:26+05:30",
-     "category": "investor_meetings",
-     "tier": "routine",
-     "why": "Investor meeting schedule"
-    },
-    {
-     "id": "e3df97a2b7bf",
-     "symbol": "CDSL",
-     "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
-     "summary": "CDSL schedules JM Financial Annual India Conference call on November 17, 2026, in Mumbai.",
-     "url": "https://nsearchives.nseindia.com/corporate/CDSL_09112026180247_ConCallInvite_Nov17_2026_sd.pdf",
-     "ts": "2026-11-09T18:03:30+05:30",
      "category": "investor_meetings",
      "tier": "routine",
      "why": "Investor meeting schedule"
