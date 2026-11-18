@@ -1,14 +1,14 @@
 {
  "symbol": "ASIANPAINT",
  "name": "Asian Paints Ltd",
- "generated_at": "2026-11-17T19:30:52+00:00",
+ "generated_at": "2026-11-18T10:58:58+00:00",
  "about": "Asian Paints is the largest home decor company in India. The 80+yr old company has major brands like Asian Paints, Apco, etc under its umbrella. The co. is into wall paints, wall coverings, waterproofing, texture painting, wall stickers, mechanized tools, adhesives, modular kitchens, sanitaryware, lightings, soft furnishings, and uPVC windows.",
  "sector": "Consumer Durables",
  "price": {
-  "close": 2625.0,
-  "change_pct": 2.0,
-  "mcap_cr": 250999.0,
-  "pe": 50.7,
+  "close": 2580.3,
+  "change_pct": -1.7,
+  "mcap_cr": 247790.0,
+  "pe": 50.0,
   "roce": 26.3,
   "roe": 21.8
  },

@@ -1,13 +1,13 @@
 {
  "symbol": "ICICIBANK",
  "name": "ICICI Bank Ltd",
- "generated_at": "2026-11-17T19:32:24+00:00",
+ "generated_at": "2026-11-18T11:00:30+00:00",
  "about": "ICICI Bank is the second-largest private sector bank in India offering a diversified portfolio of financial products and services to retail, SME and corporate customers. The Bank has an extensive network of branches, ATMs and other touch-points.The ICICI group has presence in businesses like life and general insurance, housing finance, primary dealership, etc, through its subsidiaries and associates.",
  "sector": "Banks",
  "price": {
-  "close": 1598.7,
-  "change_pct": 0.9,
-  "mcap_cr": 1149217.0,
+  "close": 1601.3,
+  "change_pct": 0.2,
+  "mcap_cr": 1149514.0,
   "pe": 19.5,
   "roce": 7.18,
   "roe": 15.9

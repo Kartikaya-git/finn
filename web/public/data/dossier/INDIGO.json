@@ -1,13 +1,13 @@
 {
  "symbol": "INDIGO",
  "name": "Interglobe Aviation Ltd",
- "generated_at": "2026-11-17T19:32:26+00:00",
+ "generated_at": "2026-11-18T11:00:32+00:00",
  "about": "Interglobe Aviation Ltd (Indigo) is India’s largest passenger airline operating as a low-cost carrier. Serving 86 destinations including 24 international destinations, it provides passengers with a simple, unbundled product, fulfilling its singular brand promise of providing “low fares, on-time flights, and a courteous and hassle-free service” to its customers. IndiGo commenced operations in August 2006 with a single aircraft and has grown its fleet to 262 aircrafts.",
  "sector": "Transport Services",
  "price": {
-  "close": 5611.0,
-  "change_pct": 1.2,
-  "mcap_cr": 217273.0,
+  "close": 5499.3,
+  "change_pct": -2.0,
+  "mcap_cr": 212658.0,
   "pe": null,
   "roce": 5.24,
   "roe": -27.1

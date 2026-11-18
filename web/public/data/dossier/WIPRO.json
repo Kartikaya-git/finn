@@ -1,14 +1,14 @@
 {
  "symbol": "WIPRO",
  "name": "Wipro Ltd",
- "generated_at": "2026-11-17T19:33:04+00:00",
+ "generated_at": "2026-11-18T11:01:10+00:00",
  "about": "Wipro Ltd is a global Information technology, consulting and business process services (BPS) company.",
  "sector": "IT - Software",
  "price": {
-  "close": 189.89,
-  "change_pct": -1.9,
-  "mcap_cr": 188139.0,
-  "pe": 14.3,
+  "close": 185.14,
+  "change_pct": -2.5,
+  "mcap_cr": 183752.0,
+  "pe": 14.0,
   "roce": 17.8,
   "roe": 15.5
  },

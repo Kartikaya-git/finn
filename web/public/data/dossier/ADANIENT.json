@@ -1,14 +1,14 @@
 {
  "symbol": "ADANIENT",
  "name": "Adani Enterprises Ltd",
- "generated_at": "2026-11-17T19:31:50+00:00",
+ "generated_at": "2026-11-18T10:59:56+00:00",
  "about": "Adani Enterprises Ltd has business interests in various economic areas such as mining, integrated resources management (IRM), infrastructure such as airports, roads, rail/ metro, water, data centres, solar manufacturing, agro and defence.",
  "sector": "Metals & Minerals Trading",
  "price": {
-  "close": 2745.1,
-  "change_pct": 3.2,
-  "mcap_cr": 371390.0,
-  "pe": 116.0,
+  "close": 2684.2,
+  "change_pct": -2.2,
+  "mcap_cr": 363626.0,
+  "pe": 113.0,
   "roce": 5.8,
   "roe": 4.48
  },

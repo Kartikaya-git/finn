@@ -1,14 +1,14 @@
 {
  "symbol": "HCLTECH",
  "name": "HCL Technologies Ltd",
- "generated_at": "2026-11-17T19:32:16+00:00",
+ "generated_at": "2026-11-18T11:00:22+00:00",
  "about": "HCL Tech is a leading global IT services company, which is ranked amongst the top five Indian IT services companies in terms of revenues. Since its inception into the global landscape after its IPO in 1999, HCL Tech has focused on transformational outsourcing, and offers an integrated portfolio of services including software-led IT solutions, remote infrastructure management, engineering and R&D services and BPO. The company leverages its extensive global offshore infrastructure and network of offices in 46 countries to provide multi-service delivery in key industry verticals.",
  "sector": "IT - Software",
  "price": {
-  "close": 1355.7,
-  "change_pct": -2.1,
-  "mcap_cr": 368477.0,
-  "pe": 19.4,
+  "close": 1344.7,
+  "change_pct": -0.8,
+  "mcap_cr": 365368.0,
+  "pe": 19.2,
   "roce": 30.4,
   "roe": 23.8
  },
