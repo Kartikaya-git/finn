@@ -1,14 +1,14 @@
 {
  "symbol": "ITC",
  "name": "ITC Ltd",
- "generated_at": "2026-11-18T10:58:46+00:00",
+ "generated_at": "2026-11-18T19:12:50+00:00",
  "about": "Established in 1910, ITC is the largest cigarette manufacturer and seller in the country. ITC operates in four business segments at present — FMCG Cigarettes, FMCG Others, Paperboards, Paper and Packaging, and Agri Business.",
  "sector": "Diversified FMCG",
  "price": {
   "close": 296.6,
   "change_pct": 1.1,
-  "mcap_cr": 372198.0,
-  "pe": 19.8,
+  "mcap_cr": 372077.0,
+  "pe": 19.7,
   "roce": 38.9,
   "roe": 29.3
  },

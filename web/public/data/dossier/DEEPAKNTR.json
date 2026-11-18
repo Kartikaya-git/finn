@@ -1,14 +1,14 @@
 {
  "symbol": "DEEPAKNTR",
  "name": "Deepak Nitrite Ltd",
- "generated_at": "2026-11-18T10:59:42+00:00",
+ "generated_at": "2026-11-18T19:13:46+00:00",
  "about": "Incorporated in 1970, Deepak Nitrite Ltd manufactures Basic Intermediates, Fine & Speciality Chemicals, Performance Products, and Phenolics",
  "sector": "Chemicals & Petrochemicals",
  "price": {
   "close": 1562.9,
   "change_pct": -1.7,
-  "mcap_cr": 21373.0,
-  "pe": 20.0,
+  "mcap_cr": 21318.0,
+  "pe": 19.9,
   "roce": 11.4,
   "roe": 9.82
  },
@@ -304,6 +304,11 @@
    "kind": "concall",
    "label": "Concall transcript · Nov 2026",
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5dfbdab4-d040-4a99-b694-bbe26f015f14.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Nov 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=17448e49-e6d5-4616-be82-86a78e83bb8c.pdf"
   },
   {
    "kind": "concall",

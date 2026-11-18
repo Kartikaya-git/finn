@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T11:01:10+00:00",
+ "generated_at": "2026-11-18T19:15:14+00:00",
  "holdings": [
   {
    "symbol": "RELIANCE",
@@ -968,7 +968,7 @@
     [
      "2026-11-18",
      808.15,
-     22225900
+     22235200
     ]
    ],
    "filings": [
@@ -1487,6 +1487,28 @@
    ],
    "filings": [
     {
+     "id": "3bf67bb07371",
+     "symbol": "INFY",
+     "title": "Change In Corporate Office Address Of The Company'S Registrar And Share Transfer Agent",
+     "summary": "Infosys reports KFin Technologies’ corporate office address change effective December 1, 2026.",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c3935047-69f0-40a6-9b78-b17afcc7b1a3.pdf",
+     "ts": "2026-11-18T22:11:58+05:30",
+     "category": "unclassified",
+     "tier": "routine",
+     "why": "Procedural filing"
+    },
+    {
+     "id": "8fc8b695b13d",
+     "symbol": "INFY",
+     "title": "Disclosure Under Regulation 30 Of SEBI LODR Regulations",
+     "summary": "Infosys Singapore to invest JPY 1.59bn for 10.1% stake in NTT Docomo Playspace JV.",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8629dba6-9d8f-487c-8f05-cc95e1588d94.pdf",
+     "ts": "2026-11-18T22:08:01+05:30",
+     "category": "unclassified",
+     "tier": "routine",
+     "why": "Procedural filing"
+    },
+    {
      "id": "c236f52f49d2",
      "symbol": "INFY",
      "title": "Infosys Positioned As A Leader In The 2026 Gartner® Magic Quadrant™ For Public Cloud Optimization And Transformation Services For The Fourth Consecutive Year",
@@ -1518,17 +1540,6 @@
      "category": "investor_meetings",
      "tier": "routine",
      "why": "Investor meeting schedule"
-    },
-    {
-     "id": "67f1ee01874e",
-     "symbol": "INFY",
-     "title": "Infosys Announces Expansion Of Pocharam Development Center In Hyderabad",
-     "summary": "Infosys expands Pocharam Hyderabad center with 1.1 million sq. ft. block and 10,000 seats.",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=de1d0c27-5ad6-474d-b3b4-44084de360c0.pdf",
-     "ts": "2026-10-30T18:52:32+05:30",
-     "category": "unclassified",
-     "tier": "routine",
-     "why": "Procedural filing"
     }
    ]
   },
@@ -1985,7 +1996,7 @@
     [
      "2026-11-18",
      296.6,
-     20184676
+     20190646
     ]
    ],
    "filings": [
@@ -2527,7 +2538,7 @@
     [
      "2026-11-18",
      4159.0,
-     1223927
+     1224085
     ]
    ],
    "filings": [
@@ -5501,10 +5512,21 @@
     [
      "2026-11-18",
      3459.0,
-     239109
+     239150
     ]
    ],
    "filings": [
+    {
+     "id": "0d35656638d7",
+     "symbol": "DMART",
+     "title": "Intimation of Repayment of Commercial Paper (CP)",
+     "summary": "Avenue Supermarts redeemed Rs. 200 crore commercial paper on 18 November 2026; outstanding amount now nil.",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=cc7f5f54-2f7a-4535-ab5c-57667c5d7268.pdf",
+     "ts": "2026-11-18T17:04:29+05:30",
+     "category": "fund_raise",
+     "tier": "routine",
+     "why": "Debt repaid / proceeds monitoring"
+    },
     {
      "id": "71538cafb078",
      "symbol": "DMART",
@@ -5545,17 +5567,6 @@
      "summary": "Opened new store at Kiwale, Pune on 3 Nov 2026; total stores now 520.",
      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b4e5f9be-d51b-4514-80b0-cfe786feb28b.pdf",
      "ts": "2026-11-03T17:36:09+05:30",
-     "category": "unclassified",
-     "tier": "routine",
-     "why": "Procedural filing"
-    },
-    {
-     "id": "2599023c6807",
-     "symbol": "DMART",
-     "title": "Store Opening Intimation",
-     "summary": "DMart opened a new store at GHS Mall, Pune; total stores now 519.",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f38d3a44-253b-41dd-b5bb-6cbcd6d39fc9.pdf",
-     "ts": "2026-10-30T18:00:51+05:30",
      "category": "unclassified",
      "tier": "routine",
      "why": "Procedural filing"
@@ -6015,7 +6026,7 @@
     [
      "2026-11-18",
      366.0,
-     17436882
+     17438436
     ]
    ],
    "filings": [
@@ -7579,6 +7590,17 @@
    ],
    "filings": [
     {
+     "id": "f935af32a223",
+     "symbol": "KPITTECH",
+     "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
+     "summary": "KPIT Technologies met investors at JM Financial India Xchange conference on November 18, 2026, reiterating earnings-call disclosures.",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=cc662964-1403-455d-a7c7-c4f0412e8a21.pdf",
+     "ts": "2026-11-18T18:43:12+05:30",
+     "category": "investor_meetings",
+     "tier": "routine",
+     "why": "Investor meeting schedule"
+    },
+    {
      "id": "ee8cc939b885",
      "symbol": "KPITTECH",
      "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
@@ -7621,17 +7643,6 @@
      "category": "insider_trading",
      "tier": "card",
      "why": "Promoter selling shares"
-    },
-    {
-     "id": "64bb695d2c40",
-     "symbol": "KPITTECH",
-     "title": "Announcement under Regulation 30 (LODR)-Earnings Call Transcript",
-     "summary": "Transcript of the Post Earnings Conference call for the quarter ended September 30, 2026, conducted on October 28, 2026.",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a7331811-fe14-4c79-896d-f0a9df901335.pdf",
-     "ts": "2026-11-03T22:00:54+05:30",
-     "category": "earnings_call",
-     "tier": "routine",
-     "why": "Concall record, numbers already out"
     }
    ]
   },
@@ -8630,7 +8641,7 @@
     [
      "2026-11-18",
      3190.0,
-     1369997
+     1370025
     ]
    ],
    "filings": [
@@ -9675,7 +9686,7 @@
     [
      "2026-11-18",
      1416.6,
-     2190711
+     2190825
     ]
    ],
    "filings": [
