@@ -1,14 +1,14 @@
 {
  "symbol": "MAXHEALTH",
  "name": "Max Healthcare Institute Ltd",
- "generated_at": "2026-11-18T19:14:46+00:00",
+ "generated_at": "2026-11-19T11:03:03+00:00",
  "about": "Max Healthcare Institute Limited is primarily engaged in the providing healthcare services through primary care clinics, multi-speciality hospitals / medical centres and super-speciality hospitals providing operation and management, medical services, clinical, radiology, pathology services and related healthcare services.",
  "sector": "Healthcare Services",
  "price": {
-  "close": 1022.85,
-  "change_pct": -0.8,
-  "mcap_cr": 99649.0,
-  "pe": 70.2,
+  "close": 1037.6,
+  "change_pct": 1.4,
+  "mcap_cr": 101060.0,
+  "pe": 71.3,
   "roce": 14.7,
   "roe": 14.7
  },

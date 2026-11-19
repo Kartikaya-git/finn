@@ -1,14 +1,14 @@
 {
  "symbol": "APOLLOHOSP",
  "name": "Apollo Hospitals Enterprise Ltd",
- "generated_at": "2026-11-18T19:14:04+00:00",
+ "generated_at": "2026-11-19T11:02:21+00:00",
  "about": "Apollo Hospitals was established in 1983 by Dr. Prathap C Reddy, renowned architect of modern healthcare in India. As the nation’s first corporate hospital, Apollo Hospitals is acclaimed for pioneering the private healthcare revolution in the country.",
  "sector": "Healthcare Services",
  "price": {
-  "close": 8821.0,
-  "change_pct": 1.2,
-  "mcap_cr": 126995.0,
-  "pe": 56.1,
+  "close": 8730.5,
+  "change_pct": -1.0,
+  "mcap_cr": 125737.0,
+  "pe": 55.5,
   "roce": 17.4,
   "roe": 21.5
  },

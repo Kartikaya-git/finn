@@ -1,14 +1,14 @@
 {
  "symbol": "HINDALCO",
  "name": "Hindalco Industries Ltd",
- "generated_at": "2026-11-18T19:14:30+00:00",
+ "generated_at": "2026-11-19T11:02:47+00:00",
  "about": "Incorporated in 1958, Hindalco Industries Ltd. is a flagship company of the Aditya Birla Group. The Co and its subsidiaries are primarily engaged in the production of Aluminium and Copper. It is also engaged in the manufacturing of aluminium sheet, extrusion and light gauge products for use in packaging markets like beverage and food, can and foil products, etc.",
  "sector": "Non - Ferrous Metals",
  "price": {
-  "close": 900.0,
-  "change_pct": -3.0,
-  "mcap_cr": 202261.0,
-  "pe": 8.69,
+  "close": 910.0,
+  "change_pct": 1.1,
+  "mcap_cr": 204273.0,
+  "pe": 8.76,
   "roce": 13.2,
   "roe": 13.0
  },
