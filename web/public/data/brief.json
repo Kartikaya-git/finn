@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T11:03:31+00:00",
+ "generated_at": "2026-11-19T19:19:50+00:00",
  "holdings": [
   {
    "symbol": "RELIANCE",
@@ -453,11 +453,22 @@
     ],
     [
      "2026-11-19",
-     1376.6,
-     1866098
+     1375.6,
+     15787477
     ]
    ],
    "filings": [
+    {
+     "id": "e82483d9cc0d",
+     "symbol": "RELIANCE",
+     "title": "Update On Institutional Investors'' Meeting - Morgan Stanley 25Th Annual Asia-Pacific Summit",
+     "summary": "Reliance participated in Morgan Stanley Asia-Pacific Summit in Singapore on Nov 18-19, 2026; no UPSI shared.",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3c911ae3-537d-4dad-b536-c6c8337562ee.pdf",
+     "ts": "2026-11-19T18:37:38+05:30",
+     "category": "investor_meetings",
+     "tier": "routine",
+     "why": "Investor meeting schedule"
+    },
     {
      "id": "d203d0e01624",
      "symbol": "RELIANCE",
@@ -498,17 +509,6 @@
      "summary": "The Company executives will be participating in the Institutional Investors'' Meeting - JM Financial India Conference, scheduled to be held on November 17, 2026 at …",
      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=55f9d4f5-8638-4669-abdb-7cc4127221fc.pdf",
      "ts": "2026-11-12T20:22:14+05:30",
-     "category": "investor_meetings",
-     "tier": "routine",
-     "why": "Investor meeting schedule"
-    },
-    {
-     "id": "5c6d1b95ef01",
-     "symbol": "RELIANCE",
-     "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
-     "summary": "Reliance executives will attend a one-on-one CLSA India Forum meeting in Mumbai on November 16, 2026.",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=bab324f6-6fab-42fc-8b79-a3881f4fb7c7.pdf",
-     "ts": "2026-11-06T19:17:12+05:30",
      "category": "investor_meetings",
      "tier": "routine",
      "why": "Investor meeting schedule"
@@ -967,8 +967,8 @@
     ],
     [
      "2026-11-19",
-     821.0,
-     2539500
+     821.8,
+     25346000
     ]
    ],
    "filings": [
@@ -1481,8 +1481,8 @@
     ],
     [
      "2026-11-19",
-     1090.6,
-     11524477
+     1091.9,
+     12059086
     ]
    ],
    "filings": [
@@ -1995,8 +1995,8 @@
     ],
     [
      "2026-11-19",
-     301.15,
-     2779420
+     301.0,
+     28839252
     ]
    ],
    "filings": [
@@ -2537,8 +2537,8 @@
     ],
     [
      "2026-11-19",
-     4205.7,
-     165309
+     4211.0,
+     2158643
     ]
    ],
    "filings": [
@@ -3041,7 +3041,7 @@
     [
      "2026-11-19",
      1092.85,
-     8096203
+     8096302
     ]
    ],
    "filings": [
@@ -3555,7 +3555,7 @@
     [
      "2026-11-19",
      2595.0,
-     878794
+     878814
     ]
    ],
    "filings": [
@@ -4046,8 +4046,8 @@
     ],
     [
      "2026-11-19",
-     4687.0,
-     67864
+     4700.0,
+     1185971
     ]
    ],
    "filings": [
@@ -4528,7 +4528,7 @@
     [
      "2026-11-19",
      1900.0,
-     2093965
+     2094191
     ]
    ],
    "filings": [
@@ -5020,7 +5020,7 @@
     [
      "2026-11-19",
      13589.0,
-     1512285
+     1512428
     ]
    ],
    "filings": [
@@ -5500,8 +5500,8 @@
     ],
     [
      "2026-11-19",
-     3505.0,
-     30848
+     3500.0,
+     289261
     ]
    ],
    "filings": [
@@ -6014,8 +6014,8 @@
     ],
     [
      "2026-11-19",
-     366.1,
-     2249353
+     366.85,
+     32900028
     ]
    ],
    "filings": [
@@ -6568,7 +6568,7 @@
     [
      "2026-11-19",
      7550.0,
-     1081931
+     1081990
     ]
    ],
    "filings": [
@@ -7060,7 +7060,7 @@
     [
      "2026-11-19",
      13054.0,
-     343282
+     343294
     ]
    ],
    "filings": [
@@ -7573,8 +7573,8 @@
     ],
     [
      "2026-11-19",
-     523.4,
-     96791
+     522.5,
+     1119933
     ]
    ],
    "filings": [
@@ -8087,8 +8087,8 @@
     ],
     [
      "2026-11-19",
-     449.8,
-     786202
+     449.9,
+     799512
     ]
    ],
    "filings": [
@@ -8630,7 +8630,7 @@
     [
      "2026-11-19",
      3225.0,
-     815968
+     815982
     ]
    ],
    "filings": [
@@ -9143,8 +9143,8 @@
     ],
     [
      "2026-11-19",
-     1549.0,
-     139692
+     1552.3,
+     139696
     ]
    ],
    "filings": [
@@ -9675,7 +9675,7 @@
     [
      "2026-11-19",
      1423.4,
-     1109743
+     1110118
     ]
    ],
    "filings": [
@@ -10188,8 +10188,8 @@
     ],
     [
      "2026-11-19",
-     4755.0,
-     50637
+     4760.0,
+     616852
     ]
    ],
    "filings": [

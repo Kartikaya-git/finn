@@ -1,14 +1,14 @@
 {
  "symbol": "DRREDDY",
  "name": "Dr Reddys Laboratories Ltd",
- "generated_at": "2026-11-19T11:02:37+00:00",
+ "generated_at": "2026-11-19T19:18:56+00:00",
  "about": "Dr. Reddy's Laboratories Ltd is a leading India-based pharmaceutical company which offers a portfolio of products and services, including Active Pharmaceutical Ingredients (APIs), Custom Pharmaceutical services (CPS), generics, biosimilars and differentiated formulations.",
  "sector": "Pharmaceuticals & Biotechnology",
  "price": {
   "close": 1400.9,
   "change_pct": 0.2,
-  "mcap_cr": 116771.0,
-  "pe": 41.7,
+  "mcap_cr": 117198.0,
+  "pe": 41.9,
   "roce": 13.0,
   "roe": 11.2
  },

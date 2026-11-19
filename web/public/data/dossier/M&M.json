@@ -1,13 +1,13 @@
 {
  "symbol": "M&M",
  "name": "Mahindra & Mahindra Ltd",
- "generated_at": "2026-11-19T11:03:01+00:00",
+ "generated_at": "2026-11-19T19:19:20+00:00",
  "about": "Mahindra & Mahindra Ltd is one of the most diversified automobile company in India with presence across 2-wheelers, 3-wheelers, PVs, CVs, tractors & earthmovers.",
  "sector": "Automobiles",
  "price": {
   "close": 3509.0,
   "change_pct": 4.5,
-  "mcap_cr": 436504.0,
+  "mcap_cr": 437540.0,
   "pe": 21.8,
   "roce": 15.1,
   "roe": 20.3

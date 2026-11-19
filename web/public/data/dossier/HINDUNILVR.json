@@ -1,14 +1,14 @@
 {
  "symbol": "HINDUNILVR",
  "name": "Hindustan Unilever Ltd",
- "generated_at": "2026-11-19T11:02:49+00:00",
+ "generated_at": "2026-11-19T19:19:08+00:00",
  "about": "Hindustan Unilever is in the FMCG business comprising primarily of Home Care, Beauty & Personal Care and Foods & Refreshment segments. The Company has manufacturing facilities across the country and sells primarily in India.",
  "sector": "Diversified FMCG",
  "price": {
   "close": 2074.2,
   "change_pct": 4.1,
-  "mcap_cr": 487282.0,
-  "pe": 43.4,
+  "mcap_cr": 488087.0,
+  "pe": 43.6,
   "roce": 28.4,
   "roe": 31.0
  },

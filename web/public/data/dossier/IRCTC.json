@@ -1,13 +1,13 @@
 {
  "symbol": "IRCTC",
  "name": "Indian Railway Catering & Tourism Corporation Ltd",
- "generated_at": "2026-11-19T11:01:55+00:00",
+ "generated_at": "2026-11-19T19:18:14+00:00",
  "about": "Incorporated in 1999, IRCTC is a Navratna (Category 1, Central Public Sector Enterprises ) and the only company authorized by the Indian government to provide online railway tickets, catering services, and packaged drinking water at railway stations and trains in India",
  "sector": "Leisure Services",
  "price": {
-  "close": 449.8,
+  "close": 449.9,
   "change_pct": 1.2,
-  "mcap_cr": 35980.0,
+  "mcap_cr": 35984.0,
   "pe": 26.1,
   "roce": 46.1,
   "roe": 34.7

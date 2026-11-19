@@ -1,13 +1,13 @@
 {
  "symbol": "TECHM",
  "name": "Tech Mahindra Ltd",
- "generated_at": "2026-11-19T11:03:27+00:00",
+ "generated_at": "2026-11-19T19:19:46+00:00",
  "about": "Tech Mahindra Ltd provides comprehensive range of IT services, including IT enabled service, application development and maintenance, consulting and enterprise business solutions, etc. to a diversified base of corporate customers in a wide range of industries.",
  "sector": "IT - Software",
  "price": {
   "close": 1723.0,
   "change_pct": -1.5,
-  "mcap_cr": 168889.0,
+  "mcap_cr": 169165.0,
   "pe": 29.6,
   "roce": 23.1,
   "roe": 17.5
