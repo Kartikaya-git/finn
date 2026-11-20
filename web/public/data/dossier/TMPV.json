@@ -1,14 +1,14 @@
 {
  "symbol": "TMPV",
  "name": "Tata Motors Passenger Vehicles Ltd",
- "generated_at": "2026-11-19T19:19:40+00:00",
+ "generated_at": "2026-11-20T10:52:30+00:00",
  "about": "Tata Motors Group is a global automobile manufacturer. Part of the multi-national conglomerate, the Tata group, it offers a wide and diverse portfolio of cars, sports utility vehicles, etc.",
  "sector": "Automobiles",
  "price": {
-  "close": 263.5,
-  "change_pct": 4.3,
-  "mcap_cr": 96876.0,
-  "pe": 20.4,
+  "close": 266.35,
+  "change_pct": 1.1,
+  "mcap_cr": 97987.0,
+  "pe": 20.6,
   "roce": 2.73,
   "roe": 75.7
  },

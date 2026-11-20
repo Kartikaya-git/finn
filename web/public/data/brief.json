@@ -1,16 +1,11 @@
 {
- "generated_at": "2026-11-19T19:19:50+00:00",
+ "generated_at": "2026-11-20T10:52:40+00:00",
  "holdings": [
   {
    "symbol": "RELIANCE",
    "name": "Reliance Industries Ltd",
    "sector": "Petroleum Products",
    "series": [
-    [
-     "2026-07-14",
-     1293.0,
-     13860594
-    ],
     [
      "2026-07-15",
      1295.5,
@@ -455,6 +450,11 @@
      "2026-11-19",
      1375.6,
      15787477
+    ],
+    [
+     "2026-11-20",
+     1377.5,
+     13756125
     ]
    ],
    "filings": [
@@ -520,11 +520,6 @@
    "name": "HDFC Bank Ltd",
    "sector": "Banks",
    "series": [
-    [
-     "2026-07-14",
-     809.4,
-     26524804
-    ],
     [
      "2026-07-15",
      815.45,
@@ -969,6 +964,11 @@
      "2026-11-19",
      821.8,
      25346000
+    ],
+    [
+     "2026-11-20",
+     846.0,
+     73463997
     ]
    ],
    "filings": [
@@ -1034,11 +1034,6 @@
    "name": "Infosys Ltd",
    "sector": "IT - Software",
    "series": [
-    [
-     "2026-07-14",
-     1092.9,
-     15321014
-    ],
     [
      "2026-07-15",
      1076.3,
@@ -1483,6 +1478,11 @@
      "2026-11-19",
      1091.9,
      12059086
+    ],
+    [
+     "2026-11-20",
+     1098.0,
+     14276044
     ]
    ],
    "filings": [
@@ -1548,11 +1548,6 @@
    "name": "ITC Ltd",
    "sector": "Diversified FMCG",
    "series": [
-    [
-     "2026-07-14",
-     275.55,
-     16179086
-    ],
     [
      "2026-07-15",
      276.65,
@@ -1997,6 +1992,11 @@
      "2026-11-19",
      301.0,
      28839252
+    ],
+    [
+     "2026-11-20",
+     299.1,
+     29576083
     ]
    ],
    "filings": [
@@ -2090,11 +2090,6 @@
    "name": "Larsen & Toubro Ltd",
    "sector": "Construction",
    "series": [
-    [
-     "2026-07-14",
-     3848.7,
-     2488491
-    ],
     [
      "2026-07-15",
      3783.9,
@@ -2539,6 +2534,11 @@
      "2026-11-19",
      4211.0,
      2158643
+    ],
+    [
+     "2026-11-20",
+     4209.1,
+     2198139
     ]
    ],
    "filings": [
@@ -2593,11 +2593,6 @@
    "name": "Bajaj Finance Ltd",
    "sector": "Finance",
    "series": [
-    [
-     "2026-07-14",
-     1006.6,
-     8525804
-    ],
     [
      "2026-07-15",
      1021.3,
@@ -3042,6 +3037,11 @@
      "2026-11-19",
      1092.85,
      8096302
+    ],
+    [
+     "2026-11-20",
+     1122.0,
+     9819056
     ]
    ],
    "filings": [
@@ -3107,11 +3107,6 @@
    "name": "Asian Paints Ltd",
    "sector": "Consumer Durables",
    "series": [
-    [
-     "2026-07-14",
-     2641.0,
-     1017455
-    ],
     [
      "2026-07-15",
      2670.0,
@@ -3556,9 +3551,25 @@
      "2026-11-19",
      2595.0,
      878814
+    ],
+    [
+     "2026-11-20",
+     2608.3,
+     541215
     ]
    ],
    "filings": [
+    {
+     "id": "5b4dfd83734d",
+     "symbol": "ASIANPAINT",
+     "title": "Announcement under Regulation 30 (LODR)-Trading Plan under SEBI (PIT) Regulations, 2015",
+     "summary": "Asian Paints approves Patel's trading plan to sell 765 shares at ≥₹2,300 between Mar 23-30, 2027.",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b95cae6b-fb93-4750-b9d7-d9189b64a54b.pdf",
+     "ts": "2026-11-20T11:18:40+05:30",
+     "category": "unclassified",
+     "tier": "routine",
+     "why": "Procedural filing"
+    },
     {
      "id": "bfcfbe3c0063",
      "symbol": "ASIANPAINT",
@@ -3580,17 +3591,6 @@
      "category": "management_change",
      "tier": "card",
      "why": "Leadership change"
-    },
-    {
-     "id": "9c8ccb27fb85",
-     "symbol": "ASIANPAINT",
-     "title": "Announcement under Regulation 30 (LODR)-Earnings Call Transcript",
-     "summary": "Find enclosed the transcript of the investor conference call held on 29th October 2026 on the performance of the Company for the quarter and half …",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ee7e6efe-1f9b-4b5e-bff7-1da18902ffeb.pdf",
-     "ts": "2026-11-03T18:15:27+05:30",
-     "category": "earnings_call",
-     "tier": "routine",
-     "why": "Concall record, numbers already out"
     }
    ]
   },
@@ -3599,11 +3599,6 @@
    "name": "Titan Company Ltd",
    "sector": "Consumer Durables",
    "series": [
-    [
-     "2026-07-14",
-     4573.7,
-     700900
-    ],
     [
      "2026-07-15",
      4579.4,
@@ -4048,6 +4043,11 @@
      "2026-11-19",
      4700.0,
      1185971
+    ],
+    [
+     "2026-11-20",
+     4620.0,
+     1516149
     ]
    ],
    "filings": [
@@ -4080,11 +4080,6 @@
    "name": "Sun Pharmaceutical Industries Ltd",
    "sector": "Pharmaceuticals & Biotechnology",
    "series": [
-    [
-     "2026-07-14",
-     1942.6,
-     3165762
-    ],
     [
      "2026-07-15",
      1951.5,
@@ -4529,6 +4524,11 @@
      "2026-11-19",
      1900.0,
      2094191
+    ],
+    [
+     "2026-11-20",
+     1884.9,
+     1960689
     ]
    ],
    "filings": [
@@ -4572,11 +4572,6 @@
    "name": "Maruti Suzuki India Ltd",
    "sector": "Automobiles",
    "series": [
-    [
-     "2026-07-14",
-     13489.0,
-     531492
-    ],
     [
      "2026-07-15",
      13583.0,
@@ -5021,9 +5016,25 @@
      "2026-11-19",
      13589.0,
      1512428
+    ],
+    [
+     "2026-11-20",
+     14011.0,
+     1751429
     ]
    ],
    "filings": [
+    {
+     "id": "769b5ed0fefa",
+     "symbol": "MARUTI",
+     "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+     "summary": "Investor group meeting scheduled on 26 November 2026; date subject to change.",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9dd6543f-f49a-43e9-8302-d6c77668ae74.pdf",
+     "ts": "2026-11-20T14:07:49+05:30",
+     "category": "investor_meetings",
+     "tier": "routine",
+     "why": "Investor meeting schedule"
+    },
     {
      "id": "bbdf2604cd07",
      "symbol": "MARUTI",
@@ -5034,17 +5045,6 @@
      "category": "unclassified",
      "tier": "routine",
      "why": "Group company's results, not this company's"
-    },
-    {
-     "id": "fbebd5bfb761",
-     "symbol": "MARUTI",
-     "title": "Maruti Suzuki Production Volume: October 2026",
-     "summary": "Maruti Suzuki October 2026 production rose to 260,003 vehicles from 192,139.",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b7585ba4-523e-4c05-b037-263a3e803229.pdf",
-     "ts": "2026-11-01T14:44:08+05:30",
-     "category": "unclassified",
-     "tier": "routine",
-     "why": "Procedural filing"
     }
    ]
   },
@@ -5053,11 +5053,6 @@
    "name": "Avenue Supermarts Ltd",
    "sector": "Retailing",
    "series": [
-    [
-     "2026-07-14",
-     3915.9,
-     709193
-    ],
     [
      "2026-07-15",
      3929.3,
@@ -5502,6 +5497,11 @@
      "2026-11-19",
      3500.0,
      289261
+    ],
+    [
+     "2026-11-20",
+     3490.0,
+     275845
     ]
    ],
    "filings": [
@@ -5567,11 +5567,6 @@
    "name": "Eternal Ltd",
    "sector": "Retailing",
    "series": [
-    [
-     "2026-07-14",
-     286.15,
-     43726316
-    ],
     [
      "2026-07-15",
      294.8,
@@ -6016,6 +6011,11 @@
      "2026-11-19",
      366.85,
      32900028
+    ],
+    [
+     "2026-11-20",
+     364.0,
+     17035014
     ]
    ],
    "filings": [
@@ -6040,78 +6040,6 @@
      "category": "fund_raise",
      "tier": "routine",
      "why": "Debt repaid / proceeds monitoring"
-    },
-    {
-     "id": "748cc9fd15f4",
-     "symbol": "ETERNAL",
-     "title": "Announcement under Regulation 30 (LODR)-Restructuring",
-     "summary": "Board approved Q2 FY26 results, internal restructuring, and Adonmo-Mygate share swap on October 21, 2026.",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a0daf632-ab45-41ef-bbc5-bfc655056cbb.pdf",
-     "ts": "2026-10-21T15:37:20+05:30",
-     "category": "M&A",
-     "tier": "card",
-     "why": "Acquisition / restructuring"
-    },
-    {
-     "id": "4a87e566931e",
-     "symbol": "ETERNAL",
-     "title": "Results For The Quarter And Half Year Ended September 30, 2026",
-     "summary": "Board approved Q2/H1 FY27 results, internal Going-out India restructuring, and Adonmo-Mygate share swap.",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5e5ee67c-fdd2-46d5-9390-e8e4a018c5b2.pdf",
-     "ts": "2026-10-21T15:31:19+05:30",
-     "category": "results",
-     "tier": "card",
-     "why": "Quarterly results declared",
-     "results": {
-      "period": "Sep 2026",
-      "unit": "₹ Cr",
-      "ebitda_label": "EBITDA",
-      "rows": [
-       {
-        "metric": "Revenue",
-        "cur": 24138.0,
-        "prev_q": 20211.0,
-        "prev_y": 13590.0,
-        "qoq": 19.4,
-        "yoy": 77.6
-       },
-       {
-        "metric": "EBITDA",
-        "cur": 752.0,
-        "prev_q": 594.0,
-        "prev_y": 239.0,
-        "qoq": 26.6,
-        "yoy": 214.6
-       },
-       {
-        "metric": "PBT",
-        "cur": 323.0,
-        "prev_q": 272.0,
-        "prev_y": 129.0,
-        "qoq": 18.8,
-        "yoy": 150.4
-       },
-       {
-        "metric": "PAT",
-        "cur": 125.0,
-        "prev_q": 92.0,
-        "prev_y": 65.0,
-        "qoq": 35.9,
-        "yoy": 92.3
-       }
-      ]
-     }
-    },
-    {
-     "id": "fcf8212fd004",
-     "symbol": "ETERNAL",
-     "title": "Shareholders Letter",
-     "summary": "Q2FY27 results: B2C NOV rose 54% YoY; adjusted revenue 76% to INR 24,621 crore; EBITDA 197%.",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=cbfbd146-6a68-43d6-9cbc-dfb7d0f50fd0.pdf",
-     "ts": "2026-10-21T15:23:59+05:30",
-     "category": "unclassified",
-     "tier": "routine",
-     "why": "Procedural filing"
     }
    ]
   },
@@ -6120,11 +6048,6 @@
    "name": "Polycab India Ltd",
    "sector": "Industrial Products",
    "series": [
-    [
-     "2026-07-14",
-     9532.5,
-     526698
-    ],
     [
      "2026-07-15",
      9324.5,
@@ -6569,6 +6492,11 @@
      "2026-11-19",
      7550.0,
      1081990
+    ],
+    [
+     "2026-11-20",
+     7570.0,
+     662077
     ]
    ],
    "filings": [
@@ -6612,11 +6540,6 @@
    "name": "Dixon Technologies (India) Ltd",
    "sector": "Consumer Durables",
    "series": [
-    [
-     "2026-07-14",
-     13365.0,
-     439891
-    ],
     [
      "2026-07-15",
      13651.0,
@@ -7061,9 +6984,25 @@
      "2026-11-19",
      13054.0,
      343294
+    ],
+    [
+     "2026-11-20",
+     13120.0,
+     240431
     ]
    ],
    "filings": [
+    {
+     "id": "c2f7ac52e8a2",
+     "symbol": "DIXON",
+     "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
+     "summary": "Dixon held one-on-one investor meetings with Invesco and Investec on Nov 19–20, 2026; no UPSI shared.",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=68d52f83-69e0-4d96-9cc5-c772d7503218.pdf",
+     "ts": "2026-11-20T12:13:54+05:30",
+     "category": "investor_meetings",
+     "tier": "routine",
+     "why": "Investor meeting schedule"
+    },
     {
      "id": "51676bd66be8",
      "symbol": "DIXON",
@@ -7107,17 +7046,6 @@
      "category": "earnings_call",
      "tier": "routine",
      "why": "Concall record, numbers already out"
-    },
-    {
-     "id": "572673d2d8b2",
-     "symbol": "DIXON",
-     "title": "Announcement Under Regulation 30 Of SEBI LODR- Intimation Regarding Change In The Corporate Office Of The Registrar And Share Transfer Agent (RTA) Of The Company",
-     "summary": "KFin Technologies shifts corporate office effective 1 December 2026; registered office unchanged.",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d219f169-7be4-4d16-9697-1251e8767e69.pdf",
-     "ts": "2026-11-03T17:30:11+05:30",
-     "category": "unclassified",
-     "tier": "routine",
-     "why": "Procedural filing"
     }
    ]
   },
@@ -7126,11 +7054,6 @@
    "name": "KPIT Technologies Ltd",
    "sector": "IT - Software",
    "series": [
-    [
-     "2026-07-14",
-     555.6,
-     3236484
-    ],
     [
      "2026-07-15",
      551.6,
@@ -7575,6 +7498,11 @@
      "2026-11-19",
      522.5,
      1119933
+    ],
+    [
+     "2026-11-20",
+     519.0,
+     1673132
     ]
    ],
    "filings": [
@@ -7640,11 +7568,6 @@
    "name": "Indian Railway Catering & Tourism Corporation Ltd",
    "sector": "Leisure Services",
    "series": [
-    [
-     "2026-07-14",
-     496.95,
-     1240543
-    ],
     [
      "2026-07-15",
      503.3,
@@ -8089,6 +8012,11 @@
      "2026-11-19",
      449.9,
      799512
+    ],
+    [
+     "2026-11-20",
+     448.05,
+     574587
     ]
    ],
    "filings": [
@@ -8182,11 +8110,6 @@
    "name": "Trent Ltd",
    "sector": "Retailing",
    "series": [
-    [
-     "2026-07-14",
-     2869.1,
-     850279
-    ],
     [
      "2026-07-15",
      2867.7,
@@ -8631,6 +8554,11 @@
      "2026-11-19",
      3225.0,
      815982
+    ],
+    [
+     "2026-11-20",
+     3256.1,
+     1459138
     ]
    ],
    "filings": [
@@ -8696,11 +8624,6 @@
    "name": "Deepak Nitrite Ltd",
    "sector": "Chemicals & Petrochemicals",
    "series": [
-    [
-     "2026-07-14",
-     1669.3,
-     341185
-    ],
     [
      "2026-07-15",
      1697.0,
@@ -9145,6 +9068,11 @@
      "2026-11-19",
      1552.3,
      139696
+    ],
+    [
+     "2026-11-20",
+     1531.2,
+     262358
     ]
    ],
    "filings": [
@@ -9227,11 +9155,6 @@
    "name": "Central Depository Services (India) Ltd",
    "sector": "Capital Markets",
    "series": [
-    [
-     "2026-07-14",
-     1428.5,
-     1855465
-    ],
     [
      "2026-07-15",
      1440.1,
@@ -9676,6 +9599,11 @@
      "2026-11-19",
      1423.4,
      1110118
+    ],
+    [
+     "2026-11-20",
+     1430.0,
+     1362792
     ]
    ],
    "filings": [
@@ -9741,11 +9669,6 @@
    "name": "Hindustan Aeronautics Ltd",
    "sector": "Aerospace & Defense",
    "series": [
-    [
-     "2026-07-14",
-     4442.4,
-     831217
-    ],
     [
      "2026-07-15",
      4420.5,
@@ -10190,6 +10113,11 @@
      "2026-11-19",
      4760.0,
      616852
+    ],
+    [
+     "2026-11-20",
+     4809.0,
+     530601
     ]
    ],
    "filings": [

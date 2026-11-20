@@ -1,14 +1,14 @@
 {
  "symbol": "TRENT",
  "name": "Trent Ltd",
- "generated_at": "2026-11-19T19:18:18+00:00",
+ "generated_at": "2026-11-20T10:51:08+00:00",
  "about": "Trent Ltd is engaged in retailing of apparels, footwear, accessories, toys, games, food, grocery & non food products through various of its retail formats/ concepts.",
  "sector": "Retailing",
  "price": {
-  "close": 3225.0,
-  "change_pct": 1.1,
-  "mcap_cr": 172237.0,
-  "pe": 89.9,
+  "close": 3256.1,
+  "change_pct": 1.0,
+  "mcap_cr": 173420.0,
+  "pe": 90.5,
   "roce": 28.3,
   "roe": 27.7
  },
