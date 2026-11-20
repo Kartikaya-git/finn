@@ -1,14 +1,14 @@
 {
  "symbol": "RELIANCE",
  "name": "Reliance Industries Ltd",
- "generated_at": "2026-11-20T10:49:58+00:00",
+ "generated_at": "2026-11-20T18:55:51+00:00",
  "about": "Reliance was founded by Dhirubhai Ambani and is now promoted and managed by his elder son, Mukesh Dhirubhai Ambani. Ambani's family has about 50% shareholding in the conglomerate.",
  "sector": "Petroleum Products",
  "price": {
   "close": 1377.5,
   "change_pct": 0.1,
-  "mcap_cr": 1860859.0,
-  "pe": 22.7,
+  "mcap_cr": 1871726.0,
+  "pe": 22.8,
   "roce": 10.3,
   "roe": 8.91
  },

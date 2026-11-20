@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T10:52:40+00:00",
+ "generated_at": "2026-11-20T18:58:27+00:00",
  "holdings": [
   {
    "symbol": "RELIANCE",
@@ -454,7 +454,7 @@
     [
      "2026-11-20",
      1377.5,
-     13756125
+     13757636
     ]
    ],
    "filings": [
@@ -973,6 +973,17 @@
    ],
    "filings": [
     {
+     "id": "2190ad6f008c",
+     "symbol": "HDFCBANK",
+     "title": "Shareholder Meeting / Postal Ballot-Outcome of Postal_Ballot",
+     "summary": "HDFC Bank shareholders approve re-appointment of Lily Vadera as Independent Director via postal ballot with 99.092% votes in favour.",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8359e2b1-9d38-4a6a-861f-81104a158350.pdf",
+     "ts": "2026-11-20T20:40:29+05:30",
+     "category": "postal_ballot",
+     "tier": "routine",
+     "why": "Shareholder vote admin"
+    },
+    {
      "id": "9ba1320e80dc",
      "symbol": "HDFCBANK",
      "title": "Grant Of Stock Options And Restricted Stock Units Under ESOP/RSU Scheme",
@@ -1015,17 +1026,6 @@
      "category": "management_change",
      "tier": "routine",
      "why": "Reappointment, same person continues"
-    },
-    {
-     "id": "3358c9941a99",
-     "symbol": "HDFCBANK",
-     "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
-     "summary": "Intimation of Schedule of Analyst/Institutional Investor Meetings under Regulation 30 of the SEBI (LODR) Regulations, 2015",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d01ef203-cd61-4f19-b88b-7a373979e5b5.pdf",
-     "ts": "2026-11-12T14:21:58+05:30",
-     "category": "investor_meetings",
-     "tier": "routine",
-     "why": "Investor meeting schedule"
     }
    ]
   },
@@ -1482,7 +1482,7 @@
     [
      "2026-11-20",
      1098.0,
-     14276044
+     14278577
     ]
    ],
    "filings": [
@@ -1996,7 +1996,7 @@
     [
      "2026-11-20",
      299.1,
-     29576083
+     29578339
     ]
    ],
    "filings": [
@@ -3555,7 +3555,7 @@
     [
      "2026-11-20",
      2608.3,
-     541215
+     541216
     ]
    ],
    "filings": [
@@ -4052,23 +4052,34 @@
    ],
    "filings": [
     {
+     "id": "ae40328fdcd3",
+     "symbol": "TITAN",
+     "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+     "summary": "Titan to meet Aikya Investment Management one-on-one on 8 Dec 2026.",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d70fe384-bfdc-4970-ad4a-0f13a9338ce8.pdf",
+     "ts": "2026-11-20T17:34:26+05:30",
+     "category": "investor_meetings",
+     "tier": "routine",
+     "why": "Investor meeting schedule"
+    },
+    {
+     "id": "8d838d08f8ab",
+     "symbol": "TITAN",
+     "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+     "summary": "Titan schedules one-on-one physical investor meeting with HDFC Life Insurance on 23 Nov 2026.",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8529d1fe-52f9-4f61-9391-cca43d8f9c31.pdf",
+     "ts": "2026-11-20T17:30:15+05:30",
+     "category": "investor_meetings",
+     "tier": "routine",
+     "why": "Investor meeting schedule"
+    },
+    {
      "id": "89545172f9d7",
      "symbol": "TITAN",
      "title": "Intimation of Repayment of Commercial Paper (CP)",
      "summary": "Titan fully redeemed ₹1,000 crore commercial paper issued on 14 August 2026.",
      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=77999e05-06f6-4ed6-9998-f9a775dc5c4f.pdf",
      "ts": "2026-11-12T18:41:08+05:30",
-     "category": "fund_raise",
-     "tier": "routine",
-     "why": "Debt repaid / proceeds monitoring"
-    },
-    {
-     "id": "dd5e6cca3373",
-     "symbol": "TITAN",
-     "title": "Intimation of Repayment of Commercial Paper (CP)",
-     "summary": "Titan fully redeemed ₹850 crore commercial papers; maturity proceeds paid on 9 November 2026.",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f1adda02-5720-474e-8cd2-5632e9218b7d.pdf",
-     "ts": "2026-11-09T15:03:37+05:30",
      "category": "fund_raise",
      "tier": "routine",
      "why": "Debt repaid / proceeds monitoring"
@@ -5020,7 +5031,7 @@
     [
      "2026-11-20",
      14011.0,
-     1751429
+     1751550
     ]
    ],
    "filings": [
@@ -6015,7 +6026,7 @@
     [
      "2026-11-20",
      364.0,
-     17035014
+     17035891
     ]
    ],
    "filings": [
@@ -6029,17 +6040,6 @@
      "category": "earnings_call",
      "tier": "routine",
      "why": "Concall record, numbers already out"
-    },
-    {
-     "id": "0c78335a943b",
-     "symbol": "ETERNAL",
-     "title": "Announcement under Regulation 30 (LODR)-Monitoring Agency Report",
-     "summary": "ICRA report shows no deviation in Eternal’s QIP proceeds use for quarter ended September 30, 2026.",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0c09b689-969e-4ab5-88db-ab3fa4ea814a.pdf",
-     "ts": "2026-10-21T17:35:14+05:30",
-     "category": "fund_raise",
-     "tier": "routine",
-     "why": "Debt repaid / proceeds monitoring"
     }
    ]
   },
@@ -6496,7 +6496,7 @@
     [
      "2026-11-20",
      7570.0,
-     662077
+     662083
     ]
    ],
    "filings": [
@@ -7502,7 +7502,7 @@
     [
      "2026-11-20",
      519.0,
-     1673132
+     1674493
     ]
    ],
    "filings": [
@@ -8558,10 +8558,21 @@
     [
      "2026-11-20",
      3256.1,
-     1459138
+     1459192
     ]
    ],
    "filings": [
+    {
+     "id": "b701b9553419",
+     "symbol": "TRENT",
+     "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+     "summary": "Trent schedules analyst/investor meetings Nov 26–Dec 9, 2026, including Canararobeco, Capital Group, Millenium, HSBC.",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=095a423a-3e97-4ac3-a292-08f80bdbf1f5.pdf",
+     "ts": "2026-11-20T18:03:16+05:30",
+     "category": "investor_meetings",
+     "tier": "routine",
+     "why": "Investor meeting schedule"
+    },
     {
      "id": "fd55fb004493",
      "symbol": "TRENT",
@@ -8602,17 +8613,6 @@
      "summary": "Trent announces analyst and institutional investor meetings from 17-26 November 2026.",
      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=bca602f2-cf50-4964-8641-a88186d2b914.pdf",
      "ts": "2026-11-09T13:01:18+05:30",
-     "category": "investor_meetings",
-     "tier": "routine",
-     "why": "Investor meeting schedule"
-    },
-    {
-     "id": "0499cc3dbf54",
-     "symbol": "TRENT",
-     "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
-     "summary": "Trent scheduled a Goldman Sachs investor conference on 11 November 2026.",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=11b1a994-4cb5-4dc8-98ea-73923446674c.pdf",
-     "ts": "2026-11-06T10:35:13+05:30",
      "category": "investor_meetings",
      "tier": "routine",
      "why": "Investor meeting schedule"
@@ -9076,6 +9076,17 @@
     ]
    ],
    "filings": [
+    {
+     "id": "a4f4de92a093",
+     "symbol": "DEEPAKNTR",
+     "title": "Disclosure Under Regulation 30 Of SEBI LODR Regulations, 2015",
+     "summary": "Deepak Chem Tech allots 1.24 cr 9% OCRPS of ₹100 each, aggregating ₹124 crore, to Deepak Phenolics.",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6ca90438-38d5-48c4-b328-a1a9ab5af663.pdf",
+     "ts": "2026-11-20T16:27:28+05:30",
+     "category": "unclassified",
+     "tier": "routine",
+     "why": "Procedural filing"
+    },
     {
      "id": "9e5005fbc928",
      "symbol": "DEEPAKNTR",
@@ -10117,7 +10128,7 @@
     [
      "2026-11-20",
      4809.0,
-     530601
+     530718
     ]
    ],
    "filings": [
