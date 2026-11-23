@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T11:41:47+00:00",
+ "generated_at": "2026-11-23T22:23:04+00:00",
  "holdings": [
   {
    "symbol": "RELIANCE",
@@ -3560,6 +3560,17 @@
    ],
    "filings": [
     {
+     "id": "94b3bc71d107",
+     "symbol": "ASIANPAINT",
+     "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+     "summary": "Asian Paints to meet Capital International in one-on-one on 27 Nov 2026 in Mumbai.",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f08028ba-34c7-421f-b1a6-d861d4bd9700.pdf",
+     "ts": "2026-11-23T17:41:39+05:30",
+     "category": "investor_meetings",
+     "tier": "routine",
+     "why": "Investor meeting schedule"
+    },
+    {
      "id": "5b4dfd83734d",
      "symbol": "ASIANPAINT",
      "title": "Announcement under Regulation 30 (LODR)-Trading Plan under SEBI (PIT) Regulations, 2015",
@@ -4555,6 +4566,17 @@
    ],
    "filings": [
     {
+     "id": "6b5480f3f657",
+     "symbol": "SUNPHARMA",
+     "title": "Announcement under Regulation 30 (LODR)-Credit Rating",
+     "summary": "S&P assigns preliminary BBB+ stable long-term issuer rating to Sun Pharma Global Treasury Centre IFSC on 23 Nov 2026.",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=56eb8f42-7196-433c-af67-ea52b2a7bd97.pdf",
+     "ts": "2026-11-23T20:35:26+05:30",
+     "category": "credit_rating",
+     "tier": "routine",
+     "why": "Rating reaffirmed or upgraded"
+    },
+    {
      "id": "282feed7559d",
      "symbol": "SUNPHARMA",
      "title": "Announcement under Regulation 30 (LODR)-Newspaper Publication",
@@ -4572,17 +4594,6 @@
      "summary": "Sun Pharma clarifies Assam plant halt report concerns August 2026 developments, not a new event.",
      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1bbe06aa-8721-4e47-b0b1-985a91279ce9.pdf",
      "ts": "2026-11-02T20:58:13+05:30",
-     "category": "unclassified",
-     "tier": "routine",
-     "why": "Procedural filing"
-    },
-    {
-     "id": "9d45e80d4c3c",
-     "symbol": "SUNPHARMA",
-     "title": "Clarification Sought From Sun Pharmaceutical Industries Ltd",
-     "summary": "Exchange has sought clarification from Sun Pharmaceutical Industries Ltd on November 2, 2026, with reference to news appeared in https://www.thehindu.com/ dated October 30, 2026 quoting …",
-     "url": "/company/id/3245/",
-     "ts": "2026-11-02T14:23:57+05:30",
      "category": "unclassified",
      "tier": "routine",
      "why": "Procedural filing"
@@ -7015,6 +7026,17 @@
    ],
    "filings": [
     {
+     "id": "6226b12d1f05",
+     "symbol": "DIXON",
+     "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
+     "summary": "Dixon Technologies held virtual one-on-one investor meetings with Tiger Pacific Capital and Baillie Gifford on 23 Nov 2026.",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a7322e4c-db56-440d-b959-598efb0d2ad4.pdf",
+     "ts": "2026-11-23T17:56:31+05:30",
+     "category": "investor_meetings",
+     "tier": "routine",
+     "why": "Investor meeting schedule"
+    },
+    {
      "id": "ae47eb45e30c",
      "symbol": "DIXON",
      "title": "Announcement Under Regulation 30 Of SEBI LODR-Update",
@@ -7057,17 +7079,6 @@
      "category": "investor_meetings",
      "tier": "routine",
      "why": "Investor meeting schedule"
-    },
-    {
-     "id": "10b405daec72",
-     "symbol": "DIXON",
-     "title": "Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS",
-     "summary": "Company has allotted 37,750 equity shares under DIXON ESOP 2020 on 05th November 2026.",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=bdab8a75-541a-4c8e-bd67-a4c1e81d0a22.pdf",
-     "ts": "2026-11-05T17:19:14+05:30",
-     "category": "unclassified",
-     "tier": "routine",
-     "why": "Procedural filing"
     }
    ]
   },

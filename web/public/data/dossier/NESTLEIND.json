@@ -1,14 +1,14 @@
 {
  "symbol": "NESTLEIND",
  "name": "Nestle India Ltd",
- "generated_at": "2026-11-23T11:41:21+00:00",
+ "generated_at": "2026-11-23T22:22:38+00:00",
  "about": "Nestle India Limited is a subsidiary of Nestle which is a Swiss MNC. The company operates in the Food segment.",
  "sector": "Food Products",
  "price": {
   "close": 1305.9,
   "change_pct": -1.4,
-  "mcap_cr": 251629.0,
-  "pe": 63.3,
+  "mcap_cr": 251819.0,
+  "pe": 63.4,
   "roce": 85.3,
   "roe": 74.2
  },
@@ -112,6 +112,18 @@
  ],
  "annual": [
   {
+   "year": "Dec 2014\n            \n            (S)",
+   "revenue": 9855.0,
+   "ebitda": 2039.0,
+   "pat": 1185.0,
+   "opm": 21.0,
+   "cfo": 1644.0,
+   "capex": 404.0,
+   "fcf": 1240.0,
+   "debt": 20.0,
+   "equity": 2837.0
+  },
+  {
    "year": "Dec 2015\n            \n            (S)",
    "revenue": 8175.0,
    "ebitda": 1555.0,
@@ -208,18 +220,6 @@
    "equity": 2459.0
   },
   {
-   "year": "Dec 2023",
-   "revenue": 19126.0,
-   "ebitda": 4471.0,
-   "pat": 2999.0,
-   "opm": 23.0,
-   "cfo": null,
-   "capex": null,
-   "fcf": null,
-   "debt": null,
-   "equity": null
-  },
-  {
    "year": "Mar 2024 15m",
    "revenue": 24394.0,
    "ebitda": 5843.0,
@@ -257,10 +257,10 @@
   }
  ],
  "computed": {
-  "revenue_cagr_3y": 6.6,
-  "revenue_cagr_5y": 9.5,
-  "pat_cagr_3y": 5.3,
-  "pat_cagr_5y": 10.6,
+  "revenue_cagr_3y": 11.1,
+  "revenue_cagr_5y": 11.6,
+  "pat_cagr_3y": 13.5,
+  "pat_cagr_5y": 10.9,
   "opm_trend": "stable",
   "de_ratio": 0.09,
   "debt_trend": "rising",
@@ -273,6 +273,10 @@
   {
    "level": "good",
    "text": "Debt/equity is 0.09 — virtually debt-free"
+  },
+  {
+   "level": "watch",
+   "text": "Borrowings rose from ₹271 Cr to ₹444 Cr over 3 years"
   },
   {
    "level": "good",
