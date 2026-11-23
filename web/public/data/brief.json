@@ -1,16 +1,11 @@
 {
- "generated_at": "2026-11-20T18:58:27+00:00",
+ "generated_at": "2026-11-23T11:41:47+00:00",
  "holdings": [
   {
    "symbol": "RELIANCE",
    "name": "Reliance Industries Ltd",
    "sector": "Petroleum Products",
    "series": [
-    [
-     "2026-07-15",
-     1295.5,
-     9845092
-    ],
     [
      "2026-07-16",
      1296.6,
@@ -455,6 +450,11 @@
      "2026-11-20",
      1377.5,
      13757636
+    ],
+    [
+     "2026-11-23",
+     1351.0,
+     15950659
     ]
    ],
    "filings": [
@@ -520,11 +520,6 @@
    "name": "HDFC Bank Ltd",
    "sector": "Banks",
    "series": [
-    [
-     "2026-07-15",
-     815.45,
-     21933348
-    ],
     [
      "2026-07-16",
      808.3,
@@ -969,6 +964,11 @@
      "2026-11-20",
      846.0,
      73463997
+    ],
+    [
+     "2026-11-23",
+     817.8,
+     57398501
     ]
    ],
    "filings": [
@@ -1034,11 +1034,6 @@
    "name": "Infosys Ltd",
    "sector": "IT - Software",
    "series": [
-    [
-     "2026-07-15",
-     1076.3,
-     8861282
-    ],
     [
      "2026-07-16",
      1082.4,
@@ -1483,6 +1478,11 @@
      "2026-11-20",
      1098.0,
      14278577
+    ],
+    [
+     "2026-11-23",
+     1103.4,
+     12881285
     ]
    ],
    "filings": [
@@ -1548,11 +1548,6 @@
    "name": "ITC Ltd",
    "sector": "Diversified FMCG",
    "series": [
-    [
-     "2026-07-15",
-     276.65,
-     9051841
-    ],
     [
      "2026-07-16",
      279.35,
@@ -1997,6 +1992,11 @@
      "2026-11-20",
      299.1,
      29578339
+    ],
+    [
+     "2026-11-23",
+     301.0,
+     28401852
     ]
    ],
    "filings": [
@@ -2090,11 +2090,6 @@
    "name": "Larsen & Toubro Ltd",
    "sector": "Construction",
    "series": [
-    [
-     "2026-07-15",
-     3783.9,
-     3789020
-    ],
     [
      "2026-07-16",
      3775.6,
@@ -2539,9 +2534,25 @@
      "2026-11-20",
      4209.1,
      2198139
+    ],
+    [
+     "2026-11-23",
+     4099.9,
+     1296959
     ]
    ],
    "filings": [
+    {
+     "id": "94c0fe94d05b",
+     "symbol": "LT",
+     "title": "Announcement under Regulation 30 (LODR)-Award_of_Order_Receipt_of_Order",
+     "summary": "L&T's LTN Compute secures large multi-year order to deploy additional NVIDIA B300 GPUs at Chennai AI factory.",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6961c994-01be-4b8d-85ac-5c857530ea43.pdf",
+     "ts": "2026-11-23T09:30:55+05:30",
+     "category": "unclassified",
+     "tier": "routine",
+     "why": "Procedural filing"
+    },
     {
      "id": "c5ba3c8c7175",
      "symbol": "LT",
@@ -2574,17 +2585,6 @@
      "category": "unclassified",
      "tier": "routine",
      "why": "Procedural filing"
-    },
-    {
-     "id": "69f33d1be50f",
-     "symbol": "LT",
-     "title": "Announcement under Regulation 30 (LODR) - Bagging/receiving of order(s) or contract(s)",
-     "summary": "L&T wins significant residential and commercial building orders in Mumbai, Bengaluru and Hyderabad.",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=86cb66bf-7e97-4d77-a803-40ae7750d8f2.pdf",
-     "ts": "2026-11-02T10:16:54+05:30",
-     "category": "press_release",
-     "tier": "routine",
-     "why": "Order win, size not stated"
     }
    ]
   },
@@ -2593,11 +2593,6 @@
    "name": "Bajaj Finance Ltd",
    "sector": "Finance",
    "series": [
-    [
-     "2026-07-15",
-     1021.3,
-     6007129
-    ],
     [
      "2026-07-16",
      1037.6,
@@ -3042,6 +3037,11 @@
      "2026-11-20",
      1122.0,
      9819056
+    ],
+    [
+     "2026-11-23",
+     1095.5,
+     9756793
     ]
    ],
    "filings": [
@@ -3107,11 +3107,6 @@
    "name": "Asian Paints Ltd",
    "sector": "Consumer Durables",
    "series": [
-    [
-     "2026-07-15",
-     2670.0,
-     837143
-    ],
     [
      "2026-07-16",
      2674.7,
@@ -3556,6 +3551,11 @@
      "2026-11-20",
      2608.3,
      541216
+    ],
+    [
+     "2026-11-23",
+     2580.4,
+     537237
     ]
    ],
    "filings": [
@@ -3599,11 +3599,6 @@
    "name": "Titan Company Ltd",
    "sector": "Consumer Durables",
    "series": [
-    [
-     "2026-07-15",
-     4579.4,
-     673690
-    ],
     [
      "2026-07-16",
      4625.8,
@@ -4048,9 +4043,25 @@
      "2026-11-20",
      4620.0,
      1516149
+    ],
+    [
+     "2026-11-23",
+     4680.0,
+     1040261
     ]
    ],
    "filings": [
+    {
+     "id": "1784f6ac267a",
+     "symbol": "TITAN",
+     "title": "Announcement under Regulation 30 (LODR)-Credit Rating",
+     "summary": "ICRA reaffirms Titan's AAA (Stable)/A1+ ratings; working capital limit raised to ₹16,750 cr, total rated ₹20,750 cr.",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a62cc35a-de57-4529-a9bf-28828e95882c.pdf",
+     "ts": "2026-11-23T16:56:51+05:30",
+     "category": "credit_rating",
+     "tier": "routine",
+     "why": "Rating reaffirmed or upgraded"
+    },
     {
      "id": "ae40328fdcd3",
      "symbol": "TITAN",
@@ -4091,11 +4102,6 @@
    "name": "Sun Pharmaceutical Industries Ltd",
    "sector": "Pharmaceuticals & Biotechnology",
    "series": [
-    [
-     "2026-07-15",
-     1951.5,
-     2405030
-    ],
     [
      "2026-07-16",
      1950.1,
@@ -4540,9 +4546,25 @@
      "2026-11-20",
      1884.9,
      1960689
+    ],
+    [
+     "2026-11-23",
+     1860.0,
+     1626069
     ]
    ],
    "filings": [
+    {
+     "id": "282feed7559d",
+     "symbol": "SUNPHARMA",
+     "title": "Announcement under Regulation 30 (LODR)-Newspaper Publication",
+     "summary": "Newspaper Advertisements about opening of Special Window for transfer of physical shares",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1fd338f2-022f-47dc-b7a6-504d659ec203.pdf",
+     "ts": "2026-11-21T12:46:52+05:30",
+     "category": "press_release",
+     "tier": "routine",
+     "why": "Press release"
+    },
     {
      "id": "911b061641f9",
      "symbol": "SUNPHARMA",
@@ -4564,17 +4586,6 @@
      "category": "unclassified",
      "tier": "routine",
      "why": "Procedural filing"
-    },
-    {
-     "id": "34f051e9d3f2",
-     "symbol": "SUNPHARMA",
-     "title": "Completion And Results Of Postal Ballot Dated 01 October 2026",
-     "summary": "Postal ballot completed on 31 Oct 2026; members approved ESOP 2026, borrowing limit and related resolutions.",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e87d46d8-c447-4fc2-9b82-a95a8a922b0f.pdf",
-     "ts": "2026-10-31T20:14:03+05:30",
-     "category": "postal_ballot",
-     "tier": "routine",
-     "why": "Shareholder vote admin"
     }
    ]
   },
@@ -4583,11 +4594,6 @@
    "name": "Maruti Suzuki India Ltd",
    "sector": "Automobiles",
    "series": [
-    [
-     "2026-07-15",
-     13583.0,
-     483411
-    ],
     [
      "2026-07-16",
      13783.0,
@@ -5032,9 +5038,25 @@
      "2026-11-20",
      14011.0,
      1751550
+    ],
+    [
+     "2026-11-23",
+     14010.0,
+     1320674
     ]
    ],
    "filings": [
+    {
+     "id": "c5bc054ce90e",
+     "symbol": "MARUTI",
+     "title": "Price Increase",
+     "summary": "Maruti Suzuki raises prices of select models effective 22 Nov 2026, average increase ~0.31%.",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5a6ae83d-a595-41a3-98db-f9270111f00b.pdf",
+     "ts": "2026-11-22T00:07:49+05:30",
+     "category": "unclassified",
+     "tier": "routine",
+     "why": "Procedural filing"
+    },
     {
      "id": "769b5ed0fefa",
      "symbol": "MARUTI",
@@ -5064,11 +5086,6 @@
    "name": "Avenue Supermarts Ltd",
    "sector": "Retailing",
    "series": [
-    [
-     "2026-07-15",
-     3929.3,
-     367386
-    ],
     [
      "2026-07-16",
      3950.9,
@@ -5513,9 +5530,25 @@
      "2026-11-20",
      3490.0,
      275845
+    ],
+    [
+     "2026-11-23",
+     3405.4,
+     351563
     ]
    ],
    "filings": [
+    {
+     "id": "5334473dd7f7",
+     "symbol": "DMART",
+     "title": "Store Opening Intimation",
+     "summary": "Opened new store at Sivakasi, Virudhunagar (Tamil Nadu); total stores now 521.",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f04b3515-fce0-4285-88f1-22b7729a7b86.pdf",
+     "ts": "2026-11-21T18:27:57+05:30",
+     "category": "unclassified",
+     "tier": "routine",
+     "why": "Procedural filing"
+    },
     {
      "id": "0d35656638d7",
      "symbol": "DMART",
@@ -5559,17 +5592,6 @@
      "category": "unclassified",
      "tier": "routine",
      "why": "Procedural filing"
-    },
-    {
-     "id": "75c678fbd517",
-     "symbol": "DMART",
-     "title": "Store Opening Intimation",
-     "summary": "Opened new store at Kiwale, Pune on 3 Nov 2026; total stores now 520.",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b4e5f9be-d51b-4514-80b0-cfe786feb28b.pdf",
-     "ts": "2026-11-03T17:36:09+05:30",
-     "category": "unclassified",
-     "tier": "routine",
-     "why": "Procedural filing"
     }
    ]
   },
@@ -5578,11 +5600,6 @@
    "name": "Eternal Ltd",
    "sector": "Retailing",
    "series": [
-    [
-     "2026-07-15",
-     294.8,
-     47096555
-    ],
     [
      "2026-07-16",
      286.45,
@@ -6027,6 +6044,11 @@
      "2026-11-20",
      364.0,
      17035891
+    ],
+    [
+     "2026-11-23",
+     362.1,
+     15145729
     ]
    ],
    "filings": [
@@ -6048,11 +6070,6 @@
    "name": "Polycab India Ltd",
    "sector": "Industrial Products",
    "series": [
-    [
-     "2026-07-15",
-     9324.5,
-     431164
-    ],
     [
      "2026-07-16",
      9215.0,
@@ -6497,6 +6514,11 @@
      "2026-11-20",
      7570.0,
      662083
+    ],
+    [
+     "2026-11-23",
+     7430.0,
+     540519
     ]
    ],
    "filings": [
@@ -6540,11 +6562,6 @@
    "name": "Dixon Technologies (India) Ltd",
    "sector": "Consumer Durables",
    "series": [
-    [
-     "2026-07-15",
-     13651.0,
-     504975
-    ],
     [
      "2026-07-16",
      14507.0,
@@ -6989,9 +7006,25 @@
      "2026-11-20",
      13120.0,
      240431
+    ],
+    [
+     "2026-11-23",
+     13390.0,
+     534362
     ]
    ],
    "filings": [
+    {
+     "id": "ae47eb45e30c",
+     "symbol": "DIXON",
+     "title": "Announcement Under Regulation 30 Of SEBI LODR-Update",
+     "summary": "Dixon consummates Vimal Plast asset acquisition for up to ₹49.75 crore on 21 Nov 2026.",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=20a44726-e8b7-4a23-b0e8-ab8638aff9f7.pdf",
+     "ts": "2026-11-21T20:29:50+05:30",
+     "category": "M&A",
+     "tier": "card",
+     "why": "Acquisition / restructuring"
+    },
     {
      "id": "c2f7ac52e8a2",
      "symbol": "DIXON",
@@ -7035,17 +7068,6 @@
      "category": "unclassified",
      "tier": "routine",
      "why": "Procedural filing"
-    },
-    {
-     "id": "8fa681809168",
-     "symbol": "DIXON",
-     "title": "Announcement under Regulation 30 (LODR)-Earnings Call Transcript",
-     "summary": "Announcement under Regulation 30 of SEBI LODR- Transcript of the Q2 FY 27 Earnings Conference Call held on 30th October, 2026",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=995a3a71-4a1e-4c1f-a29a-6c6747e4ca10.pdf",
-     "ts": "2026-11-05T16:36:05+05:30",
-     "category": "earnings_call",
-     "tier": "routine",
-     "why": "Concall record, numbers already out"
     }
    ]
   },
@@ -7054,11 +7076,6 @@
    "name": "KPIT Technologies Ltd",
    "sector": "IT - Software",
    "series": [
-    [
-     "2026-07-15",
-     551.6,
-     3449508
-    ],
     [
      "2026-07-16",
      551.35,
@@ -7503,9 +7520,25 @@
      "2026-11-20",
      519.0,
      1674493
+    ],
+    [
+     "2026-11-23",
+     525.5,
+     2631055
     ]
    ],
    "filings": [
+    {
+     "id": "49672761efc6",
+     "symbol": "KPITTECH",
+     "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+     "summary": "KPIT to participate in Kotak Midcap Conference 2026, Mumbai on Nov 27; to reiterate Q2 FY27 info.",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=24d59434-af12-4d7e-8c5f-f4d4a92c4905.pdf",
+     "ts": "2026-11-23T15:43:39+05:30",
+     "category": "investor_meetings",
+     "tier": "routine",
+     "why": "Investor meeting schedule"
+    },
     {
      "id": "f935af32a223",
      "symbol": "KPITTECH",
@@ -7549,17 +7582,6 @@
      "category": "investor_meetings",
      "tier": "routine",
      "why": "Investor meeting schedule"
-    },
-    {
-     "id": "799d8f2bcfd1",
-     "symbol": "KPITTECH",
-     "title": "Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
-     "summary": "Promoter Hemlata Shende sold KPIT Technologies shares on November 4, 2026.",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=703B45EC_657C_437B_B91E_78E37D0B453F_144749.pdf",
-     "ts": "2026-11-07T14:47:55+05:30",
-     "category": "insider_trading",
-     "tier": "card",
-     "why": "Promoter selling shares"
     }
    ]
   },
@@ -7568,11 +7590,6 @@
    "name": "Indian Railway Catering & Tourism Corporation Ltd",
    "sector": "Leisure Services",
    "series": [
-    [
-     "2026-07-15",
-     503.3,
-     1198783
-    ],
     [
      "2026-07-16",
      499.9,
@@ -8017,6 +8034,11 @@
      "2026-11-20",
      448.05,
      574587
+    ],
+    [
+     "2026-11-23",
+     447.2,
+     721954
     ]
    ],
    "filings": [
@@ -8110,11 +8132,6 @@
    "name": "Trent Ltd",
    "sector": "Retailing",
    "series": [
-    [
-     "2026-07-15",
-     2867.7,
-     1062268
-    ],
     [
      "2026-07-16",
      2860.2,
@@ -8559,6 +8576,11 @@
      "2026-11-20",
      3256.1,
      1459192
+    ],
+    [
+     "2026-11-23",
+     3208.0,
+     459038
     ]
    ],
    "filings": [
@@ -8624,11 +8646,6 @@
    "name": "Deepak Nitrite Ltd",
    "sector": "Chemicals & Petrochemicals",
    "series": [
-    [
-     "2026-07-15",
-     1697.0,
-     474686
-    ],
     [
      "2026-07-16",
      1741.8,
@@ -9073,6 +9090,11 @@
      "2026-11-20",
      1531.2,
      262358
+    ],
+    [
+     "2026-11-23",
+     1520.9,
+     112227
     ]
    ],
    "filings": [
@@ -9166,11 +9188,6 @@
    "name": "Central Depository Services (India) Ltd",
    "sector": "Capital Markets",
    "series": [
-    [
-     "2026-07-15",
-     1440.1,
-     1645779
-    ],
     [
      "2026-07-16",
      1410.5,
@@ -9615,6 +9632,11 @@
      "2026-11-20",
      1430.0,
      1362792
+    ],
+    [
+     "2026-11-23",
+     1395.0,
+     1241948
     ]
    ],
    "filings": [
@@ -9680,11 +9702,6 @@
    "name": "Hindustan Aeronautics Ltd",
    "sector": "Aerospace & Defense",
    "series": [
-    [
-     "2026-07-15",
-     4420.5,
-     482966
-    ],
     [
      "2026-07-16",
      4433.8,
@@ -10129,6 +10146,11 @@
      "2026-11-20",
      4809.0,
      530718
+    ],
+    [
+     "2026-11-23",
+     4780.0,
+     469007
     ]
    ],
    "filings": [

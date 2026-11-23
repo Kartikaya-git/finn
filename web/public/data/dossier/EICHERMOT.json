@@ -1,14 +1,14 @@
 {
  "symbol": "EICHERMOT",
  "name": "Eicher Motors Ltd",
- "generated_at": "2026-11-20T18:57:35+00:00",
+ "generated_at": "2026-11-23T11:40:55+00:00",
  "about": "Eicher Motors Limited, incorporated in 1982, is the listed company of the Eicher Group in India and a leading player in the Indian automobile industry and the global leader in middleweight motorcycles. Eicher has a joint venture with Sweden’s AB Volvo to create Volvo Eicher Commercial Vehicles Limited (VECV). VECV is engaged in truck and bus operations, auto components business, and technical consulting services business",
  "sector": "Automobiles",
  "price": {
-  "close": 8113.0,
+  "close": 8172.5,
   "change_pct": 0.7,
-  "mcap_cr": 222876.0,
-  "pe": 37.0,
+  "mcap_cr": 225011.0,
+  "pe": 37.4,
   "roce": 30.5,
   "roe": 24.0
  },
@@ -296,6 +296,11 @@
    "kind": "concall",
    "label": "Concall transcript · Nov 2026",
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fa741536-3256-4148-adb3-50a7d2fb9c09.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Nov 2026",
+   "url": "https://www.eicher.in/content/dam/eicher-motors/investor/disclosures-under-regulation-46/disclosure-under-sub-regulation%288%29-of-regulation-30/investor-presentation-november-13-2026.pdf"
   },
   {
    "kind": "concall",

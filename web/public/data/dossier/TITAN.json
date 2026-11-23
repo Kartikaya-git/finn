@@ -1,14 +1,14 @@
 {
  "symbol": "TITAN",
  "name": "Titan Company Ltd",
- "generated_at": "2026-11-20T18:56:19+00:00",
+ "generated_at": "2026-11-23T11:39:39+00:00",
  "about": "Titan Company Ltd is among India’s most respected lifestyle companies. It has established leadership positions in the Watches, Jewellery and Eyewear categories led by its trusted brands and differentiated customer experience. It was founded in 1984 as a joint-venture between TATA Group and Tamilnadu Industrial Development Corporation (TIDCO).",
  "sector": "Consumer Durables",
  "price": {
-  "close": 4620.0,
-  "change_pct": -1.7,
-  "mcap_cr": 411032.0,
-  "pe": 57.8,
+  "close": 4680.0,
+  "change_pct": 1.3,
+  "mcap_cr": 416385.0,
+  "pe": 58.6,
   "roce": 20.5,
   "roe": 37.7
  },

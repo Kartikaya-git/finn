@@ -1,14 +1,14 @@
 {
  "symbol": "TATASTEEL",
  "name": "Tata Steel Ltd",
- "generated_at": "2026-11-20T18:58:19+00:00",
+ "generated_at": "2026-11-23T11:41:39+00:00",
  "about": "Tata Steel Ltd is Asia's first integrated private steel company setup in 1907. The company has presence across the entire value chain of steel manufacturing from mining and processing iron ore and coal to producing and distributing finished products. The company has a target to increase domestic steelmaking capacity to 30 MnTPA by 2025.",
  "sector": "Ferrous Metals",
  "price": {
-  "close": 178.0,
-  "change_pct": -1.6,
-  "mcap_cr": 222317.0,
-  "pe": 18.7,
+  "close": 163.0,
+  "change_pct": -8.4,
+  "mcap_cr": 203768.0,
+  "pe": 17.2,
   "roce": 12.5,
   "roe": 11.7
  },
@@ -292,6 +292,11 @@
   {
    "kind": "ppt",
    "label": "Investor presentation · Nov 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=60bf73b2-f86e-42e5-a0aa-22f361c13e57.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Nov 2026",
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5a739d21-7ea5-4c1a-b220-45f77e240c2e.pdf"
   },
   {
@@ -333,16 +338,6 @@
    "kind": "ppt",
    "label": "Investor presentation · Feb 2026",
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4390fd0f-eb71-4d34-81f0-615195bb519b.pdf"
-  },
-  {
-   "kind": "concall",
-   "label": "Concall transcript · Nov 2025",
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=816939c9-f6c8-404b-afce-29aee1c980ed.pdf"
-  },
-  {
-   "kind": "ppt",
-   "label": "Investor presentation · Nov 2025",
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=85350610-bed3-4627-a46d-9471960f8c7d.pdf"
   },
   {
    "kind": "annual_report",

@@ -1,14 +1,14 @@
 {
  "symbol": "SBIN",
  "name": "State Bank of India",
- "generated_at": "2026-11-20T18:58:11+00:00",
+ "generated_at": "2026-11-23T11:41:31+00:00",
  "about": "State Bank of India is a Fortune 500 company. It is an Indian Multinational, Public Sector banking and financial services statutory body headquartered in Mumbai. It is the largest and oldest bank in India with over 200 years of history.",
  "sector": "Banks",
  "price": {
-  "close": 1165.1,
-  "change_pct": 0.8,
-  "mcap_cr": 1073619.0,
-  "pe": 12.6,
+  "close": 1132.65,
+  "change_pct": -2.8,
+  "mcap_cr": 1045657.0,
+  "pe": 12.2,
   "roce": 6.13,
   "roe": 15.4
  },

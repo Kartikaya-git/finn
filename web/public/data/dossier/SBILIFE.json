@@ -1,12 +1,12 @@
 {
  "symbol": "SBILIFE",
  "name": "SBI Life Insurance Company Ltd",
- "generated_at": "2026-11-20T18:58:09+00:00",
+ "generated_at": "2026-11-23T11:41:29+00:00",
  "about": "SBI Life Insurance Company Ltd is engaged in the business of life insurance and annuity. It was started as a Joint-venture between State Bank of India and BNP Paribas Cardif S.A.",
  "sector": "Insurance",
  "price": {
-  "close": 1826.5,
-  "change_pct": 1.2,
+  "close": 1804.9,
+  "change_pct": -1.2,
   "mcap_cr": null,
   "pe": null,
   "roce": null,
@@ -120,7 +120,7 @@
    "cfo": 2711.0,
    "capex": 24.0,
    "fcf": 2687.0,
-   "debt": -0.0,
+   "debt": 0.0,
    "equity": 4056.0
   },
   {
@@ -132,7 +132,7 @@
    "cfo": 5778.0,
    "capex": 178.0,
    "fcf": 5600.0,
-   "debt": -0.0,
+   "debt": 0.0,
    "equity": 4733.0
   },
   {
@@ -144,7 +144,7 @@
    "cfo": 8525.0,
    "capex": 148.0,
    "fcf": 8377.0,
-   "debt": -0.0,
+   "debt": 0.0,
    "equity": 5552.0
   },
   {
@@ -156,7 +156,7 @@
    "cfo": 10395.0,
    "capex": 107.0,
    "fcf": 10288.0,
-   "debt": -0.0,
+   "debt": 0.0,
    "equity": 6528.0
   },
   {
@@ -168,7 +168,7 @@
    "cfo": 13473.0,
    "capex": 148.0,
    "fcf": 13325.0,
-   "debt": -0.0,
+   "debt": 0.0,
    "equity": 7576.0
   },
   {
@@ -180,7 +180,7 @@
    "cfo": 19299.0,
    "capex": 89.0,
    "fcf": 19210.0,
-   "debt": -0.0,
+   "debt": 0.0,
    "equity": 8743.0
   },
   {
@@ -192,7 +192,7 @@
    "cfo": 23878.0,
    "capex": 115.0,
    "fcf": 23763.0,
-   "debt": -0.0,
+   "debt": 0.0,
    "equity": 10400.0
   },
   {
@@ -204,7 +204,7 @@
    "cfo": 21852.0,
    "capex": 67.0,
    "fcf": 21785.0,
-   "debt": -0.0,
+   "debt": 0.0,
    "equity": 11622.0
   },
   {
@@ -216,7 +216,7 @@
    "cfo": 28656.0,
    "capex": 75.0,
    "fcf": 28581.0,
-   "debt": -0.0,
+   "debt": 0.0,
    "equity": 13018.0
   },
   {
@@ -228,7 +228,7 @@
    "cfo": 29122.0,
    "capex": 114.0,
    "fcf": 29008.0,
-   "debt": -0.0,
+   "debt": 0.0,
    "equity": 14908.0
   },
   {
@@ -240,7 +240,7 @@
    "cfo": 25547.0,
    "capex": 106.0,
    "fcf": 25441.0,
-   "debt": -0.0,
+   "debt": 0.0,
    "equity": 16985.0
   },
   {
@@ -252,7 +252,7 @@
    "cfo": 34523.0,
    "capex": 185.0,
    "fcf": 34338.0,
-   "debt": -0.0,
+   "debt": 0.0,
    "equity": 19086.0
   }
  ],
@@ -262,11 +262,11 @@
   "pat_cagr_3y": 12.8,
   "pat_cagr_5y": 11.1,
   "opm_trend": "stable",
-  "de_ratio": -0.0,
+  "de_ratio": 0.0,
   "debt_trend": "flat",
   "cfo_to_pat_5y": 13.96,
   "fcf_5y_cr": 139153,
-  "ccc_days": -0.0,
+  "ccc_days": 0.0,
   "ccc_trend": "stable"
  },
  "flags": [
@@ -276,7 +276,7 @@
   },
   {
    "level": "good",
-   "text": "Debt/equity is -0.00 — virtually debt-free"
+   "text": "Debt/equity is 0.00 — virtually debt-free"
   }
  ],
  "sources": [

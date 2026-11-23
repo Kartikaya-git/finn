@@ -1,14 +1,14 @@
 {
  "symbol": "BAJAJFINSV",
  "name": "Bajaj Finserv Ltd",
- "generated_at": "2026-11-20T18:57:23+00:00",
+ "generated_at": "2026-11-23T11:40:43+00:00",
  "about": "Bajaj Finserv Ltd. is the holding company for the various financial services businesses under the Bajaj group. It serves millions of customers by providing solutions for asset acquisition through financing, asset protection through general insurance, family and income protection in the form of life and health insurance, and retirement and savings solutions.",
  "sector": "Finance",
  "price": {
-  "close": 1892.0,
-  "change_pct": 0.4,
-  "mcap_cr": 303755.0,
-  "pe": 28.2,
+  "close": 1880.1,
+  "change_pct": -0.6,
+  "mcap_cr": 301315.0,
+  "pe": 27.9,
   "roce": 10.6,
   "roe": 13.2
  },

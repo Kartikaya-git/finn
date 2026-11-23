@@ -1,14 +1,14 @@
 {
  "symbol": "DIXON",
  "name": "Dixon Technologies (India) Ltd",
- "generated_at": "2026-11-20T18:56:43+00:00",
+ "generated_at": "2026-11-23T11:40:03+00:00",
  "about": "Dixon Technologies (India) Limited, incorporated in 1993 , is a Electronic Manufacturing Services (EMS) company with operations in the electronic products vertical such as consumer electronics, lighting, home appliance, closed-circuit television cameras (CCTVs), and mobile phones. It also undertakes reverse logistics operations. Besides, it manufactures security surveillance equipment, wearables & audibles, AC-PCBs. Recently, it has entered a JV with Imagine Marketing Private Limited for designing and manufacturing wireless audio solutions in India.",
  "sector": "Consumer Durables",
  "price": {
-  "close": 13120.0,
-  "change_pct": 0.5,
-  "mcap_cr": 80305.0,
-  "pe": 51.8,
+  "close": 13390.0,
+  "change_pct": 2.1,
+  "mcap_cr": 82209.0,
+  "pe": 53.0,
   "roce": 29.2,
   "roe": 25.2
  },

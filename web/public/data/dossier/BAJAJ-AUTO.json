@@ -1,14 +1,14 @@
 {
  "symbol": "BAJAJ-AUTO",
  "name": "Bajaj Auto Ltd",
- "generated_at": "2026-11-20T18:57:21+00:00",
+ "generated_at": "2026-11-23T11:40:41+00:00",
  "about": "Bajaj Auto, the flagship company of Bajaj Group, is a two-wheeler and three-wheeler manufacturing company that exports to 79 countries across several countries in Latin America, Southeast Asia, and many more. Its headquarter is in Pune, India. The company has acquired 76% of the KTM Brand which manufactures sports and super sports two-wheelers, which was 14% in 2007 when the company first acquired KTM.",
  "sector": "Automobiles",
  "price": {
-  "close": 10765.0,
-  "change_pct": -0.5,
-  "mcap_cr": 295881.0,
-  "pe": 22.6,
+  "close": 10643.0,
+  "change_pct": -1.1,
+  "mcap_cr": 292121.0,
+  "pe": 22.3,
   "roce": 28.2,
   "roe": 29.2
  },
