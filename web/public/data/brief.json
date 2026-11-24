@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T22:23:04+00:00",
+ "generated_at": "2026-11-24T13:14:19+00:00",
  "holdings": [
   {
    "symbol": "RELIANCE",
@@ -2543,6 +2543,17 @@
    ],
    "filings": [
     {
+     "id": "acff95943176",
+     "symbol": "LT",
+     "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+     "summary": "L&T to meet investors at Macquarie Foreign Institutional Investors Meet in Mumbai on Dec 1, 2026.",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=18713bc5-f911-4144-abba-ce951a62052b.pdf",
+     "ts": "2026-11-24T17:29:39+05:30",
+     "category": "investor_meetings",
+     "tier": "routine",
+     "why": "Investor meeting schedule"
+    },
+    {
      "id": "94c0fe94d05b",
      "symbol": "LT",
      "title": "Announcement under Regulation 30 (LODR)-Award_of_Order_Receipt_of_Order",
@@ -3560,6 +3571,17 @@
    ],
    "filings": [
     {
+     "id": "2501acf0247c",
+     "symbol": "ASIANPAINT",
+     "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+     "summary": "Management to meet promoters on 27 Nov 2026 to brief Q2/H1 FY27 performance.",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=30135d23-cbb4-4e12-8dd7-5334957b09d1.pdf",
+     "ts": "2026-11-24T14:21:48+05:30",
+     "category": "investor_meetings",
+     "tier": "routine",
+     "why": "Investor meeting schedule"
+    },
+    {
      "id": "94b3bc71d107",
      "symbol": "ASIANPAINT",
      "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
@@ -3591,17 +3613,6 @@
      "category": "investor_meetings",
      "tier": "routine",
      "why": "Investor meeting schedule"
-    },
-    {
-     "id": "f6ef71caef05",
-     "symbol": "ASIANPAINT",
-     "title": "Announcement under Regulation 30 (LODR)-Change in Directorate",
-     "summary": "Shareholders approved Leo Puri as independent director; he becomes chairman from 23 January 2027.",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c6c189db-e010-4c6e-a997-b50d6d33767a.pdf",
-     "ts": "2026-11-06T21:58:36+05:30",
-     "category": "management_change",
-     "tier": "card",
-     "why": "Leadership change"
     }
    ]
   },
@@ -5550,6 +5561,17 @@
    ],
    "filings": [
     {
+     "id": "e180d6aa7e2a",
+     "symbol": "DMART",
+     "title": "Announcement under Regulation 30 (LODR)-Credit Rating",
+     "summary": "CRISIL reaffirms Avenue Supermarts’ AAA/Stable rating on enhanced bank facilities of ₹1,135 crore (up from ₹500 crore).",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3d186bca-5ec3-4da0-a1c3-e1d0597771bc.pdf",
+     "ts": "2026-11-24T15:34:57+05:30",
+     "category": "credit_rating",
+     "tier": "routine",
+     "why": "Rating reaffirmed or upgraded"
+    },
+    {
      "id": "5334473dd7f7",
      "symbol": "DMART",
      "title": "Store Opening Intimation",
@@ -5592,17 +5614,6 @@
      "category": "fund_raise",
      "tier": "routine",
      "why": "Debt repaid / proceeds monitoring"
-    },
-    {
-     "id": "28406809a9b5",
-     "symbol": "DMART",
-     "title": "Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS",
-     "summary": "Allotment of equity shares under Avenue Supermarts Limited ESOP Scheme 2023",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5474cde8-f4a4-47cf-9555-fc62ebac0781.pdf",
-     "ts": "2026-11-05T18:52:53+05:30",
-     "category": "unclassified",
-     "tier": "routine",
-     "why": "Procedural filing"
     }
    ]
   },
@@ -6534,6 +6545,17 @@
    ],
    "filings": [
     {
+     "id": "17fcb8e7a373",
+     "symbol": "POLYCAB",
+     "title": "Announcement Under Regulation 30 (LODR) - Analyst(S) / Investor(S) Meet - Intimation",
+     "summary": "Investor meets on Dec 1, 3, 4, 2026 with Enam AMC, Wellington, Schonfeld.",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1dc4b1bc-18f7-4aad-a61a-6fc2bf9dc0ec.pdf",
+     "ts": "2026-11-24T10:46:31+05:30",
+     "category": "investor_meetings",
+     "tier": "routine",
+     "why": "Investor meeting schedule"
+    },
+    {
      "id": "f7ba9968610e",
      "symbol": "POLYCAB",
      "title": "Announcement Under Regulation 30 (LODR) - Analyst(S) / Investor(S) Meet - Intimation",
@@ -6554,17 +6576,6 @@
      "category": "unclassified",
      "tier": "routine",
      "why": "Procedural filing"
-    },
-    {
-     "id": "43c4a79afc6e",
-     "symbol": "POLYCAB",
-     "title": "Corporate Insolvency Resolution Process (CIRP)-Updates - Corporate Insolvency Resolution Process (CIRP)",
-     "summary": "On October 30, 2026, NCLAT allowed Polycab’s appeal and set aside NCLT Ahmedabad order.",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c3d1ba29-6132-47b7-9f3b-79a294e53189.pdf",
-     "ts": "2026-10-30T12:17:22+05:30",
-     "category": "litigation",
-     "tier": "card",
-     "why": "Legal / regulatory action"
     }
    ]
   },
@@ -7026,6 +7037,17 @@
    ],
    "filings": [
     {
+     "id": "335bc2f67856",
+     "symbol": "DIXON",
+     "title": "Announcement under Regulation 30 (LODR)-Change in Management",
+     "summary": "Appoints Aruna Jayanthi as Non-Executive Independent Additional Director for five years from 24 Nov 2026.",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b67aeb99-3c59-4400-afb3-6fa878acaef4.pdf",
+     "ts": "2026-11-24T15:04:39+05:30",
+     "category": "management_change",
+     "tier": "card",
+     "why": "Leadership change"
+    },
+    {
      "id": "6226b12d1f05",
      "symbol": "DIXON",
      "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
@@ -7068,17 +7090,6 @@
      "category": "unclassified",
      "tier": "routine",
      "why": "Procedural filing"
-    },
-    {
-     "id": "701b643fdf2a",
-     "symbol": "DIXON",
-     "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
-     "summary": "Dixon Technologies held a one-on-one virtual investor meeting with Duro Capital on 16 November 2026.",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9f32b982-5393-4f42-a661-adcbc5db6d12.pdf",
-     "ts": "2026-11-16T17:43:16+05:30",
-     "category": "investor_meetings",
-     "tier": "routine",
-     "why": "Investor meeting schedule"
     }
    ]
   },
