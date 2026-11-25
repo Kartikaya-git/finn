@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T12:01:50+00:00",
+ "generated_at": "2026-11-25T20:22:11+00:00",
  "holdings": [
   {
    "symbol": "RELIANCE",
@@ -973,6 +973,17 @@
    ],
    "filings": [
     {
+     "id": "41ef419a7a43",
+     "symbol": "HDFCBANK",
+     "title": "Announcement under Regulation 30 (LODR)-Change in Directorate",
+     "summary": "HDFC Bank reappoints Harsh Kumar Bhanwala as Independent Director for 5 years from Jan 25, 2027.",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=74191bfa-12e0-4cc3-9e25-56875f02c1a5.pdf",
+     "ts": "2026-11-25T18:00:23+05:30",
+     "category": "management_change",
+     "tier": "routine",
+     "why": "Reappointment, same person continues"
+    },
+    {
      "id": "2190ad6f008c",
      "symbol": "HDFCBANK",
      "title": "Shareholder Meeting / Postal Ballot-Outcome of Postal_Ballot",
@@ -1012,17 +1023,6 @@
      "summary": "HDFC Bank reappointed V. Srinivasa Rangan as Executive Director for one year from November 23, 2026.",
      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7b9eb8a8-fa88-453b-810f-b55034589aac.pdf",
      "ts": "2026-11-13T16:30:11+05:30",
-     "category": "management_change",
-     "tier": "routine",
-     "why": "Reappointment, same person continues"
-    },
-    {
-     "id": "504a85149523",
-     "symbol": "HDFCBANK",
-     "title": "Disclosure Under Regulation 30 Of The SEBI (LODR) Regulations, 2015",
-     "summary": "RBI approved reappointment of V. Srinivasa Rangan as Executive Director for one year from November 23, 2026.",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6df1f05c-9926-47ce-9896-94c41bdb71ab.pdf",
-     "ts": "2026-11-12T17:27:27+05:30",
      "category": "management_change",
      "tier": "routine",
      "why": "Reappointment, same person continues"
@@ -3057,6 +3057,17 @@
    ],
    "filings": [
     {
+     "id": "58a322a84eab",
+     "symbol": "BAJFINANCE",
+     "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+     "summary": "Bajaj Finance schedules institutional investor group meetings in Mumbai on 7 December 2026, in person.",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=382a5cb7-2a3d-42ad-bb0e-ba1f7fa27e96.pdf",
+     "ts": "2026-11-25T18:33:46+05:30",
+     "category": "investor_meetings",
+     "tier": "routine",
+     "why": "Investor meeting schedule"
+    },
+    {
      "id": "885bb81f1865",
      "symbol": "BAJFINANCE",
      "title": "Announcement under Regulation 30 (LODR)-Allotment",
@@ -3096,17 +3107,6 @@
      "summary": "Bajaj Finance opens QIP on Nov 11, 2026; floor price set at ₹992.25 per share.",
      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4dc63132-8d0c-4836-b74b-f289525d6384.pdf",
      "ts": "2026-11-11T17:06:59+05:30",
-     "category": "fund_raise",
-     "tier": "card",
-     "why": "Capital raise"
-    },
-    {
-     "id": "164a5ad29ee7",
-     "symbol": "BAJFINANCE",
-     "title": "Announcement under Regulation 30 (LODR)-Allotment",
-     "summary": "Approved allotment of 5.74 crore warrants to Bajaj Finserv at Rs 1,010 each.",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=84c0dbf5-4b55-41b9-ab7b-e20d9fe359a9.pdf",
-     "ts": "2026-11-10T12:23:10+05:30",
      "category": "fund_raise",
      "tier": "card",
      "why": "Capital raise"
