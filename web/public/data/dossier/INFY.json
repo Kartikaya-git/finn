@@ -1,14 +1,14 @@
 {
  "symbol": "INFY",
  "name": "Infosys Ltd",
- "generated_at": "2026-11-24T20:57:48+00:00",
+ "generated_at": "2026-11-25T11:59:22+00:00",
  "about": "Infosys Ltd provides consulting, technology, outsourcing and next-generation digital services to enable clients to execute strategies for their digital transformation. It is the 2nd largest Information Technology company in India behind TCS.",
  "sector": "IT - Software",
  "price": {
-  "close": 1103.4,
-  "change_pct": 0.5,
-  "mcap_cr": 447792.0,
-  "pe": 14.2,
+  "close": 1130.0,
+  "change_pct": 2.4,
+  "mcap_cr": 458296.0,
+  "pe": 14.5,
   "roce": 40.0,
   "roe": 31.9
  },

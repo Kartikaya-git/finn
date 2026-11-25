@@ -1,12 +1,12 @@
 {
  "symbol": "SBILIFE",
  "name": "SBI Life Insurance Company Ltd",
- "generated_at": "2026-11-24T20:59:58+00:00",
+ "generated_at": "2026-11-25T12:01:32+00:00",
  "about": "SBI Life Insurance Company Ltd is engaged in the business of life insurance and annuity. It was started as a Joint-venture between State Bank of India and BNP Paribas Cardif S.A.",
- "sector": "Insurance",
+ "sector": "",
  "price": {
-  "close": 1804.9,
-  "change_pct": -1.2,
+  "close": 1823.9,
+  "change_pct": 1.1,
   "mcap_cr": null,
   "pe": null,
   "roce": null,

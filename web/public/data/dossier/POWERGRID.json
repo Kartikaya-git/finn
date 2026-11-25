@@ -1,14 +1,14 @@
 {
  "symbol": "POWERGRID",
  "name": "Power Grid Corporation of India Ltd",
- "generated_at": "2026-11-24T20:59:56+00:00",
+ "generated_at": "2026-11-25T12:01:30+00:00",
  "about": "Power Grid Corporation of India Limited is a Maharatna CPSU and India’s largest electric power transmission company. GoI holds a 51.34% stake in the company as on March 31, 2021. PGCIL was incorporated in 1989 to set up extra-high voltage alternating current and high-voltage direct current (HVDC) transmission lines.",
  "sector": "Power",
  "price": {
-  "close": 264.85,
-  "change_pct": -1.5,
-  "mcap_cr": 246326.0,
-  "pe": 15.2,
+  "close": 266.75,
+  "change_pct": 0.7,
+  "mcap_cr": 247953.0,
+  "pe": 15.3,
   "roce": 9.1,
   "roe": 15.3
  },

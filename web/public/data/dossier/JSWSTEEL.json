@@ -1,14 +1,14 @@
 {
  "symbol": "JSWSTEEL",
  "name": "JSW Steel Ltd",
- "generated_at": "2026-11-24T20:59:42+00:00",
+ "generated_at": "2026-11-25T12:01:16+00:00",
  "about": "JSW Steel is primarily engaged in the business of manufacture and sale of Iron and Steel Products. It is the flagship business of the diversified, US$ 23 billion JSW Group.The Group has interests in energy, infrastructure, cement, paints, sports, and venture capital.",
  "sector": "Ferrous Metals",
  "price": {
-  "close": 1311.9,
-  "change_pct": -1.9,
-  "mcap_cr": 320819.0,
-  "pe": 20.4,
+  "close": 1302.5,
+  "change_pct": -0.7,
+  "mcap_cr": 318739.0,
+  "pe": 20.3,
   "roce": 11.0,
   "roe": 10.2
  },

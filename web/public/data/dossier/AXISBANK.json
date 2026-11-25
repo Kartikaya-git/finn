@@ -1,14 +1,14 @@
 {
  "symbol": "AXISBANK",
  "name": "Axis Bank Ltd",
- "generated_at": "2026-11-24T20:59:08+00:00",
+ "generated_at": "2026-11-25T12:00:41+00:00",
  "about": "Incorporated in December 1993, Axis Bank Limited is a private sector bank.It has the third-largest network of branches among private sector banks and an international presence through branches in DIFC (Dubai) and Singapore along with representative offices in Abu Dhabi, Sharjah, Dhaka and Dubai and an offshore banking unit in GIFT City.",
  "sector": "Banks",
  "price": {
-  "close": 1388.6,
-  "change_pct": -4.0,
-  "mcap_cr": 432523.0,
-  "pe": 14.4,
+  "close": 1418.1,
+  "change_pct": 2.1,
+  "mcap_cr": 441315.0,
+  "pe": 14.7,
   "roce": 6.24,
   "roe": 13.1
  },

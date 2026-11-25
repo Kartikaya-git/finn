@@ -1,14 +1,14 @@
 {
  "symbol": "ADANIPORTS",
  "name": "Adani Ports & Special Economic Zone Ltd",
- "generated_at": "2026-11-24T20:59:04+00:00",
+ "generated_at": "2026-11-25T12:00:37+00:00",
  "about": "Adani Ports & Special Economic Zone is in the business of development, operations and maintenance of port infrastructure (port services and related infrastructure development) and has linked multi product Special Economic Zone (SEZ) and related infrastructure contiguous to Port at Mundra.",
  "sector": "Transport Infrastructure",
  "price": {
-  "close": 1919.0,
-  "change_pct": 0.1,
-  "mcap_cr": 442130.0,
-  "pe": 32.0,
+  "close": 1926.3,
+  "change_pct": 0.4,
+  "mcap_cr": 444205.0,
+  "pe": 32.1,
   "roce": 14.1,
   "roe": 16.4
  },

@@ -1,14 +1,14 @@
 {
  "symbol": "GRASIM",
  "name": "Grasim Industries Ltd",
- "generated_at": "2026-11-24T20:59:26+00:00",
+ "generated_at": "2026-11-25T12:01:00+00:00",
  "about": "Grasim Industries Limited is the flagship company of the Aditya Birla group, it ranks amongst India's largest private sector companies. On standalone basis, GIL’s core businesses comprise of viscose Staple fibre (VSF), caustic soda, speciality chemicals, rayon-grade wood pulp (RGWP) with plants at multiple locations. It also has certain other businesses such as fertiliser, textile, etc.",
  "sector": "Cement & Cement Products",
  "price": {
-  "close": 3075.2,
-  "change_pct": -0.9,
-  "mcap_cr": 209279.0,
-  "pe": 39.9,
+  "close": 3162.0,
+  "change_pct": 2.8,
+  "mcap_cr": 215190.0,
+  "pe": 41.0,
   "roce": 8.01,
   "roe": 4.98
  },
