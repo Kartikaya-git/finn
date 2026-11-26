@@ -1,14 +1,14 @@
 {
  "symbol": "KPITTECH",
  "name": "KPIT Technologies Ltd",
- "generated_at": "2026-11-25T20:20:31+00:00",
+ "generated_at": "2026-11-26T11:48:07+00:00",
  "about": "KPIT is a global technology company with software solutions that will help mobility leapfrog towards autonomous, clean, smart and connected future. With 13000+ Automobelievers across the globe, specializing in embedded software, AI & Digital solutions, KPIT enables customers accelerate implementation of next generation mobility technologies . With development centers in Europe, USA, Japan, China, Thailand and India",
  "sector": "IT - Software",
  "price": {
-  "close": 516.0,
-  "change_pct": -1.8,
-  "mcap_cr": 14084.0,
-  "pe": 24.4,
+  "close": 522.2,
+  "change_pct": 1.2,
+  "mcap_cr": 14316.0,
+  "pe": 24.8,
   "roce": 26.3,
   "roe": 20.9
  },

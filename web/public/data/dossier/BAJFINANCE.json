@@ -1,14 +1,14 @@
 {
  "symbol": "BAJFINANCE",
  "name": "Bajaj Finance Ltd",
- "generated_at": "2026-11-25T20:19:55+00:00",
+ "generated_at": "2026-11-26T11:47:31+00:00",
  "about": "Bajaj Finance is mainly engaged in the business of lending. BFL has a diversified lending portfolio across retail, SME and commercial customers with a significant presence in urban and rural India. It also accepts public and corporate deposits and offers variety of financial services products to its customers.(Source : 202003 Annual Report Page No:124)",
  "sector": "Finance",
  "price": {
-  "close": 1131.35,
-  "change_pct": 3.3,
-  "mcap_cr": 716535.0,
-  "pe": 32.8,
+  "close": 1097.85,
+  "change_pct": -3.0,
+  "mcap_cr": 696880.0,
+  "pe": 31.9,
   "roce": 10.9,
   "roe": 18.2
  },

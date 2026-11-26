@@ -1,16 +1,11 @@
 {
- "generated_at": "2026-11-25T20:22:11+00:00",
+ "generated_at": "2026-11-26T11:49:47+00:00",
  "holdings": [
   {
    "symbol": "RELIANCE",
    "name": "Reliance Industries Ltd",
    "sector": "Petroleum Products",
    "series": [
-    [
-     "2026-07-17",
-     1327.2,
-     19151103
-    ],
     [
      "2026-07-20",
      1323.1,
@@ -455,6 +450,11 @@
      "2026-11-25",
      1373.9,
      19939717
+    ],
+    [
+     "2026-11-26",
+     1396.2,
+     22305993
     ]
    ],
    "filings": [
@@ -520,11 +520,6 @@
    "name": "HDFC Bank Ltd",
    "sector": "Banks",
    "series": [
-    [
-     "2026-07-17",
-     819.6,
-     18280021
-    ],
     [
      "2026-07-20",
      777.6,
@@ -969,6 +964,11 @@
      "2026-11-25",
      846.2,
      51299234
+    ],
+    [
+     "2026-11-26",
+     862.0,
+     76418765
     ]
    ],
    "filings": [
@@ -1034,11 +1034,6 @@
    "name": "Infosys Ltd",
    "sector": "IT - Software",
    "series": [
-    [
-     "2026-07-17",
-     1096.5,
-     13093908
-    ],
     [
      "2026-07-20",
      1087.1,
@@ -1483,6 +1478,11 @@
      "2026-11-25",
      1130.0,
      15436007
+    ],
+    [
+     "2026-11-26",
+     1183.0,
+     17446879
     ]
    ],
    "filings": [
@@ -1548,11 +1548,6 @@
    "name": "ITC Ltd",
    "sector": "Diversified FMCG",
    "series": [
-    [
-     "2026-07-17",
-     280.7,
-     15938554
-    ],
     [
      "2026-07-20",
      282.7,
@@ -1997,6 +1992,11 @@
      "2026-11-25",
      309.25,
      44179729
+    ],
+    [
+     "2026-11-26",
+     307.0,
+     18208304
     ]
    ],
    "filings": [
@@ -2090,11 +2090,6 @@
    "name": "Larsen & Toubro Ltd",
    "sector": "Construction",
    "series": [
-    [
-     "2026-07-17",
-     3814.5,
-     2042156
-    ],
     [
      "2026-07-20",
      3838.8,
@@ -2539,6 +2534,11 @@
      "2026-11-25",
      4156.0,
      1388474
+    ],
+    [
+     "2026-11-26",
+     4132.1,
+     1378392
     ]
    ],
    "filings": [
@@ -2604,11 +2604,6 @@
    "name": "Bajaj Finance Ltd",
    "sector": "Finance",
    "series": [
-    [
-     "2026-07-17",
-     1056.3,
-     13073056
-    ],
     [
      "2026-07-20",
      1064.0,
@@ -3053,6 +3048,11 @@
      "2026-11-25",
      1131.35,
      10885636
+    ],
+    [
+     "2026-11-26",
+     1097.85,
+     8876679
     ]
    ],
    "filings": [
@@ -3118,11 +3118,6 @@
    "name": "Asian Paints Ltd",
    "sector": "Consumer Durables",
    "series": [
-    [
-     "2026-07-17",
-     2689.0,
-     473201
-    ],
     [
      "2026-07-20",
      2691.4,
@@ -3567,6 +3562,11 @@
      "2026-11-25",
      2621.2,
      812202
+    ],
+    [
+     "2026-11-26",
+     2543.0,
+     971101
     ]
    ],
    "filings": [
@@ -3632,11 +3632,6 @@
    "name": "Titan Company Ltd",
    "sector": "Consumer Durables",
    "series": [
-    [
-     "2026-07-17",
-     4638.1,
-     688714
-    ],
     [
      "2026-07-20",
      4643.4,
@@ -4081,9 +4076,25 @@
      "2026-11-25",
      4686.6,
      951290
+    ],
+    [
+     "2026-11-26",
+     4631.1,
+     934342
     ]
    ],
    "filings": [
+    {
+     "id": "87205b172cdd",
+     "symbol": "TITAN",
+     "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+     "summary": "Titan schedules one-on-one investor meeting with Pictet Asset Management on Dec 8, 2026.",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5bd3469f-dcbc-4af7-8f79-4d6a4764dffe.pdf",
+     "ts": "2026-11-26T17:15:06+05:30",
+     "category": "investor_meetings",
+     "tier": "routine",
+     "why": "Investor meeting schedule"
+    },
     {
      "id": "1784f6ac267a",
      "symbol": "TITAN",
@@ -4116,17 +4127,6 @@
      "category": "investor_meetings",
      "tier": "routine",
      "why": "Investor meeting schedule"
-    },
-    {
-     "id": "89545172f9d7",
-     "symbol": "TITAN",
-     "title": "Intimation of Repayment of Commercial Paper (CP)",
-     "summary": "Titan fully redeemed ₹1,000 crore commercial paper issued on 14 August 2026.",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=77999e05-06f6-4ed6-9998-f9a775dc5c4f.pdf",
-     "ts": "2026-11-12T18:41:08+05:30",
-     "category": "fund_raise",
-     "tier": "routine",
-     "why": "Debt repaid / proceeds monitoring"
     }
    ]
   },
@@ -4135,11 +4135,6 @@
    "name": "Sun Pharmaceutical Industries Ltd",
    "sector": "Pharmaceuticals & Biotechnology",
    "series": [
-    [
-     "2026-07-17",
-     1932.6,
-     2855003
-    ],
     [
      "2026-07-20",
      1956.4,
@@ -4584,6 +4579,11 @@
      "2026-11-25",
      1901.0,
      2437469
+    ],
+    [
+     "2026-11-26",
+     1915.7,
+     2389614
     ]
    ],
    "filings": [
@@ -4627,11 +4627,6 @@
    "name": "Maruti Suzuki India Ltd",
    "sector": "Automobiles",
    "series": [
-    [
-     "2026-07-17",
-     13803.0,
-     252757
-    ],
     [
      "2026-07-20",
      13514.0,
@@ -5076,6 +5071,11 @@
      "2026-11-25",
      14200.0,
      772917
+    ],
+    [
+     "2026-11-26",
+     14015.0,
+     475263
     ]
    ],
    "filings": [
@@ -5108,11 +5108,6 @@
    "name": "Avenue Supermarts Ltd",
    "sector": "Retailing",
    "series": [
-    [
-     "2026-07-17",
-     3951.9,
-     369327
-    ],
     [
      "2026-07-20",
      3975.5,
@@ -5557,6 +5552,11 @@
      "2026-11-25",
      3592.0,
      1170792
+    ],
+    [
+     "2026-11-26",
+     3533.0,
+     312043
     ]
    ],
    "filings": [
@@ -5622,11 +5622,6 @@
    "name": "Eternal Ltd",
    "sector": "Retailing",
    "series": [
-    [
-     "2026-07-17",
-     286.6,
-     18169411
-    ],
     [
      "2026-07-20",
      286.95,
@@ -6071,32 +6066,20 @@
      "2026-11-25",
      371.7,
      30933920
+    ],
+    [
+     "2026-11-26",
+     367.7,
+     27309648
     ]
    ],
-   "filings": [
-    {
-     "id": "97127122ac03",
-     "symbol": "ETERNAL",
-     "title": "Announcement under Regulation 30 (LODR)-Earnings Call Transcript",
-     "summary": "Eternal Limited has filed with exchange transcript of earnings conference call conducted on October 21, 2026.",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=64f36e3b-87e9-426e-be3e-515dca4525d2.pdf",
-     "ts": "2026-10-27T16:52:01+05:30",
-     "category": "earnings_call",
-     "tier": "routine",
-     "why": "Concall record, numbers already out"
-    }
-   ]
+   "filings": []
   },
   {
    "symbol": "POLYCAB",
    "name": "Polycab India Ltd",
    "sector": "Industrial Products",
    "series": [
-    [
-     "2026-07-17",
-     8862.0,
-     780337
-    ],
     [
      "2026-07-20",
      8885.0,
@@ -6541,6 +6524,11 @@
      "2026-11-25",
      7379.0,
      596846
+    ],
+    [
+     "2026-11-26",
+     7350.0,
+     625879
     ]
    ],
    "filings": [
@@ -6584,11 +6572,6 @@
    "name": "Dixon Technologies (India) Ltd",
    "sector": "Consumer Durables",
    "series": [
-    [
-     "2026-07-17",
-     14329.0,
-     743419
-    ],
     [
      "2026-07-20",
      14589.0,
@@ -7033,9 +7016,25 @@
      "2026-11-25",
      12978.0,
      534202
+    ],
+    [
+     "2026-11-26",
+     12718.0,
+     458188
     ]
    ],
    "filings": [
+    {
+     "id": "6273a497ea3e",
+     "symbol": "DIXON",
+     "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
+     "summary": "Dixon held one-on-one investor meetings with Balyasny and Emkay on 25 Nov 2026; no UPSI shared.",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=52ed09c6-75e8-4cfb-a12f-8e9aa7dcaded.pdf",
+     "ts": "2026-11-26T11:22:42+05:30",
+     "category": "investor_meetings",
+     "tier": "routine",
+     "why": "Investor meeting schedule"
+    },
     {
      "id": "89e1afa03fcc",
      "symbol": "DIXON",
@@ -7079,17 +7078,6 @@
      "category": "M&A",
      "tier": "card",
      "why": "Acquisition / restructuring"
-    },
-    {
-     "id": "c2f7ac52e8a2",
-     "symbol": "DIXON",
-     "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
-     "summary": "Dixon held one-on-one investor meetings with Invesco and Investec on Nov 19–20, 2026; no UPSI shared.",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=68d52f83-69e0-4d96-9cc5-c772d7503218.pdf",
-     "ts": "2026-11-20T12:13:54+05:30",
-     "category": "investor_meetings",
-     "tier": "routine",
-     "why": "Investor meeting schedule"
     }
    ]
   },
@@ -7098,11 +7086,6 @@
    "name": "KPIT Technologies Ltd",
    "sector": "IT - Software",
    "series": [
-    [
-     "2026-07-17",
-     554.05,
-     1630439
-    ],
     [
      "2026-07-20",
      561.2,
@@ -7547,6 +7530,11 @@
      "2026-11-25",
      516.0,
      1027958
+    ],
+    [
+     "2026-11-26",
+     522.2,
+     818728
     ]
    ],
    "filings": [
@@ -7612,11 +7600,6 @@
    "name": "Indian Railway Catering & Tourism Corporation Ltd",
    "sector": "Leisure Services",
    "series": [
-    [
-     "2026-07-17",
-     507.0,
-     1764768
-    ],
     [
      "2026-07-20",
      504.75,
@@ -8061,6 +8044,11 @@
      "2026-11-25",
      441.85,
      1370237
+    ],
+    [
+     "2026-11-26",
+     454.2,
+     1067694
     ]
    ],
    "filings": [
@@ -8154,11 +8142,6 @@
    "name": "Trent Ltd",
    "sector": "Retailing",
    "series": [
-    [
-     "2026-07-17",
-     2842.4,
-     812072
-    ],
     [
      "2026-07-20",
      2925.9,
@@ -8603,9 +8586,36 @@
      "2026-11-25",
      3319.6,
      2035648
+    ],
+    [
+     "2026-11-26",
+     3262.6,
+     546465
     ]
    ],
    "filings": [
+    {
+     "id": "466948a36f4a",
+     "symbol": "TRENT",
+     "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+     "summary": "Trent to hold one-to-one meeting with SBI Mutual Fund on 3 December 2026.",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f08bb53a-9d0a-45fd-8b22-4229350d4720.pdf",
+     "ts": "2026-11-26T14:50:46+05:30",
+     "category": "investor_meetings",
+     "tier": "routine",
+     "why": "Investor meeting schedule"
+    },
+    {
+     "id": "74dc5b10c3f1",
+     "symbol": "TRENT",
+     "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+     "summary": "Trent schedules analyst meetings: HDFC AMC one-to-one on Dec 3, Goldman Sachs Consumer Forum on Dec 8, 2026.",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=29a62fe4-3921-46e1-a81e-5d9129f76c94.pdf",
+     "ts": "2026-11-26T10:58:50+05:30",
+     "category": "investor_meetings",
+     "tier": "routine",
+     "why": "Investor meeting schedule"
+    },
     {
      "id": "b701b9553419",
      "symbol": "TRENT",
@@ -8638,28 +8648,6 @@
      "category": "credit_rating",
      "tier": "routine",
      "why": "Rating reaffirmed or upgraded"
-    },
-    {
-     "id": "f4730124e6dd",
-     "symbol": "TRENT",
-     "title": "Reminder Letter To Shareholders To Dematerialise The Shares",
-     "summary": "Trent issued a 13 Nov 2026 reminder to shareholders to dematerialise physical shares.",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ce3cb1dd-0d97-4fd3-8c15-78b958145ad4.pdf",
-     "ts": "2026-11-13T11:25:01+05:30",
-     "category": "unclassified",
-     "tier": "routine",
-     "why": "Procedural filing"
-    },
-    {
-     "id": "3c07236b6e0c",
-     "symbol": "TRENT",
-     "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
-     "summary": "Trent announces analyst and institutional investor meetings from 17-26 November 2026.",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=bca602f2-cf50-4964-8641-a88186d2b914.pdf",
-     "ts": "2026-11-09T13:01:18+05:30",
-     "category": "investor_meetings",
-     "tier": "routine",
-     "why": "Investor meeting schedule"
     }
    ]
   },
@@ -8668,11 +8656,6 @@
    "name": "Deepak Nitrite Ltd",
    "sector": "Chemicals & Petrochemicals",
    "series": [
-    [
-     "2026-07-17",
-     1708.0,
-     160016
-    ],
     [
      "2026-07-20",
      1689.7,
@@ -9117,6 +9100,11 @@
      "2026-11-25",
      1494.4,
      170461
+    ],
+    [
+     "2026-11-26",
+     1521.8,
+     124942
     ]
    ],
    "filings": [
@@ -9210,11 +9198,6 @@
    "name": "Central Depository Services (India) Ltd",
    "sector": "Capital Markets",
    "series": [
-    [
-     "2026-07-17",
-     1418.2,
-     1729889
-    ],
     [
      "2026-07-20",
      1385.2,
@@ -9659,6 +9642,11 @@
      "2026-11-25",
      1413.0,
      1071661
+    ],
+    [
+     "2026-11-26",
+     1441.0,
+     2041674
     ]
    ],
    "filings": [
@@ -9724,11 +9712,6 @@
    "name": "Hindustan Aeronautics Ltd",
    "sector": "Aerospace & Defense",
    "series": [
-    [
-     "2026-07-17",
-     4500.7,
-     691428
-    ],
     [
      "2026-07-20",
      4491.0,
@@ -10173,6 +10156,11 @@
      "2026-11-25",
      4936.0,
      1030668
+    ],
+    [
+     "2026-11-26",
+     4909.6,
+     730481
     ]
    ],
    "filings": [

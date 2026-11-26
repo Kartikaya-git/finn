@@ -1,14 +1,14 @@
 {
  "symbol": "CIPLA",
  "name": "Cipla Ltd",
- "generated_at": "2026-11-25T20:21:13+00:00",
+ "generated_at": "2026-11-26T11:48:49+00:00",
  "about": "Incorporated in 1935, Cipla Ltd is in the business of manufacturing, developing, and marketing a wide range of branded and generic formulations and APIs",
  "sector": "Pharmaceuticals & Biotechnology",
  "price": {
-  "close": 1433.2,
-  "change_pct": 2.4,
-  "mcap_cr": 115448.0,
-  "pe": 37.2,
+  "close": 1450.0,
+  "change_pct": 1.2,
+  "mcap_cr": 117250.0,
+  "pe": 37.8,
   "roce": 15.5,
   "roe": 11.6
  },
