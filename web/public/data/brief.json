@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T11:49:47+00:00",
+ "generated_at": "2026-11-26T19:58:49+00:00",
  "holdings": [
   {
    "symbol": "RELIANCE",
@@ -1487,6 +1487,17 @@
    ],
    "filings": [
     {
+     "id": "93d28cd5fed2",
+     "symbol": "INFY",
+     "title": "Investor Conference",
+     "summary": "Infosys to hold investor NDRs Dec 3-10, 2026 in San Francisco, Boston, New York, Connecticut.",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f6b51a77-e738-41f9-b13f-f4918c12c46f.pdf",
+     "ts": "2026-11-26T22:16:13+05:30",
+     "category": "investor_meetings",
+     "tier": "routine",
+     "why": "Investor meeting schedule"
+    },
+    {
      "id": "b647591b4ce2",
      "symbol": "INFY",
      "title": "Infosys Becomes The World'S First Organization To Achieve CMMI AI Maturity (AIM) Level 5",
@@ -1526,17 +1537,6 @@
      "summary": "Infosys named a Leader in Gartner 2026 Public Cloud Optimization and Transformation Services MQ for fourth straight year.",
      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4099e736-2977-4a9c-bbca-e04e08c0ab18.pdf",
      "ts": "2026-11-17T14:59:01+05:30",
-     "category": "unclassified",
-     "tier": "routine",
-     "why": "Procedural filing"
-    },
-    {
-     "id": "32f9ac79ada1",
-     "symbol": "INFY",
-     "title": "Six Promising Researchers Win The Infosys Prize 2026 Awarded By The Infosys Science Foundation",
-     "summary": "Infosys Science Foundation announces six winners of Infosys Prize 2026 on November 12, 2026.",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2d26cac8-d5b5-4be4-ba93-d18f80ee8c0c.pdf",
-     "ts": "2026-11-12T11:21:41+05:30",
      "category": "unclassified",
      "tier": "routine",
      "why": "Procedural filing"
@@ -3571,6 +3571,17 @@
    ],
    "filings": [
     {
+     "id": "f58fb3d49637",
+     "symbol": "ASIANPAINT",
+     "title": "Announcement under Regulation 30 (LODR)-Investor Presentation",
+     "summary": "Asian Paints presents INR/JPY corporate presentation at Nomura Investment Forum, Tokyo, Dec 1-2, 2026.",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f5876333-cc21-4ae5-9c33-cc08d62aa1f5.pdf",
+     "ts": "2026-11-26T20:18:44+05:30",
+     "category": "investor_meetings",
+     "tier": "routine",
+     "why": "Investor meeting schedule"
+    },
+    {
      "id": "d3d5ec489570",
      "symbol": "ASIANPAINT",
      "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
@@ -3613,17 +3624,6 @@
      "category": "unclassified",
      "tier": "routine",
      "why": "Procedural filing"
-    },
-    {
-     "id": "bfcfbe3c0063",
-     "symbol": "ASIANPAINT",
-     "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
-     "summary": "Asian Paints to meet Morgan Stanley and BlackRock in Singapore on 18-19 November 2026.",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8a988798-8c55-42be-a6ce-6cb97abd6d5c.pdf",
-     "ts": "2026-11-09T18:04:50+05:30",
-     "category": "investor_meetings",
-     "tier": "routine",
-     "why": "Investor meeting schedule"
     }
    ]
   },
@@ -4084,6 +4084,17 @@
     ]
    ],
    "filings": [
+    {
+     "id": "2150bf08dfb6",
+     "symbol": "TITAN",
+     "title": "Intimation of Repayment of Commercial Paper (CP)",
+     "summary": "Titan fully redeemed ₹1,075 crore commercial paper issued 28 Aug 2026; maturity proceeds paid.",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8a0f444d-855c-4076-b621-9576728ba46e.pdf",
+     "ts": "2026-11-26T17:25:22+05:30",
+     "category": "fund_raise",
+     "tier": "routine",
+     "why": "Debt repaid / proceeds monitoring"
+    },
     {
      "id": "87205b172cdd",
      "symbol": "TITAN",
@@ -4588,6 +4599,17 @@
    ],
    "filings": [
     {
+     "id": "0951770ed8ed",
+     "symbol": "SUNPHARMA",
+     "title": "Announcement under Regulation 30 (LODR)-Investor Presentation",
+     "summary": "Investor presentation: FY26 sales ₹582.2 bn, EBITDA margin 30.3%, innovative medicines 22% of sales.",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5a9fbc5b-1ebb-4bf3-ad1b-7fd86c520564.pdf",
+     "ts": "2026-11-26T20:05:24+05:30",
+     "category": "investor_meetings",
+     "tier": "routine",
+     "why": "Investor meeting schedule"
+    },
+    {
      "id": "6b5480f3f657",
      "symbol": "SUNPHARMA",
      "title": "Announcement under Regulation 30 (LODR)-Credit Rating",
@@ -4608,17 +4630,6 @@
      "category": "press_release",
      "tier": "routine",
      "why": "Press release"
-    },
-    {
-     "id": "911b061641f9",
-     "symbol": "SUNPHARMA",
-     "title": "Rumour verification - Regulation 30(11)",
-     "summary": "Sun Pharma clarifies Assam plant halt report concerns August 2026 developments, not a new event.",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1bbe06aa-8721-4e47-b0b1-985a91279ce9.pdf",
-     "ts": "2026-11-02T20:58:13+05:30",
-     "category": "unclassified",
-     "tier": "routine",
-     "why": "Procedural filing"
     }
    ]
   },

@@ -1,7 +1,7 @@
 {
  "symbol": "SUNPHARMA",
  "name": "Sun Pharmaceutical Industries Ltd",
- "generated_at": "2026-11-26T11:47:43+00:00",
+ "generated_at": "2026-11-26T19:56:45+00:00",
  "about": "Sun Pharmaceutical Industries Ltd is engaged in the business of manufacturing, developing and marketing a wide range of branded and generic formulations and Active Pharma Ingredients (APIs). The company and its subsidiaries has various manufacturing facilities spread across the world with trading and other incidental and related activities extending to global market. It is the largest pharmaceutical company in India.",
  "sector": "Pharmaceuticals & Biotechnology",
  "price": {
@@ -296,6 +296,11 @@
    "kind": "concall",
    "label": "Concall transcript · Nov 2026",
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fe431adc-0e1a-48ee-9c2b-b6e39cba04e4.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Nov 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5a9fbc5b-1ebb-4bf3-ad1b-7fd86c520564.pdf"
   },
   {
    "kind": "ppt",

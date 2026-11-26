@@ -1,7 +1,7 @@
 {
  "symbol": "ASIANPAINT",
  "name": "Asian Paints Ltd",
- "generated_at": "2026-11-26T11:47:35+00:00",
+ "generated_at": "2026-11-26T19:56:37+00:00",
  "about": "Asian Paints is the largest home decor company in India. The 80+yr old company has major brands like Asian Paints, Apco, etc under its umbrella. The co. is into wall paints, wall coverings, waterproofing, texture painting, wall stickers, mechanized tools, adhesives, modular kitchens, sanitaryware, lightings, soft furnishings, and uPVC windows.",
  "sector": "Consumer Durables",
  "price": {
@@ -296,6 +296,11 @@
   {
    "kind": "ppt",
    "label": "Investor presentation · Nov 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f5876333-cc21-4ae5-9c33-cc08d62aa1f5.pdf"
+  },
+  {
+   "kind": "ppt",
+   "label": "Investor presentation · Oct 2026",
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=83b2bead-08c8-4789-a658-7985de0c772f.pdf"
   },
   {
@@ -357,16 +362,6 @@
    "kind": "ppt",
    "label": "Investor presentation · May 2025",
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=70255f9a-65f2-4439-965b-20c61aac94d3.pdf"
-  },
-  {
-   "kind": "concall",
-   "label": "Concall transcript · Feb 2025",
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0fa40d4c-f4d4-4d36-80cc-86be1f64817e.pdf"
-  },
-  {
-   "kind": "ppt",
-   "label": "Investor presentation · Feb 2025",
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d36025bc-68a0-4070-91b7-ecdb2b4e5ac2.pdf"
   },
   {
    "kind": "annual_report",
