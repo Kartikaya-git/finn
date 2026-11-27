@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T11:43:34+00:00",
+ "generated_at": "2026-11-27T19:47:35+00:00",
  "holdings": [
   {
    "symbol": "RELIANCE",
@@ -7539,6 +7539,17 @@
    ],
    "filings": [
     {
+     "id": "6e788f9e244c",
+     "symbol": "KPITTECH",
+     "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
+     "summary": "KPIT met investors at Kotak Midcap Conference 2026 on Nov 27; reiterated Oct 28 earnings call, no UPSI.",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=23349fbc-6c60-4348-baf0-e49bcc65d293.pdf",
+     "ts": "2026-11-27T20:00:31+05:30",
+     "category": "investor_meetings",
+     "tier": "routine",
+     "why": "Investor meeting schedule"
+    },
+    {
      "id": "49672761efc6",
      "symbol": "KPITTECH",
      "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
@@ -7578,17 +7589,6 @@
      "summary": "KPIT Technologies will attend investor conferences on November 16 and 18, 2026 in Mumbai.",
      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f7320672-e51f-4047-b49e-e53cbe71a0ad.pdf",
      "ts": "2026-11-12T16:32:19+05:30",
-     "category": "investor_meetings",
-     "tier": "routine",
-     "why": "Investor meeting schedule"
-    },
-    {
-     "id": "439b170f3405",
-     "symbol": "KPITTECH",
-     "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
-     "summary": "KPIT Technologies to attend Avendus Spark INDS and JM Financial conferences on November 16 and 18, 2026.",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=df35ab63-de36-4daf-b7c4-04c5d2fba0b9.pdf",
-     "ts": "2026-11-12T16:28:44+05:30",
      "category": "investor_meetings",
      "tier": "routine",
      "why": "Investor meeting schedule"
@@ -10185,17 +10185,6 @@
      "category": "M&A",
      "tier": "card",
      "why": "Acquisition / restructuring"
-    },
-    {
-     "id": "7eb8c78cd802",
-     "symbol": "HAL",
-     "title": "Announcement under Regulation 30 (LODR)-Change in Directorate",
-     "summary": "HAL appointed P B Rangarao as Director (Operations) from 28 Oct 2026; Kota Ravi ceased additional charge.",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=cbad9087-72a3-4ba2-a5e9-dd6d9d405981.pdf",
-     "ts": "2026-10-28T18:02:58+05:30",
-     "category": "management_change",
-     "tier": "card",
-     "why": "Leadership change"
     }
    ]
   }

@@ -1,7 +1,7 @@
 {
  "symbol": "ITC",
  "name": "ITC Ltd",
- "generated_at": "2026-11-27T11:41:10+00:00",
+ "generated_at": "2026-11-27T19:45:09+00:00",
  "about": "Established in 1910, ITC is the largest cigarette manufacturer and seller in the country. ITC operates in four business segments at present — FMCG Cigarettes, FMCG Others, Paperboards, Paper and Packaging, and Agri Business.",
  "sector": "Diversified FMCG",
  "price": {
@@ -298,6 +298,11 @@
  "sources": [
   {
    "kind": "ppt",
+   "label": "Investor presentation · Nov 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ff62231c-b3bd-48d1-a643-8b379a46cb57.pdf"
+  },
+  {
+   "kind": "ppt",
    "label": "Investor presentation · Jul 2026",
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=20b685f4-2aec-4887-bb2a-eaf9fd999da2.pdf"
   },
@@ -330,11 +335,6 @@
    "kind": "ppt",
    "label": "Investor presentation · Apr 2025",
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=eb24ba27-a9eb-42ca-b4dd-29312337bdcf.pdf"
-  },
-  {
-   "kind": "ppt",
-   "label": "Investor presentation · Mar 2025",
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=65b2ed41-0032-4f8f-a4b2-686ac5ea9431.pdf"
   },
   {
    "kind": "annual_report",
