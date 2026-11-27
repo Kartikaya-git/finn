@@ -1,14 +1,14 @@
 {
  "symbol": "TATACONSUM",
  "name": "Tata Consumer Products Ltd",
- "generated_at": "2026-11-26T19:58:37+00:00",
+ "generated_at": "2026-11-27T11:43:22+00:00",
  "about": "Tata Consumer Products Ltd. is part of Tata Group and is engaged in the food & beverages segment globally.",
  "sector": "Agricultural Food & other Products",
  "price": {
-  "close": 1164.0,
-  "change_pct": -1.8,
-  "mcap_cr": 115378.0,
-  "pe": 67.1,
+  "close": 1155.0,
+  "change_pct": -0.8,
+  "mcap_cr": 114607.0,
+  "pe": 66.6,
   "roce": 9.24,
   "roe": 7.35
  },

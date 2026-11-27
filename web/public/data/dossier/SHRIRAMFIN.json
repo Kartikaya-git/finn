@@ -1,14 +1,14 @@
 {
  "symbol": "SHRIRAMFIN",
  "name": "Shriram Finance Ltd",
- "generated_at": "2026-11-26T19:58:35+00:00",
+ "generated_at": "2026-11-27T11:43:20+00:00",
  "about": "Business Overview Shriram Transport Finance Company Ltd is a part of the SHRIRAM Group conglomerate which has a significant presence in the financing business. STFC is engaged in the business of commercial vehicle financing mainly focusing on trucks from preowned to new ones. It's a Deposit-taking NBFC comprising 1,758 branches, 831 rural centers, and partnerships with ~500 private financiers.",
  "sector": "Finance",
  "price": {
-  "close": 961.85,
-  "change_pct": -2.8,
-  "mcap_cr": 226092.0,
-  "pe": 17.8,
+  "close": 923.5,
+  "change_pct": -4.0,
+  "mcap_cr": 217053.0,
+  "pe": 17.1,
   "roce": 11.5,
   "roe": 16.4
  },

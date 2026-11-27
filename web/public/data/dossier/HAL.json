@@ -1,14 +1,14 @@
 {
  "symbol": "HAL",
  "name": "Hindustan Aeronautics Ltd",
- "generated_at": "2026-11-26T19:57:29+00:00",
+ "generated_at": "2026-11-27T11:42:14+00:00",
  "about": "Hindustan Aeronautics Ltd (HAL), a 71.64% Government-owned Maha-Ratna CPSE, designs, manufactures, upgrades and provides lifecycle MRO for aircraft, helicopters, aero -engines, avionics /accessories and aerostructures, principally for India’s armed forces.",
  "sector": "Aerospace & Defense",
  "price": {
-  "close": 4909.6,
-  "change_pct": -0.5,
-  "mcap_cr": 328741.0,
-  "pe": 34.3,
+  "close": 5074.0,
+  "change_pct": 3.3,
+  "mcap_cr": 339378.0,
+  "pe": 35.4,
   "roce": 32.0,
   "roe": 24.0
  },

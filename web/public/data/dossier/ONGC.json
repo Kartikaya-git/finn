@@ -1,14 +1,14 @@
 {
  "symbol": "ONGC",
  "name": "Oil & Natural Gas Corpn Ltd",
- "generated_at": "2026-11-26T19:58:27+00:00",
+ "generated_at": "2026-11-27T11:43:12+00:00",
  "about": "ONGC is the largest crude oil and natural gas Company in India, contributing around 71 per cent to Indian domestic production",
  "sector": "Oil",
  "price": {
-  "close": 222.88,
-  "change_pct": 0.4,
-  "mcap_cr": 280452.0,
-  "pe": 5.64,
+  "close": 224.31,
+  "change_pct": 0.6,
+  "mcap_cr": 281973.0,
+  "pe": 5.67,
   "roce": 14.2,
   "roe": 11.6
  },

@@ -1,14 +1,14 @@
 {
  "symbol": "KOTAKBANK",
  "name": "Kotak Mahindra Bank Ltd",
- "generated_at": "2026-11-26T19:58:17+00:00",
+ "generated_at": "2026-11-27T11:43:02+00:00",
  "about": "Kotak Mahindra Bank is a diversified financial services group providing a wide range of banking and financial services including Retail Banking, Treasury and Corporate Banking, Investment Banking, Stock Broking, Vehicle Finance, Advisory services, Asset Management, Life Insurance and General Insurance.",
  "sector": "Banks",
  "price": {
-  "close": 509.95,
-  "change_pct": 0.2,
-  "mcap_cr": 507843.0,
-  "pe": 24.0,
+  "close": 500.0,
+  "change_pct": -2.0,
+  "mcap_cr": 498374.0,
+  "pe": 23.5,
   "roce": 6.98,
   "roe": 11.4
  },
